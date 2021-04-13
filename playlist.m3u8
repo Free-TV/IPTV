@@ -35,3 +35,5 @@ https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m
 https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/3Lr5iAj.png" group-title="France",Euronews
 https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="ITV" tvg-logo="https://i.imgur.com/ABwq10G.png" group-title="United Kingdom",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
