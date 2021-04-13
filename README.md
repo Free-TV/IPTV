@@ -53,4 +53,5 @@ Note: Public taxes (whether national or regional, whether called TV License or n
 Supported Countries
 ===================
 
-- France: TNT channels (DVB-T) and a few satellite channels.
+- France: TNT (DVB-T) and a few satellite channels.
+- United Kingdom: Freeview
