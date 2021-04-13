@@ -3,6 +3,8 @@ Free TV
 
 This is an M3U playlist for free TV channels around the World.
 
+To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/Free-TV/master/playlist.m3u8.
+
 Philosophy
 ==========
 
@@ -52,3 +54,5 @@ Supported Countries
 ===================
 
 - France: TNT channels (DVB-T) and a few satellite channels.
+- UK: Freeview
+- Ireland: Saorview
