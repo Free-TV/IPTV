@@ -54,5 +54,9 @@ Supported Countries
 ===================
 
 - France: TNT channels (DVB-T) and a few satellite channels.
-- UK: Freeview
+- Germany: DVB-T
+- Italy: DVB-T
 - Ireland: Saorview
+- Spain: DVB-T
+- UK: Freeview
+- USA: DVB-S, Pluto TV
