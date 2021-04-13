@@ -14,10 +14,17 @@
 | 10  | TMC       | [>](https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/62px-TMC_logo_2016.svg.png"/> |
 | 11  | TFX       | [>](https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/62px-TFX_logo_2018.svg.png"/> |
 | 12  | NRJ 12    | [>](https://mmsiptv.com/live/nrj12/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/45px-NRJ_12_logo_2015.svg.png"/> |
+| 15  | BFM TV    | [>](https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> |
+| 16  | CNews     | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/itelevisionlive-12477/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Canal_News_logo.svg.png/87px-Canal_News_logo.svg.png"/> |
+| 17  | CStar     | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> |
 | 18  | Gulli     | [>](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> |
 | 20  | TF1 Séries Films | [>](https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/81px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> |
+| 21  | L'Équipe  | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> |
 | 22  | 6ter      | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> |
+| 23  | RMC Story | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/74px-RMC_Story_logo_2018.svg.png"/> |
+| 25  | Chérie 25 | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png"/> |
 | 26  | LCI       | [>](https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> |
+| 27  | franceinfo: | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/franceinfo-14390660/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/85px-Franceinfo.svg.png"/> |
 
 <h2>DVB-S</h2>
 
@@ -33,15 +40,8 @@
 | #   | Channel           | Link  | Logo |
 |:---:|:-----------------:|:-----:|:-----:
 | 4   | Canal +   | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/76px-Canal%2B.svg.png"/> |
-| 7   | Arte      | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png"/> |
+| 7   | Arte      | [x](http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png"/> |
 | 13  | LCP       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> |
 | 14  | France 4  | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> |
-| 15  | BFM TV    | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> |
-| 16  | CNews     | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Canal_News_logo.svg.png/87px-Canal_News_logo.svg.png"/> |
-| 17  | CStar     | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> |
 | 19  | CultureBox | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Culturebox_tv_2021.png/65px-Culturebox_tv_2021.png"/> |
-| 21  | L'Équipe  | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> |
-| 23  | RMC Story | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/74px-RMC_Story_logo_2018.svg.png"/> |
 | 24  | RMC Découverte | [x](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> |
-| 25  | Chérie 25 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png"/> |
-| 27  | franceinfo: | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/85px-Franceinfo.svg.png"/> |
