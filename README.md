@@ -38,7 +38,7 @@ Format
 
 The m3u8 playlist is generated from the .md files by the .py script.
 
-Each .md file represesnts a group. The `<h1>` line in used as the group title.
+Each .md file represesnts a group. The `<h1>` line is used as the group title.
   
 Only channels which URL column starts with `[>]` are included in the playlist.
 
