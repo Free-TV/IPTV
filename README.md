@@ -33,14 +33,38 @@ This is a playlist for everybody.
 - No channels dedicated to any particular political party
 - No channels made for a country and funded by a different country
 
+Format
+======
+
+The m3u8 playlist is generated from the .md files by the .py script.
+
+Each .md file represesnts a group. The <h1> line in used as the group title.
+  
+Only channels which URL column starts with [>] are included in the playlist.
+
+Issues
+======
+
+Only create issues for bugs and feature requests.
+
+Do not create issues to add/edit or to remove channels. If you want to add/edit/remove channels, create a pull request directly.
+
 Pull Requests
 =============
+
+**Only modify .md files**
+
+If your Pull Request modifies channels, only modify .md files. Do not modify m3u8 files in your pull request.
 
 **Adding a new Channel**
 
 To add a new channel, make a Pull Request.
 
-In your Pull Request you need to provide information to show that the channel is free.
+- In your Pull Request you need to provide information to show that the channel is free.
+- Use imgur.com to host the channel logo and point to it.
+- If you have a valid HD stream, add it and put [>] in front of it.
+- If you don't have an stream for the channel, add [x]() in the url column and place your channel in the Invalid category.
+- If you have a stream but it doesn't work well, put the channel in the Invalid category and put [x] in front of the url.
 
 **Removing a Channel**
 
@@ -49,6 +73,8 @@ To remove a channel, make a Pull Request.
 In your Pull Request you need to provide information to show that the channel is only available via a private paid subscription.
 
 Note: Public taxes (whether national or regional, whether called TV License or not) do not constitute a private paid subscription.
+
+If a stream is broken, simply move the channel to the invalid category and replace [>] with [x] in the url column.
 
 Supported Countries
 ===================
