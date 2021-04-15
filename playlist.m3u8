@@ -49,6 +49,12 @@ https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m
 https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/3Lr5iAj.png" group-title="France",Euronews
 https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="ARD Ⓖ" tvg-logo="https://i.imgur.com/kRq4CIF.png" group-title="Germany",ARD Ⓖ
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="RTL II" tvg-logo="https://i.imgur.com/WCGjWPQ.png" group-title="Germany",RTL II
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 tvg-name="RTLplus Ⓢ" tvg-logo="https://i.imgur.com/Im0b5nm.png" group-title="Germany",RTLplus Ⓢ
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
 #EXTINF:-1 tvg-name="Virgin Media 1" tvg-logo="https://i.imgur.com/Tt2Lzil.png" group-title="Ireland",Virgin Media 1
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,tv3-prd.m3u8
 #EXTINF:-1 tvg-name="TG4" tvg-logo="https://i.imgur.com/Etm3Kgq.png" group-title="Ireland",TG4
@@ -59,6 +65,18 @@ http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8
 http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,be3-prd.m3u8
 #EXTINF:-1 tvg-name="RTE News" tvg-logo="https://i.imgur.com/OisW3m0.png" group-title="Ireland",RTE News
 https://live.rte.ie/live/a/channel3/news.isml/.m3u8
+#EXTINF:-1 tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="Italy",Rai 1 Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-name="Rai 2 Ⓖ" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="Italy",Rai 2 Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-name="Rai 3 Ⓖ" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="Italy",Rai 3 Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="Spain",La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="Spain",La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" group-title="Spain",Cuatro
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 tvg-name="ITV" tvg-logo="https://i.imgur.com/ABwq10G.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/1Zp2uo5.png" group-title="UK",QVC
