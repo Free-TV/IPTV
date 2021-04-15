@@ -12,7 +12,7 @@ The main goals for this playlist are listed below.
 
 **Quality over quantity**
 
-The less channels we support the better. The less countries we support the better.
+The less channels we support the better.
 
 - All channels should work well.
 - As much as possible channels should be in HD, not SD.
