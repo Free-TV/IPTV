@@ -14,7 +14,8 @@ The main goals for this playlist are listed below.
 
 The less channels we support the better. The less countries we support the better.
 
-- All channels should work well and be in HD.
+- All channels should work well.
+- As much as possible channels should be in HD, not SD.
 - Only one URL per channel (no +1, no alternate feeds, no regional declinations)
 
 **Only free channels**
@@ -41,6 +42,10 @@ The m3u8 playlist is generated from the .md files by the .py script.
 Each .md file represesnts a group. The `<h1>` line is used as the group title.
   
 Only channels which URL column starts with `[>]` are included in the playlist.
+
+Channels which are not in HD are marked with an `Ⓢ`.
+
+Channels which use GeoIP blocking are marked with a `Ⓖ`.
 
 Issues
 ======
