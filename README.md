@@ -90,5 +90,6 @@ Supported Countries
 - Italy: DVB-T
 - Ireland: Saorview
 - Spain: DVB-T
+- Turkey: TRT
 - UK: Freeview
 - USA: DVB-S, Pluto TV
