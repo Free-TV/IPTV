@@ -85,6 +85,38 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" group-title="Spain",Cuatro
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" group-title="Turkey",TRT 1
+http://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT 2 Ⓖ" tvg-logo="https://i.imgur.com/lNWrOE2.png" group-title="Turkey",TRT 2 Ⓖ
+http://tv-trt2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Haber" tvg-logo="https://i.imgur.com/OVfo8Ab.png" group-title="Turkey",TRT Haber
+http://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Spor Ⓖ" tvg-logo="https://i.imgur.com/N2wGZyf.png" group-title="Turkey",TRT Spor Ⓖ
+http://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Spor 2 Ⓖ" tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="Turkey",TRT Spor 2 Ⓖ
+http://tv-trtspor23.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/QLFmD6d.png" group-title="Turkey",TRT Çocuk
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Müzik" tvg-logo="https://i.imgur.com/fIVFCEd.png" group-title="Turkey",TRT Müzik
+http://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Belgesel" tvg-logo="https://i.imgur.com/MGO87pe.png" group-title="Turkey",TRT Belgesel
+http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Avaz" tvg-logo="https://i.imgur.com/VhTwXu5.png" group-title="Turkey",TRT Avaz
+http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Kurdî" tvg-logo="https://i.imgur.com/6BpymfB.png" group-title="Turkey",TRT Kurdî
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" group-title="Turkey",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" group-title="Turkey",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT 3" tvg-logo="https://i.imgur.com/xXgVSXw.png" group-title="Turkey",TRT 3
+http://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Ilkokul" tvg-logo="https://i.imgur.com/wDvZfk8.png" group-title="Turkey",TRT EBA Ilkokul
+http://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Ortaokul" tvg-logo="https://i.imgur.com/yfPTvRx.png" group-title="Turkey",TRT EBA Ortaokul
+http://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/IebUZx1.png" group-title="Turkey",TRT EBA Lise
+http://tv-e-okul02.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="ITV" tvg-logo="https://i.imgur.com/ABwq10G.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-name="ITV 2 Ⓢ" tvg-logo="https://i.imgur.com/Ji65OXG.png" group-title="UK",ITV 2 Ⓢ
