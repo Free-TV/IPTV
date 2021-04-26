@@ -3,6 +3,10 @@ Free TV
 
 This is an M3U playlist for free TV channels around the World.
 
+- <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="15"> <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="15"> <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="15"> <img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="15"> <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="15"> <img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="15"> <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="15">
+- <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15">
+- <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="15">
+
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
 
 Philosophy
@@ -81,16 +85,3 @@ In your Pull Request you need to provide information to show that the channel is
 Note: Public taxes (whether national or regional, whether called TV License or not) do not constitute a private paid subscription.
 
 If a stream is broken, simply move the channel to the invalid category and replace `[>]` with `[x]` in the url column.
-
-Supported Countries
-===================
-
-- France: TNT channels (DVB-T) and a few satellite channels.
-- Germany: DVB-T
-- Italy: Sat and DVB-T
-- Ireland: Saorview
-- Paraguay
-- Spain: DVB-T
-- Turkey: TRT
-- UK: Freeview
-- USA: DVB-S, Pluto TV
