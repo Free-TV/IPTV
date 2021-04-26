@@ -87,8 +87,9 @@ Supported Countries
 
 - France: TNT channels (DVB-T) and a few satellite channels.
 - Germany: DVB-T
-- Italy: DVB-T
+- Italy: Sat and DVB-T
 - Ireland: Saorview
+- Paraguay
 - Spain: DVB-T
 - Turkey: TRT
 - UK: Freeview
