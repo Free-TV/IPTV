@@ -31,7 +31,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 22  | Dmax           | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8) | <img height="20" src="https://i.imgur.com/dmEmRX7.png"/> |
 | 23  | Focus Ⓢ Ⓖ     | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8) | <img height="20" src="https://i.imgur.com/M4smqpF.png"/> |
 | 24  | Motor Trend    | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> |
-| 25  | Paramount Channel Ⓢ | [>](https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8) | <img height="20" src="https://i.imgur.com/IBx03AS.png"/> |
+| 25  | Paramount Channel Ⓢ Ⓖ | [>](https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8) | <img height="20" src="https://i.imgur.com/IBx03AS.png"/> |
 | 26  | Giallo         | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8) | <img height="20" src="https://i.imgur.com/0PIRwZS.png"/> |
 | 27  | Top Crime Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8) | <img height="20" src="https://i.imgur.com/RFIwv9O.png"/> |
 | 28  | Mediaset Extra Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8) | <img height="20" src="https://i.imgur.com/mM8lopo.png"/> |
