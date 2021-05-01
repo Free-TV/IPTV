@@ -55,6 +55,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 46  | TV 2000 Ⓢ      | [>](http://mi1.wz.tv2000.it/tv2000_alfa.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> |
 | 47  | CINE 34 Ⓢ Ⓖ   | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8) | <img height="20" src="https://i.imgur.com/YyldwhI.png"/> |
 | 48  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> |
+| 49  | VH1            | [>](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> |
 
 <h2>Invalid</h2>
 
