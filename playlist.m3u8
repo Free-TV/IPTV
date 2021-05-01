@@ -155,10 +155,28 @@ http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" group-title="Italy",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/5ONlZGS.png" group-title="Italy",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" group-title="Paraguay",Unicanal
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-name="Trece" tvg-logo="https://i.imgur.com/9kcYqk2.png" group-title="Paraguay",Trece
 https://stream.rpc.com.py/live/trece_src.m3u8
+#EXTINF:-1 tvg-name="Россия 1 Ⓢ" tvg-logo="https://i.imgur.com/WI6hKez.png" group-title="Russia",Россия 1 Ⓢ
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-name="Первый канал Ⓢ" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Russia",Первый канал Ⓢ
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" group-title="Russia",Матч ТВ Ⓢ
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 tvg-name="Россия 24 Ⓢ" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="Russia",Россия 24 Ⓢ
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-name="ОТР Ⓢ" tvg-logo="https://i.imgur.com/QyZvT3e.png" group-title="Russia",ОТР Ⓢ
+https://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:-1 tvg-name="Рен ТВ Ⓢ" tvg-logo="https://i.imgur.com/18TAzYV.png" group-title="Russia",Рен ТВ Ⓢ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-name="СТС Ⓢ" tvg-logo="https://i.imgur.com/y9bpqUD.png" group-title="Russia",СТС Ⓢ
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="Russia",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="Spain",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="Spain",La 2
