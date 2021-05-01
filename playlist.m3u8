@@ -157,6 +157,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" group-title="Paraguay",Unicanal
 http://45.55.127.106/live/unicanal.m3u8
+#EXTINF:-1 tvg-name="Trece" tvg-logo="https://i.imgur.com/9kcYqk2.png" group-title="Paraguay",Trece
+https://stream.rpc.com.py/live/trece_src.m3u8
 #EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="Spain",La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="Spain",La 2
