@@ -3,7 +3,7 @@ Free TV
 
 This is an M3U playlist for free TV channels around the World.
 
-- <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="20">
+- <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="20"> <img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="20">
 - <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="20">
 - <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="20">
 
