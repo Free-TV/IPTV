@@ -23,6 +23,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 #EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" group-title="Belgium",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
+#EXTINF:-1 tvg-name="Yle TV1" tvg-logo="https://i.imgur.com/Hkljcl8.png" group-title="Finland",Yle TV1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+#EXTINF:-1 tvg-name="Yle TV2  Ⓖ" tvg-logo="https://i.imgur.com/nNElsFg.png" group-title="Finland",Yle TV2  Ⓖ
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
 #EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png" group-title="France",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png" group-title="France",France 2
@@ -241,6 +245,16 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/c96d4179790c2af
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Spain",La Sexta
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9e5ed2b81a043b0.ts
+#EXTINF:-1 tvg-name="SVT 1" tvg-logo="https://i.imgur.com/ZoBXmOO.png" group-title="Sweden",SVT 1
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/245312
+#EXTINF:-1 tvg-name="TV4" tvg-logo="https://i.imgur.com/nyLmev6.png" group-title="Sweden",TV4
+https://lbs-aws-hls.tv4play.se/dailive/bbr-event1-p/master3404.m3u8
+#EXTINF:-1 tvg-name="Kanal 5" tvg-logo="https://i.imgur.com/8FeQ4ev.png" group-title="Sweden",Kanal 5
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/4601
+#EXTINF:-1 tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" group-title="Switzerland",SRF 1
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
+#EXTINF:-1 tvg-name="RTS Un" tvg-logo="https://i.imgur.com/gWuuBZc.png" group-title="Switzerland",RTS Un
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/67585
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" group-title="Turkey",TRT 1
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT 2 Ⓖ" tvg-logo="https://i.imgur.com/lNWrOE2.png" group-title="Turkey",TRT 2 Ⓖ
