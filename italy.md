@@ -56,6 +56,17 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 47  | CINE 34 Ⓢ Ⓖ   | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8) | <img height="20" src="https://i.imgur.com/YyldwhI.png"/> |
 | 48  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> |
 | 49  | VH1            | [>](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> |
+| 50  | RTL 102.5 Ⓢ    | [>](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KdissvS.png"/> |
+| 51  | Deejay TV Ⓢ    | [>](https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8) | <img height="20" src="https://i.imgur.com/rlaKH6k.png"/> |
+| 52  | RadioItaliaTV Ⓢ | [>](https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8) | <img height="20" src="https://i.imgur.com/4VCEJuJ.png"/> |
+| 53  | Radio 105 TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EC)/index.m3u8) | <img height="20" src="https://i.imgur.com/3NiLKvj.png"/> |
+| 54  | Radio KISS KISS TV | [>](https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qxu8Fkh.png"/> |
+| 55  | R101 TV Ⓢ Ⓖ    | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ER)/index.m3u8) | <img height="20" src="https://i.imgur.com/xstH1d2.png"/> |
+| 56  | Virgin Radio TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW)/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> |
+| 57  | RadioFreccia Ⓢ | [>](https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M5YYJv8.png"/> |
+| 58  | RDS Social TV Ⓢ | [>](https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8) | <img height="20" src="https://i.imgur.com/TVuu0DH.png"/> |
+| 59  | Radio ZETA Ⓢ   | [>](https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> |
+| 60  | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(BB)/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> |
 
 <h2>Invalid</h2>
 
