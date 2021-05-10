@@ -15,6 +15,8 @@
 | 10  | TMC       | [>](https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/62px-TMC_logo_2016.svg.png"/> |
 | 11  | TFX       | [>](https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/62px-TFX_logo_2018.svg.png"/> |
 | 12  | NRJ 12    | [>](https://mmsiptv.com/live/nrj12/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/45px-NRJ_12_logo_2015.svg.png"/> |
+| 13  | LCP       | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/lcp100pourcent-14495875/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> |
+| 14  | France 4  | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france4live-43225/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> |
 | 15  | BFM TV    | [>](https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> |
 | 16  | CNews     | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/itelevisionlive-12477/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Canal_News_logo.svg.png/87px-Canal_News_logo.svg.png"/> |
 | 17  | CStar     | [>](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/d17-451622/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> |
@@ -41,7 +43,5 @@
 | #   | Channel           | Link  | Logo |
 |:---:|:-----------------:|:-----:|:-----:
 | 4   | Canal +   | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/76px-Canal%2B.svg.png"/> |
-| 13  | LCP       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> |
-| 14  | France 4  | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> |
 | 19  | CultureBox | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Culturebox_tv_2021.png/65px-Culturebox_tv_2021.png"/> |
 | 24  | RMC Découverte | [x](http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> |
