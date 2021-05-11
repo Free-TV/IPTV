@@ -7,7 +7,7 @@ This is an M3U playlist for free TV channels around the World.
 
 <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="48">
 
-<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/au.svg" width="48">
 
 <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48">
 
