@@ -7,10 +7,10 @@
 | 1   | CBC Toronto     | [>](https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/H5yEbxf.png"/> |
 | 2   | Citytv          | [>](https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/BlFNlHz.png"/> |
 | 3   | CTV Toronto     | [>](https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qOutOWN.png"/> |
-| 4   | Global BC       | [>](https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
-| 5   | Global Calgary  | [>](https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
-| 6   | Global Edmonton | [>](https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
-| 7   | Global Toronto  | [>](https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
+| 4   | Global BC       | [X](https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
+| 5   | Global Calgary  | [X](https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
+| 6   | Global Edmonton | [X](https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
+| 7   | Global Toronto  | [X](https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
 | 8   | TVO             | [>](https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PkBPPcL.png"/> |
 | 9   | CTV 2           | [x]() | <img height="20" src=""/> |
 | 10  | Great Western   | [x]() | <img height="20" src=""/> |
