@@ -4,11 +4,7 @@
 
 | #   | Channel     | Link  | Logo |
 |:---:|:------------|:-----:|:-----:
-| 1   | BBC One Ⓢ  | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a9c9d6191744b75.ts) | <img height="20" src="https://i.imgur.com/72knNcb.png"/> |
-| 2   | BBC Two Ⓢ  | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/95156cdeb0bc708.ts) | <img height="20" src="https://i.imgur.com/Bn29Mmo.png"/> |
-| 3   | ITV         | [>](http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8) | <img height="20" src="https://i.imgur.com/ABwq10G.png"/> |
-| 4   | Channel 4 Ⓢ| [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/2ea618de5f502bf.ts) | <img height="20" src="https://i.imgur.com/LfvwZfy.png"/> |
-| 5   | Channel 5 Ⓢ| [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/4f97feb9b8280f4.ts) | <img height="20" src="https://i.imgur.com/MlQrMU8.png"/> |
+| 3   | ITV         | [>](http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8) | <img height="20" src="https://i.imgur.com/ABwq10G.png"/> 
 | 6   | ITV 2 Ⓢ    | [>](http://51.52.156.22:8888/http/005) | <img height="20" src="https://i.imgur.com/Ji65OXG.png"/> |
 | 8   | BBC Four Ⓢ | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/2116d7822ae621d.ts) | <img height="20" src="https://i.imgur.com/HMw8GBx.png"/> |
 | 9   | ITV 3 Ⓢ    | [>](http://51.52.156.22:8888/http/006) | <img height="20" src="https://i.imgur.com/vYNyYGx.png"/> |
@@ -29,7 +25,11 @@
 <h2>Invalid</h2>
 
 | #   | Channel           | Link  | Logo |
-|:---:|:-----------------:|:-----:|:-----:
+|:---:|:-----------------:|:-----:|:-----: 
+| 1   | BBC One Ⓢ  | [x]   | <img height="20" src="https://i.imgur.com/72knNcb.png"/> |
+| 2   | BBC Two Ⓢ  | [x]   | <img height="20" src="https://i.imgur.com/Bn29Mmo.png"/> |
+| 4   | Channel 4 Ⓢ| [x]   | <img height="20" src="https://i.imgur.com/LfvwZfy.png"/> |
+| 5   | Channel 5 Ⓢ| [x]   | <img height="20" src="https://i.imgur.com/MlQrMU8.png"/> |
 | 7   | London Live | [x]() | <img height="20" src="https://i.imgur.com/2I8RBhY.png"/> |
 | 10  | Sky Arts    | [x]() | <img height="20" src="https://i.imgur.com/O4wh4UQ.png"/> |
 | 11  | Quest       | [x]() | <img height="20" src="https://i.imgur.com/PtpEemC.png"/> |
