@@ -3,6 +3,8 @@ Free TV
 
 This is an M3U playlist for free TV channels around the World.
 
+Either free locally (over the air):
+
 <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/nl.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/be.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ch.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/se.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/fi.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="48">
 
 <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="48">
@@ -12,6 +14,16 @@ This is an M3U playlist for free TV channels around the World.
 <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48">
 
 <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48">
+
+Or free on the Internet:
+
+- Plex TV
+- Pluto TV
+- Pluto TV (Spanish)
+- Pluto TV (French)
+- Redbox Live TV
+- Roku TV
+- Samsung TV Plus
 
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
 
