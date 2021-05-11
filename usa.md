@@ -26,7 +26,9 @@
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
 
-<h2>Invalid</h2>
+<h2>Other</h2>
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
+|1    | Docurama       | [>](https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/bNg8mze.png"/> |
+|2    | Drybar Comedy  | [>](https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EldlmTp.png"/> |
