@@ -39,14 +39,12 @@ https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://i.imgur.com/qOutOWN.png" group-title="Canada",CTV Toronto
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 tvg-name="Global BC" tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global BC
-https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+#EXTINF:-1 tvg-name="Global Toronto" tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global Toronto
+https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
 #EXTINF:-1 tvg-name="Global Calgary" tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
 #EXTINF:-1 tvg-name="Global Edmonton" tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global Edmonton
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-#EXTINF:-1 tvg-name="Global Toronto" tvg-logo="https://i.imgur.com/2CxLO4H.png" group-title="Canada",Global Toronto
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="TVO" tvg-logo="https://i.imgur.com/PkBPPcL.png" group-title="Canada",TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.imgur.com/b8W3Aah.png" group-title="Canada",NTV
@@ -65,6 +63,8 @@ https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="Global News BC" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Global News Calgary" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Calgary
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1 tvg-name="Global News Halifax" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Halifax
 https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Global News Kingston" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Kingston
@@ -77,8 +77,6 @@ https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b6
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Global News Saskatoon" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Saskatoon
 https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Global News Toronto" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Toronto
-https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
 #EXTINF:-1 tvg-name="Global News Vancouver" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Vancouver
 https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8
 #EXTINF:-1 tvg-name="Global News Winnipeg" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Winnipeg
@@ -231,48 +229,40 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" group-title="Italy",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-name="Canale 20 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/It13jwX.png" group-title="Italy",Canale 20 Ⓢ Ⓖ
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-name="Rai 4 Ⓖ" tvg-logo="https://i.imgur.com/XFkZRfv.png" group-title="Italy",Rai 4 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
-#EXTINF:-1 tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="Italy",Rai Premium Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 tvg-name="Iris Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/Ixz1BY3.png" group-title="Italy",Iris Ⓢ Ⓖ
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 tvg-name="Rai 5 Ⓖ" tvg-logo="https://i.imgur.com/Leu2zTO.png" group-title="Italy",Rai 5 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 #EXTINF:-1 tvg-name="Rai Movie Ⓖ" tvg-logo="https://i.imgur.com/RKpO8CE.png" group-title="Italy",Rai Movie Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-#EXTINF:-1 tvg-name="Rai Storia Ⓖ" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="Italy",Rai Storia Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
-#EXTINF:-1 tvg-name="Rai Sport + Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="Italy",Rai Sport + Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
-#EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Italy",Rai Scuola Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-#EXTINF:-1 tvg-name="Iris Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/Ixz1BY3.png" group-title="Italy",Iris Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+#EXTINF:-1 tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="Italy",Rai Premium Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 tvg-name="Paramount Channel Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/IBx03AS.png" group-title="Italy",Paramount Channel Ⓢ Ⓖ
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
+#EXTINF:-1 tvg-name="TV 2000 Ⓢ" tvg-logo="https://i.imgur.com/x7RaK3a.png" group-title="Italy",TV 2000 Ⓢ
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 #EXTINF:-1 tvg-name="La 5 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="Italy",La 5 Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="Italy",Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 tvg-name="Italia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" group-title="Italy",Italia 2 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
-#EXTINF:-1 tvg-name="Canale 20 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/It13jwX.png" group-title="Italy",Canale 20 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-#EXTINF:-1 tvg-name="Dmax" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="Italy",Dmax
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" group-title="Italy",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="Italy",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:-1 tvg-name="CINE 34 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/YyldwhI.png" group-title="Italy",CINE 34 Ⓢ Ⓖ
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 tvg-name="Focus Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/M4smqpF.png" group-title="Italy",Focus Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
-#EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" group-title="Italy",Motor Trend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 tvg-name="Paramount Channel Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/IBx03AS.png" group-title="Italy",Paramount Channel Ⓢ Ⓖ
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
+#EXTINF:-1 tvg-name="RTL 102.5 Ⓢ" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Italy",RTL 102.5 Ⓢ
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1 tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" group-title="Italy",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-name="Top Crime Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="Italy",Top Crime Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1 tvg-name="Mediaset Extra Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="Italy",Mediaset Extra Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="Italy",Food Network
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:-1 tvg-name="Spike Ⓢ" tvg-logo="https://i.imgur.com/og6Q9rj.png" group-title="Italy",Spike Ⓢ
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-name="BOING Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/niSlrqT.png" group-title="Italy",BOING Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1 tvg-name="Rai Gulp Ⓖ" tvg-logo="https://i.imgur.com/lu1DPVb.png" group-title="Italy",Rai Gulp Ⓖ
@@ -283,30 +273,38 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1 tvg-name="Super! Ⓢ" tvg-logo="https://i.imgur.com/zDByOwo.png" group-title="Italy",Super! Ⓢ
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="Italy",Rai News 24 Ⓖ
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1 tvg-name="Spike Ⓢ" tvg-logo="https://i.imgur.com/og6Q9rj.png" group-title="Italy",Spike Ⓢ
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-name="Sky TG 24 Ⓢ" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="Italy",Sky TG 24 Ⓢ
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1 tvg-name="TGCOM 24 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="Italy",TGCOM 24 Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="Italy",Rai News 24 Ⓖ
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/GALhj8i.png" group-title="Italy",Euronews
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="7 Gold" tvg-logo="https://i.imgur.com/wjZT8De.png" group-title="Italy",7 Gold
-http://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 2000 Ⓢ" tvg-logo="https://i.imgur.com/x7RaK3a.png" group-title="Italy",TV 2000 Ⓢ
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-name="CINE 34 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/YyldwhI.png" group-title="Italy",CINE 34 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
-#EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" group-title="Italy",QVC
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-name="Dmax" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="Italy",Dmax
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1 tvg-name="Rai Storia Ⓖ" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="Italy",Rai Storia Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-name="Mediaset Extra Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="Italy",Mediaset Extra Ⓢ Ⓖ
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1 tvg-name="Rai Sport + Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="Italy",Rai Sport + Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" group-title="Italy",Motor Trend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 tvg-name="Italia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" group-title="Italy",Italia 2 Ⓢ Ⓖ
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/5ONlZGS.png" group-title="Italy",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 Ⓢ" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Italy",RTL 102.5 Ⓢ
-https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:-1 tvg-name="Supersix" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="Italy",Supersix
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-name="Deejay TV Ⓢ" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Italy",Deejay TV Ⓢ
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 tvg-name="RadioItaliaTV Ⓢ" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="Italy",RadioItaliaTV Ⓢ
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1 tvg-name="7 Gold" tvg-logo="https://i.imgur.com/wjZT8De.png" group-title="Italy",7 Gold
+http://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Italy",Rai Scuola Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-name="Radio 105 TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="Italy",Radio 105 TV Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EC)/index.m3u8
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/qxu8Fkh.png" group-title="Italy",Radio KISS KISS TV
@@ -323,10 +321,18 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Italy",Radio Montecarlo TV Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/GALhj8i.png" group-title="Italy",Euronews
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Japan",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News Ⓨ
+https://youtu.be/coYw-eVU0Ks
+#EXTINF:-1 tvg-name="HTB Ⓨ" tvg-logo="https://i.imgur.com/A0Wj0Ys.png" group-title="Japan",HTB Ⓨ
+https://youtu.be/ldItyDhqgEY
+#EXTINF:-1 tvg-name="Kbc news Ⓨ" tvg-logo="https://i.imgur.com/MdxQAJu.png" group-title="Japan",Kbc news Ⓨ
+https://youtu.be/idKi2oEO44w
 #EXTINF:-1 tvg-name="Weathernews" tvg-logo="https://i.imgur.com/7YLRtla.png" group-title="Japan",Weathernews
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/0wds9n8.png" group-title="Japan",GSTV
