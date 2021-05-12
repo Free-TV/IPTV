@@ -24,6 +24,7 @@ Or free on the Internet:
 - Redbox Live TV
 - Roku TV
 - Samsung TV Plus
+- Youtube live channels
 
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
 
@@ -62,12 +63,14 @@ Format
 The m3u8 playlist is generated from the .md files by the .py script.
 
 Each .md file represesnts a group. The `<h1>` line is used as the group title.
-  
+
 Only channels which URL column starts with `[>]` are included in the playlist.
 
 Channels which are not in HD are marked with an `Ⓢ`.
 
 Channels which use GeoIP blocking are marked with a `Ⓖ`.
+
+Channels which are live Youtube channels are marked with a `Ⓨ`.
 
 Issues
 ======
