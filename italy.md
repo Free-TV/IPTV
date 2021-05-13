@@ -47,10 +47,10 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 59  | Motor Trend    | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> |
 | 66  | Italia 2 Ⓢ Ⓖ  | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8) | <img height="20" src="https://i.imgur.com/nq48sjO.png"/> |
 | 67  | VH1            | [>](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> |
-| 68  | Supersix       | [>](https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kHSuyub.png"/> |
 | 69  | Deejay TV Ⓢ    | [>](https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8) | <img height="20" src="https://i.imgur.com/rlaKH6k.png"/> |
 | 70  | RadioItaliaTV Ⓢ | [>](https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8) | <img height="20" src="https://i.imgur.com/4VCEJuJ.png"/> |
 | 77  | 7 Gold         | [>](http://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> |
+| 86  | Supersix       | [>](https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kHSuyub.png"/> |
 | 146 | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> |
 | 157 | Radio 105 TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EC)/index.m3u8) | <img height="20" src="https://i.imgur.com/3NiLKvj.png"/> |
 | 158 | Radio KISS KISS TV | [>](https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qxu8Fkh.png"/> |
@@ -60,7 +60,19 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 265 | RDS Social TV Ⓢ | [>](https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8) | <img height="20" src="https://i.imgur.com/TVuu0DH.png"/> |
 | 266 | Radio ZETA Ⓢ   | [>](https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> |
 | 772 | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(BB)/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> |
-| 999 | Euronews       | [>](https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GALhj8i.png"/> |
+
+<h2>Samsung TV Plus</h2>
+
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:
+| 4002 | Commedia – Rakuten TV | [>](https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EKKXdIU.jpg"/> |
+| 4003 | Euronews       | [>](https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DUUxsO7.jpeg"/> |
+| 4255 | Spotlight – Rakuten TV | [>](https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6gEPwNN.jpg"/> |
+| 4502 | Bizzarro Movies | [>](https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
+| 4503 | Cinema Segreto | [>](https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BkzplSs.png"/> |
+| 4504 | CGtv           | [>](https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6rsLtY7.png"/> |
+| 4549 | Drammatico – Rakuten TV | [>](https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nx3JzZK.jpg"/> |
+| 4550 | Film d'azione – Rakuten TV | [>](https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KDmDQM6.jpg"/> |
 
 <h2>Invalid</h2>
 
