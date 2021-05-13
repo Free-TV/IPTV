@@ -295,14 +295,14 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/5ONlZGS.png" group-title="Italy",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-name="Supersix" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="Italy",Supersix
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-name="Deejay TV Ⓢ" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Italy",Deejay TV Ⓢ
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 tvg-name="RadioItaliaTV Ⓢ" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="Italy",RadioItaliaTV Ⓢ
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-name="7 Gold" tvg-logo="https://i.imgur.com/wjZT8De.png" group-title="Italy",7 Gold
 http://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Supersix" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="Italy",Supersix
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Italy",Rai Scuola Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-name="Radio 105 TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="Italy",Radio 105 TV Ⓢ Ⓖ
@@ -321,8 +321,22 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Italy",Radio Montecarlo TV Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/GALhj8i.png" group-title="Italy",Euronews
+#EXTINF:-1 tvg-name="Commedia – Rakuten TV" tvg-logo="https://i.imgur.com/EKKXdIU.jpg" group-title="Italy",Commedia – Rakuten TV
+https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg" group-title="Italy",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Spotlight – Rakuten TV" tvg-logo="https://i.imgur.com/6gEPwNN.jpg" group-title="Italy",Spotlight – Rakuten TV
+https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Bizzarro Movies" tvg-logo="https://i.imgur.com/EbDLnZB.png" group-title="Italy",Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinema Segreto" tvg-logo="https://i.imgur.com/BkzplSs.png" group-title="Italy",Cinema Segreto
+https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" group-title="Italy",CGtv
+https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Drammatico – Rakuten TV" tvg-logo="https://i.imgur.com/Nx3JzZK.jpg" group-title="Italy",Drammatico – Rakuten TV
+https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Film d'azione – Rakuten TV" tvg-logo="https://i.imgur.com/KDmDQM6.jpg" group-title="Italy",Film d'azione – Rakuten TV
+https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Japan",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-name="NHK World" tvg-logo="https://i.imgur.com/TDCuUDs.png" group-title="Japan",NHK World
