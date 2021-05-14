@@ -323,16 +323,54 @@ https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
 #EXTINF:-1 tvg-name="Commedia – Rakuten TV" tvg-logo="https://i.imgur.com/EKKXdIU.jpg" group-title="Italy",Commedia – Rakuten TV
 https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg" group-title="Italy",Euronews
+#EXTINF:-1 tvg-name="Euronews in diretta" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg" group-title="Italy",Euronews in diretta
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="MMATV" tvg-logo="https://i.imgur.com/lDlbCo3.png" group-title="Italy",MMATV
+https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="MySurf" tvg-logo="https://i.imgur.com/BknaJ94.png" group-title="Italy",MySurf
+https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Motor1TV" tvg-logo="https://i.imgur.com/UERYhO1.png" group-title="Italy",Motor1TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/4Lzo6M4.png" group-title="Italy",FUEL TV
+https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Humanity Documentari" tvg-logo="https://i.imgur.com/k5KusfQ.jpg" group-title="Italy",Humanity Documentari
+https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Big Name" tvg-logo="https://i.imgur.com/FsjPjTb.png" group-title="Italy",Big Name
+https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Spotlight – Rakuten TV" tvg-logo="https://i.imgur.com/6gEPwNN.jpg" group-title="Italy",Spotlight – Rakuten TV
 https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/xwz9zKk.jpeg" group-title="Italy",People Are Awesome
+https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="A3series" tvg-logo="https://i.imgur.com/YE1PYtC.png" group-title="Italy",A3series
+https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="MONDO TV KIDS" tvg-logo="https://i.imgur.com/DMqKFIM.png" group-title="Italy",MONDO TV KIDS
+https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/TLIQ9Th.png" group-title="Italy",Amuse Animation
+https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="SuperToons TV" tvg-logo="https://i.imgur.com/A6vCYsC.png" group-title="Italy",SuperToons TV
+https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/tSw1oON.jpeg" group-title="Italy",Teletubbies
+https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="duckTV" tvg-logo="https://i.imgur.com/BKoAJZV.jpeg" group-title="Italy",duckTV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Brindiamo!" tvg-logo="https://i.imgur.com/8g0K6iP.jpeg" group-title="Italy",Brindiamo!
+https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Classical Harmony" tvg-logo="https://i.imgur.com/Mje2i8r.png" group-title="Italy",Classical Harmony
+https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Moods" tvg-logo="https://i.imgur.com/xdycnbu.png" group-title="Italy",Moods
+https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Bizzarro Movies" tvg-logo="https://i.imgur.com/EbDLnZB.png" group-title="Italy",Bizzarro Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinema Segreto" tvg-logo="https://i.imgur.com/BkzplSs.png" group-title="Italy",Cinema Segreto
 https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" group-title="Italy",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Sofy.tv" tvg-logo="https://i.imgur.com/fsJFJeZ.png" group-title="Italy",Sofy.tv
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Documentari – Rakuten TV" tvg-logo="https://i.imgur.com/rAHBiO8.jpg" group-title="Italy",Documentari – Rakuten TV
+https://rakuten-documentaries-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Family – Rakuten TV" tvg-logo="https://i.imgur.com/BCC123A.jpg" group-title="Italy",Family – Rakuten TV
+https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Drammatico – Rakuten TV" tvg-logo="https://i.imgur.com/Nx3JzZK.jpg" group-title="Italy",Drammatico – Rakuten TV
 https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Film d'azione – Rakuten TV" tvg-logo="https://i.imgur.com/KDmDQM6.jpg" group-title="Italy",Film d'azione – Rakuten TV
