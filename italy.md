@@ -67,21 +67,27 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:-----:
 | 4002 | Commedia – Rakuten TV | [>](https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EKKXdIU.jpg"/> |
 | 4003 | Euronews in diretta | [>](https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DUUxsO7.jpeg"/> |
+| 4005 | Euronews       | [>](https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> |
 | 4051 | MMATV          | [>](https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lDlbCo3.png"/> |
 | 4052 | MySurf         | [>](https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BknaJ94.png"/> |
 | 4053 | Motor1TV       | [>](https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UERYhO1.png"/> |
 | 4072 | FUEL TV        | [>](https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4Lzo6M4.png"/> |
+| 4073 | SportOutdoor.tv | [>](https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fwOuEBl.png"/> |
 | 4101 | Humanity Documentari | [>](https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/k5KusfQ.jpg"/> |
+| 4250 | Yamato Animation | [>](https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rOl7HfS.png"/> |
 | 4251 | Big Name       | [>](https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FsjPjTb.png"/> |
+| 4254 | The Pet Collective | [>](https://the-pet-collective-international-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/daTU44g.jpeg"/> |
 | 4255 | Spotlight – Rakuten TV | [>](https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6gEPwNN.jpg"/> |
 | 4256 | People Are Awesome | [>](https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xwz9zKk.jpeg"/> |
 | 4257 | A3series       | [>](https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YE1PYtC.png"/> |
+| 4258 | Canale Europa  | [>](https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Zw2ZIfz.jpg"/> |
 | 4301 | MONDO TV KIDS  | [>](https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DMqKFIM.png"/> |
 | 4302 | Amuse Animation | [>](https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TLIQ9Th.png"/> |
 | 4305 | SuperToons TV  | [>](https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A6vCYsC.png"/> |
 | 4307 | Teletubbies    | [>](https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tSw1oON.jpeg"/> |
 | 4309 | duckTV         | [>](https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BKoAJZV.jpeg"/> |
 | 4351 | Brindiamo!     | [>](https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8g0K6iP.jpeg"/> |
+| 4352 | Fashion TV     | [>](https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KT3zgc1.png"/> |
 | 4451 | Classical Harmony | [>](https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Mje2i8r.png"/> |
 | 4452 | Moods          | [>](https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xdycnbu.png"/> |
 | 4502 | Bizzarro Movies | [>](https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
