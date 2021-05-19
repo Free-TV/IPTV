@@ -26,6 +26,13 @@
 | 65  | CBeebies Ⓢ | [>](http://51.52.156.22:8888/http/003) | <img height="20" src="https://i.imgur.com/CE8mgnW.png"/> |
 | 72  | Sky News    | [>](https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
 
+<h2>Radio</h2>
+
+| #   | Channel     | Link  | Logo |
+|:---:|:------------|:-----:|:-----:
+|1    | BBC World Service | [>](http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls) | <img height="20" src="https://i.imgur.com/RYgSSHl.png"/> |
+
+
 <h2>Invalid</h2>
 
 | #   | Channel           | Link  | Logo |

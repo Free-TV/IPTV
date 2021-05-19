@@ -295,6 +295,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" group-title="Italy",Motor Trend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Italy",Alma TV
+https://5f11919dca3bd.streamlock.net/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Italia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" group-title="Italy",Italia 2 Ⓢ Ⓖ
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/5ONlZGS.png" group-title="Italy",VH1
@@ -409,6 +411,18 @@ https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/rkdKa5a.png" group-title="Japan",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/RuHZ6Dx.png" group-title="Korea",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="All the K-Pop(Y)" tvg-logo="https://i.imgur.com/tJ8GRqi.png" group-title="Korea",All the K-Pop(Y)
+https://www.youtube.com/watch?v=8zUdwHwuwhQ
+#EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://i.imgur.com/s1y2zoe.png" group-title="Korea",EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+#EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Korea",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="EBS Kids(S)" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Korea",EBS Kids(S)
+rtsp://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k
+#EXTINF:-1 tvg-name="KBS World 24(Y)" tvg-logo="https://i.imgur.com/gljQEfD.png" group-title="Korea",KBS World 24(Y)
+https://www.youtube.com/watch?v=4gwqZYZ-OSw
 #EXTINF:-1 tvg-name="NPO 1 Ⓖ" tvg-logo="https://i.imgur.com/pUBy4Pb.png" group-title="Netherlands",NPO 1 Ⓖ
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
 #EXTINF:-1 tvg-name="NPO 2 Ⓖ" tvg-logo="https://i.imgur.com/Vl2G1H3.png" group-title="Netherlands",NPO 2 Ⓖ
@@ -565,6 +579,8 @@ http://51.52.156.22:8888/http/004
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://i.imgur.com/wNbxgqe.png" group-title="UK",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://i.imgur.com/RYgSSHl.png" group-title="UK",BBC World Service
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
 #EXTINF:-1 tvg-name="Buzzr" tvg-logo="https://i.imgur.com/VihFt5p.png" group-title="USA",Buzzr
 https://buzzrota-web.amagi.tv/playlist480.m3u8
 #EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" group-title="USA",Retro TV
@@ -589,18 +605,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="USA",Drybar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV1 Ⓖ" tvg-logo="https://i.imgur.com/4l8aJ3w.png" group-title="Vietnam",VTV1 Ⓖ
-https://vtvnews-livevtv.vtvdigital.vn/49056d061920c65745c1079d3ebb233f/1621332249866/vtv1/vtv1@720p.m3u8
-#EXTINF:-1 tvg-name="VTV2 Ⓖ" tvg-logo="https://i.imgur.com/1pxCQcq.png" group-title="Vietnam",VTV2 Ⓖ
-https://vtvnews-livevtv.vtvdigital.vn/56592d66fcbea0c6e0f4e9af2b631f6e/1621335208838/vtv2/vtv2@720p.m3u8
-#EXTINF:-1 tvg-name="VTV3 Ⓖ" tvg-logo="https://i.imgur.com/vJheGqt.png" group-title="Vietnam",VTV3 Ⓖ
-https://vtvnews-livevtv.vtvdigital.vn/e3ef49d210f3183a1cf9c61036cb91a4/1621335484712/vtv3/vtv3@720p.m3u8
-#EXTINF:-1 tvg-name="VTV4 Ⓖ" tvg-logo="https://i.imgur.com/ri447j3.png" group-title="Vietnam",VTV4 Ⓖ
-https://vtvnews-livevtv.vtvdigital.vn/a5cc0c60a784710df8b04a40e17471cf/1621336055136/vtv4/vtv4@720p.m3u8
-#EXTINF:-1 tvg-name="VTV5 Ⓖ" tvg-logo="https://i.imgur.com/6pRiKTo.png" group-title="Vietnam",VTV5 Ⓖ
-https://vtvnews-livevtv.vtvdigital.vn/5f791f8e7521ae15280e8b04771cce93/1621336322473/vtv5/vtv5@720p.m3u8
-#EXTINF:-1 tvg-name="VTV6 Ⓖ" tvg-logo="https://i.imgur.com/p8E74Lf.png" group-title="Vietnam",VTV6 Ⓖ
-https://vtvnews-livevtv.vtvdigital.vn/b337e3d7f8e4b1337dc890211d1fb028/1621336488256/vtv6/vtv6@720p.m3u8
 #EXTINF:-1 tvg-name="Pluto TV 007" tvg-logo="https://i.imgur.com/qKqEqUC.png" group-title="Movies (EN)",Pluto TV 007
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="Movies (EN)",Pluto TV Spotlight
