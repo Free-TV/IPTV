@@ -37,8 +37,6 @@
 | 29  | TV5 Monde Info | [>](https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> |
 | 30  | TV5 Monde Europe | [>](https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> |
 | 31  | Euronews | [>](https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> |
-| 32  | France 24 English | [>](https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> |
-| 33  | France 24 Spanish | [>](https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> |
 
 <h2>Invalid</h2>
 
