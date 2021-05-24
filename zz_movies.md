@@ -1,5 +1,12 @@
 <h1>Movies (EN)</h1>
 
+<h2>FilmRise</h2>
+
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:
+|     | FilmRise Movies     | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jGzMaRD.png"/> |
+|     | FilmRise Sci-Fi     | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/FcN1OKo.png"/> |
+
 <h2>Pluto TV</h2>
 
 | #   | Channel                 | Link  | Logo |
@@ -28,3 +35,8 @@
 |     | Flicks of Fury          | [>](http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false) | <img height="20" src="https://i.imgur.com/yhyzBfb.png"/> |
 |     | The Asylum              | [>](http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false) | <img height="20" src="https://i.imgur.com/rOxQfdG.png"/> |
 
+<h2>Stirr</h2>
+
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:  
+|     | Film Detective | [>](https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8) | <img height="20" src="https://i.imgur.com/4aFLH9g.png"/> |

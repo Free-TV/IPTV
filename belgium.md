@@ -16,6 +16,7 @@
 | 10  | AB3             | [x]() | <img height="20" src="https://i.imgur.com/7foaAFU.png"/> |
 | 11  | ABXplore        | [x]() | <img height="20" src="https://i.imgur.com/KwV8axc.png"/> |
 | 12  | LN24            | [>](https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8) | <img height="20" src="https://i.imgur.com/hePpxnn.png"/> |
+| 13  | BX1             | [>](https://59959724487e3.streamlock.net/stream/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YjKqWru.png"/> |
 
 <h2>Flanders</h2>
 

@@ -15,6 +15,12 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 6   | ZDFinfo Ⓖ     | [>](https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/0jcN11J.png"/> |
 | 7   | ZDFneo Ⓖ      | [>](https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/XMPIWeS.png"/> |
 
+<h2>DVB-S</h2>
+
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:
+| 1   | DW Ⓢ          | [>](https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> 
+
 <h2>Invalid</h2>
 
 | #   | Channel        | Link  | Logo |
