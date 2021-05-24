@@ -29,6 +29,7 @@ if __name__ == "__main__":
                 continue
             with open(filename) as markup_file:
                 group = filename.replace(".md", "").title()
+                print("Generating %s" % group)
                 for line in markup_file:
                     if "<h1>" in line.lower() and "</h1>" in line.lower():
                         group = re.sub('<[^<>]+>', '', line.strip())

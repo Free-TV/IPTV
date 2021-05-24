@@ -19,7 +19,7 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 1   | DW Ⓢ          | [>](https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> 
+| 1   | DW Ⓢ          | [>](https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> |
 
 <h2>Invalid</h2>
 
