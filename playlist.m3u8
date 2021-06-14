@@ -41,6 +41,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil Ⓢ" tvg-logo="https://i.imgur.com/FYdDmO1.png" group-title="Brazil",CNN Brasil Ⓢ
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://i.imgur.com/H5yEbxf.png" group-title="Canada",CBC Toronto
 https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-name="Citytv" tvg-logo="https://i.imgur.com/BlFNlHz.png" group-title="Canada",Citytv
@@ -243,6 +245,8 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Ⓢ" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Italy",RTL 102.5 Ⓢ
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
+#EXTINF:-1 tvg-name="HSE24 Ⓢ" tvg-logo="https://i.imgur.com/D7qMONJ.png" group-title="Italy",HSE24 Ⓢ
+https://5f11919dca3bd.streamlock.net/HSE24/HSE24/playlist.m3u8
 #EXTINF:-1 tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" group-title="Italy",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-name="Top Crime Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="Italy",Top Crime Ⓢ Ⓖ
@@ -277,6 +281,14 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia SOLOCALCIO
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia MOTORI" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia MOTORI
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Italy",Sportitalia LIVE24
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Donna TV Ⓢ" tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="Italy",Donna TV Ⓢ
+https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Italy",Alma TV
 https://5f11919dca3bd.streamlock.net/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Italia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" group-title="Italy",Italia 2 Ⓢ Ⓖ
