@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 22.1 | Encuentro Ⓨ    | [x](https://youtu.be/Mb49nmGdcHA) | <img height="20" src="https://i.imgur.com/IyP2UIx.png"/> |
+| 22.1 | Encuentro Ⓨ    | [>](https://youtu.be/Mb49nmGdcHA) | <img height="20" src="https://i.imgur.com/IyP2UIx.png"/> |
 | 22.2 | Pakapaka Ⓨ     | [>](https://youtu.be/6BThtcmhYmE) | <img height="20" src="https://i.imgur.com/Q4zaCuM.png"/> |
 | 23.1 | Televisión Pública Ⓨ | [>](https://youtu.be/5fEdfSoEw8s) | <img height="20" src="https://i.imgur.com/4hYYpiu.png"/> |
 | 24.2 | Canal 26       | [>](https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xDjOUuz.png"/> |
