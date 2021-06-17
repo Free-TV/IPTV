@@ -11,7 +11,7 @@ Either free locally (over the air):
 
 <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/au.svg" width="48">
 
-<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48">
 
 <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/vn.svg" width="48">
 
