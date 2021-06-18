@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Encuentro Ⓨ" tvg-logo="https://i.imgur.com/IyP2UIx.png" group-title="Argentina",Encuentro Ⓨ
+https://youtu.be/Mb49nmGdcHA
 #EXTINF:-1 tvg-name="Pakapaka Ⓨ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" group-title="Argentina",Pakapaka Ⓨ
-https://youtu.be/LrvMnnoPIGQ
+https://youtu.be/6BThtcmhYmE
 #EXTINF:-1 tvg-name="Televisión Pública Ⓨ" tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="Argentina",Televisión Pública Ⓨ
 https://youtu.be/5fEdfSoEw8s
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="Argentina",Canal 26
