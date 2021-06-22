@@ -7,7 +7,7 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 1   | Das Erste Ⓖ   | [>](https://mcdn.daserste.de/daserste/de/master_3628.m3u8) | <img height="20" src="https://i.imgur.com/kRq4CIF.png"/> |
+| 1   | Das Erste Ⓖ   | [>](https://mcdn.daserste.de/daserste/de/master.m3u8) | <img height="20" src="https://i.imgur.com/kRq4CIF.png"/> |
 | 2   | ZDF Ⓖ         | [>](http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/JosNLQ0.png"/> |
 | 3   | 3sat Ⓖ        | [>](https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/2r7GK0L.png"/> |
 | 4   | ARTE Ⓖ        | [>](https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8) | <img height="20" src="https://i.imgur.com/fojjpeg.png"/> |
