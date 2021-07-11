@@ -124,7 +124,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 56  | HGTV – Home & Garden Tv  | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> |
 | 58  | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> |
 
-<h2>REGIONALI</h2>
+<h2>Regionali</h2>
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
