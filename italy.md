@@ -228,6 +228,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 224 | Paradise Tv | [>](https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/okIBfIb.jpg"/> |
 | 225 | Partenope Tv | [>](https://streamlive.arcapuglia.it:8080/live/partenopetv/index.m3u8) | <img height="20" src="https://i.imgur.com/FtuWkj1.png"/> |
 | 226 | Passione Lotto Tv | [>](http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8) | <img height="20" src="https://i.imgur.com/E2JBphv.jpg"/> |
+| 125 | Pop Tv | [>](https://59d7d6f47d7fc.streamlock.net/poptv/poptv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TeolCu9.png"/> |
 | 227 | PrimAntenna TV | [>](https://585b674743bbb.streamlock.net:443/9062/9062/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gSklP3y.png"/> |
 | 228 | Prima Napoli Tv | [>](https://stream1.aswifi.it/primatvnapoli/live/index.m3u8) | <img height="20" src="https://i.imgur.com/yPuQeEy.jpg"/> |
 | 229 | Prima Tivvù | [>](https://streamtechglobal.akamaized.net/hls/live/2024751/primativvu/Group02/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oUGS2Nt.png"/> |
