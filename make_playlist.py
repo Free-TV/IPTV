@@ -22,12 +22,12 @@ class Channel():
 
 
 if __name__ == "__main__":
-    with open("playlist.m3u8", "w") as playlist:
+    with open("playlist.m3u8", "w", encoding='utf-8') as playlist:
         print("#EXTM3U", file=playlist)
         for filename in sorted(os.listdir(".")):
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
-            with open(filename) as markup_file:
+            with open(filename, encoding='utf-8') as markup_file:
                 group = filename.replace(".md", "").title()
                 print("Generating %s" % group)
                 for line in markup_file:
