@@ -394,8 +394,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 4548 | Family – Rakuten TV | [>](https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BCC123A.jpg"/> |
 | 4549 | Drammatico – Rakuten TV | [>](https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nx3JzZK.jpg"/> |
 | 4550 | Film d'azione – Rakuten TV | [>](https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KDmDQM6.jpg"/> |
-| 5000 | Classico – Rakuten TV | [>](https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
-| 5001 | Film Top – Rakuten TV | [>](https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
+| 5000 | Film Top – Rakuten TV | [>](https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
+| 5005 | Classico – Rakuten TV | [>](https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
+| 5009 | Romance – Rakuten TV | [>](https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
 
 <h2>Invalid</h2>
 
