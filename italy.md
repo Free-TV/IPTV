@@ -331,6 +331,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tv Prato | [>](https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/zDeVpZd.png"/> |
 | 0   | Tv Qui Modena | [>](https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4bOYlfg.png"/> |
 | 0   | Tv Uno | [>](http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv) | <img height="20" src="https://i.imgur.com/OtCwYsh.jpg"/> |
+| 0   | Tv Yes | [>](https://stream1.aswifi.it/radioyes/live/index.m3u8) | <img height="20" src="https://i.imgur.com/1wsO8U7.png"/> |
 | 0   | Tv7 Azzurra | [>](http://217.61.26.46:8080/hls/azzurra.m3u8) | <img height="20" src="https://i.imgur.com/yYvGWHL.png"/> |
 | 0   | Tv7 News | [>](http://217.61.26.46:8080/hls/news.m3u8) | <img height="20" src="https://i.imgur.com/rlMEE1j.png"/> |
 | 0   | Tv7 Triveneta | [>](http://217.61.26.46:8080/hls/triveneta.m3u8) | <img height="20" src="https://i.imgur.com/O2NF7jJ.jpg"/> |
