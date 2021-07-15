@@ -348,6 +348,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Video Star | [>](https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1ddJVZ7.jpg"/> |
 | 0   | Videolina | [>](http://livestreaming.videolina.it/live/Videolina/chunklist_w488279894.m3u8) | <img height="20" src="https://i.imgur.com/bnDZJwd.gif"/> |
 | 0   | Videostar Tv Lombardia | [>](http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpPFZL.jpg"/> |
+| 0   | Vintage Radio Tv | [>](https://stream4.xdevel.com/video0s975967-804/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n3LtBNT.jpg"/> |
 | 0   | Vuemme Tv | [>](https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/chunklist_w1853927005.m3u8) | <img height="20" src="https://i.imgur.com/x5A0xU6.png"/> |
 | 0   | Well Tv | [>](https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Kqgz4Na.png"/> |
 | 0   | Yvii Tv | [>](rtmp://yviistreamer.kernel.online:1935/live/yviitv) | <img height="20" src="https://i.imgur.com/yP5AvDo.png"/> |
