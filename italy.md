@@ -90,6 +90,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Aurora Arte | [>](https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BoLZ5wG.png"/> |
 | 0   | Azzurra Tv Vco | [>](https://sb.top-ix.org/avtvlive/streaming/playerlist.m3u8) | <img height="20" src="https://i.imgur.com/mSWw8uW.png"/> |
 | 0   | Basilicata 1 Tv | [>](http://77.68.40.210:8888/hls/basilicata1.m3u8) | <img height="20" src="https://i.imgur.com/VS6CQ88.png"/> |
+| 0   | BFC            | [>](https://backup.superstreaming.inaria.me/BFC/index.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> |
 | 0   | BIKE           | [>](https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> |
 | 0   | Cafe Tv 24 | [>](http://srv3.meway.tv:1957/cafe/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KbcbxFw.png"/> |
 | 0   | Calabria Uno TV  | [>](https://5f22d76e220e1.streamlock.net/calabriaunotv/calabriaunotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
