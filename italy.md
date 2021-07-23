@@ -246,7 +246,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Boario | [>](http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LlLD3L6.png"/> |
 | 0   | Tele Bruzzano | [>](https://player.ilariochiera.it/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8) | <img height="20" src="https://i.imgur.com/7TWbCDt.jpg"/> |
 | 0   | Tele Chiara | [>](http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Q5XpnXR.png"/> |
-| 0   | Tele Citta' Padova | [>](rtmp://stream.telepadova.com/live/tv1.flv) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
+| 0   | Tele Citta' Padova | [>](http://stream.telepadova.com/live/tv1.m3u8) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
 | 0   | Tele Citta' | [>](http://213.187.12.18/live/tv1.m3u8) | <img height="20" src="https://i.imgur.com/yWwLLOm.png"/> |
 | 0   | Tele Club Italia | [>](https://www.theclubfactory.com/streaming/index.m3u8) | <img height="20" src="https://i.imgur.com/WxkOgg0.png"/> |
 | 0   | Tele Clusone Bergamo | [>](https://media.streambrothers.com:1936/8546/8546/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dVDY1ng.png"/> |
@@ -357,7 +357,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Vintage Radio Tv | [>](https://stream4.xdevel.com/video0s975967-804/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n3LtBNT.jpg"/> |
 | 0   | Vuemme Tv | [>](https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x5A0xU6.png"/> |
 | 0   | Well Tv | [>](https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Kqgz4Na.png"/> |
-| 0   | Yvii Tv | [>](rtmp://yviistreamer.kernel.online:1935/live/yviitv) | <img height="20" src="https://i.imgur.com/yP5AvDo.png"/> |
+| 0   | Yvii Tv | [>](https://yviistreamer.kernel.online/hls/yviitv.m3u8) | <img height="20" src="https://i.imgur.com/yP5AvDo.png"/> |
 | 0   | Zerouno Tv News | [>](https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vxRzyjE.png"/> |
 
 <h2>Samsung TV Plus</h2>
