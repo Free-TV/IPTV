@@ -29,4 +29,4 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 20   | ARD Alpha Ⓖ      | [>](http://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/br-alpha.png"/> |
 | 21   | DW Ⓖ      | [>](http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png"/> |
 | 22   | RBB Berlin Ⓖ      | [>](https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png"/> |
-| 22   | RBB Brandenburg Ⓖ      | [>](https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png"/> |
+| 23   | RBB Brandenburg Ⓖ      | [>](https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png"/> |
