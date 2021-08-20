@@ -250,7 +250,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Chiara | [>](http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Q5XpnXR.png"/> |
 | 0   | Tele Citta' Padova | [>](http://stream.telepadova.com/live/tv1.m3u8) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
 | 0   | Tele Club Italia | [>](https://www.theclubfactory.com/streaming/index.m3u8) | <img height="20" src="https://i.imgur.com/WxkOgg0.png"/> |
-| 0   | Tele Clusone Bergamo | [>](https://media.streambrothers.com:1936/8546/8546/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dVDY1ng.png"/> |
+| 0   | Tele Clusone Bergamo | [>](https://media.streambrothers.com:1936/8168/8168/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dVDY1ng.png"/> |
 | 0   | Tele Color Lombardia | [>](http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hUA29XI.jpg"/> |
 | 0   | Tele Cupole | [>](http://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZmUI9zb.png"/> |
 | 0   | Tele Estense | [>](https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/X7i7DWo.png"/> |
