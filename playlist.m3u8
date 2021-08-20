@@ -247,6 +247,10 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="RBB Brandenburg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png" group-title="Germany",RBB Brandenburg Ⓖ
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" group-title="Germany",Nick Ⓖ
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music Ⓖ Ⓢ" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="Germany",Deluxe Music Ⓖ Ⓢ
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" group-title="Greece",ERT 1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-name="ERT 2" tvg-logo="https://i.imgur.com/pcusPFl.png" group-title="Greece",ERT 2
@@ -792,7 +796,7 @@ http://stream.telepadova.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="Tele Club Italia" tvg-logo="https://i.imgur.com/WxkOgg0.png" group-title="Italy",Tele Club Italia
 https://www.theclubfactory.com/streaming/index.m3u8
 #EXTINF:-1 tvg-name="Tele Clusone Bergamo" tvg-logo="https://i.imgur.com/dVDY1ng.png" group-title="Italy",Tele Clusone Bergamo
-https://media.streambrothers.com:1936/8546/8546/playlist.m3u8
+https://media.streambrothers.com:1936/8168/8168/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Color Lombardia" tvg-logo="https://i.imgur.com/hUA29XI.jpg" group-title="Italy",Tele Color Lombardia
 http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Cupole" tvg-logo="https://i.imgur.com/ZmUI9zb.png" group-title="Italy",Tele Cupole
