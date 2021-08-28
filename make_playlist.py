@@ -17,19 +17,17 @@ class Channel():
         self.logo = self.logo[self.logo.find('src="')+5:self.logo.rfind('"')]
 
     def to_m3u_line(self):
-        return('#EXTINF:-1 tvg-name="%(name)s" tvg-logo="%(logo)s" group-title="%(group)s",%(name)s\n%(url)s' \
-            % {'name':self.name, 'logo':self.logo, 'group':self.group, 'url':self.url})
-
+        return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" group-title="{self.group}",{self.name}\n{self.url}')
 
 if __name__ == "__main__":
-    with open("playlist.m3u8", "w") as playlist:
+    with open("playlist.m3u8", "w", encoding='utf-8') as playlist:
         print("#EXTM3U", file=playlist)
         for filename in sorted(os.listdir(".")):
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
-            with open(filename) as markup_file:
+            with open(filename, encoding='utf-8') as markup_file:
                 group = filename.replace(".md", "").title()
-                print("Generating %s" % group)
+                print(f"Generating {group}")
                 for line in markup_file:
                     if "<h1>" in line.lower() and "</h1>" in line.lower():
                         group = re.sub('<[^<>]+>', '', line.strip())
@@ -37,4 +35,4 @@ if __name__ == "__main__":
                         continue
                     channel = Channel(group, line)
                     print(channel.to_m3u_line(), file=playlist)
-
+                    
