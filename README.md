@@ -21,6 +21,8 @@ Either free locally (over the air):
 
 <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="48">
 
+<img src="https://hatscripts.github.io/circle-flags/flags/iq.svg" width="48">
+
 Or free on the Internet:
 
 - Plex TV
