@@ -9,4 +9,4 @@
 | 5   | AgroBrasil TV | [>](http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8) | <img height="20" src="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png"/> |
 | 6   | Futura | [>](https://tv.unisc.br/hls/test.m3u8) | <img height="20" src="https://eonteambrasil.com.br/SharedAssets/logo-canais/futura.jpg"/> |
 | 7   | Record | [>](https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8) | <img height="20" src="https://i.imgur.com/TD6ZJoa.png"/> |
-| 8   | Rede Brasil de Comunicação | [>](http://rbc.directradios.com:1935/rbc/rbc/live.m3u8) | <img height="20" src="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png"/> |
+| 8   | RBC | [>](http://rbc.directradios.com:1935/rbc/rbc/live.m3u8) | <img height="20" src="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png"/> |
