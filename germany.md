@@ -10,15 +10,15 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 1   | Das Erste Ⓖ   | [>](https://mcdn.daserste.de/daserste/de/master.m3u8) | <img height="20" src="https://i.imgur.com/kRq4CIF.png"/> |
 | 2   | ZDF Ⓖ         | [>](http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/JosNLQ0.png"/> |
 | 3   | 3sat Ⓖ        | [>](https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/2r7GK0L.png"/> |
-| 4   | ARTE Ⓖ        | [>](https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8) | <img height="20" src="https://i.imgur.com/fojjpeg.png"/> |
+| 4   | ARTE Ⓖ        | [>](https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8) | <img height="20" src="https://i.imgur.com/fojjpeg.png"/> |
 | 5   | ONE Ⓖ         | [>](https://mcdn.one.ard.de/ardone/hls/master.m3u8) | <img height="20" src="https://i.imgur.com/zu5gaQU.png"/> |
 | 6   | ZDFinfo Ⓖ     | [>](https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/0jcN11J.png"/> |
 | 7   | ZDFneo Ⓖ      | [>](https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/XMPIWeS.png"/> |
 | 8   | MDR Sachsen-Anhalt Ⓖ      | [>](https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
 | 9   | MDR Sachsen Ⓖ      | [>](https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
 | 10   | MDR Thüringen Ⓖ      | [>](https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
-| 11   | NDR Ⓖ      | [>](https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-b.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
-| 12   | WDR Ⓖ      | [>](http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png"/> |
+| 11   | NDR Ⓖ      | [>](http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
+| 12   | WDR Ⓖ      | [>](https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png"/> |
 | 13   | SWR Ⓖ      | [>](https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png"/> |
 | 14   | SR Ⓖ      | [>](http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/sr.png"/> |
 | 15   | HR Ⓖ      | [>](https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/hr.png"/> |
