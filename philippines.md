@@ -1,6 +1,6 @@
 <h1>Philippines</h1>
 
-https://en.wikipedia.org/wiki/List_of_analog_television_stations_in_the_Philippines#Pampanga
+https://en.wikipedia.org/wiki/List_of_analog_television_stations_in_the_Philippines
 
 | #   | Channel         | Link  | Logo |
 |:---:|:---------------:|:-----:|:-----:
