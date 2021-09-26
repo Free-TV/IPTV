@@ -12,7 +12,7 @@
 | 8   | TV Tokyo     | [>](https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8) | <img height="20" src="https://i.imgur.com/BMXZjA1.png"/> |
 | 9   | Tokyo MX1    | [>](https://movie.mcas.jp/mcas/mx1_2/master.m3u8) | <img height="20" src="https://i.imgur.com/ghRFrKj.png"/> |
 | 10   | Tokyo MX2    | [>](https://movie.mcas.jp/mcas/mx2_2/master.m3u8) | <img height="20" src="https://i.imgur.com/ghRFrKj.png"/> |
-| 11   | HTB Ⓨ          | [>](https://www.youtube.com/watch?v=5iK9G85rPVc) | <img height="20" src="https://i.imgur.com/A0Wj0Ys.png"/> |
+| 11   | HTB Ⓨ          | [>](https://www.youtube.com/watch?v=Ga08Th8LDzU) | <img height="20" src="https://i.imgur.com/A0Wj0Ys.png"/> |
 | 12   | Gunma TV    | [>](https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8) | <img height="20" src="https://i.imgur.com/Fik3Nm9.png"/> |
 | 13   | Weathernews     | [>](http://movie.mcas.jp/mcas/wn1_2/master.m3u8) | <img height="20" src="https://i.imgur.com/7YLRtla.png"/> |
 | 14   | GSTV            | [>](https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/0wds9n8.png"/> |
