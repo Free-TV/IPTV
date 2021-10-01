@@ -2,8 +2,8 @@
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 1   | Al-Hurra Iraq | [>](https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/master_2596.m3u8) | <img height="20" src="https://i.imgur.com/mXBZEQP.png"/> |
-| 2   | Al-Hurra            | [>](https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/master_2596.m3u8) | <img height="20" src="https://i.imgur.com/0izeu5z.png"/> |
+| 1   | Al-Hurra Iraq | [>](https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mXBZEQP.png"/> |
+| 2   | Al-Hurra            | [>](https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0izeu5z.png"/> |
 | 3   | Al-Iraqiya | [>](https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8) | <img height="20" src="https://i.imgur.com/imdV6kL.png"/> |
 | 4   | Al-Rafidain       | [>](https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/D78qG91.png"/> |
 | 5   | Al-Rasheed       | [>](https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/SU9HbXY.png"/> |
