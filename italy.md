@@ -66,6 +66,13 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 266 | Radio ZETA Ⓢ   | [>](https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> |
 | 772 | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(BB)/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> |
 
+<h2>Satellite</h2>
+
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:
+| 210 | Rai 4K Ⓖ       | [>](https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5gkt9DD.png"/> |
+| 701 | UniNettuno University TV Ⓖ | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BOGMeio.png"/> |
+
 <h2>Regional</h2>
 
 | #   | Channel        | Link  | Logo |
@@ -115,8 +122,10 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Class CNBC | [>](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> |
 | 0   | Cremona 1 | [>](https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a5d0F01.jpg"/> |
 | 0   | Cusano Italia Tv | [>](https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9F1sVjZ.png"/> |
-| 0   | Di.Tv 90 | [>](http://163.172.88.73:1935/di_tv_90/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ul0o7zv.png"/> |
+| 0   | Di.Tv 90 | [>](https://media2021.rtvweb.com/di_tv_90/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ul0o7zv.png"/> |
+| 0   | Di.Tv 92 | [>](https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ul0o7zv.png"/> |
 | 0   | Digital Tv7 Benevento | [>](http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NaQkklP.png"/> |
+| 0   | Donna Shopping Tv | [>](https://media.streambrothers.com:1936/8038/8038/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oLDvx2T.png"/> |
 | 0   | E'live Brescia Tv | [>](https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bZ3B7pi.png"/> |
 | 0   | Easy Tv | [>](https://streamlive.arcapuglia.it:8080/live/canale190/index.m3u8) | <img height="20" src="https://i.imgur.com/LKrVuRR.jpg"/> |
 | 0   | Entella Tv | [>](https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1VPXKrW.png"/> |
