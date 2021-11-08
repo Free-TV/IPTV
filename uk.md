@@ -6,7 +6,7 @@
 |:---:|:------------|:-----:|:-----:
 | 1   | BBC One Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/72knNcb.png"/> |
 | 2   | BBC Two Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/Bn29Mmo.png"/> |
-| 3   | ITV Ⓢ      | [>]http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8) | <img height="20" src="https://i.imgur.com/ABwq10G.png"/> |
+| 3   | ITV Ⓢ      | [>](http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8) | <img height="20" src="https://i.imgur.com/ABwq10G.png"/> |
 | 4   | Channel 4 Ⓢ| [x]() | <img height="20" src="https://i.imgur.com/LfvwZfy.png"/> |
 | 5   | Channel 5 Ⓢ| [x]() | <img height="20" src="https://i.imgur.com/MlQrMU8.png"/> |
 | 6   | ITV 2 Ⓢ    | [>](http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Ji65OXG.png"/> |
