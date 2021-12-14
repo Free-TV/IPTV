@@ -10,40 +10,40 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 1   | Rai 1 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803) | <img height="20" src="https://i.imgur.com/CAx7yRm.png"/> |
 | 2   | Rai 2 Ⓖ       |  [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718) | <img height="20" src="https://i.imgur.com/zA0PTcs.png"/> |
 | 3   | Rai 3 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709) | <img height="20" src="https://i.imgur.com/9kuQCIi.png"/> |
-| 4   | Rete 4 Ⓢ Ⓖ    | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8) | <img height="20" src="https://i.imgur.com/GWx2Fkl.png"/> |
-| 5   | Canale 5 Ⓢ Ⓖ  | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8) | <img height="20" src="https://i.imgur.com/p6YdiR1.png"/> |
-| 6   | Italia 1 Ⓢ Ⓖ  | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8) | <img height="20" src="https://i.imgur.com/oCiOxBG.png"/> |
+| 4   | Rete 4 Ⓢ Ⓖ    | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd) | <img height="20" src="https://i.imgur.com/GWx2Fkl.png"/> |
+| 5   | Canale 5 Ⓢ Ⓖ  | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd) | <img height="20" src="https://i.imgur.com/p6YdiR1.png"/> |
+| 6   | Italia 1 Ⓢ Ⓖ  | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd) | <img height="20" src="https://i.imgur.com/oCiOxBG.png"/> |
 | 9   | Nove           | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8) | <img height="20" src="https://i.imgur.com/Hp723RU.png"/> |
-| 20  | Canale 20 Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> |
+| 20  | Canale 20 Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d1_gwv_vos/live/channel(lb)/manifest.mpd) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> |
 | 21  | Rai 4 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966) | <img height="20" src="https://i.imgur.com/XFkZRfv.png"/> |
-| 22  | Iris Ⓢ Ⓖ     | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8) | <img height="20" src="https://i.imgur.com/Ixz1BY3.png"/> |
+| 22  | Iris Ⓢ Ⓖ     | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd) | <img height="20" src="https://i.imgur.com/Ixz1BY3.png"/> |
 | 23  | Rai 5 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276) | <img height="20" src="https://i.imgur.com/Leu2zTO.png"/> |
 | 24  | Rai Movie Ⓖ   | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002) | <img height="20" src="https://i.imgur.com/RKpO8CE.png"/> |
 | 25  | Rai Premium Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992) | <img height="20" src="https://i.imgur.com/RKI4nFy.png"/> |
 | 27  | Paramount Channel Ⓢ Ⓖ | [>](https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8) | <img height="20" src="https://i.imgur.com/IBx03AS.png"/> |
 | 28  | TV 2000 Ⓢ      | [>](http://mi1.wz.tv2000.it/tv2000_alfa.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> |
-| 30  | La 5 Ⓢ Ⓖ     | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> |
+| 30  | La 5 Ⓢ Ⓖ     | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> |
 | 31  | Real Time      | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> |
 | 32  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> |
 | 33  | Food Network   | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> |
-| 34  | CINE 34 Ⓢ Ⓖ   | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8) | <img height="20" src="https://i.imgur.com/YyldwhI.png"/> |
-| 35  | Focus Ⓢ Ⓖ     | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8) | <img height="20" src="https://i.imgur.com/M4smqpF.png"/> |
+| 34  | CINE 34 Ⓢ Ⓖ   | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd) | <img height="20" src="https://i.imgur.com/YyldwhI.png"/> |
+| 35  | Focus Ⓢ Ⓖ     | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd) | <img height="20" src="https://i.imgur.com/M4smqpF.png"/> |
 | 36  | RTL 102.5 Ⓢ    | [>](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KdissvS.png"/> |
 | 37  | GM24 Ⓢ         | [>](https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCntSA3.png"/> |
 | 38  | Giallo         | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8) | <img height="20" src="https://i.imgur.com/0PIRwZS.png"/> |
-| 39  | Top Crime Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8) | <img height="20" src="https://i.imgur.com/RFIwv9O.png"/> |
-| 40  | BOING Ⓢ Ⓖ     | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8) | <img height="20" src="https://i.imgur.com/niSlrqT.png"/> |
+| 39  | Top Crime Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd) | <img height="20" src="https://i.imgur.com/RFIwv9O.png"/> |
+| 40  | BOING Ⓢ Ⓖ     | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd) | <img height="20" src="https://i.imgur.com/niSlrqT.png"/> |
 | 42  | Rai Gulp Ⓖ    | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953) | <img height="20" src="https://i.imgur.com/lu1DPVb.png"/> |
 | 43  | Rai YoYo Ⓖ    | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899) | <img height="20" src="https://i.imgur.com/DRSa3ys.png"/> |
-| 46  | Cartoonito Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8) | <img height="20" src="https://i.imgur.com/zqc0TrY.png"/> |
+| 46  | Cartoonito Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(la)/manifest.mpd) | <img height="20" src="https://i.imgur.com/zqc0TrY.png"/> |
 | 47  | Super! Ⓢ      | [>](https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8) | <img height="20" src="https://i.imgur.com/zDByOwo.png"/> |
 | 48  | Rai News 24 Ⓖ | [>](http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1) | <img height="20" src="https://i.imgur.com/gdzGwB6.png"/> |
 | 49  | Spike Ⓢ       | [>](https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8) | <img height="20" src="https://i.imgur.com/og6Q9rj.png"/> |
 | 50  | Sky TG 24 Ⓢ   | [>](https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/q4d3Dah.png"/> |
-| 51  | TGCOM 24 Ⓢ Ⓖ  | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8) | <img height="20" src="https://i.imgur.com/xautVD8.png"/> |
+| 51  | TGCOM 24 Ⓢ Ⓖ  | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd) | <img height="20" src="https://i.imgur.com/xautVD8.png"/> |
 | 52  | Dmax           | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8) | <img height="20" src="https://i.imgur.com/dmEmRX7.png"/> |
 | 54  | Rai Storia Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> |
-| 55  | Mediaset Extra Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8) | <img height="20" src="https://i.imgur.com/mM8lopo.png"/> |
+| 55  | Mediaset Extra Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd) | <img height="20" src="https://i.imgur.com/mM8lopo.png"/> |
 | 57  | Rai Sport + Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025) | <img height="20" src="https://i.imgur.com/vD0CDEp.png"/> |
 | 59  | Motor Trend    | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> |
 | 60  | Sportitalia    | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_720p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> |
@@ -52,19 +52,19 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 61  | Sportitalia SOLOCALCIO | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> |
 | 62  | Donna TV Ⓢ     | [>](https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Aa1Abme.png"/> |
 | 65  | Alma TV        | [>](https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Y8JiDwN.png"/> |
-| 66  | Italia 2 Ⓢ Ⓖ  | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8) | <img height="20" src="https://i.imgur.com/nq48sjO.png"/> |
+| 66  | Italia 2 Ⓢ Ⓖ  | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd) | <img height="20" src="https://i.imgur.com/nq48sjO.png"/> |
 | 67  | VH1            | [>](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> |
 | 69  | Deejay TV Ⓢ    | [>](https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8) | <img height="20" src="https://i.imgur.com/rlaKH6k.png"/> |
 | 70  | RadioItaliaTV Ⓢ | [>](https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8) | <img height="20" src="https://i.imgur.com/4VCEJuJ.png"/> |
 | 146 | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> |
-| 157 | Radio 105 TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EC)/index.m3u8) | <img height="20" src="https://i.imgur.com/3NiLKvj.png"/> |
+| 157 | Radio 105 TV Ⓢ Ⓖ | [>](https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ec)/manifest.mpd) | <img height="20" src="https://i.imgur.com/3NiLKvj.png"/> |
 | 158 | Radio KISS KISS TV | [>](https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qxu8Fkh.png"/> |
-| 167 | R101 TV Ⓢ Ⓖ    | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ER)/index.m3u8) | <img height="20" src="https://i.imgur.com/xstH1d2.png"/> |
-| 257 | Virgin Radio TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW)/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> |
+| 167 | R101 TV Ⓢ Ⓖ    | [>](https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(er)/manifest.mpd) | <img height="20" src="https://i.imgur.com/xstH1d2.png"/> |
+| 257 | Virgin Radio TV Ⓢ Ⓖ | [>](https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> |
 | 258 | RadioFreccia Ⓢ | [>](https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M5YYJv8.png"/> |
 | 265 | RDS Social TV Ⓢ | [>](https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8) | <img height="20" src="https://i.imgur.com/TVuu0DH.png"/> |
 | 266 | Radio ZETA Ⓢ   | [>](https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> |
-| 772 | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(BB)/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> |
+| 772 | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> |
 
 <h2>Satellite</h2>
 
