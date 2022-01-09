@@ -23,8 +23,8 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 14   | NDR Niedersachsen Ⓖ      | [>](http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
 | 15   | NDR Schleswig-Holstein Ⓖ      | [>](http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430234/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
 | 16   | WDR Ⓖ      | [>](https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png"/> |
-| 17   | SWR Baden-Württemberg Ⓖ      | [x](https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png"/> |
-| 18   | SWR Rheinland-Pfalz Ⓖ      | [x]() | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png"/> |
+| 17   | SWR Baden-Württemberg Ⓖ      | [>](https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png"/> |
+| 18   | SWR Rheinland-Pfalz Ⓖ      | [>](https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png"/> |
 | 19   | SR Ⓖ      | [>](http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/sr.png"/> |
 | 20   | HR Ⓖ      | [>](https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/hr.png"/> |
 | 21   | BR Nord Ⓖ      | [>](http://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/br.png"/> |
