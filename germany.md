@@ -14,7 +14,7 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 5   | ONE Ⓖ         | [>](https://mcdn.one.ard.de/ardone/hls/master.m3u8) | <img height="20" src="https://i.imgur.com/zu5gaQU.png"/> |
 | 6   | ZDFinfo Ⓖ     | [>](https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/0jcN11J.png"/> |
 | 7   | ZDFneo Ⓖ      | [>](https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/XMPIWeS.png"/> |
-| 8   | Phoenix Ⓖ      | [>](https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8) | <img height="20" src="https://commons.wikimedia.org/wiki/File:Phoenix-logo-2018.svg"/> |
+| 8   | Phoenix Ⓖ      | [>](https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png"/> |
 | 9   | MDR Sachsen-Anhalt Ⓖ      | [>](https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
 | 10   | MDR Sachsen Ⓖ      | [>](https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
 | 11   | MDR Thüringen Ⓖ      | [>](https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
