@@ -51,4 +51,11 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:-----:
 | 1   | Balaton TV     | [>](https://stream.iptvservice.eu/hls/balatontv.m3u8) | <img height="20" src="https://i.imgur.com/ip8L5Vt.jpg" /> |
 | 2   | Budakalász     | [>](https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MGkvVQg.png" /> |
+| 3   | Hatoscsatorna  | [>](rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> |
+| 4   | Komlos TV      | [>](https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MDYb5yz.png" /> |
+| 5   | Ozdi Városi TV | [>](https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8) | <img height="20" src="https://i.imgur.com/5cOpdRp.jpg" /> |
+| 6   | Pannon RTV     | [>](https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
+| 7   | TV7 Bekescsaba | [>](https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8) | <img height="20" src="https://i.imgur.com/G9Ib5K3.png" /> |
+| 8   | VTV Füzesabony | [>](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> |
+| 9   | Hegyvidék TV   | [>](https://tv.hegyvidek.hu/hvtv/hvstream.m3u8) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" /> |
 
