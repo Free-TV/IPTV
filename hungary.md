@@ -76,4 +76,4 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 4   | DikhTv         | [x](https://onlinestream.live/play.xspf?id=6424&ch=1&ext=.xspf) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> |
 | 5   | PestiTV        | [x](https://onlinestream.live/play.m3u?id=6658&ch=1&ext=.m3u8) | <img height="20" src="https://pestitv.pestisracok.hu/wp-content/uploads/2020/08/PestiTV_Logo_40white-2.png" /> |
 | 6   | M4 Sport       | [x](https://onlinestream.live/play.m3u8?id=5903&ch=1&ext=.m3u8) | <img height="20" src="https://i.imgur.com/9aF9H55.png" /> |
-| 7   | Spektrum Home  | [>](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> |
+| 7   | Spektrum Home  | [x](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> |
