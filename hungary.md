@@ -68,6 +68,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 
 <h2>Invalid</h2>
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:
 | *  | *     | [x]() | <img height="20" src="" /> |
 | 1   | Fix TV         | [x](http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
 | 2   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
