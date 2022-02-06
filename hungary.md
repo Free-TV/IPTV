@@ -18,10 +18,9 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
 | 1   | RTL Klub       | [>](https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> |
-| 2   | Spektrum Home  | [>](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> |
-| 3   | ATV            | [>](http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/4739.png" /> |
-| 4   | Hír TV         | [>](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> |
-| 5   | Fix TV         | [>](https://onlinestream.live/play.m3u8?id=1833&ch=4&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
+| 2   | ATV            | [>](http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/4739.png" /> |
+| 3   | Hír TV         | [>](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> |
+| 4   | Fix TV         | [>](https://onlinestream.live/play.m3u8?id=1833&ch=4&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
 
 <h2>Religion</h2>
 
@@ -67,10 +66,14 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 20  | Zalaegerszeg TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8) | <img height="20" src="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" /> |
 
 
-<h2>Invalid<h2>
-| *  | *     | [x]() | <img height="20" src="" /> |
+<h2>Invalid</h2>
+
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:
+| *   | *              | [x]() | <img height="20" src="" /> |
 | 1   | Fix TV         | [x](http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
 | 2   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
 | 4   | DikhTv         | [x](https://onlinestream.live/play.xspf?id=6424&ch=1&ext=.xspf) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> |
 | 5   | PestiTV        | [x](https://onlinestream.live/play.m3u?id=6658&ch=1&ext=.m3u8) | <img height="20" src="https://pestitv.pestisracok.hu/wp-content/uploads/2020/08/PestiTV_Logo_40white-2.png" /> |
 | 6   | M4 Sport       | [x](https://onlinestream.live/play.m3u8?id=5903&ch=1&ext=.m3u8) | <img height="20" src="https://i.imgur.com/9aF9H55.png" /> |
+| 7   | Spektrum Home  | [x](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> |
