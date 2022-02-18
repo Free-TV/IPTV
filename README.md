@@ -29,6 +29,7 @@ Or free on the Internet:
 - Pluto TV
 - Pluto TV (Spanish)
 - Pluto TV (French)
+- Pluto TV (Italy)
 - Redbox Live TV
 - Roku TV
 - Samsung TV Plus
