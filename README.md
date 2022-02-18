@@ -9,15 +9,15 @@ Either free locally (over the air):
 
 <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48">
 
-<img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/be.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/nl.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ch.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/sm.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/at.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/be.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/nl.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ch.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/sm.svg" width="48">
 
 <img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/sk.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/si.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/mt.svg" width="48">
 
-<img src="https://hatscripts.github.io/circle-flags/flags/se.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/fi.svg" width="48"> 
+<img src="https://hatscripts.github.io/circle-flags/flags/se.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/dk.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/fi.svg" width="48"> 
 
-<img src="https://hatscripts.github.io/circle-flags/flags/hu.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/hu.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="48">
 
-<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ee.svg" width="48">
+<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/by.svg" width="48">  <img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ee.svg" width="48">
 
 <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
 
