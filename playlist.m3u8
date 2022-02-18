@@ -13,6 +13,32 @@ https://c.mjh.nz/101002210224/
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" group-title="Australia",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-name="ORF 1 Ⓖ" tvg-logo="https://i.imgur.com/ft2LuRl.jpg" group-title="Austria",ORF 1 Ⓖ
+https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF 2  Ⓖ" tvg-logo="https://i.imgur.com/yPVDaXv.png" group-title="Austria",ORF 2  Ⓖ
+https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF III   Ⓖ" tvg-logo="https://i.imgur.com/6BuiUE7.png" group-title="Austria",ORF III   Ⓖ
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="ORF Sport +  Ⓖ" tvg-logo="https://i.imgur.com/MVNZ4gf.png" group-title="Austria",ORF Sport +  Ⓖ
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+#EXTINF:-1 tvg-name="Servus TV    Ⓖ" tvg-logo="https://i.imgur.com/zDWhSxq.png" group-title="Austria",Servus TV    Ⓖ
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
+#EXTINF:-1 tvg-name="oe24" tvg-logo="https://i.imgur.com/8UTkcPn.png" group-title="Austria",oe24
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
+#EXTINF:-1 tvg-name="W24" tvg-logo="https://i.imgur.com/PGb4wYw.png" group-title="Austria",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="M4TV" tvg-logo="https://i.imgur.com/HZohlNk.png" group-title="Austria",M4TV
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="P3TV" tvg-logo="https://i.imgur.com/1sPhZ57.png" group-title="Austria",P3TV
+http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.imgur.com/oD7GQxT.png" group-title="Austria",RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-name="RTS  Ⓖ" tvg-logo="https://i.imgur.com/Bhv7lvy.png" group-title="Austria",RTS  Ⓖ
+https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
+#EXTINF:-1 tvg-name="Tirol TV   Ⓖ" tvg-logo="https://i.imgur.com/1E7Nflo.jpg" group-title="Austria",Tirol TV   Ⓖ
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1 tvg-name="R9" tvg-logo="https://i.imgur.com/2fxVYsL.jpg" group-title="Austria",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Belarus",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="8 Kanal Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" group-title="Belarus",8 Kanal Vitebsk Ⓢ
@@ -77,7 +103,7 @@ https://tv.unisc.br/hls/test.m3u8
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 tvg-name="RBC" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Brazil",RBC
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:-1 tvg-name="Anime TV" tvg-logo="" group-title="Brazil",Anime TV
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://i.imgur.com/fuuv2uP.jpg" group-title="Brazil",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Record News Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="Brazil",Record News Ⓢ
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
@@ -155,35 +181,37 @@ https://hls.savoir.media/live/stream.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-name="Ici Television" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="Canada",Ici Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-name="JOJ Family" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czech Republic",JOJ Family
-https://nn.geo.joj.sk/live/hls/family-540.m3u8
-#EXTINF:-1 tvg-name="Šlágr" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="Czech Republic",Šlágr
+#EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czech Republic",JOJ Family Ⓢ
+https://live.cdn.joj.sk/live/hls/family-540.m3u8
+#EXTINF:-1 tvg-name="Šlágr Ⓢ" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="Czech Republic",Šlágr Ⓢ
 https://stream-6.mazana.tv/slagr.m3u
-#EXTINF:-1 tvg-name="Šlágr 2" tvg-logo="https://i.imgur.com/2rcy4Wo.png" group-title="Czech Republic",Šlágr 2
+#EXTINF:-1 tvg-name="Šlágr 2 Ⓢ" tvg-logo="https://i.imgur.com/2rcy4Wo.png" group-title="Czech Republic",Šlágr 2 Ⓢ
 https://stream-33.mazana.tv/slagr2.m3u
-#EXTINF:-1 tvg-name="Šlágr Premium" tvg-logo="https://i.imgur.com/Lp0IqDx.png" group-title="Czech Republic",Šlágr Premium
+#EXTINF:-1 tvg-name="Šlágr Premium Ⓢ" tvg-logo="https://i.imgur.com/Lp0IqDx.png" group-title="Czech Republic",Šlágr Premium Ⓢ
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
-#EXTINF:-1 tvg-name="Prima Ⓖ" tvg-logo="https://i.imgur.com/0aHT2Nj.png" group-title="Czech Republic",Prima Ⓖ
+#EXTINF:-1 tvg-name="Prima Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/0aHT2Nj.png" group-title="Czech Republic",Prima Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="CNN Prima News Ⓖ" tvg-logo="https://i.imgur.com/Il7t0bU.png" group-title="Czech Republic",CNN Prima News Ⓖ
+#EXTINF:-1 tvg-name="CNN Prima News Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/Il7t0bU.png" group-title="Czech Republic",CNN Prima News Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-logo="https://i.imgur.com/zuzBucZ.png" group-title="Czech Republic",Prima Zoom Ⓖ
+#EXTINF:-1 tvg-name="Prima Zoom Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/zuzBucZ.png" group-title="Czech Republic",Prima Zoom Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Love Ⓖ" tvg-logo="https://i.imgur.com/TOCZc3Y.png" group-title="Czech Republic",Prima Love Ⓖ
+#EXTINF:-1 tvg-name="Prima Love Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/TOCZc3Y.png" group-title="Czech Republic",Prima Love Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima STAR Ⓖ" tvg-logo="https://i.imgur.com/tQGwvNs.png" group-title="Czech Republic",Prima STAR Ⓖ
+#EXTINF:-1 tvg-name="Prima STAR Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/tQGwvNs.png" group-title="Czech Republic",Prima STAR Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Krimi Ⓖ" tvg-logo="https://i.imgur.com/Dn2YxrA.png" group-title="Czech Republic",Prima Krimi Ⓖ
+#EXTINF:-1 tvg-name="Prima Krimi Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/Dn2YxrA.png" group-title="Czech Republic",Prima Krimi Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-logo="https://i.imgur.com/QaEakvm.png" group-title="Czech Republic",Prima MAX Ⓖ
+#EXTINF:-1 tvg-name="Prima MAX Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/QaEakvm.png" group-title="Czech Republic",Prima MAX Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-logo="https://i.imgur.com/JMHWmcJ.png" group-title="Czech Republic",Prima Cool Ⓖ
+#EXTINF:-1 tvg-name="Prima Cool Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/JMHWmcJ.png" group-title="Czech Republic",Prima Cool Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Óčko" tvg-logo="https://i.imgur.com/iPmpsnN.png" group-title="Czech Republic",Óčko
+#EXTINF:-1 tvg-name="Prima Show Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/zX4NTJ5.png" group-title="Czech Republic",Prima Show Ⓢ Ⓖ
+https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-name="Óčko Ⓢ" tvg-logo="https://i.imgur.com/iPmpsnN.png" group-title="Czech Republic",Óčko Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Star" tvg-logo="https://i.imgur.com/tGzQFWw.png" group-title="Czech Republic",Óčko Star
+#EXTINF:-1 tvg-name="Óčko Star Ⓢ" tvg-logo="https://i.imgur.com/tGzQFWw.png" group-title="Czech Republic",Óčko Star Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Expres" tvg-logo="https://i.imgur.com/e731JNS.png" group-title="Czech Republic",Óčko Expres
+#EXTINF:-1 tvg-name="Óčko Expres Ⓢ" tvg-logo="https://i.imgur.com/e731JNS.png" group-title="Czech Republic",Óčko Expres Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" group-title="Czech Republic",Retro Music Television Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
@@ -257,13 +285,13 @@ https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m
 https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8
 #EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/3Lr5iAj.png" group-title="France",Euronews
 https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://i.imgur.com/kRq4CIF.png" group-title="Germany",Das Erste Ⓖ
+#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" group-title="Germany",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://i.imgur.com/JosNLQ0.png" group-title="Germany",ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://i.imgur.com/2r7GK0L.png" group-title="Germany",3sat Ⓖ
+#EXTINF:-1 tvg-name="3sat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png" group-title="Germany",3sat Ⓖ
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://i.imgur.com/fojjpeg.png" group-title="Germany",ARTE Ⓖ
+#EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arte_Logo_2011.svg/640px-Arte_Logo_2011.svg.png" group-title="Germany",ARTE Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="ONE Ⓖ" tvg-logo="https://i.imgur.com/zu5gaQU.png" group-title="Germany",ONE Ⓖ
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
@@ -271,18 +299,28 @@ https://mcdn.one.ard.de/ardone/hls/master.m3u8
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ZDFneo Ⓖ" tvg-logo="https://i.imgur.com/XMPIWeS.png" group-title="Germany",ZDFneo Ⓖ
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="Phoenix Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png" group-title="Germany",Phoenix Ⓖ
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen-Anhalt Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png" group-title="Germany",MDR Sachsen-Anhalt Ⓖ
 https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png" group-title="Germany",MDR Sachsen Ⓖ
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name="MDR Thüringen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png" group-title="Germany",MDR Thüringen Ⓖ
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
-#EXTINF:-1 tvg-name="NDR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="Germany",NDR Ⓖ
+#EXTINF:-1 tvg-name="NDR Hamburg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="Germany",NDR Hamburg Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430231/master.m3u8
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="Germany",NDR Mecklenburg-Vorpommern Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430232/master.m3u8
+#EXTINF:-1 tvg-name="NDR Niedersachsen Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="Germany",NDR Niedersachsen Ⓖ
 http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png" group-title="Germany",NDR Schleswig-Holstein Ⓖ
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430234/master.m3u8
 #EXTINF:-1 tvg-name="WDR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png" group-title="Germany",WDR Ⓖ
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
-#EXTINF:-1 tvg-name="SWR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png" group-title="Germany",SWR Ⓖ
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png" group-title="Germany",SWR Baden-Württemberg Ⓖ
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png" group-title="Germany",SWR Rheinland-Pfalz Ⓖ
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1 tvg-name="SR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/sr.png" group-title="Germany",SR Ⓖ
 http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
 #EXTINF:-1 tvg-name="HR Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/hr.png" group-title="Germany",HR Ⓖ
@@ -293,9 +331,9 @@ http://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
 http://mcdn.br.de/bfs_sued/de/master.m3u8
 #EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/kika.png" group-title="Germany",KiKa Ⓖ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-name="Tagesschau24 Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/tagesschau24.png" group-title="Germany",Tagesschau24 Ⓖ
+#EXTINF:-1 tvg-name="Tagesschau24 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png" group-title="Germany",Tagesschau24 Ⓖ
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/br-alpha.png" group-title="Germany",ARD Alpha Ⓖ
+#EXTINF:-1 tvg-name="ARD Alpha Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png" group-title="Germany",ARD Alpha Ⓖ
 http://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-name="DW Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" group-title="Germany",DW Ⓖ
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
@@ -303,10 +341,10 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="RBB Brandenburg Ⓖ" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png" group-title="Germany",RBB Brandenburg Ⓖ
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-name="Radio Bremen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/640px-Logo_Radio_Bremen.svg.png" group-title="Germany",Radio Bremen Ⓖ
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" group-title="Germany",Nick Ⓖ
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
-#EXTINF:-1 tvg-name="Deluxe Music Ⓖ Ⓢ" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="Germany",Deluxe Music Ⓖ Ⓢ
-https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" group-title="Greece",ERT 1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-name="ERT 2" tvg-logo="https://i.imgur.com/pcusPFl.png" group-title="Greece",ERT 2
@@ -353,8 +391,6 @@ https://redirect.onlinestream.live/mkredir.m3u8?video=dunalive&ext=.m3u8
 https://redirect.onlinestream.live/mkredir.m3u8?video=dunaworldlive&ext=.m3u8
 #EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" group-title="Hungary",RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1 tvg-name="Spektrum Home" tvg-logo="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" group-title="Hungary",Spektrum Home
-http://152.66.115.226:33390/bysid/207
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://onlinestream.live/logos/4739.png" group-title="Hungary",ATV
 http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-logo="https://onlinestream.live/logos/4740.png" group-title="Hungary",Hír TV
@@ -407,6 +443,8 @@ https://eurobioinvest.hu:444/live/ktv.m3u8
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Zalaegerszeg TV" tvg-logo="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" group-title="Hungary",Zalaegerszeg TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Zugló TV" tvg-logo="https://zuglotv.hu/wp-content/themes/ztv/uploads/ztv_logo1.jpg" group-title="Hungary",Zugló TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Hurra Iraq" tvg-logo="https://i.imgur.com/mXBZEQP.png" group-title="Iraq",Al-Hurra Iraq
 https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Hurra" tvg-logo="https://i.imgur.com/0izeu5z.png" group-title="Iraq",Al-Hurra
@@ -450,31 +488,35 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-name="Rai 3 Ⓖ" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="Italy",Rai 3 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1 tvg-name="Rete 4 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" group-title="Italy",Rete 4 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
 #EXTINF:-1 tvg-name="Canale 5 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/p6YdiR1.png" group-title="Italy",Canale 5 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
 #EXTINF:-1 tvg-name="Italia 1 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/oCiOxBG.png" group-title="Italy",Italia 1 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
+#EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" group-title="Italy",La7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" group-title="Italy",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-name="Canale 20 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/It13jwX.png" group-title="Italy",Canale 20 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d1_gwv_vos/live/channel(lb)/manifest.mpd
 #EXTINF:-1 tvg-name="Rai 4 Ⓖ" tvg-logo="https://i.imgur.com/XFkZRfv.png" group-title="Italy",Rai 4 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1 tvg-name="Iris Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/Ixz1BY3.png" group-title="Italy",Iris Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
 #EXTINF:-1 tvg-name="Rai 5 Ⓖ" tvg-logo="https://i.imgur.com/Leu2zTO.png" group-title="Italy",Rai 5 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
 #EXTINF:-1 tvg-name="Rai Movie Ⓖ" tvg-logo="https://i.imgur.com/RKpO8CE.png" group-title="Italy",Rai Movie Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 #EXTINF:-1 tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="Italy",Rai Premium Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-#EXTINF:-1 tvg-name="Paramount Channel Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/IBx03AS.png" group-title="Italy",Paramount Channel Ⓢ Ⓖ
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
+#EXTINF:-1 tvg-name="27 TWENTYSEVEN Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/y2PdPCK.png" group-title="Italy",27 TWENTYSEVEN Ⓢ Ⓖ
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ts)/manifest.mpd
 #EXTINF:-1 tvg-name="TV 2000 Ⓢ" tvg-logo="https://i.imgur.com/x7RaK3a.png" group-title="Italy",TV 2000 Ⓢ
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:-1 tvg-name="La7d" tvg-logo="https://i.imgur.com/AOL9nMw.png" group-title="Italy",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-name="La 5 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="Italy",La 5 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd
 #EXTINF:-1 tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="Italy",Real Time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" group-title="Italy",QVC
@@ -482,9 +524,9 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="Italy",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1 tvg-name="CINE 34 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/YyldwhI.png" group-title="Italy",CINE 34 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd
 #EXTINF:-1 tvg-name="Focus Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/M4smqpF.png" group-title="Italy",Focus Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd
 #EXTINF:-1 tvg-name="RTL 102.5 Ⓢ" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Italy",RTL 102.5 Ⓢ
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1 tvg-name="GM24 Ⓢ" tvg-logo="https://i.imgur.com/UCntSA3.png" group-title="Italy",GM24 Ⓢ
@@ -492,31 +534,29 @@ https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
 #EXTINF:-1 tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" group-title="Italy",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-name="Top Crime Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="Italy",Top Crime Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd
 #EXTINF:-1 tvg-name="BOING Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/niSlrqT.png" group-title="Italy",BOING Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
 #EXTINF:-1 tvg-name="Rai Gulp Ⓖ" tvg-logo="https://i.imgur.com/lu1DPVb.png" group-title="Italy",Rai Gulp Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-name="Rai YoYo Ⓖ" tvg-logo="https://i.imgur.com/DRSa3ys.png" group-title="Italy",Rai YoYo Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1 tvg-name="Cartoonito Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/zqc0TrY.png" group-title="Italy",Cartoonito Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(la)/manifest.mpd
 #EXTINF:-1 tvg-name="Super! Ⓢ" tvg-logo="https://i.imgur.com/zDByOwo.png" group-title="Italy",Super! Ⓢ
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="Italy",Rai News 24 Ⓖ
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
-#EXTINF:-1 tvg-name="Spike Ⓢ" tvg-logo="https://i.imgur.com/og6Q9rj.png" group-title="Italy",Spike Ⓢ
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 #EXTINF:-1 tvg-name="Sky TG 24 Ⓢ" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="Italy",Sky TG 24 Ⓢ
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 #EXTINF:-1 tvg-name="TGCOM 24 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="Italy",TGCOM 24 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd
 #EXTINF:-1 tvg-name="Dmax" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="Italy",Dmax
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1 tvg-name="Rai Storia Ⓖ" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="Italy",Rai Storia Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-name="Mediaset Extra Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="Italy",Mediaset Extra Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
 #EXTINF:-1 tvg-name="Rai Sport + Ⓖ" tvg-logo="https://i.imgur.com/vD0CDEp.png" group-title="Italy",Rai Sport + Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" group-title="Italy",Motor Trend
@@ -534,7 +574,7 @@ https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Italy",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Italia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" group-title="Italy",Italia 2 Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/5ONlZGS.png" group-title="Italy",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-name="Deejay TV Ⓢ" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Italy",Deejay TV Ⓢ
@@ -544,13 +584,13 @@ https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Italy",Rai Scuola Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-name="Radio 105 TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="Italy",Radio 105 TV Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EC)/index.m3u8
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ec)/manifest.mpd
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/qxu8Fkh.png" group-title="Italy",Radio KISS KISS TV
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="R101 TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/xstH1d2.png" group-title="Italy",R101 TV Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ER)/index.m3u8
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(er)/manifest.mpd
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Italy",Virgin Radio TV Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(EW)/index.m3u8
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
 #EXTINF:-1 tvg-name="RadioFreccia Ⓢ" tvg-logo="https://i.imgur.com/M5YYJv8.png" group-title="Italy",RadioFreccia Ⓢ
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 #EXTINF:-1 tvg-name="RDS Social TV Ⓢ" tvg-logo="https://i.imgur.com/TVuu0DH.png" group-title="Italy",RDS Social TV Ⓢ
@@ -558,7 +598,13 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-name="Radio ZETA Ⓢ" tvg-logo="https://i.imgur.com/0MgCm1n.png" group-title="Italy",Radio ZETA Ⓢ
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Italy",Radio Montecarlo TV Ⓢ Ⓖ
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(BB)/index.m3u8
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd
+#EXTINF:-1 tvg-name="Grande Fratello Vip Regia 1 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/PBTdU4G.png" group-title="Italy",Grande Fratello Vip Regia 1 Ⓢ Ⓖ
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
+#EXTINF:-1 tvg-name="Grande Fratello Vip Regia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/FKfwbHD.png" group-title="Italy",Grande Fratello Vip Regia 2 Ⓢ Ⓖ
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
+#EXTINF:-1 tvg-name="Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/fFZeBnc.png" group-title="Italy",Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
 #EXTINF:-1 tvg-name="Rai 4K Ⓖ" tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="Italy",Rai 4K Ⓖ
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-name="UniNettuno University TV Ⓖ" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Italy",UniNettuno University TV Ⓖ
@@ -1227,12 +1273,14 @@ https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Romance – Rakuten TV" tvg-logo="https://i.imgur.com/wSfLgHs.png" group-title="Italy",Romance – Rakuten TV
 https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion – Pluto TV" tvg-logo="https://i.imgur.com/cC0wrqG.png" group-title="Italy",Fashion – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c88130ab4a9800074e5f87/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Naturescape – Pluto TV" tvg-logo="https://i.imgur.com/CGB6qiV.png" group-title="Italy",Naturescape – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Reality – Pluto TV" tvg-logo="https://i.imgur.com/tPEOeTk.png" group-title="Italy",Reality – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Super! Brothers and Sisters – Pluto TV" tvg-logo="https://i.imgur.com/KSQvVye.png" group-title="Italy",Super! Brothers and Sisters – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Film – Pluto TV" tvg-logo="https://i.imgur.com/QeFc7F3.png" group-title="Italy",Film – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Sci-Fi – Pluto TV" tvg-logo="https://i.imgur.com/5B94N8g.png" group-title="Italy",Sci-Fi – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Film Azione – Pluto TV" tvg-logo="https://i.imgur.com/ZmAuf3H.png" group-title="Italy",Film Azione – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Film Romantici – Pluto TV" tvg-logo="https://i.imgur.com/sHg0bZc.png" group-title="Italy",Film Romantici – Pluto TV
@@ -1247,6 +1295,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d83
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Film Drama – Pluto TV" tvg-logo="https://i.imgur.com/X8jimKP.png" group-title="Italy",Film Drama – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Crime – Pluto TV" tvg-logo="https://i.imgur.com/WRMGIdb.png" group-title="Italy",Crime – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Serie – Pluto TV" tvg-logo="https://i.imgur.com/CHBhRZr.png" group-title="Italy",Serie – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Serie Teen – Pluto TV" tvg-logo="https://i.imgur.com/pBmsfU7.png" group-title="Italy",Serie Teen – Pluto TV
@@ -1259,58 +1309,72 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Andromeda – Pluto TV" tvg-logo="https://i.imgur.com/2HFhwX9.png" group-title="Italy",Andromeda – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Crime – Pluto TV" tvg-logo="https://i.imgur.com/WRMGIdb.png" group-title="Italy",Crime – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Ex on the beach – Pluto TV" tvg-logo="https://i.imgur.com/IONkdyk.png" group-title="Italy",Ex on the beach – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Catfish – Pluto TV" tvg-logo="https://i.imgur.com/KajHKoP.png" group-title="Italy",Catfish – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Real life – Pluto TV" tvg-logo="https://i.imgur.com/FpwqJYw.png" group-title="Italy",Real life – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Anime – Pluto TV" tvg-logo="https://i.imgur.com/lkBlZgl.png" group-title="Italy",Anime – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Young and fabulous – Pluto TV" tvg-logo="https://i.imgur.com/H61Q2oO.png" group-title="Italy",Young and fabulous – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd20007637411/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Dating – Pluto TV" tvg-logo="https://i.imgur.com/WF2sYcY.png" group-title="Italy",Dating – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6094071be159e00007e860fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="16 anni e incinta – Pluto TV" tvg-logo="https://i.imgur.com/4BHrbP7.png" group-title="Italy",16 anni e incinta – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Scherzi e risate – Pluto TV" tvg-logo="https://i.imgur.com/kPxGzPI.png" group-title="Italy",Scherzi e risate – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Il banco dei pugni – Pluto TV" tvg-logo="https://i.imgur.com/2Lj1sdf.png" group-title="Italy",Il banco dei pugni – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="People are awesome – Pluto TV" tvg-logo="https://i.imgur.com/jn0OeWv.png" group-title="Italy",People are awesome – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Fail army – Pluto TV" tvg-logo="https://i.imgur.com/SqRDd2U.png" group-title="Italy",Fail army – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608014d19a26320007c92ab6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="The pet collective – Pluto TV" tvg-logo="https://i.imgur.com/034PrSz.png" group-title="Italy",The pet collective – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Just for laughs – Pluto TV" tvg-logo="https://i.imgur.com/VvEz0XX.png" group-title="Italy",Just for laughs – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Ex on the beach – Pluto TV" tvg-logo="https://i.imgur.com/IONkdyk.png" group-title="Italy",Ex on the beach – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Catfish – Pluto TV" tvg-logo="https://i.imgur.com/KajHKoP.png" group-title="Italy",Catfish – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Anime – Pluto TV" tvg-logo="https://i.imgur.com/lkBlZgl.png" group-title="Italy",Anime – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Il banco dei pugni – Pluto TV" tvg-logo="https://i.imgur.com/2Lj1sdf.png" group-title="Italy",Il banco dei pugni – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="16 anni e incinta – Pluto TV" tvg-logo="https://i.imgur.com/4BHrbP7.png" group-title="Italy",16 anni e incinta – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Dating – Pluto TV" tvg-logo="https://i.imgur.com/WF2sYcY.png" group-title="Italy",Dating – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6094071be159e00007e860fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Family – Pluto TV" tvg-logo="https://i.imgur.com/Wux4qyT.png" group-title="Italy",Family – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="People are awesome – Pluto TV" tvg-logo="https://i.imgur.com/jn0OeWv.png" group-title="Italy",People are awesome – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Celebration – Pluto TV" tvg-logo="https://i.imgur.com/DQL9vG8.png" group-title="Italy",Celebration – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612cde2edd516f0007e102ad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Cucina – Pluto TV" tvg-logo="https://i.imgur.com/KsOhaOn.png" group-title="Italy",Cucina – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Real life – Pluto TV" tvg-logo="https://i.imgur.com/FpwqJYw.png" group-title="Italy",Real life – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Young and fabulous – Pluto TV" tvg-logo="https://i.imgur.com/H61Q2oO.png" group-title="Italy",Young and fabulous – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee90dd20007637411/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Fashion – Pluto TV" tvg-logo="https://i.imgur.com/cC0wrqG.png" group-title="Italy",Fashion – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c88130ab4a9800074e5f87/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Clubbing TV – Pluto TV" tvg-logo="https://i.imgur.com/D5U4unl.png" group-title="Italy",Clubbing TV – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Loupe – Pluto TV" tvg-logo="https://i.imgur.com/RApNs2W.png" group-title="Italy",Loupe – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802e86a6997500072cfe90/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Qwest Jazz&Beyond – Pluto TV" tvg-logo="https://i.imgur.com/Ch2qOA4.png" group-title="Italy",Qwest Jazz&Beyond – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60db3bbd9397a00007ab029a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Sport – Pluto TV" tvg-logo="https://i.imgur.com/o2psAYW.png" group-title="Italy",Sport – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="IGN – Pluto TV" tvg-logo="https://i.imgur.com/9SsTKJu.png" group-title="Italy",IGN – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="World poker tour – Pluto TV" tvg-logo="https://i.imgur.com/AF1ON8u.png" group-title="Italy",World poker tour – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Super Spongebob – Pluto TV" tvg-logo="https://i.imgur.com/vFiwODM.png" group-title="Italy",Super Spongebob – Pluto TV
+#EXTINF:-1 tvg-name="Maradona, sin cortes – Pluto TV" tvg-logo="https://i.imgur.com/1BqLYel.png" group-title="Italy",Maradona, sin cortes – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/618b98b04b1ec000075af6da/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="FUEL TV – Pluto TV" tvg-logo="https://i.imgur.com/sfL6NXb.png" group-title="Italy",FUEL TV – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dbea1f19550007dd0dfa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Super! Spongebob – Pluto TV" tvg-logo="https://i.imgur.com/vFiwODM.png" group-title="Italy",Super! Spongebob – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Super Eroi – Pluto TV" tvg-logo="https://i.imgur.com/gsX9A5b.png" group-title="Italy",Super Eroi – Pluto TV
+#EXTINF:-1 tvg-name="Super! Eroi – Pluto TV" tvg-logo="https://i.imgur.com/gsX9A5b.png" group-title="Italy",Super! Eroi – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Super Icarly – Pluto TV" tvg-logo="https://i.imgur.com/Mhl252U.png" group-title="Italy",Super Icarly – Pluto TV
+#EXTINF:-1 tvg-name="Super! Icarly – Pluto TV" tvg-logo="https://i.imgur.com/Mhl252U.png" group-title="Italy",Super! Icarly – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Super POP – Pluto TV" tvg-logo="https://i.imgur.com/jlz31HP.png" group-title="Italy",Super POP – Pluto TV
+#EXTINF:-1 tvg-name="Super! POP – Pluto TV" tvg-logo="https://i.imgur.com/jlz31HP.png" group-title="Italy",Super! POP – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Super Star – Pluto TV" tvg-logo="https://i.imgur.com/YLtqPkF.png" group-title="Italy",Super Star – Pluto TV
+#EXTINF:-1 tvg-name="Super! Star – Pluto TV" tvg-logo="https://i.imgur.com/YLtqPkF.png" group-title="Italy",Super! Star – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Documentari – Pluto TV" tvg-logo="https://i.imgur.com/0jYrODf.png" group-title="Italy",Documentari – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Natura – Pluto TV" tvg-logo="https://i.imgur.com/Pc4gx12.png" group-title="Italy",Natura – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Naturescape – Pluto TV" tvg-logo="https://i.imgur.com/CGB6qiV.png" group-title="Italy",Naturescape – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8c2ac2000734776e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News Ⓨ
 https://youtu.be/coYw-eVU0Ks
 #EXTINF:-1 tvg-name="NHK G Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" group-title="Japan",NHK G Ⓢ
@@ -1410,9 +1474,9 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 #EXTINF:-1 tvg-name="Porto Canal Ⓢ" tvg-logo="https://i.imgur.com/wsyvP2H.png" group-title="Portugal",Porto Canal Ⓢ
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-name="Первый канал Ⓢ" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Russia",Первый канал Ⓢ
-http://ott-cdn.ucom.am/s14/04.m3u8
+http://iptv.ktkru.ru:8001/index.m3u8
 #EXTINF:-1 tvg-name="Россия 1 Ⓢ" tvg-logo="https://i.imgur.com/WI6hKez.png" group-title="Russia",Россия 1 Ⓢ
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+http://iptv.ktkru.ru:8002/index.m3u8
 #EXTINF:-1 tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" group-title="Russia",Матч ТВ Ⓢ
 http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:-1 tvg-name="НТВ Ⓢ" tvg-logo="https://i.imgur.com/DtQX5P2.png" group-title="Russia",НТВ Ⓢ
@@ -1430,7 +1494,7 @@ http://iptv.ktkru.ru:8009/index.m3u8
 #EXTINF:-1 tvg-name="ТВ Центр Ⓢ" tvg-logo="https://i.imgur.com/ZP0D6Rd.png" group-title="Russia",ТВ Центр Ⓢ
 http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ Ⓢ" tvg-logo="https://i.imgur.com/18TAzYV.png" group-title="Russia",Рен ТВ Ⓢ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://iptv.ktkru.ru:8011/index.m3u8
 #EXTINF:-1 tvg-name="СТС Ⓢ" tvg-logo="https://i.imgur.com/y9bpqUD.png" group-title="Russia",СТС Ⓢ
 http://iptv.ktkru.ru:8013/index.m3u8
 #EXTINF:-1 tvg-name="Домашний Ⓢ" tvg-logo="https://i.imgur.com/e8wlMIt.png" group-title="Russia",Домашний Ⓢ
@@ -1449,30 +1513,32 @@ http://iptv.ktkru.ru:8019/index.m3u8
 http://iptv.ktkru.ru:8020/index.m3u8
 #EXTINF:-1 tvg-name="San Marino Rtv" tvg-logo="https://i.imgur.com/lJpOlLv.png" group-title="San Marino",San Marino Rtv
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 tvg-name="San Marino Rtv Sport Ⓢ" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="San Marino",San Marino Rtv Sport Ⓢ
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
+#EXTINF:-1 tvg-name="San Marino Rtv Sport" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="San Marino",San Marino Rtv Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" group-title="Slovakia",Jednotka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
+https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=1
 #EXTINF:-1 tvg-name="Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" group-title="Slovakia",Dvojka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
+https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=2
 #EXTINF:-1 tvg-name="Trojka" tvg-logo="https://i.imgur.com/wy4Nrxl.png" group-title="Slovakia",Trojka
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
+https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=3
+#EXTINF:-1 tvg-name="RTVS Šport" tvg-logo="https://i.imgur.com/YzHipRF.png" group-title="Slovakia",RTVS Šport
+https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=15
 #EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",:O
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=4
+https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=4
 #EXTINF:-1 tvg-name="RTVS" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",RTVS
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=6
+https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=6
 #EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" group-title="Slovakia",NR SR
-https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=5
+https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=5
 #EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" group-title="Slovakia",JOJ
 https://live.cdn.joj.sk/live/hls/joj-720.m3u8
-#EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Slovakia",JOJ Plus
+#EXTINF:-1 tvg-name="JOJ Plus Ⓢ" tvg-logo="https://i.imgur.com/fKPliTj.png" group-title="Slovakia",JOJ Plus Ⓢ
 https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:-1 tvg-name="WAU" tvg-logo="https://i.imgur.com/3M46moH.png" group-title="Slovakia",WAU
+#EXTINF:-1 tvg-name="WAU Ⓢ" tvg-logo="https://i.imgur.com/3M46moH.png" group-title="Slovakia",WAU Ⓢ
 https://live.cdn.joj.sk/live/hls/wau-540.m3u8
 #EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" group-title="Slovakia",Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" group-title="Slovakia",TA3 Ⓢ
-http://sktv-forwarders.7m.pl/get.php?x=TA3
+https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
 #EXTINF:-1 tvg-name="RTV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" group-title="Slovenia",RTV SLO 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" group-title="Slovenia",RTV SLO 2
@@ -1727,57 +1793,57 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="USA",Drybar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="Movies (EN)",FilmRise Movies
+#EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="VOD Movies (EN)",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="Movies (EN)",FilmRise Sci-Fi
+#EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="VOD Movies (EN)",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
-#EXTINF:-1 tvg-name="Pluto TV 007" tvg-logo="https://i.imgur.com/qKqEqUC.png" group-title="Movies (EN)",Pluto TV 007
+#EXTINF:-1 tvg-name="Pluto TV 007" tvg-logo="https://i.imgur.com/qKqEqUC.png" group-title="VOD Movies (EN)",Pluto TV 007
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="Movies (EN)",Pluto TV Spotlight
+#EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="VOD Movies (EN)",Pluto TV Spotlight
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="Movies (EN)",Pluto TV Action
+#EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="VOD Movies (EN)",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="Movies (EN)",Pluto TV Comedy
+#EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="VOD Movies (EN)",Pluto TV Comedy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="Movies (EN)",Pluto TV Drama
+#EXTINF:-1 tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="VOD Movies (EN)",Pluto TV Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="Movies (EN)",Pluto TV Fantastic
+#EXTINF:-1 tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="VOD Movies (EN)",Pluto TV Fantastic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="Movies (EN)",Pluto TV Romance
+#EXTINF:-1 tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="VOD Movies (EN)",Pluto TV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="Movies (EN)",Pluto TV Crime Movies
+#EXTINF:-1 tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="VOD Movies (EN)",Pluto TV Crime Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="Movies (EN)",Pluto TV Thrillers
+#EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="VOD Movies (EN)",Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/An93hAh.png" group-title="Movies (EN)",Pluto TV Horror
+#EXTINF:-1 tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/An93hAh.png" group-title="VOD Movies (EN)",Pluto TV Horror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="Movies (EN)",Pluto TV Terror
+#EXTINF:-1 tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="VOD Movies (EN)",Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Black Cinema" tvg-logo="https://i.imgur.com/Zh1QGW9.png" group-title="Movies (EN)",Black Cinema
+#EXTINF:-1 tvg-name="Black Cinema" tvg-logo="https://i.imgur.com/Zh1QGW9.png" group-title="VOD Movies (EN)",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Staff Picks" tvg-logo="https://i.imgur.com/DFDHAT8.png" group-title="Movies (EN)",Pluto TV Staff Picks
+#EXTINF:-1 tvg-name="Pluto TV Staff Picks" tvg-logo="https://i.imgur.com/DFDHAT8.png" group-title="VOD Movies (EN)",Pluto TV Staff Picks
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Documentaries" tvg-logo="https://i.imgur.com/Mr4ZsNZ.png" group-title="Movies (EN)",Pluto TV Documentaries
+#EXTINF:-1 tvg-name="Pluto TV Documentaries" tvg-logo="https://i.imgur.com/Mr4ZsNZ.png" group-title="VOD Movies (EN)",Pluto TV Documentaries
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="Movies (EN)",90s Throwback
+#EXTINF:-1 tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/sI1o3uK.png" group-title="VOD Movies (EN)",90s Throwback
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="80s Rewind" tvg-logo="https://i.imgur.com/0FaLAhK.png" group-title="Movies (EN)",80s Rewind
+#EXTINF:-1 tvg-name="80s Rewind" tvg-logo="https://i.imgur.com/0FaLAhK.png" group-title="VOD Movies (EN)",80s Rewind
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="Movies (EN)",70s Cinema
+#EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="VOD Movies (EN)",70s Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="Movies (EN)",Paramount Movie Channel
+#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="VOD Movies (EN)",Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Westerns" tvg-logo="https://i.imgur.com/79R7m0b.png" group-title="Movies (EN)",Pluto TV Westerns
+#EXTINF:-1 tvg-name="Pluto TV Westerns" tvg-logo="https://i.imgur.com/79R7m0b.png" group-title="VOD Movies (EN)",Pluto TV Westerns
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="Movies (EN)",Classic Movies
+#EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="VOD Movies (EN)",Classic Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Cult Films" tvg-logo="https://i.imgur.com/kD3SkoC.png" group-title="Movies (EN)",Pluto TV Cult Films
+#EXTINF:-1 tvg-name="Pluto TV Cult Films" tvg-logo="https://i.imgur.com/kD3SkoC.png" group-title="VOD Movies (EN)",Pluto TV Cult Films
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Flicks of Fury" tvg-logo="https://i.imgur.com/yhyzBfb.png" group-title="Movies (EN)",Flicks of Fury
+#EXTINF:-1 tvg-name="Flicks of Fury" tvg-logo="https://i.imgur.com/yhyzBfb.png" group-title="VOD Movies (EN)",Flicks of Fury
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="The Asylum" tvg-logo="https://i.imgur.com/rOxQfdG.png" group-title="Movies (EN)",The Asylum
+#EXTINF:-1 tvg-name="The Asylum" tvg-logo="https://i.imgur.com/rOxQfdG.png" group-title="VOD Movies (EN)",The Asylum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Film Detective" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="Movies (EN)",Film Detective
+#EXTINF:-1 tvg-name="Film Detective" tvg-logo="https://i.imgur.com/4aFLH9g.png" group-title="VOD Movies (EN)",Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Euronews Live Ⓨ" tvg-logo="https://camo.githubusercontent.com/785a3480a1147c881311d4cd93ffa9f6db9fa04c0411718431bd9d22d07201ae/68747470733a2f2f692e696d6775722e636f6d2f384d73625043552e706e67" group-title="News (EN)",Euronews Live Ⓨ
 https://www.youtube.com/watch?v=sPgqEHsONK8
