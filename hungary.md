@@ -66,7 +66,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 17  | Kecskemét TV   | [>](https://eurobioinvest.hu:444/live/ktv.m3u8) | <img height="20" src="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" /> |
 | 19  | Lóverseny közvetítés | [>](https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8) | <img height="20" src="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" /> |
 | 20  | Zalaegerszeg TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8) | <img height="20" src="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" /> |
-| 21  | Zugló TV       | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8) | <img height="20" src="https://zuglotv.hu/wp-content/themes/ztv/uploads/ztv_logo1.jpg" /> |
+| 21  | Zugló TV       | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8) | <img height="20" src="http://zuglotv.hu/wp-content/themes/ztv/uploads/ztv_logo1.jpg" /> |
 | 22  | Tisza TV       | [>](https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
 
 
