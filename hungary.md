@@ -8,8 +8,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:-----:
 | 1   | M1             | [>](http://78.109.104.240:8000/play/a0bs/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
 | 2   | M2 / Petőfi TV | [>](http://78.109.104.240:8000/play/a0bt/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
-| 3   | M3             | [>](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
-| 4   | M4 Sport       | [>](http://78.109.104.240:8000/play/a0ao/index.m3u8?HasBahCa.m3u8) |  <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
+| 3   | M3             | [>](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8)    | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
+| 4   | M4 Sport       | [>](http://78.109.104.240:8000/play/a0ao/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
 | 5   | M5 Hungary     | [>](http://78.109.104.240:8000/play/a0cx/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
 | 6   | Duna TV        | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=dunalive&ext=.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> |
 | 7   | Duna World     | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=dunaworldlive&ext=.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> |
