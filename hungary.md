@@ -6,10 +6,11 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 1   | M1             | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=mtv1live&ext=.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
-| 2   | M2 / Petőfi TV | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=mtv2live&ext=.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
-| 3   | M3             | [>](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
-| 5   | M5 Hungary     | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=mtv5live&ext=.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
+| 1   | M1             | [>](http://78.109.104.240:8000/play/a0bs/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
+| 2   | M2 / Petőfi TV | [>](http://78.109.104.240:8000/play/a0bt/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
+| 3   | M3             | [>](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8)    | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
+| 4   | M4 Sport       | [>](http://78.109.104.240:8000/play/a0ao/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
+| 5   | M5 Hungary     | [>](http://78.109.104.240:8000/play/a0cx/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
 | 6   | Duna TV        | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=dunalive&ext=.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> |
 | 7   | Duna World     | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=dunaworldlive&ext=.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> |
 
@@ -19,14 +20,15 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:-----:
 | 1   | RTL Klub       | [>](https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> |
 | 2   | ATV            | [>](http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/4739.png" /> |
-| 3   | Hír TV         | [>](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> |
-| 4   | Fix TV         | [>](https://onlinestream.live/play.m3u8?id=1833&ch=4&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
+| 3   | Hír TV         | [>](http://78.109.104.240:8000/play/a0br/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> |
+| 4   | Fix TV         | [>](https://fixhd.tv:8082/fix/1080i/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
 
 <h2>Religion</h2>
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
 | 1   | EWTN TV        | [>](https://stream.y5.hu/stream/stream_bonum/stream.m3u8) | <img height="20" src="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" /> |
+| 2   | Apostol TV     | [>](https://live.apostoltv.hu/online/smil:gazdagret.smil/HasBahCa.m3u8) | <img height="20" src="https://www.apostoltv.hu/images/header-logo.png" /> |
 
 <h2>Music</h2>
 
@@ -39,7 +41,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 1   | Izaura TV      | [>](https://onlinestream.live/play.m3u8?id=6163&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> |
+| 1   | Izaura TV      | [>](http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> |
 
 <h2>Regional</h2>
 
@@ -64,7 +66,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 17  | Kecskemét TV   | [>](https://eurobioinvest.hu:444/live/ktv.m3u8) | <img height="20" src="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" /> |
 | 19  | Lóverseny közvetítés | [>](https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8) | <img height="20" src="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" /> |
 | 20  | Zalaegerszeg TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8) | <img height="20" src="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" /> |
-| 20  | Zugló TV       | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8) | <img height="20" src="https://zuglotv.hu/wp-content/themes/ztv/uploads/ztv_logo1.jpg" /> |
+| 21  | Zugló TV       | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8) | <img height="20" src="http://zuglotv.hu/wp-content/themes/ztv/uploads/ztv_logo1.jpg" /> |
+| 22  | Tisza TV       | [>](https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
 
 
 <h2>Invalid</h2>
@@ -76,5 +79,4 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 2   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
 | 4   | DikhTv         | [x](https://onlinestream.live/play.xspf?id=6424&ch=1&ext=.xspf) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> |
 | 5   | PestiTV        | [x](https://onlinestream.live/play.m3u?id=6658&ch=1&ext=.m3u8) | <img height="20" src="https://pestitv.pestisracok.hu/wp-content/uploads/2020/08/PestiTV_Logo_40white-2.png" /> |
-| 6   | M4 Sport       | [x](https://onlinestream.live/play.m3u8?id=5903&ch=1&ext=.m3u8) | <img height="20" src="https://i.imgur.com/9aF9H55.png" /> |
 | 7   | Spektrum Home  | [x](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> |
