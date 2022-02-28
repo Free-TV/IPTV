@@ -4,7 +4,7 @@
 |:---:|:--------------:|:-----:|:----:|
 | 1   | Jednotka    | [>](https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=1) | <img height="20" src="https://i.imgur.com/T7EWAe7.png"/> |
 | 2   | Dvojka    | [>](https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=2) | <img height="20" src="https://i.imgur.com/Ksi25UD.png"/> |
-| 3   | Trojka    | [>](https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=3) | <img height="20" src="https://i.imgur.com/wy4Nrxl.png"/> |
+| 3   | 24    | [>](https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=3) | <img height="20" src="https://i.imgur.com/sdSsFU0.png"/> |
 | 4   | RTVS Šport    | [>](https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=15) | <img height="20" src="https://i.imgur.com/YzHipRF.png"/> |
 | 5   | :O    | [>](https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=4) | <img height="20" src="https://i.imgur.com/Nf5gEDc.png"/> |
 | 6   | RTVS    | [>](https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=6) | <img height="20" src="https://i.imgur.com/Nf5gEDc.png"/> |
