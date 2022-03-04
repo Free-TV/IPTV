@@ -241,7 +241,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Rttr | [>](https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/z7xMArA.png"/> |
 | 0   | Rtv 38 Toscana | [>](http://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S12268608/CXHH7K39hg9K/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xqlhJqK.png"/> |
 | 0   | Rtv Calabria | [>](https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Ytwyx8D.png"/> |
-| 0   | Rtv San Marino Sat | [>](https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8) | <img height="20" src="https://i.imgur.com/EsjYgQ1.jpg"/> |
 | 0   | SL 48 Tv | [>](http://media.velcom.it:1935/sl48/sl48/playlist.m3u8) | <img height="20" src="https://i.imgur.com/b58oouu.jpg"/> |
 | 0   | ST Europe Channel | [>](https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/T7kyY2p.png"/> |
 | 0   | Sardegna 1 | [>](https://59d8c0cee6f3d.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qRRGn1e.png"/> |
@@ -341,7 +340,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Sveva News 24 | [>](https://dc1.telesveva.erefresh.it:4443/news24.mp4) | <img height="20" src="https://i.imgur.com/4HlRpf4.jpg"/> |
 | 0   | Tele Tebe | [>](https://5c389faa13be3.streamlock.net:9553/calabriasat/calabriasat/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YirYT4J.png"/> |
 | 0   | Tele Terni | [>](https://diretta.teleterni.it/live/stream_src.m3u8) | <img height="20" src="https://i.imgur.com/lslSS3a.jpg"/> |
-| 0   | Tele Ticino | [>](https://livestream.gruppocdt.ch/hls/teleticino.m3u8) | <img height="20" src="https://i.imgur.com/izfB7u1.png"/> |
 | 0   | Tele Tricolore | [>](https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A2XouAd.png"/> |
 | 0   | Tele Tutto 2 | [>](https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mxXbMaw.png"/> |
 | 0   | Tele Tutto 24 | [>](https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/weKWQgx.png"/> |
@@ -380,7 +378,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tva Vicenza | [>](http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FtFuPCC.png"/> |
 | 0   | Tvr Xenon | [>](https://cloudtv.azotosolutions.com:9553/tvrxenonlive/tvrxenonlive/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
 | 0   | Tvrs Tv | [>](https://59d7d6f47d7fc.streamlock.net/tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
-| 0   | Tv Koper Capodistria  | [>](https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR) | <img height="20" src="https://i.imgur.com/Fqwbefp.png"/> |
 | 0   | Umbria TV  | [>](https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kccGe02.png"/> |
 | 0   | Uninettuno University Tv  | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/awnuxMY.png"/> |
 | 0   | Vera Tv | [>](http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/djMvkvN.png"/> |
