@@ -22,6 +22,6 @@
 
 | #   | Channel   | Link   | Logo |
 |:---:|:---------:|:------:|:-----:
-| 1   | RSI La 1   | [x]() | <img height="20" src="https://i.imgur.com/j8ogbli.png"/> |
-| 2   | RSI La 2   | [x]() | <img height="20" src="https://i.imgur.com/vm62h3t.png"/> |
+| 1   | RSI La 1   | [>](http://190.2.155.162/RSI1/index.m3u8) | <img height="20" src="https://i.imgur.com/j8ogbli.png"/> |
+| 2   | RSI La 2   | [>](http://190.2.155.162/RSI2/index.m3u8) | <img height="20" src="https://i.imgur.com/vm62h3t.png"/> |
 | 3   | Teleticino | [>](https://livestream.gruppocdt.ch/hls/teleticino.m3u8) | <img height="20" src="https://i.imgur.com/zm2ruqz.png"/> |
