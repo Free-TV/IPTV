@@ -15,7 +15,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 6   | Italia 1 Ⓢ Ⓖ  | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd) | <img height="20" src="https://i.imgur.com/oCiOxBG.png"/> |
 | 7   | La7            | [>](https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8) | <img height="20" src="https://i.imgur.com/F90mpSa.png"/> |
 | 9   | Nove           | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8) | <img height="20" src="https://i.imgur.com/Hp723RU.png"/> |
-| 10  | 7Gold           | [>](https://stream6.xdevel.com/video0s86-1159/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MfSIYpm.png"/> |
 | 20  | Canale 20 Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d1_gwv_vos/live/channel(lb)/manifest.mpd) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> |
 | 21  | Rai 4 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966) | <img height="20" src="https://i.imgur.com/XFkZRfv.png"/> |
 | 22  | Iris Ⓢ Ⓖ     | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd) | <img height="20" src="https://i.imgur.com/Ixz1BY3.png"/> |
