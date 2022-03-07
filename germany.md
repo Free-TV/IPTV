@@ -37,4 +37,4 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 28   | RBB Brandenburg Ⓖ      | [>](https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png"/> |
 | 29   | Radio Bremen Ⓖ      | [>](https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/640px-Logo_Radio_Bremen.svg.png"/> |
 | 30   | Nick Ⓖ      | [>](http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8) | <img height="20" src="https://i.imgur.com/mhldfsB.png"/> |
-| 31   | Deluxe Music Ⓖ Ⓢ      | [x](https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/E65GQN9.png"/> |
+| 31   | Deluxe Music      | [>](https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8) | <img height="20" src="https://i.imgur.com/E65GQN9.png"/> |
