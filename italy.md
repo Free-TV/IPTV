@@ -1,9 +1,9 @@
 <h1>Italy</h1>
 
-<h2>National</h2>
-
 https://en.wikipedia.org/wiki/Television_in_Italy#Digital_terrestrial_television
 https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
+
+<h2>National</h2>
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
@@ -46,7 +46,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 52  | Dmax           | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8) | <img height="20" src="https://i.imgur.com/dmEmRX7.png"/> |
 | 54  | Rai Storia Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> |
 | 55  | Mediaset Extra Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd) | <img height="20" src="https://i.imgur.com/mM8lopo.png"/> |
-| 57  | Rai Sport + Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025) | <img height="20" src="https://i.imgur.com/vD0CDEp.png"/> |
+| 57 | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> |
+| 58  | Rai Sport + Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025) | <img height="20" src="https://i.imgur.com/vD0CDEp.png"/> |
 | 59  | Motor Trend    | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> |
 | 60  | Sportitalia    | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_720p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> |
 | 60  | Sportitalia MOTORI | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> |
@@ -59,14 +60,13 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 68  | BOM Channel Ⓢ    | [>](https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hISoOK3.png"/> |
 | 69  | Deejay TV Ⓢ    | [>](https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8) | <img height="20" src="https://i.imgur.com/rlaKH6k.png"/> |
 | 70  | RadioItaliaTV Ⓢ | [>](https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8) | <img height="20" src="https://i.imgur.com/4VCEJuJ.png"/> |
-| 146 | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> |
 | 158 | Radio KISS KISS TV | [>](https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qxu8Fkh.png"/> |
 | 167 | VH1            | [>](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> |
-| 257 | Virgin Radio TV Ⓢ Ⓖ | [>](https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> |
 | 258 | RadioFreccia Ⓢ | [>](https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M5YYJv8.png"/> |
 | 265 | RDS Social TV Ⓢ | [>](https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8) | <img height="20" src="https://i.imgur.com/TVuu0DH.png"/> |
 | 266 | Radio ZETA Ⓢ   | [>](https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> |
 | 772 | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> |
+| 786 | Virgin Radio TV Ⓢ Ⓖ | [>](https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> |
 | 0   | Grande Fratello Vip Regia 1 Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd) | <img height="20" src="https://i.imgur.com/PBTdU4G.png"/> |
 | 0   | Grande Fratello Vip Regia 2 Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd) | <img height="20" src="https://i.imgur.com/FKfwbHD.png"/> |
 | 0   | Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd) | <img height="20" src="https://i.imgur.com/fFZeBnc.png"/> |
@@ -268,7 +268,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Acras | [>](https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/90Lsv8q.png"/> |
 | 0   | Tele Arena | [>](https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9hsoWMO.png"/> |
 | 0   | Tele Argento/Magic Tv | [>](http://163.172.88.73:1935/magic_web/site/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gseTf4W.jpg"/> |
-| 0   | Tele Bari | [>](http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HYSz4rx.png"/> |
 | 0   | Tele Bari | [>](https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HYSz4rx.png"/> |
 | 0   | Tele Belluno | [>](https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/YiM2Z7E.png"/> |
 | 0   | Tele Blu | [>](https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NWMTlry.jpg"/> |
@@ -306,7 +305,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Occidente | [>](http://ciaoitalystream.ddns.net/live/webTELEOCCIDENTEweb/montelepre@palermo/2.m3u8) | <img height="20" src="https://i.imgur.com/3aOiWKa.png"/> |
 | 0   | Tele Oltre | [>](http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8) | <img height="20" src="https://i.imgur.com/PxtJAxs.png"/> |
 | 0   | Tele One | [>](http://live.streamcaster.net:1935/mediaone_live/teleone/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hTDDVOQ.png"/> |
-| 0   | Tele Pace   | [>](http://live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TnrqB33.png"/> |
 | 0   | Tele Pace 1 | [>](https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/ut0Hg8o.png"/> |
 | 0   | Tele Pace 2 | [>](https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/RqrPraO.png"/> |
 | 0   | Tele Pace 3 | [>](https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/gLsE3mX.png"/> |
@@ -499,12 +497,11 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:-----:
 | 8   | TV8            | [x]() | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> |
 | 26  | Cielo          | [x]() | <img height="20" src="https://i.imgur.com/cPluF03.png"/> |
-| 27  | Paramount Channel Ⓢ Ⓖ | [x](https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8) | <img height="20" src="https://i.imgur.com/IBx03AS.png"/> |
 | 41  | K2             | [x](https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> |
 | 44  | Frisbee        | [x](https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> |
-| 49  | Spike Ⓢ       | [x](https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8) | <img height="20" src="https://i.imgur.com/og6Q9rj.png"/> |
 | 56  | HGTV – Home & Garden Tv  | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> |
-| 58  | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> |
+| 64  | SuperTennis    | [x]() | <img height="20" src="https://i.imgur.com/GzsPlbX.png"/> |
+| 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> |
 | 50 | Christmas – Pluto TV | [x](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/tQ8lN30.png"/> |
 | 300 | Super! Xmas – Pluto TV | [x](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce0ead825b300078b7082/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/pBwvZfS.png"/> |
 | 305 | Fireplace – Pluto TV | [x](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce23f51cce000078eeed5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/csk1e76.png"/> |
