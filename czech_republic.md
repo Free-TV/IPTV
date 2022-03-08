@@ -7,7 +7,7 @@
 | 3   | Šlágr 2 Ⓢ    | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://i.imgur.com/2rcy4Wo.png"/> |
 | 4   | Šlágr Premium Ⓢ    | [>](https://arenasportslovakia.ddns.net/hls/slager.m3u8) | <img height="20" src="https://i.imgur.com/Lp0IqDx.png"/> |
 | 5   | Prima Ⓢ Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/0aHT2Nj.png"> |
-| 6   | CNN Prima News Ⓢ Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/Il7t0bU.png"> |
+| 6   | CNN Prima News Ⓢ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/Il7t0bU.png"> |
 | 7   | Prima Zoom Ⓢ Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/zuzBucZ.png"> |
 | 8   | Prima Love Ⓢ Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/TOCZc3Y.png"> |
 | 9   | Prima STAR Ⓢ Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/tQGwvNs.png"> |
