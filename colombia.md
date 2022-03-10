@@ -5,10 +5,10 @@
 
 | #   | Channel     | Link  | Logo |
 |:---:|:-----------:|:-----:|:-----:
-| 1   | Canal 1 ©| [>]() | <img height="20" src=""/> |
-| 2   | Caracol TV    | [>]() | <img height="20" src=""/> |
-| 3   | Canal RCN ©     | [>]() | <img height="20" src=""/> |
-| 4   | Señal Colombia ©| [>]() | <img height="20" src=""/> |
+| 1   | Canal 1 ©| [>]() | <img height="20" src="https://i.imgur.com/cf1XPvW.png"/> |
+| 2   | Caracol TV    | [>]() | <img height="20" src="https://i.imgur.com/IbYzIg1.png"/> |
+| 3   | Canal RCN ©     | [>]() | <img height="20" src="https://i.imgur.com/ntTLqwt.png"/> |
+| 4   | Señal Colombia ©| [>]() | <img height="20" src="https://i.imgur.com/JxfTnMQ.png"/> |
 
 
 <h3>Regional</h3>
