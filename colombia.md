@@ -15,6 +15,6 @@
 
 | #   | Channel     | Link  | Logo |
 |:---:|:-----------:|:-----:|:-----:
-| 1   | Canal Capital | [>](https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8) | <img height="20" src=""/> |
-| 2   | Teleantioquia | [>](https://player.instantvideocloud.net/#/embed/883515ae) | <img height="20" src=""/> |
-| 3   | Telemedellin | [>](https://player.instantvideocloud.net/#/embed/1171ea8b) | <img height="20" src=""/> |
+| 1   | Canal Capital | [>](https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8) | <img height="20" src="https://i.imgur.com/N0zoph6.png"/> |
+| 2   | Teleantioquia | [>](https://player.instantvideocloud.net/#/embed/883515ae) | <img height="20" src="https://i.imgur.com/KYppBgf.png"/> |
+| 3   | Telemedellin | [>](https://player.instantvideocloud.net/#/embed/1171ea8b) | <img height="20" src="https://i.imgur.com/KYppBgf.png"/> |
