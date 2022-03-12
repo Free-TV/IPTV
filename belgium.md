@@ -5,7 +5,7 @@
 | #   | Channel         | Link  | Logo |
 |:---:|:---------------:|:-----:|:-----:
 | 1   | RTL-Be         | [>](https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8) | <img height="20" src="https://i.imgur.com/xMhSvax.png"/> |
-| 2   | La Une          |[>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8) | <img height="20" src="https://i.imgur.com/hJodwJt.png"/> |
+| 2   | La Une         | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8) | <img height="20" src="https://i.imgur.com/hJodwJt.png"/> |
 | 3   | Tipik           | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8) | <img height="20" src="https://i.imgur.com/PVbVj8o.png"/> |
 | 4   | Club RTL        | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts) | <img height="20" src="https://i.imgur.com/e9GkFwY.png"/> |
 | 5   | Arte Belgique   | [x]() | <img height="20" src="https://i.imgur.com/w7HzPQh.png"/> |
