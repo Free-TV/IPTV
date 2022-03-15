@@ -7,8 +7,8 @@
 |:---:|:-----------:|:-----:|:-----:|:-----:|:-----:
 | 1   | Canal 1 | - |- |[>](https://canal1.com.co) | <img height="20" src="https://i.imgur.com/cf1XPvW.png"/> |
 | 2   | Caracol TV    | [>](https://mdstrm.com/live-stream/574463697b9817cf0886fc17?enablejsapi=1&%20autoplay=true) |[>](https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8) |[>](https://caracoltv.com/senal-vivo)| <img height="20" src="https://i.imgur.com/IbYzIg1.png"/> |
-| 3   | Canal RCN      | [>](https://www.canalrcn.com/senal-en-vivo/)| - |[>](https://www.canalrcn.com/)| <img height="20" src="https://i.imgur.com/ntTLqwt.png"/> |
-| 4   | Señal Colombia | [>](https://media.rtvc.gov.co/kalturartvc/indexSC.html) |[>](https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8) |[>](https://www.senalcolombia.tv/)| ![](https://i.imgur.com/JxfTnMQ.png) |
+| 3   | Canal RCN      | [>](https://www.canalrcn.com/senal-en-vivo/)| - |[>](https://www.canalrcn.com/)| <img height="20" src="https://i.imgur.com/Dw7oWcm.png"/> |
+| 4   | Señal Colombia | [>](https://media.rtvc.gov.co/kalturartvc/indexSC.html) |[>](https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8) |[>](https://www.senalcolombia.tv/)| <img height="20" src="https://i.imgur.com/JxfTnMQ.png"/> |
 
 
 <h3>Regional</h3>
