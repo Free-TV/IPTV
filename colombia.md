@@ -24,48 +24,40 @@
 
 | #   | Channel     | Link  | Logo |
 |:---:|:-----------:|:-----:|:-----:
-| 1   |  | [>]() | <img height="20" src=""/> |
+| 1   | Alpavision - Canal 2 | [>](https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VjZ2Cfm.png"/> |
 | 2   |  | [>]() | <img height="20" src=""/> |
 | 3   |  | [>]() | <img height="20" src=""/> |
-| 4  |  | [>]() | <img height="20" src=""/> |
+| 4   |  | [>]() | <img height="20" src=""/> |
 | 5   |  | [>]() | <img height="20" src=""/> |
 | 6   |  | [>]() | <img height="20" src=""/> |
 | 7   |  | [>]() | <img height="20" src=""/> |
 | 8   |  | [>]() | <img height="20" src=""/> |
-| 9  |  | [>]() | <img height="20" src=""/> |
-| 10 |  | [>]() | <img height="20" src=""/> |
-| 11   |  | [>]() | <img height="20" src=""/> |
+| 9   |  | [>]() | <img height="20" src=""/> |
+| 10  |  | [>]() | <img height="20" src=""/> |
+| 11  |  | [>]() | <img height="20" src=""/> |
 | 12  |  | [>]() | <img height="20" src=""/> |
-| 13   |  | [>]() | <img height="20" src=""/> |
+| 13  |  | [>]() | <img height="20" src=""/> |
 | 14  |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
-|    |  | [>]() | <img height="20" src=""/> |
+| 15  |  | [>]() | <img height="20" src=""/> |
+| 16  |  | [>]() | <img height="20" src=""/> |
+| 17  |  | [>]() | <img height="20" src=""/> |
+| 18  |  | [>]() | <img height="20" src=""/> |
+| 19  |  | [>]() | <img height="20" src=""/> |
+| 20  |  | [>]() | <img height="20" src=""/> |
+| 21  |  | [>]() | <img height="20" src=""/> |
+| 22  |  | [>]() | <img height="20" src=""/> |
+| 23  |  | [>]() | <img height="20" src=""/> |
+| 24  |  | [>]() | <img height="20" src=""/> |
+| 25   |  | [>]() | <img height="20" src=""/> |
+| 26  |  | [>]() | <img height="20" src=""/> |
+| 27  |  | [>]() | <img height="20" src=""/> |
+| 28   |  | [>]() | <img height="20" src=""/> |
+| 29   |  | [>]() | <img height="20" src=""/> |
+| 30   |  | [>]() | <img height="20" src=""/> |
+| 31   |  | [>]() | <img height="20" src=""/> |
+| 32   |  | [>]() | <img height="20" src=""/> |
+| 33   |  | [>]() | <img height="20" src=""/> |
+| 34  |  | [>]() | <img height="20" src=""/> |
+
 
 
