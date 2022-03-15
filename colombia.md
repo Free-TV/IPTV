@@ -13,11 +13,12 @@
 
 <h3>Regional</h3>
 
-| #   | Channel     | Link  | Logo |
-|:---:|:-----------:|:-----:|:-----:
-| 1   | Canal Capital | [>](https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8) | <img height="20" src="https://i.imgur.com/N0zoph6.png"/> |
+| #   | Channel     | Link(livestream) | Link (m3u8)  | Website | Logo |
+|:---:|:-----------:|:-----:|:-----:|:-----|:-----:
+| 1   | Canal Capital |<img height="20" src="https://i.imgur.com/JDEXVQn.png"/>| [>](https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8) | <img height="20" src="https://i.imgur.com/N0zoph6.png"/> |
 | 2   | Teleantioquia | [>](https://player.instantvideocloud.net/#/embed/883515ae) | <img height="20" src="https://i.imgur.com/KYppBgf.png"/> |
-| 3   | Telemedellin | [>](https://player.instantvideocloud.net/#/embed/1171ea8b) | <img height="20" src="https://i.imgur.com/KYppBgf.png"/> |
+| 3   | Teleantioquia 2 | [>](https://player.instantvideocloud.net/#/embed/1171ea8b) | <img height="20" src="https://i.imgur.com/KYppBgf.png"/> |
+| 4   | Telemedellin | [>](https://player.instantvideocloud.net/#/embed/1171ea8b) | <img height="20" src="https://i.imgur.com/KYppBgf.png"/> |
 
 
 <h3>Local</h3>
