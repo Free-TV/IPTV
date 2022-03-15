@@ -18,3 +18,54 @@
 | 1   | Canal Capital | [>](https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8) | <img height="20" src="https://i.imgur.com/N0zoph6.png"/> |
 | 2   | Teleantioquia | [>](https://player.instantvideocloud.net/#/embed/883515ae) | <img height="20" src="https://i.imgur.com/KYppBgf.png"/> |
 | 3   | Telemedellin | [>](https://player.instantvideocloud.net/#/embed/1171ea8b) | <img height="20" src="https://i.imgur.com/KYppBgf.png"/> |
+
+
+<h3>Local</h3>
+
+| #   | Channel     | Link  | Logo |
+|:---:|:-----------:|:-----:|:-----:
+| 1   |  | [>]() | <img height="20" src=""/> |
+| 2   |  | [>]() | <img height="20" src=""/> |
+| 3   |  | [>]() | <img height="20" src=""/> |
+| 4  |  | [>]() | <img height="20" src=""/> |
+| 5   |  | [>]() | <img height="20" src=""/> |
+| 6   |  | [>]() | <img height="20" src=""/> |
+| 7   |  | [>]() | <img height="20" src=""/> |
+| 8   |  | [>]() | <img height="20" src=""/> |
+| 9  |  | [>]() | <img height="20" src=""/> |
+| 10 |  | [>]() | <img height="20" src=""/> |
+| 11   |  | [>]() | <img height="20" src=""/> |
+| 12  |  | [>]() | <img height="20" src=""/> |
+| 13   |  | [>]() | <img height="20" src=""/> |
+| 14  |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+|    |  | [>]() | <img height="20" src=""/> |
+
+
