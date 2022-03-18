@@ -7,7 +7,11 @@ Either free locally (over the air):
 
 <a href="uk.md"><img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48"></a> <a href="usa.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48"></a> <a href="canada.md"><img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48"></a> <a href="australia.md"><img src="https://hatscripts.github.io/circle-flags/flags/au.svg" width="48"></a> <a href="ireland.md"><img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="48"></a>
 
+<<<<<<< HEAD
 <a href="spain.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"></a> <a href="mexico.md"><img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48"></a> <a href="argentina.md"><img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="48"></a> <a href="paraguay.md"><img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48"></a> <a href="colombia.md"><img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48" ></a>
+=======
+<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48"> <a href="colombia.md"><img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48" ></a>
+>>>>>>> 00c52dab6f66ee6d39cc511cb9ad64fc12a4da39
 
 <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48"> <a href="colombia.md"><img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48" ></a>
 
