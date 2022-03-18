@@ -5,25 +5,25 @@ This is an M3U playlist for free TV channels around the World.
 
 Either free locally (over the air):
 
-<img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/au.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="48">
+<a href="uk.md"><img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48"></a> <a href="usa.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48"></a> <a href="canada.md"><img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48"></a> <a href="australia.md"><img src="https://hatscripts.github.io/circle-flags/flags/au.svg" width="48"></a> <a href="ireland.md"><img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="48"></a>
 
-<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48"><img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48">
+<a href="spain.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"></a> <a href="mexico.md"><img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="48"></a> <a href="argentina.md"><img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="48"></a> <a href="paraguay.md"><img src="https://hatscripts.github.io/circle-flags/flags/py.svg" width="48"></a> <a href="colombia.md"><img src="https://hatscripts.github.io/circle-flags/flags/co.svg" width="48" ></a>
 
-<img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/at.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/be.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/nl.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ch.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/sm.svg" width="48">
+<a href="germany.md"><img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"></a> <a href="austria.md"><img src="https://hatscripts.github.io/circle-flags/flags/at.svg" width="48"></a> <a href="france.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48"></a> <a href="belgium.md"><img src="https://hatscripts.github.io/circle-flags/flags/be.svg" width="48"></a> <a href="netherlands.md"><img src="https://hatscripts.github.io/circle-flags/flags/nl.svg" width="48"></a> <a href="switzerland.md"><img src="https://hatscripts.github.io/circle-flags/flags/ch.svg" width="48"></a> <a href="italy.md"><img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="48"></a> <a href="san_marino.md"><img src="https://hatscripts.github.io/circle-flags/flags/sm.svg" width="48">
 
-<img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/sk.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/si.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/mt.svg" width="48">
+<a href="turkey.md"><img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="48"></a> <a href="greece.md"><img src="https://hatscripts.github.io/circle-flags/flags/gr.svg" width="48"></a> <a href="slovakia.md"><img src="https://hatscripts.github.io/circle-flags/flags/sk.svg" width="48"></a> <a href="slovenia.md"><img src="https://hatscripts.github.io/circle-flags/flags/si.svg" width="48"></a> <a href="malta.md"><img src="https://hatscripts.github.io/circle-flags/flags/mt.svg" width="48"></a>
 
-<img src="https://hatscripts.github.io/circle-flags/flags/se.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/dk.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/fi.svg" width="48"> 
+<a href="sweden.md"><img src="https://hatscripts.github.io/circle-flags/flags/se.svg" width="48"></a> <a href="denmark.md"><img src="https://hatscripts.github.io/circle-flags/flags/dk.svg" width="48"></a> <a href="finland.md"><img src="https://hatscripts.github.io/circle-flags/flags/fi.svg" width="48"></a> 
 
-<img src="https://hatscripts.github.io/circle-flags/flags/hu.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="48">
+<a href="hungary.md"><img src="https://hatscripts.github.io/circle-flags/flags/hu.svg" width="48"></a> <a href="czech_republic.md"><img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="48"></a>
 
-<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/by.svg" width="48">  <img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/ee.svg" width="48">
+<a href="russia.md"><img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48"></a> <a href="belarus.md"><img src="https://hatscripts.github.io/circle-flags/flags/by.svg" width="48"></a>  <a href="ukraine.md"><img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="48"></a> <a href="estonia.md"><img src="https://hatscripts.github.io/circle-flags/flags/ee.svg" width="48"></a>
 
-<img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
+<a href="portugal.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="48"></a> <a href="brazil.md"><img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"></a>
 
-<img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="48">
+<a href="japan.md"><img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48"></a> <a href="korea.md"><img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="48"></a>
 
-<img src="https://hatscripts.github.io/circle-flags/flags/iq.svg" width="48">
+<a href="iraq.md"><img src="https://hatscripts.github.io/circle-flags/flags/iq.svg" width="48"></a>
 
 Or free on the Internet:
 
