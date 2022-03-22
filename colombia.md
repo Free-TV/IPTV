@@ -61,28 +61,29 @@
 | 25  | CTV barranquilla | [>](https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/7gLjhBU.png"/> |
 | 26  | Galeras Tv | [>](https://hvtrafico.ddns.net/pastocnc8/cnc8/playlist.m3u8) | <img height="20" src="https://i.imgur.com/o92rDnX.png"/> |
 | 27   | Hits Channel | [>](https://hvtrafico.ddns.net/pastocnc1/cnc1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ekhgWsR.png"/> |
-| 28   | Mi Canal Dos | [>](http://131.221.42.25:1935/streaming/canal2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/SQ4jiHj.png"/> |
-| 29   | Mi Gente TV | [>](https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cPiEhcO.png"/> |
-| 30   | Mundo Mas | [>](http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8) | <img height="20" src="https://i.imgur.com/f9UJ2B6.png"/> |
-| 31   | PSC Televisión | [>](https://stmv1.voxtvhd.com.br/psctv/psctv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bpkN2Tl.png"/> |
-| 32  | Ranchenato | [>](https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AzcV79y.png"/> |
-| 33  | Red + | [>](https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8) | <img height="20" src="https://i.imgur.com/sYKhx4w.png"/> |
-| 34  |Sentimiento Vallenato  | [>](https://hvtrafico.ddns.net/pastocnc4/cnc4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v6xinDM.png"/> |
-| 35  |  Son Corazon| [>](https://hvtrafico.ddns.net/pastocnc3/cnc3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FnyYeEq.png"/> |
-| 36  |  Son Popular| [>](https://hvtrafico.ddns.net/pastocnc7/cnc7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4X1F5S3.jpg"/> |
-| 37  |  Suram TV| [>](https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iF7Q4fA.png"/> |
-| 38  | TDI Colombia | [>](https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8) | <img height="20" src="https://i.imgur.com/20OA0ey.png"/> |
-| 39  | Tele Boyaca | [>](https://stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8) | <img height="20" src="https://i.imgur.com/y9WI01a.png"/> |
-| 40  | Tele familia | [>](https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rMJNDXs.png"/> |
-| 41  | Tele Pasto | [>](https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ln47f6h.png"/> |
-| 42  |  Tele SanGil| [>](https://byecableiptv.com/tvsangil/tvsangil.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S0BJBfC.png"/> |
-| 43 | Tele Santiago | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/167242899ddb46ff9c9fab316cf743d7/manifest.m3u8?p=79&s=1647461658&e=1647461778&h=5cde73f812531c4bbc3c3dc0e089d8de) | <img height="20" src="https://i.imgur.com/kiwgJTB.png"/> |
-| 44  | Tv Peñol | [>](https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TBGcOZ8.png"/> |
-| 45  | TVN Global | [>](https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1iT5H2R.png"/> |
-| 46  | Uao play | [>](https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JTFBkpi.png?1"/> |
-| 47  | Vallenato Internacional | [>](https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cctn7US.png"/> |
-| 48  | Veo Tv | [>](https://movil.ejeserver.com/live/veotv.m3u8) | <img height="20" src="https://i.imgur.com/2FzhZBt.png"/> |
-| 49  | Mas Musica | [>](https://movil.ejeserver.com/live/masmusica.m3u8) | <img height="20" src="https://i.imgur.com/ddpORNx.png"/> |
+| 28  | Mas Musica | [>](https://movil.ejeserver.com/live/masmusica.m3u8) | <img height="20" src="https://i.imgur.com/ddpORNx.png"/> |
+| 29   | Mi Canal Dos | [>](http://131.221.42.25:1935/streaming/canal2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/SQ4jiHj.png"/> |
+| 30   | Mi Gente TV | [>](https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cPiEhcO.png"/> |
+| 31   | Mundo Mas | [>](http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8) | <img height="20" src="https://i.imgur.com/f9UJ2B6.png"/> |
+| 32   | PSC Televisión | [>](https://stmv1.voxtvhd.com.br/psctv/psctv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bpkN2Tl.png"/> |
+| 33  | Ranchenato | [>](https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AzcV79y.png"/> |
+| 34  | Red + | [>](https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8) | <img height="20" src="https://i.imgur.com/sYKhx4w.png"/> |
+| 35  |Sentimiento Vallenato  | [>](https://hvtrafico.ddns.net/pastocnc4/cnc4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v6xinDM.png"/> |
+| 36  |  Son Corazon| [>](https://hvtrafico.ddns.net/pastocnc3/cnc3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FnyYeEq.png"/> |
+| 37  |  Son Popular| [>](https://hvtrafico.ddns.net/pastocnc7/cnc7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4X1F5S3.jpg"/> |
+| 38  |  Suram TV| [>](https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iF7Q4fA.png"/> |
+| 39  | TDI Colombia | [>](https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8) | <img height="20" src="https://i.imgur.com/20OA0ey.png"/> |
+| 40  | Tele Boyaca | [>](https://stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8) | <img height="20" src="https://i.imgur.com/y9WI01a.png"/> |
+| 41  | Tele familia | [>](https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rMJNDXs.png"/> |
+| 42  | Tele Pasto | [>](https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ln47f6h.png"/> |
+| 43  |  Tele SanGil| [>](https://byecableiptv.com/tvsangil/tvsangil.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S0BJBfC.png"/> |
+| 44 | Tele Santiago | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/167242899ddb46ff9c9fab316cf743d7/manifest.m3u8?p=79&s=1647461658&e=1647461778&h=5cde73f812531c4bbc3c3dc0e089d8de) | <img height="20" src="https://i.imgur.com/kiwgJTB.png"/> |
+| 45  | Tv Peñol | [>](https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TBGcOZ8.png"/> |
+| 46  | TVN Global | [>](https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1iT5H2R.png"/> |
+| 47  | Uao play | [>](https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JTFBkpi.png?1"/> |
+| 48  | Vallenato Internacional | [>](https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cctn7US.png"/> |
+| 49  | Veo Tv | [>](https://movil.ejeserver.com/live/veotv.m3u8) | <img height="20" src="https://i.imgur.com/2FzhZBt.png"/> |
+
 
 
 
