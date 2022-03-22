@@ -30,7 +30,7 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 21   | BR Nord Ⓖ      | [>](http://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/br.png"/> |
 | 22   | BR Süd Ⓖ      | [>](http://mcdn.br.de/bfs_sued/de/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/br.png"/> |
 | 23   | KiKa Ⓖ      | [>](https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/kika.png"/> |
-| 24   | Tagesschau24 Ⓖ      | [>](http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png"/> |
+| 24   | Tagesschau24      | [>](https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png"/> |
 | 25   | ARD Alpha Ⓖ      | [>](http://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png"/> |
 | 26   | DW Ⓖ      | [>](http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png"/> |
 | 27   | RBB Berlin Ⓖ      | [>](https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/rbb.png"/> |
