@@ -6,8 +6,11 @@
 | #   | Channel     | Link  | Logo |
 |:---:|:-----------:|:-----:|:-----:|
 | 1   | Canal Institucional | [>](https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9YMD0rx.png"/> |
-| 2   | Caracol TV Ⓖ| [>](https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8)| <img height="20" src="https://i.imgur.com/IbYzIg1.png"/> |
-| 3   | Canal Señal Colombia  Ⓖ    | [>](https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8)| <img height="20" src="https://i.imgur.com/JxfTnMQ.png"/> |
+| 2   | Caracol Ahora Ⓖ| [>](http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8)| <img height="20" src="https://i.imgur.com/rIiYIsI.png"/> |
+| 3   | Caracol TV Ⓖ| [>](https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8)| <img height="20" src="https://i.imgur.com/IbYzIg1.png"/> |
+| 4   | RCN Ⓖ| [>](https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUMrabCWHPENTFgwpwdAuhs)/dm/3/x7vyv0z/s/live-0.m3u8)| <img height="20" src="https://i.imgur.com/Dw7oWcm.png"/> |
+| 5   | RCN +  Ⓖ    | [>](https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us)| <img height="20" src="https://i.imgur.com/IzbfJ8E.png"/> |
+| 6   | Canal Señal Colombia  Ⓖ    | [>](https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8)| <img height="20" src="https://i.imgur.com/JxfTnMQ.png"/> |
 
 
 
@@ -62,22 +65,24 @@
 | 29   | Mi Gente TV | [>](https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cPiEhcO.png"/> |
 | 30   | Mundo Mas | [>](http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8) | <img height="20" src="https://i.imgur.com/f9UJ2B6.png"/> |
 | 31   | PSC Televisión | [>](https://stmv1.voxtvhd.com.br/psctv/psctv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bpkN2Tl.png"/> |
-| 32  | Red + | [>](https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8) | <img height="20" src="https://i.imgur.com/sYKhx4w.png"/> |
-| 33  |Sentimiento Vallenato  | [>](https://hvtrafico.ddns.net/pastocnc4/cnc4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v6xinDM.png"/> |
-| 34  |  Son Corazon| [>](https://hvtrafico.ddns.net/pastocnc3/cnc3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FnyYeEq.png"/> |
-| 35  |  Son Popular| [>](https://hvtrafico.ddns.net/pastocnc7/cnc7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4X1F5S3.jpg"/> |
-| 36  |  Suram TV| [>](https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iF7Q4fA.png"/> |
-| 37  | TDI Colombia | [>](https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8) | <img height="20" src="https://i.imgur.com/20OA0ey.png"/> |
-| 38  | Tele Boyaca | [>](https://stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8) | <img height="20" src="https://i.imgur.com/y9WI01a.png"/> |
-| 39  | Tele familia | [>](https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rMJNDXs.png"/> |
-| 40  | Tele Pasto | [>](https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ln47f6h.png"/> |
-| 41  |  Tele SanGil| [>](https://byecableiptv.com/tvsangil/tvsangil.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S0BJBfC.png"/> |
-| 42  | Tele Santiago | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/167242899ddb46ff9c9fab316cf743d7/manifest.m3u8?p=79&s=1647461658&e=1647461778&h=5cde73f812531c4bbc3c3dc0e089d8de) | <img height="20" src="https://i.imgur.com/kiwgJTB.png"/> |
-| 43  | Tv Peñol | [>](https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TBGcOZ8.png"/> |
-| 44  | TVN Global | [>](https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1iT5H2R.png"/> |
-| 45  | Uao play | [>](https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JTFBkpi.png?1"/> |
-| 46  | Veo Tv | [>](https://movil.ejeserver.com/live/veotv.m3u8) | <img height="20" src="https://i.imgur.com/cctn7US.png"/> |
-| 47  | Mas Musica | [>](https://movil.ejeserver.com/live/masmusica.m3u8) | <img height="20" src="https://i.imgur.com/ddpORNx.png"/> |
+| 32  | Ranchenato | [>](https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AzcV79y.png"/> |
+| 33  | Red + | [>](https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8) | <img height="20" src="https://i.imgur.com/sYKhx4w.png"/> |
+| 34  |Sentimiento Vallenato  | [>](https://hvtrafico.ddns.net/pastocnc4/cnc4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v6xinDM.png"/> |
+| 35  |  Son Corazon| [>](https://hvtrafico.ddns.net/pastocnc3/cnc3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FnyYeEq.png"/> |
+| 36  |  Son Popular| [>](https://hvtrafico.ddns.net/pastocnc7/cnc7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4X1F5S3.jpg"/> |
+| 37  |  Suram TV| [>](https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iF7Q4fA.png"/> |
+| 38  | TDI Colombia | [>](https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8) | <img height="20" src="https://i.imgur.com/20OA0ey.png"/> |
+| 39  | Tele Boyaca | [>](https://stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8) | <img height="20" src="https://i.imgur.com/y9WI01a.png"/> |
+| 40  | Tele familia | [>](https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rMJNDXs.png"/> |
+| 41  | Tele Pasto | [>](https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ln47f6h.png"/> |
+| 42  |  Tele SanGil| [>](https://byecableiptv.com/tvsangil/tvsangil.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S0BJBfC.png"/> |
+| 43 | Tele Santiago | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/167242899ddb46ff9c9fab316cf743d7/manifest.m3u8?p=79&s=1647461658&e=1647461778&h=5cde73f812531c4bbc3c3dc0e089d8de) | <img height="20" src="https://i.imgur.com/kiwgJTB.png"/> |
+| 44  | Tv Peñol | [>](https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TBGcOZ8.png"/> |
+| 45  | TVN Global | [>](https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1iT5H2R.png"/> |
+| 46  | Uao play | [>](https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JTFBkpi.png?1"/> |
+| 47  | Vallenato Internacional | [>](https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cctn7US.png"/> |
+| 48  | Veo Tv | [>](https://movil.ejeserver.com/live/veotv.m3u8) | <img height="20" src="https://i.imgur.com/2FzhZBt.png"/> |
+| 49  | Mas Musica | [>](https://movil.ejeserver.com/live/masmusica.m3u8) | <img height="20" src="https://i.imgur.com/ddpORNx.png"/> |
 
 
 
