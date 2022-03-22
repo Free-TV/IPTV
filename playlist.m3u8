@@ -181,6 +181,136 @@ https://hls.savoir.media/live/stream.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-name="Ici Television" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="Canada",Ici Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-name="Canal Institucional" tvg-logo="https://i.imgur.com/9YMD0rx.png" group-title="Colombia",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Caracol Ahora Ⓖ" tvg-logo="https://i.imgur.com/rIiYIsI.png" group-title="Colombia",Caracol Ahora Ⓖ
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-name="Caracol TV Ⓖ" tvg-logo="https://i.imgur.com/IbYzIg1.png" group-title="Colombia",Caracol TV Ⓖ
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-name="RCN Ⓖ" tvg-logo="https://i.imgur.com/Dw7oWcm.png" group-title="Colombia",RCN Ⓖ
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUMrabCWHPENTFgwpwdAuhs)/dm/3/x7vyv0z/s/live-0.m3u8
+#EXTINF:-1 tvg-name="RCN +  Ⓖ" tvg-logo="https://i.imgur.com/IzbfJ8E.png" group-title="Colombia",RCN +  Ⓖ
+https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
+#EXTINF:-1 tvg-name="Canal Señal Colombia  Ⓖ" tvg-logo="https://i.imgur.com/JxfTnMQ.png" group-title="Colombia",Canal Señal Colombia  Ⓖ
+https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Capital" tvg-logo="https://i.imgur.com/N0zoph6.png" group-title="Colombia",Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1 tvg-name="Canal Capital Eureka Ⓖ" tvg-logo="https://i.imgur.com/xBRLCpp.png" group-title="Colombia",Canal Capital Eureka Ⓖ
+https://mdstrm.com/live-stream-playlist/57d2ebe8fd61d8f9327f8ad1.m3u8
+#EXTINF:-1 tvg-name="Canal Trece" tvg-logo="https://i.imgur.com/kxtY2Fm.png" group-title="Colombia",Canal Trece
+https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Trece +" tvg-logo="https://i.imgur.com/KtAoWNV.png" group-title="Colombia",Canal Trece +
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Zoom Ⓖ" tvg-logo="https://i.imgur.com/m6t1YzB.png" group-title="Colombia",Canal Zoom Ⓖ
+https://canalzoom.itex.com.co:3085/live/canalzoombr01live.m3u8
+#EXTINF:-1 tvg-name="Telecaribe" tvg-logo="https://i.imgur.com/Y2Y2bqG.png" group-title="Colombia",Telecaribe
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L%2F9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix%2FL9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg%3D%3D
+#EXTINF:-1 tvg-name="Telecaribe Plus" tvg-logo="https://i.imgur.com/Y2Y2bqG.png" group-title="Colombia",Telecaribe Plus
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstrJ4lqmk8VOz0?anvack=QMl6NLXvHRjEMnuMa2jVcbwPdOcjYw0z&eud=3ycd7nhfPYkQpMXloO%2BHT1QbBonb6MJjT0hVNjOaZzoZc58sLfI%2Blh65SHeDLEPB7irJPqfm6Ht8BUvgSOXEbg%3D%3D
+#EXTINF:-1 tvg-name="Tele Islas" tvg-logo="https://i.imgur.com/DJJBPFs.png" group-title="Colombia",Tele Islas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-name="Telepacifico" tvg-logo="https://i.imgur.com/k4OWlPS.png" group-title="Colombia",Telepacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Tv Agro" tvg-logo="https://i.imgur.com/YvAf9qx.png" group-title="Colombia",Tv Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="90 minutos" tvg-logo="https://i.imgur.com/HyhwsSK.png" group-title="Colombia",90 minutos
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
+#EXTINF:-1 tvg-name="Alpavision - Canal 2" tvg-logo="https://i.imgur.com/VjZ2Cfm.png" group-title="Colombia",Alpavision - Canal 2
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-name="Amaga TV" tvg-logo="https://i.imgur.com/8kWQbNu.png" group-title="Colombia",Amaga TV
+https://hvtrafico.ddns.net/amagatv/smil:amagatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ATN Television" tvg-logo="https://i.imgur.com/ZW3RJgh.png" group-title="Colombia",ATN Television
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-name="Atv Colombia" tvg-logo="https://i.imgur.com/pqvuTL9.png" group-title="Colombia",Atv Colombia
+https://panel.streamingmedia.com.co:3994/live/atvcolombialive.m3u8
+#EXTINF:-1 tvg-name="Avivamiento" tvg-logo="https://i.imgur.com/ylkBkO7.png" group-title="Colombia",Avivamiento
+https://s3.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Buenisima Radio" tvg-logo="https://i.imgur.com/OegKwy7.png" group-title="Colombia",Buenisima Radio
+https://streamyes.alsolnet.com/buturama/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Cali TV" tvg-logo="https://i.imgur.com/ji9Wnby.png" group-title="Colombia",Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 12" tvg-logo="https://i.imgur.com/1ET2SeL.png" group-title="Colombia",Canal 12
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmIx7K66cTceAAAA/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://i.imgur.com/LcZtn6L.png" group-title="Colombia",Canal 2
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 tvg-name="Canal C" tvg-logo="https://i.imgur.com/kAG3Kid.png" group-title="Colombia",Canal C
+https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Cinema Plus" tvg-logo="https://i.imgur.com/qHRrvWe.png" group-title="Colombia",Canal Cinema Plus
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal CNC HD Online" tvg-logo="https://i.imgur.com/PL9NQPK.png" group-title="Colombia",Canal CNC HD Online
+https://hvtrafico.ddns.net/cnconline/cnconline.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Medellin" tvg-logo="https://i.imgur.com/k93fhsX.png" group-title="Colombia",Canal CNC Medellin
+http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Pasto" tvg-logo="https://i.imgur.com/dYQU2ih.png" group-title="Colombia",Canal CNC Pasto
+https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Plus" tvg-logo="https://i.imgur.com/YRr5jFs.png" group-title="Colombia",Canal CNC Plus
+https://hvtrafico.ddns.net/channelplus/channelplus/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Tulua" tvg-logo="https://i.imgur.com/RS8o6MH.png" group-title="Colombia",Canal CNC Tulua
+https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
+#EXTINF:-1 tvg-name="Canal PyC" tvg-logo="https://i.imgur.com/2DDDsDa.png" group-title="Colombia",Canal PyC
+https://byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Son Tv" tvg-logo="https://i.imgur.com/juesmwo.png?1" group-title="Colombia",Canal Son Tv
+https://server12.videostreaming.net:3628/stream/play.m3u8
+#EXTINF:-1 tvg-name="Canal Tele Palmar" tvg-logo="https://i.imgur.com/lTmeYIC.png" group-title="Colombia",Canal Tele Palmar
+https://servers.amelbasoluciones.co:19360/telepalmarlive/telepalmarlive.m3u8
+#EXTINF:-1 tvg-name="Canal Tele Petroleo" tvg-logo="https://i.imgur.com/2MyZEHl.png" group-title="Colombia",Canal Tele Petroleo
+https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIXOgAZJgAAAAAAmIyQrW6cTceAAAA/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Universitario de Antioquia" tvg-logo="https://i.imgur.com/Sd6SBai.png" group-title="Colombia",Canal Universitario de Antioquia
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1647480674/ei/AjsyYt6BBM-u8wSVypToBg/ip/54.234.21.247/id/QP6rZZzr8Uk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-p5qddn7k.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/6490/mh/JP/mm/44/mn/sn-p5qddn7k/ms/lva/mv/m/mvi/2/pl/15/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1647458679/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgM3HMyP2yIUuqbn_8g-_EBqQKvn3v8dxcIzsNmvW6mFkCICnTsZiTFmnc-zivs7q6JmveeZ7ccs6gVTDA64Gua97X/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgJ-v9_10mL9s4ok1t6zYN7-N200VUyJRc7suUHbkYMD0CIQDBZNVtFSvZ-rMvdaBHisQEMAEEjML09tijyUUjEewScA%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-name="Canal Vision Dorada" tvg-logo="https://i.imgur.com/zPMi7VE.png" group-title="Colombia",Canal Vision Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-name="Cosmovision" tvg-logo="https://i.imgur.com/2YKjsE4.png" group-title="Colombia",Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 tvg-name="CTV barranquilla" tvg-logo="https://i.imgur.com/7gLjhBU.png" group-title="Colombia",CTV barranquilla
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8
+#EXTINF:-1 tvg-name="Galeras Tv" tvg-logo="https://i.imgur.com/o92rDnX.png" group-title="Colombia",Galeras Tv
+https://hvtrafico.ddns.net/pastocnc8/cnc8/playlist.m3u8
+#EXTINF:-1 tvg-name="Hits Channel" tvg-logo="https://i.imgur.com/ekhgWsR.png" group-title="Colombia",Hits Channel
+https://hvtrafico.ddns.net/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mi Canal Dos" tvg-logo="https://i.imgur.com/SQ4jiHj.png" group-title="Colombia",Mi Canal Dos
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+#EXTINF:-1 tvg-name="Mi Gente TV" tvg-logo="https://i.imgur.com/cPiEhcO.png" group-title="Colombia",Mi Gente TV
+https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Mundo Mas" tvg-logo="https://i.imgur.com/f9UJ2B6.png" group-title="Colombia",Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-name="PSC Televisión" tvg-logo="https://i.imgur.com/bpkN2Tl.png" group-title="Colombia",PSC Televisión
+https://stmv1.voxtvhd.com.br/psctv/psctv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ranchenato" tvg-logo="https://i.imgur.com/AzcV79y.png" group-title="Colombia",Ranchenato
+https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="Red +" tvg-logo="https://i.imgur.com/sYKhx4w.png" group-title="Colombia",Red +
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-name="Sentimiento Vallenato" tvg-logo="https://i.imgur.com/v6xinDM.png" group-title="Colombia",Sentimiento Vallenato
+https://hvtrafico.ddns.net/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:-1 tvg-name="Son Corazon" tvg-logo="https://i.imgur.com/FnyYeEq.png" group-title="Colombia",Son Corazon
+https://hvtrafico.ddns.net/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:-1 tvg-name="Son Popular" tvg-logo="https://i.imgur.com/4X1F5S3.jpg" group-title="Colombia",Son Popular
+https://hvtrafico.ddns.net/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1 tvg-name="Suram TV" tvg-logo="https://i.imgur.com/iF7Q4fA.png" group-title="Colombia",Suram TV
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
+#EXTINF:-1 tvg-name="TDI Colombia" tvg-logo="https://i.imgur.com/20OA0ey.png" group-title="Colombia",TDI Colombia
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 tvg-name="Tele Boyaca" tvg-logo="https://i.imgur.com/y9WI01a.png" group-title="Colombia",Tele Boyaca
+https://stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele familia" tvg-logo="https://i.imgur.com/rMJNDXs.png" group-title="Colombia",Tele familia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Pasto" tvg-logo="https://i.imgur.com/ln47f6h.png" group-title="Colombia",Tele Pasto
+https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele SanGil" tvg-logo="https://i.imgur.com/S0BJBfC.png" group-title="Colombia",Tele SanGil
+https://byecableiptv.com/tvsangil/tvsangil.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Santiago" tvg-logo="https://i.imgur.com/kiwgJTB.png" group-title="Colombia",Tele Santiago
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/167242899ddb46ff9c9fab316cf743d7/manifest.m3u8?p=79&s=1647461658&e=1647461778&h=5cde73f812531c4bbc3c3dc0e089d8de
+#EXTINF:-1 tvg-name="Tv Peñol" tvg-logo="https://i.imgur.com/TBGcOZ8.png" group-title="Colombia",Tv Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 tvg-name="TVN Global" tvg-logo="https://i.imgur.com/1iT5H2R.png" group-title="Colombia",TVN Global
+https://stmv2.voxtvhd.com.br/tvnglobal/tvnglobal/playlist.m3u8
+#EXTINF:-1 tvg-name="Uao play" tvg-logo="https://i.imgur.com/JTFBkpi.png?1" group-title="Colombia",Uao play
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
+#EXTINF:-1 tvg-name="Vallenato Internacional" tvg-logo="https://i.imgur.com/cctn7US.png" group-title="Colombia",Vallenato Internacional
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-name="Veo Tv" tvg-logo="https://i.imgur.com/2FzhZBt.png" group-title="Colombia",Veo Tv
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-name="Mas Musica" tvg-logo="https://i.imgur.com/ddpORNx.png" group-title="Colombia",Mas Musica
+https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czech Republic",JOJ Family Ⓢ
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
 #EXTINF:-1 tvg-name="Šlágr Ⓢ" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="Czech Republic",Šlágr Ⓢ
@@ -191,7 +321,7 @@ https://stream-33.mazana.tv/slagr2.m3u
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
 #EXTINF:-1 tvg-name="Prima Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/0aHT2Nj.png" group-title="Czech Republic",Prima Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="CNN Prima News Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/Il7t0bU.png" group-title="Czech Republic",CNN Prima News Ⓢ Ⓖ
+#EXTINF:-1 tvg-name="CNN Prima News Ⓢ" tvg-logo="https://i.imgur.com/Il7t0bU.png" group-title="Czech Republic",CNN Prima News Ⓢ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Prima Zoom Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/zuzBucZ.png" group-title="Czech Republic",Prima Zoom Ⓢ Ⓖ
 https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0
@@ -345,6 +475,8 @@ https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/maste
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="Nick Ⓖ" tvg-logo="https://i.imgur.com/mhldfsB.png" group-title="Germany",Nick Ⓖ
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="Germany",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" group-title="Greece",ERT 1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-name="ERT 2" tvg-logo="https://i.imgur.com/pcusPFl.png" group-title="Greece",ERT 2
@@ -565,6 +697,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-name="Mediaset Extra Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="Italy",Mediaset Extra Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
+#EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Italy",Rai Scuola Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-name="Rai Sport + Ⓖ" tvg-logo="https://i.imgur.com/vD0CDEp.png" group-title="Italy",Rai Sport + Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
 #EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" group-title="Italy",Motor Trend
@@ -591,14 +725,10 @@ https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 tvg-name="RadioItaliaTV Ⓢ" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="Italy",RadioItaliaTV Ⓢ
 https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Italy",Rai Scuola Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/qxu8Fkh.png" group-title="Italy",Radio KISS KISS TV
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/5ONlZGS.png" group-title="Italy",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-name="Virgin Radio TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Italy",Virgin Radio TV Ⓢ Ⓖ
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
 #EXTINF:-1 tvg-name="RadioFreccia Ⓢ" tvg-logo="https://i.imgur.com/M5YYJv8.png" group-title="Italy",RadioFreccia Ⓢ
 https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8
 #EXTINF:-1 tvg-name="RDS Social TV Ⓢ" tvg-logo="https://i.imgur.com/TVuu0DH.png" group-title="Italy",RDS Social TV Ⓢ
@@ -607,6 +737,8 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" group-title="Italy",Radio Montecarlo TV Ⓢ Ⓖ
 https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(bb)/manifest.mpd
+#EXTINF:-1 tvg-name="Virgin Radio TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" group-title="Italy",Virgin Radio TV Ⓢ Ⓖ
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
 #EXTINF:-1 tvg-name="Grande Fratello Vip Regia 1 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/PBTdU4G.png" group-title="Italy",Grande Fratello Vip Regia 1 Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd
 #EXTINF:-1 tvg-name="Grande Fratello Vip Regia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/FKfwbHD.png" group-title="Italy",Grande Fratello Vip Regia 2 Ⓢ Ⓖ
@@ -990,8 +1122,6 @@ https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Argento/Magic Tv" tvg-logo="https://i.imgur.com/gseTf4W.jpg" group-title="Italy",Tele Argento/Magic Tv
 http://163.172.88.73:1935/magic_web/site/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="Italy",Tele Bari
-http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" group-title="Italy",Tele Bari
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Belluno" tvg-logo="https://i.imgur.com/YiM2Z7E.png" group-title="Italy",Tele Belluno
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
@@ -1065,8 +1195,6 @@ http://ciaoitalystream.ddns.net/live/webTELEOCCIDENTEweb/montelepre@palermo/2.m3
 http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
 #EXTINF:-1 tvg-name="Tele One" tvg-logo="https://i.imgur.com/hTDDVOQ.png" group-title="Italy",Tele One
 http://live.streamcaster.net:1935/mediaone_live/teleone/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Pace" tvg-logo="https://i.imgur.com/TnrqB33.png" group-title="Italy",Tele Pace
-http://live-fs.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Pace 1" tvg-logo="https://i.imgur.com/ut0Hg8o.png" group-title="Italy",Tele Pace 1
 https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
 #EXTINF:-1 tvg-name="Tele Pace 2" tvg-logo="https://i.imgur.com/RqrPraO.png" group-title="Italy",Tele Pace 2
