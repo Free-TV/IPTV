@@ -241,6 +241,8 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 https://hvtrafico.ddns.net/cnconline/cnconline.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal CNC Medellin" tvg-logo="https://i.imgur.com/k93fhsX.png" group-title="Colombia",Canal CNC Medellin
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal CNC Monteria" tvg-logo="https://i.imgur.com/UbXb2Hl.png" group-title="Colombia",Canal CNC Monteria
+https://stmv1.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal CNC Pasto" tvg-logo="https://i.imgur.com/dYQU2ih.png" group-title="Colombia",Canal CNC Pasto
 https://hvtrafico.ddns.net/pastocnc9/cnc9/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal CNC Plus" tvg-logo="https://i.imgur.com/YRr5jFs.png" group-title="Colombia",Canal CNC Plus
@@ -267,6 +269,8 @@ https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8
 https://hvtrafico.ddns.net/pastocnc8/cnc8/playlist.m3u8
 #EXTINF:-1 tvg-name="Hits Channel" tvg-logo="https://i.imgur.com/ekhgWsR.png" group-title="Colombia",Hits Channel
 https://hvtrafico.ddns.net/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1 tvg-name="Mas Musica" tvg-logo="https://i.imgur.com/ddpORNx.png" group-title="Colombia",Mas Musica
+https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-name="Mi Canal Dos" tvg-logo="https://i.imgur.com/SQ4jiHj.png" group-title="Colombia",Mi Canal Dos
 http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 #EXTINF:-1 tvg-name="Mi Gente TV" tvg-logo="https://i.imgur.com/cPiEhcO.png" group-title="Colombia",Mi Gente TV
@@ -309,8 +313,6 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-name="Veo Tv" tvg-logo="https://i.imgur.com/2FzhZBt.png" group-title="Colombia",Veo Tv
 https://movil.ejeserver.com/live/veotv.m3u8
-#EXTINF:-1 tvg-name="Mas Musica" tvg-logo="https://i.imgur.com/ddpORNx.png" group-title="Colombia",Mas Musica
-https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czech Republic",JOJ Family Ⓢ
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
 #EXTINF:-1 tvg-name="Šlágr Ⓢ" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="Czech Republic",Šlágr Ⓢ
