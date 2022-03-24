@@ -3,8 +3,8 @@
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:----:|
 | 1   | JOJ Family Ⓢ    | [>](https://live.cdn.joj.sk/live/hls/family-540.m3u8) | <img height="20" src="https://i.imgur.com/IZHIAAj.png"/> |
-| 2   | Šlágr Ⓢ    | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://i.imgur.com/0bTyHve.png"/> |
-| 3   | Šlágr 2 Ⓢ    | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://i.imgur.com/2rcy4Wo.png"/> |
+| 2   | Šlágr Originál Ⓢ    | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://i.imgur.com/fQcx9S2.png"/> |
+| 3   | Šlágr Muzika Ⓢ    | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://i.imgur.com/J9YHDVS.png"/> |
 | 4   | Šlágr Premium Ⓢ    | [>](https://arenasportslovakia.ddns.net/hls/slager.m3u8) | <img height="20" src="https://i.imgur.com/Lp0IqDx.png"/> |
 | 5   | Prima Ⓢ Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/0aHT2Nj.png"> |
 | 6   | CNN Prima News Ⓢ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/Il7t0bU.png"> |
