@@ -331,9 +331,9 @@ https://movil.ejeserver.com/live/veotv.m3u8
 http://192.144.113.132:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" group-title="Czech Republic",JOJ Family Ⓢ
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
-#EXTINF:-1 tvg-name="Šlágr Ⓢ" tvg-logo="https://i.imgur.com/0bTyHve.png" group-title="Czech Republic",Šlágr Ⓢ
+#EXTINF:-1 tvg-name="Šlágr Originál Ⓢ" tvg-logo="https://i.imgur.com/fQcx9S2.png" group-title="Czech Republic",Šlágr Originál Ⓢ
 https://stream-6.mazana.tv/slagr.m3u
-#EXTINF:-1 tvg-name="Šlágr 2 Ⓢ" tvg-logo="https://i.imgur.com/2rcy4Wo.png" group-title="Czech Republic",Šlágr 2 Ⓢ
+#EXTINF:-1 tvg-name="Šlágr Muzika Ⓢ" tvg-logo="https://i.imgur.com/J9YHDVS.png" group-title="Czech Republic",Šlágr Muzika Ⓢ
 https://stream-33.mazana.tv/slagr2.m3u
 #EXTINF:-1 tvg-name="Šlágr Premium Ⓢ" tvg-logo="https://i.imgur.com/Lp0IqDx.png" group-title="Czech Republic",Šlágr Premium Ⓢ
 https://arenasportslovakia.ddns.net/hls/slager.m3u8
