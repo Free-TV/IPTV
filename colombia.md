@@ -10,6 +10,7 @@
 | 3   | Caracol TV Ⓖ| [>](https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8)| <img height="20" src="https://i.imgur.com/IbYzIg1.png"/> |
 | 4   | RCN +  Ⓖ    | [>](https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us)| <img height="20" src="https://i.imgur.com/IzbfJ8E.png"/> |
 | 5  | Canal Señal Colombia  Ⓖ    | [>](https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8)| <img height="20" src="https://i.imgur.com/JxfTnMQ.png"/> |
+| 6  | Canal Uno    | [>](https://tna5.bozztv.com/LiveCH007/index.m3u8)| <img height="20" src="https://i.imgur.com/cf1XPvW.png"/> |
 
 
 
