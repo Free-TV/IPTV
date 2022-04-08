@@ -6,13 +6,13 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 1   | M1             | [>](http://78.109.104.240:8000/play/a0bs/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
-| 2   | M2 / Petőfi TV | [>](http://78.109.104.240:8000/play/a0bt/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
-| 3   | M3             | [>](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8)    | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
-| 4   | M4 Sport       | [>](http://c201-node62-cdn.connectmedia.hu/1004/9039bc44f54cc4fd7ada2355b7a0adb8/62503c47/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
-| 5   | M5 Hungary     | [>](http://78.109.104.240:8000/play/a0cx/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
-| 6   | Duna TV        | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=dunalive&ext=.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> |
-| 7   | Duna World     | [>](https://redirect.onlinestream.live/mkredir.m3u8?video=dunaworldlive&ext=.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> |
+| 1   | M1             | [>](https://list.iptvcat.com/my_list/s/b32e03bde3f4b61549d4d114e0087759.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
+| 2   | M2 / Petőfi TV | [>](https://list.iptvcat.com/my_list/s/7e06b253671a689181ff499b7a712ab7.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
+| 3   | M3             | [>](https://list.iptvcat.com/my_list/s/bbc604ac7c16bd39e74d8b723d499280.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
+| 4   | M4 Sport       | [>](https://list.iptvcat.com/my_list/s/1bd809b15a85095d1439415e911c146b.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
+| 5   | M5 Hungary     | [>](https://list.iptvcat.com/my_list/s/e7d9a751c6ed4950e8aeb85aba6f41ee.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
+| 6   | Duna TV        | [>](https://list.iptvcat.com/my_list/s/dcb535260798f7e32daf7f4debdab8c1.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> |
+| 7   | Duna World     | [>](https://list.iptvcat.com/my_list/s/61e5c54c7068c0cf70d8007bc6ba6c69.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> |
 
 <h2>Commercial</h2>
 
