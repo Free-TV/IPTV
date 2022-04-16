@@ -21,6 +21,7 @@
 | 16  | Star TV         | [>](http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u) | <img height="20" src="https://i.imgur.com/Ap54LCC.png"/> |
 | 17  | CBC News        | [>](https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8) | <img height="20" src="https://i.imgur.com/1EqQGKS.png"/> |
 | 18  | CTV News        | [>](https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8) | <img height="20" src="https://i.imgur.com/T3oBeiX.png"/> |
+| 18  | Cartoon Network       | [>](https://list.iptvcat.com/my_list/s/0385be219989309623cdef6fb78f74c1.m3u8) | <img height="20" src="https://th.bing.com/th/id/OIP.B5mimjKVjebDSdaLAFfFmQHaDs?pid=ImgDet&rs=1"/> |
 | 19  | Global News     | [>](https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 20  | Global News BC  | [>](https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 21  | Global News Calgary      | [>](https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
