@@ -38,3 +38,4 @@
 |:---:|:--------------:|:-----:|:-----:
 |1    | Docurama       | [>](https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/bNg8mze.png"/> |
 |2    | Drybar Comedy  | [>](https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EldlmTp.png"/> |
+|2    | Cartoon Network  | [>](https://list.iptvcat.com/my_list/s/4992c5e4b54c9b3858912ce0ec567889.m3u8) | <img height="20" src="https://th.bing.com/th/id/OIP.B5mimjKVjebDSdaLAFfFmQHaDs?pid=ImgDet&rs=1"/> |
