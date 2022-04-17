@@ -407,7 +407,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 4251 | Big Name       | [x](https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FsjPjTb.png"/> |
 | 4253 | FailArmy       | [>](https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JmQ6QjL.png"/> |
 | 4254 | The Pet Collective | [x](https://the-pet-collective-international-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/daTU44g.jpeg"/> |
-| 4255 | Spotlight – Rakuten TV | [>](https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6gEPwNN.jpg"/> |
+| 4255 | Stories – Rakuten TV | [>](https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A3A97V1.jpeg"/> |
 | 4256 | People Are Awesome | [x](https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xwz9zKk.jpeg"/> |
 | 4257 | A3series       | [x](https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YE1PYtC.png"/> |
 | 4258 | Canale Europa  | [>](https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Zw2ZIfz.jpg"/> |
@@ -420,8 +420,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 4352 | Fashion TV     | [>](https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KT3zgc1.png"/> |
 | 4451 | Classical Harmony | [x](https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Mje2i8r.png"/> |
 | 4452 | Moods          | [x](https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xdycnbu.png"/> |
-| 4502 | Bizzarro Movies | [x](https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
-| 4503 | Cinema Segreto | [x](https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BkzplSs.png"/> |
+| 4502 | Bizzarro Movies | [>](https://8a0cd8fae5654aeab31dd0958c3f116f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_BizzarroMovies/d950f77c-2ec1-49bd-8896-3fb7522247f1/2.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
+| 4503 | Cinema Segreto | [>](https://6e7b0ca5587e4580a2922d0853ee0498.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_CinemaSegreto/99daf9c1-8b9a-45b7-b229-370562c1c71c/1.m3u8) | <img height="20" src="https://i.imgur.com/BkzplSs.png"/> |
 | 4504 | CGtv           | [x](https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6rsLtY7.png"/> |
 | 4508 | Sofy.tv        | [>](https://sofytv-samsungit.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fsJFJeZ.png"/> |
 | 4510 | Dark Matter TV | [x](https://amg00434-tricoast-darkmatter-italy-samsunguk-lvse1.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Stm6Zc9.png"/> |
@@ -429,10 +429,10 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 4548 | Family – Rakuten TV | [>](https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BCC123A.jpg"/> |
 | 4549 | Drammatico – Rakuten TV | [>](https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nx3JzZK.jpg"/> |
 | 4550 | Film d'azione – Rakuten TV | [>](https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KDmDQM6.jpg"/> |
-| 5000 | Film Top – Rakuten TV | [>](https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
-| 5005 | Classico – Rakuten TV | [>](https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
-| 5008 | Thriller – Rakuten TV | [>](https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
-| 5009 | Romance – Rakuten TV | [>](https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wSfLgHs.png"/> |
+| 5000 | Film Top – Rakuten TV | [>](https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OfD9hM9.jpeg"/> |
+| 5005 | Classico – Rakuten TV | [>](https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ytN6jfl.jpeg"/> |
+| 5008 | Thriller – Rakuten TV | [>](https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jJTnBNk.jpeg"/> |
+| 5009 | Romance – Rakuten TV | [>](https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TiXrzJZ.jpeg"/> |
 
 <h2>Pluto TV</h2>
 
