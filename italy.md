@@ -375,7 +375,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tvr Xenon | [>](https://cloudtv.azotosolutions.com:9553/tvrxenonlive/tvrxenonlive/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
 | 0   | Tvrs Tv | [>](https://59d7d6f47d7fc.streamlock.net/tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
 | 0   | Umbria TV  | [>](https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kccGe02.png"/> |
-| 0   | Uninettuno University Tv  | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/awnuxMY.png"/> |
 | 0   | Vera Tv | [>](http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/djMvkvN.png"/> |
 | 0   | Video 33 | [>](http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Wp24htV.jpg"/> |
 | 0   | Video Brescia | [>](http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8) | <img height="20" src="https://i.imgur.com/9Fw2wBT.png"/> |
