@@ -187,7 +187,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Nuova TV Nazionale | [>](https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/QWlRuXg.png"/> |
 | 0   | Nuova Tv 1  | [>](https://nuovatv.net:8443/tv/stream.m3u8) | <img height="20" src="https://i.imgur.com/1yqTZhR.png"/> |
 | 0   | Nuova Tv 2 | [>](https://nuovatv.net:8443/tv2/stream.m3u8) | <img height="20" src="https://i.imgur.com/0vauyV3.png"/> |
-| 0   | Odeon | [>](https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M1tVBuH.png"/> |
+| 0   | Odeon 24 | [>](https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M1tVBuH.png"/> |
 | 0   | Ofanto Tv | [>](http://media.az-mediaserver.com:1935/7446/7446/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCgATWn.png"/> |
 | 0   | Onda Novara Tv | [>](https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Qoh9CFy.png"/> |
 | 0   | Onda Tv Sicilia | [>](https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0c5Y6lr.png"/> |
@@ -383,7 +383,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Video Star | [>](https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1ddJVZ7.jpg"/> |
 | 0   | Videolina | [>](http://livestreaming.videolina.it/live/Videolina/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bnDZJwd.gif"/> |
 | 0   | Videostar Tv Lombardia | [>](http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpPFZL.jpg"/> |
-| 0   | Vintage Radio Tv | [>](https://stream4.xdevel.com/video0s975967-804/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n3LtBNT.jpg"/> |
+| 0   | Vintage Radio Tv | [>](https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n3LtBNT.jpg"/> |
 | 0   | Vuemme Tv | [>](https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x5A0xU6.png"/> |
 | 0   | Well Tv | [>](https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Kqgz4Na.png"/> |
 | 0   | Yvii Tv | [>](https://yviistreamer.kernel.online/hls/yviitv.m3u8) | <img height="20" src="https://i.imgur.com/yP5AvDo.png"/> |
