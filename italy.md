@@ -27,7 +27,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 30  | La 5 Ⓢ Ⓖ     | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> |
 | 31  | Real Time      | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> |
 | 32  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> |
-| 33  | Food Network   | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> |
 | 34  | Cine34 Ⓢ Ⓖ   | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8) | <img height="20" src="https://i.imgur.com/YyldwhI.png"/> |
 | 35  | Focus Ⓢ Ⓖ     | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8) | <img height="20" src="https://i.imgur.com/M4smqpF.png"/> |
 | 36  | RTL 102.5 Ⓢ    | [>](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KdissvS.png"/> |
@@ -507,6 +506,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:-----:
 | 8   | TV8            | [x]() | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> |
 | 26  | Cielo          | [x]() | <img height="20" src="https://i.imgur.com/cPluF03.png"/> |
+| 33  | Food Network   | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> |
 | 41  | K2             | [x](https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> |
 | 44  | Frisbee        | [x](https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> |
 | 56  | HGTV – Home & Garden Tv  | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> |
