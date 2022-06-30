@@ -18,10 +18,10 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 9   | MDR Sachsen-Anhalt Ⓖ      | [>](https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
 | 10   | MDR Sachsen Ⓖ      | [>](https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
 | 11   | MDR Thüringen Ⓖ      | [>](https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png"/> |
-| 12   | NDR Hamburg Ⓖ      | [>](http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430231/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
-| 13   | NDR Mecklenburg-Vorpommern Ⓖ      | [>](http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430232/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
-| 14   | NDR Niedersachsen Ⓖ      | [>](http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
-| 15   | NDR Schleswig-Holstein Ⓖ      | [>](http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430234/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
+| 12   | NDR Hamburg Ⓖ      | [>](https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8)) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
+| 13   | NDR Mecklenburg-Vorpommern Ⓖ      | [>](https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
+| 14   | NDR Niedersachsen Ⓖ      | [>](https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
+| 15   | NDR Schleswig-Holstein Ⓖ      | [>](https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/ndr.png"/> |
 | 16   | WDR Ⓖ      | [>](https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/wdr.png"/> |
 | 17   | SWR Baden-Württemberg Ⓖ      | [>](https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png"/> |
 | 18   | SWR Rheinland-Pfalz Ⓖ      | [>](https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8) | <img height="20" src="https://raw.githubusercontent.com/cytec/tvlogos/master/swr.png"/> |
