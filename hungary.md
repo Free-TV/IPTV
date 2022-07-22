@@ -10,9 +10,10 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 2   | M2 / Petőfi TV | [>](https://sktv-forwarders.7m.pl/get.php?x=M2) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
 | 3   | M3             | [>](https://archivum.mtva.hu/m3/embed) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
 | 4   | M4 Sport       | [>](https://list.iptvcat.com/my_list/s/1bd809b15a85095d1439415e911c146b.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
-| 5   | M5 Hungary     | [>](https://list.iptvcat.com/my_list/s/e7d9a751c6ed4950e8aeb85aba6f41ee.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
-| 6   | Duna TV        | [>](https://list.iptvcat.com/my_list/s/dcb535260798f7e32daf7f4debdab8c1.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> |
-| 7   | Duna World     | [>](https://list.iptvcat.com/my_list/s/61e5c54c7068c0cf70d8007bc6ba6c69.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> |
+| 5   | M4+ Sport      | [>](https://sktv-forwarders.7m.pl/get.php?x=M4Plus) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
+| 6   | M5 Hungary     | [>](https://sktv-forwarders.7m.pl/get.php?x=M5) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
+| 7   | Duna TV        | [>](https://sktv-forwarders.7m.pl/get.php?x=Duna) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> |
+| 8   | Duna World     | [>](https://sktv-forwarders.7m.pl/get.php?x=Duna_World) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> |
 
 <h2>Commercial</h2>
 
