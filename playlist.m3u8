@@ -394,9 +394,9 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m
 #EXTINF:-1 tvg-name="ERT Sports 6" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="Greece",ERT Sports 6
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m3u8
 #EXTINF:-1 tvg-name="M1" tvg-logo="https://i.imgur.com/neddXUd.png" group-title="Hungary",M1
-https://list.iptvcat.com/my_list/s/b32e03bde3f4b61549d4d114e0087759.m3u8
+https://sktv-forwarders.7m.pl/get.php?x=M1
 #EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" group-title="Hungary",M2 / Petőfi TV
-https://list.iptvcat.com/my_list/s/7e06b253671a689181ff499b7a712ab7.m3u8
+https://sktv-forwarders.7m.pl/get.php?x=M2
 #EXTINF:-1 tvg-name="M3" tvg-logo="https://onlinestream.live/logos/5931.png" group-title="Hungary",M3
 https://archivum.mtva.hu/m3/embed
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" group-title="Hungary",M4 Sport
