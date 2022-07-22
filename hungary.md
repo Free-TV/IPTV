@@ -6,8 +6,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 1   | M1             | [>](https://list.iptvcat.com/my_list/s/b32e03bde3f4b61549d4d114e0087759.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
-| 2   | M2 / Petőfi TV | [>](https://list.iptvcat.com/my_list/s/7e06b253671a689181ff499b7a712ab7.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
+| 1   | M1             | [>](https://sktv-forwarders.7m.pl/get.php?x=M1) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
+| 2   | M2 / Petőfi TV | [>](https://sktv-forwarders.7m.pl/get.php?x=M2) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
 | 3   | M3             | [>](https://archivum.mtva.hu/m3/embed) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
 | 4   | M4 Sport       | [>](https://list.iptvcat.com/my_list/s/1bd809b15a85095d1439415e911c146b.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
 | 5   | M5 Hungary     | [>](https://list.iptvcat.com/my_list/s/e7d9a751c6ed4950e8aeb85aba6f41ee.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
