@@ -401,12 +401,14 @@ https://sktv-forwarders.7m.pl/get.php?x=M2
 https://archivum.mtva.hu/m3/embed
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" group-title="Hungary",M4 Sport
 https://list.iptvcat.com/my_list/s/1bd809b15a85095d1439415e911c146b.m3u8
+#EXTINF:-1 tvg-name="M4+ Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" group-title="Hungary",M4+ Sport
+https://sktv-forwarders.7m.pl/get.php?x=M4Plus
 #EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" group-title="Hungary",M5 Hungary
-https://list.iptvcat.com/my_list/s/e7d9a751c6ed4950e8aeb85aba6f41ee.m3u8
+https://sktv-forwarders.7m.pl/get.php?x=M5
 #EXTINF:-1 tvg-name="Duna TV" tvg-logo="https://i.imgur.com/b4RXacY.png" group-title="Hungary",Duna TV
-https://list.iptvcat.com/my_list/s/dcb535260798f7e32daf7f4debdab8c1.m3u8
+https://sktv-forwarders.7m.pl/get.php?x=Duna
 #EXTINF:-1 tvg-name="Duna World" tvg-logo="https://i.imgur.com/DciAdFF.png" group-title="Hungary",Duna World
-https://list.iptvcat.com/my_list/s/61e5c54c7068c0cf70d8007bc6ba6c69.m3u8
+https://sktv-forwarders.7m.pl/get.php?x=Duna_World
 #EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" group-title="Hungary",RTL Klub
 https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://onlinestream.live/logos/4739.png" group-title="Hungary",ATV
