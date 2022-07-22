@@ -44,6 +44,12 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:-----:
 | 1   | Izaura TV      | [>](http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> |
 
+<h2>News</h2>
+
+| #   | Channel        | Link  | Logo |
+|:---:|:--------------:|:-----:|:-----:
+| 1   | Euronews       | [>](http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euronewsHungarian/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" /> |
+
 <h2>Regional</h2>
 
 | #   | Channel        | Link  | Logo |
