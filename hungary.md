@@ -76,14 +76,11 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 21  | Zugló TV       | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8) | <img height="20" src="http://zuglotv.hu/wp-content/themes/ztv/uploads/ztv_logo1.jpg" /> |
 | 22  | Tisza TV       | [>](https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
 
-
 <h2>Invalid</h2>
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
 | *   | *              | [x]() | <img height="20" src="" /> |
-| 1   | Fix TV         | [x](http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
 | 2   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
 | 4   | DikhTv         | [x](https://onlinestream.live/play.xspf?id=6424&ch=1&ext=.xspf) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> |
-| 5   | PestiTV        | [x](https://onlinestream.live/play.m3u?id=6658&ch=1&ext=.m3u8) | <img height="20" src="https://pestitv.pestisracok.hu/wp-content/uploads/2020/08/PestiTV_Logo_40white-2.png" /> |
 | 7   | Spektrum Home  | [x](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> |
