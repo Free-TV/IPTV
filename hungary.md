@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:-----:
 | 1   | M1             | [>](https://list.iptvcat.com/my_list/s/b32e03bde3f4b61549d4d114e0087759.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
 | 2   | M2 / Petőfi TV | [>](https://list.iptvcat.com/my_list/s/7e06b253671a689181ff499b7a712ab7.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> |
-| 3   | M3             | [>](https://list.iptvcat.com/my_list/s/bbc604ac7c16bd39e74d8b723d499280.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
+| 3   | M3             | [>](https://archivum.mtva.hu/m3/embed) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> |
 | 4   | M4 Sport       | [>](https://list.iptvcat.com/my_list/s/1bd809b15a85095d1439415e911c146b.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> |
 | 5   | M5 Hungary     | [>](https://list.iptvcat.com/my_list/s/e7d9a751c6ed4950e8aeb85aba6f41ee.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> |
 | 6   | Duna TV        | [>](https://list.iptvcat.com/my_list/s/dcb535260798f7e32daf7f4debdab8c1.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> |
@@ -18,9 +18,9 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:-----:
-| 1   | RTL Klub       | [>](https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> |
+| 1   | RTL Klub       | [>](https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> |
 | 2   | ATV            | [>](http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/4739.png" /> |
-| 3   | Hír TV         | [>](http://78.109.104.240:8000/play/a0br/index.m3u8?HasBahCa.m3u8) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> |
+| 3   | Hír TV         | [>](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> |
 | 4   | Fix TV         | [>](https://fixhd.tv:8082/fix/1080i/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
 
 <h2>Religion</h2>
