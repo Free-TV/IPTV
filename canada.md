@@ -38,8 +38,8 @@
 
 | #   | Channel      | Link   | Logo |
 |:---:|:------------:|:------:|:-----:
-| 1   | ICI RDI      | [>](https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8) | <img height="20" src="https://i.imgur.com/jtyrp30.png"/> |
-| 2   | ICI Télé HD Ⓖ | [>](https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8) | <img height="20" src="https://i.imgur.com/HsSi3NV.png"/> |
+| 1   | ICI RDI      | [>](https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8) | <img height="20" src="https://i.imgur.com/jtyrp30.png"/> |
+| 2   | ICI Télé HD Ⓖ | [>](https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8) | <img height="20" src="https://i.imgur.com/HsSi3NV.png"/> |
 | 3   | TVA Ⓖ       | [>](https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8) | <img height="20" src="https://i.imgur.com/1GR8Szn.png"/> |
 | 4   | Noovo        | [>](https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd) | <img height="20" src="https://i.imgur.com/BL9ziSJ.png"/> |
 | 5   | Télé Québec  | [>](https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8grBWK9.png"/> |
