@@ -393,25 +393,25 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
 #EXTINF:-1 tvg-name="ERT Sports 6" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="Greece",ERT Sports 6
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m3u8
-#EXTINF:-1 tvg-name="M1" tvg-logo="https://i.imgur.com/neddXUd.png" group-title="Hungary",M1
+#EXTINF:-1 tvg-name="M1" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1
 https://sktv-forwarders.7m.pl/get.php?x=M1
-#EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" group-title="Hungary",M2 / Petőfi TV
+#EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" group-title="Hungary",M2 / Petőfi TV
 https://sktv-forwarders.7m.pl/get.php?x=M2
 #EXTINF:-1 tvg-name="M3" tvg-logo="https://onlinestream.live/logos/5931.png" group-title="Hungary",M3
 https://archivum.mtva.hu/m3/embed
-#EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" group-title="Hungary",M4 Sport
+#EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
 https://list.iptvcat.com/my_list/s/1bd809b15a85095d1439415e911c146b.m3u8
-#EXTINF:-1 tvg-name="M4+ Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" group-title="Hungary",M4+ Sport
+#EXTINF:-1 tvg-name="M4+ Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4SportPlus.hu" group-title="Hungary",M4+ Sport
 https://sktv-forwarders.7m.pl/get.php?x=M4Plus
-#EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" group-title="Hungary",M5 Hungary
+#EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" tvg-id="M5.hu" group-title="Hungary",M5 Hungary
 https://sktv-forwarders.7m.pl/get.php?x=M5
-#EXTINF:-1 tvg-name="Duna TV" tvg-logo="https://i.imgur.com/b4RXacY.png" group-title="Hungary",Duna TV
+#EXTINF:-1 tvg-name="Duna TV" tvg-logo="https://i.imgur.com/b4RXacY.png" tvg-id="DunaTV.hu" group-title="Hungary",Duna TV
 https://sktv-forwarders.7m.pl/get.php?x=Duna
-#EXTINF:-1 tvg-name="Duna World" tvg-logo="https://i.imgur.com/DciAdFF.png" group-title="Hungary",Duna World
+#EXTINF:-1 tvg-name="Duna World" tvg-logo="https://i.imgur.com/DciAdFF.png" tvg-id="DunaWorld.hu" group-title="Hungary",Duna World
 https://sktv-forwarders.7m.pl/get.php?x=Duna_World
-#EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" group-title="Hungary",RTL Klub
+#EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="RTLKlub.hu" group-title="Hungary",RTL Klub
 https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://onlinestream.live/logos/4739.png" group-title="Hungary",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://onlinestream.live/logos/4739.png" tvg-id="ATV.hu" group-title="Hungary",ATV
 http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-logo="https://onlinestream.live/logos/4740.png" group-title="Hungary",Hír TV
 https://onlinestream.live/play.m3u?id=4740&ext=.m3u
