@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 2   | M2 / Petőfi TV | [>](https://sktv-forwarders.7m.pl/get.php?x=M2) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
 | 3   | M3             | [>](https://archivum.mtva.hu/m3/embed) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
 | 4   | M4 Sport       | [>](https://list.iptvcat.com/my_list/s/1bd809b15a85095d1439415e911c146b.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
-| 5   | M4+ Sport      | [>](https://sktv-forwarders.7m.pl/get.php?x=M4Plus) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4SportPlus.hu |
+| 5   | M4+ Sport      | [>](https://sktv-forwarders.7m.pl/get.php?x=M4Plus) | <img height="20" src="https://www.lyngsat.com/logo/tv/mm/m4-sport-plus-hu.png" /> | M4SportPlus.hu |
 | 6   | M5 Hungary     | [>](https://sktv-forwarders.7m.pl/get.php?x=M5) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
 | 7   | Duna TV        | [>](https://sktv-forwarders.7m.pl/get.php?x=Duna) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
 | 8   | Duna World     | [>](https://sktv-forwarders.7m.pl/get.php?x=Duna_World) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
@@ -76,6 +76,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 20  | Zalaegerszeg TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8) | <img height="20" src="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" /> | ZalaegerszegiTV.hu |
 | 21  | Zugló TV       | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8) | <img height="20" src="http://zuglotv.hu/wp-content/themes/ztv/uploads/ztv_logo1.jpg" /> |
 | 22  | Tisza TV       | [>](https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
+| 23  | DTV            | [>](http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8) | <img height="20" src="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/debrecen_televizio_wide.png?itok=Mi4_Ac8L" /> |
 
 <h2>Invalid</h2>
 
