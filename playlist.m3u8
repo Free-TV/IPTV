@@ -401,7 +401,7 @@ https://sktv-forwarders.7m.pl/get.php?x=M2
 https://archivum.mtva.hu/m3/embed
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
 https://list.iptvcat.com/my_list/s/1bd809b15a85095d1439415e911c146b.m3u8
-#EXTINF:-1 tvg-name="M4+ Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4SportPlus.hu" group-title="Hungary",M4+ Sport
+#EXTINF:-1 tvg-name="M4+ Sport" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m4-sport-plus-hu.png" tvg-id="M4SportPlus.hu" group-title="Hungary",M4+ Sport
 https://sktv-forwarders.7m.pl/get.php?x=M4Plus
 #EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" tvg-id="M5.hu" group-title="Hungary",M5 Hungary
 https://sktv-forwarders.7m.pl/get.php?x=M5
@@ -473,6 +473,8 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Tisza TV" tvg-logo="https://www.tiszatv.hu/style/tiszatv_logo.png" group-title="Hungary",Tisza TV
 https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1 tvg-name="DTV" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/debrecen_televizio_wide.png?itok=Mi4_Ac8L" group-title="Hungary",DTV
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-name="Al-Hurra Iraq" tvg-logo="https://i.imgur.com/mXBZEQP.png" group-title="Iraq",Al-Hurra Iraq
 https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Hurra" tvg-logo="https://i.imgur.com/0izeu5z.png" group-title="Iraq",Al-Hurra
