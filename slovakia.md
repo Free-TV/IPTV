@@ -11,6 +11,6 @@
 | 7   | NR SR    | [>](https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=5) | <img height="20" src="https://i.imgur.com/sPDiS5q.png"/> |
 | 8   | JOJ    | [>](https://st01-1.iptv.joj.sk/101-tv-pc.m3u8) | <img height="20" src="https://i.imgur.com/5BAWD0z.png"/> |
 | 9   | JOJ Plus    | [>](https://st01-1.iptv.joj.sk/102-tv-pc.m3u8) | <img height="20" src="https://i.imgur.com/fKPliTj.png"/> |
-| 10   | WAU    | [>](https://st01-1.iptv.joj.sk/103-tv-pc.m3u8) | <img height="20" src="https://i.imgur.com/3M46moH.png"/> |
+| 10   | WAU    | [>](https://st01-1.iptv.joj.sk/103-tv-pc.m3u8) | <img height="20" src="https://i.imgur.com/vB3bx9b.png"/> |
 | 11   | Senzi    | [>](http://lb.streaming.sk/senzi/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/W82dwzf.png"/> |
 | 12   | TA3 Ⓢ    | [>](https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/) | <img height="20" src="https://i.imgur.com/kPFBxc9.png"/> |
