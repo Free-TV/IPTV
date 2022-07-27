@@ -1,10 +1,10 @@
 <h1>Belarus</h1>
 
-| #   | Channel         | Link  | Logo |
-|:---:|:---------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | 1Mus | [>](http://hz1.teleport.cc/HLS/HD.m3u8) | <img height="20" src="https://i.imgur.com/PozF9MT.png"/> |
 | 2   | 8 Kanal Vitebsk Ⓢ | [>](http://95.46.208.8:24433/art) | <img height="20" src="https://i.imgur.com/tjwBSTF.jpg"/> |
-| 3   | Belros Ⓢ | [>](https://live2.mediacdn.ru/sr1/tro/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HWqxjGl.png"/> |
+| 3   | Belros Ⓢ | [>](https://live2.mediacdn.ru/sr1/tro/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HWqxjGl.png"/> | BelRos.ru |
 | 4   | Belarus 24 | [>](http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IyAScOh.jpg"/> |
 | 5   | Belarus 4 Vitebsk Ⓢ | [>](http://95.46.208.8:26258/belarus4) | <img height="20" src="https://i.imgur.com/TW6Ap71.png"/> |
 | 6   | CTV Belarus Ⓢ | [>](http://212.98.171.116/HLS/ctvby/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Gz6mSGu.png"/> |

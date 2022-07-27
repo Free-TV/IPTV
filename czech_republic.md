@@ -1,6 +1,6 @@
 <h1>Czech Republic</h1>
 
-| #   | Channel        | Link  | Logo | TVG id |
+| #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | JOJ Family Ⓢ    | [>](https://live.cdn.joj.sk/live/hls/family-540.m3u8) | <img height="20" src="https://i.imgur.com/IZHIAAj.png"/> | JojFamily.sk |
 | 2   | Šlágr Originál Ⓢ    | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://i.imgur.com/fQcx9S2.png"/> | SlagrOriginal.cz |

@@ -2,10 +2,10 @@
 
 <h2>Freeview</h2>
 
-| #   | Channel     | Link  | Logo |
-|:---:|:------------|:-----:|:-----:
-| 1   | BBC One Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/72knNcb.png"/> |
-| 2   | BBC Two Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/Bn29Mmo.png"/> |
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | BBC One Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/72knNcb.png"/> | BBCOne.uk |
+| 2   | BBC Two Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/Bn29Mmo.png"/> | BBCTwo.uk |
 | 3   | ITV Ⓢ      | [>](http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8) | <img height="20" src="https://i.imgur.com/ABwq10G.png"/> |
 | 4   | Channel 4 Ⓢ| [x]() | <img height="20" src="https://i.imgur.com/LfvwZfy.png"/> |
 | 5   | Channel 5 Ⓢ| [x]() | <img height="20" src="https://i.imgur.com/MlQrMU8.png"/> |
@@ -29,20 +29,20 @@
 
 <h2>DVB-S</h2>
 
-| #   | Channel     | Link  | Logo |
-|:---:|:------------|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | BBC World News Ⓢ  | [>](http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8) | <img height="20" src="https://i.imgur.com/joD38lo.png"/> |
 
 <h2>Radio</h2>
 
-| #   | Channel     | Link  | Logo |
-|:---:|:------------|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 |1    | BBC World Service | [>](http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls) | <img height="20" src="https://i.imgur.com/RYgSSHl.png"/> |
 
 <h2>Invalid</h2>
 
-| #   | Channel           | Link  | Logo |
-|:---:|:-----------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 7   | London Live | [x]() | <img height="20" src="https://i.imgur.com/2I8RBhY.png"/> |
 | 10  | Sky Arts    | [x]() | <img height="20" src="https://i.imgur.com/O4wh4UQ.png"/> |
 | 11  | Quest       | [x]() | <img height="20" src="https://i.imgur.com/PtpEemC.png"/> |

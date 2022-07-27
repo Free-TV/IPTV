@@ -1,7 +1,7 @@
 <h1>Korea</h1>
 
-| #   | Channel         | Link  | Logo |
-|:---:|:---------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 |1    | Arirang         | [>](http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RuHZ6Dx.png"/> |
 |2    | All the K-Pop(Y)| [>](https://www.youtube.com/watch?v=8zUdwHwuwhQ) | <img height="20" src="https://i.imgur.com/tJ8GRqi.png"/> |
 |3    | EBS 1           | [>](http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8) | <img height="20" src="https://i.imgur.com/s1y2zoe.png"/> |

@@ -2,8 +2,8 @@
 
 <h2>English</h2>
 
-| #   | Channel         | Link  | Logo |
-|:---:|:---------------:|:-----:|:-----:
+| #   | Channel         | Link  | Logo | EPG id |
+|:---:|:---------------:|:-----:|:----:|:------:|
 | 1   | CBC Toronto     | [>](https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/H5yEbxf.png"/> |
 | 2   | Citytv          | [>](https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/BlFNlHz.png"/> |
 | 3   | CTV Toronto     | [>](https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qOutOWN.png"/> |

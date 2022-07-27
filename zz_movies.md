@@ -2,15 +2,15 @@
 
 <h2>FilmRise</h2>
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:
-|     | FilmRise Movies     | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jGzMaRD.png"/> |
-|     | FilmRise Sci-Fi     | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/FcN1OKo.png"/> |
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+|     | FilmRise Movies     | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jGzMaRD.png"/> | FilmRiseFreeMovies.us |
+|     | FilmRise Sci-Fi     | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/FcN1OKo.png"/> | FilmRiseSciFi.us |
 
 <h2>Pluto TV</h2>
 
-| #   | Channel                 | Link  | Logo |
-|:---:|:-----------------------:|:-----:|:----:|
+| #   | Channel                 | Link  | Logo | EPG id |
+|:---:|:-----------------------:|:-----:|:----:|:------:|
 |     | Pluto TV 007            | [>](http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false) | <img height="20" src="https://i.imgur.com/qKqEqUC.png"/> |
 |     | Pluto TV Spotlight      | [>](http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false) | <img height="20" src="https://i.imgur.com/AogTmZc.png"/> |
 |     | Pluto TV Action         | [>](http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false) | <img height="20" src="https://i.imgur.com/g8PCdh6.png"/> |
@@ -37,6 +37,7 @@
 
 <h2>Stirr</h2>
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:  
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|  
 |     | Film Detective | [>](https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8) | <img height="20" src="https://i.imgur.com/4aFLH9g.png"/> |
+

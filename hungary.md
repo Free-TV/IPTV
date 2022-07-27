@@ -53,8 +53,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 <h2>Regional</h2>
 
-| #   | Channel        | Link  | Logo | EPG id|
-|:---:|:--------------:|:-----:|:----:|:-----:|
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | Balaton TV     | [>](https://stream.iptvservice.eu/hls/balatontv.m3u8) | <img height="20" src="https://i.imgur.com/ip8L5Vt.jpg" /> | BalatonTV.hu |
 | 2   | Budakalász     | [>](https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MGkvVQg.png" /> |
 | 3   | Hatoscsatorna  | [>](rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |

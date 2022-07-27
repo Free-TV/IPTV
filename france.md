@@ -2,8 +2,8 @@
 
 <h2>DVB-T</h2>
 
-| #   | Channel           | Link  | Logo |
-|:---:|:-----------------:|:-----:|:-----:
+| #   | Channel    | Link  | Logo | EPG id |
+|:---:|:----------:|:-----:|:----:|:------:|
 | 1   | TF1        | [>](https://s6.tntendirect.com/tf1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> |
 | 2   | France 2   | [>](http://edge9.iptvnetwork.net/live/france2/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png"/> |
 | 3   | France 3   | [>](http://edge9.iptvnetwork.net/live/france3/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png"/> |
@@ -34,8 +34,8 @@
 
 <h2>DVB-S</h2>
 
-| #   | Channel           | Link  | Logo |
-|:---:|:-----------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 28  | France 24 | [>](https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8) | <img height="20" src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-24-fr.png"/> |
 | 29  | TV5 Monde Info | [>](https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> |
 | 30  | TV5 Monde Europe | [>](https://tv5europe-i.akamaihd.net/hls/live/729480/tv5europehls/master.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> |
@@ -43,12 +43,12 @@
 
 <h2>Alternative links (disabled)</h2>
 
-| #   | Channel           | Link  | Logo |
-|:---:|:-----------------:|:-----:|:-----:
-| 1   | TF1        | [x](https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> |
-| 2   | France 2   | [x](https://s6.tntendirect.com/france2/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png"/> |
-| 3   | France 3   | [x](https://s6.tntendirect.com/france3/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png"/> |
-| 5   | France 5   | [x](https://s6.tntendirect.com/france5/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png"/> |
-| 15  | BFM TV     | [x](https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> |
-| 21  | L'Équipe Ⓖ | [x](https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> |
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | TF1            | [x](https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> |
+| 2   | France 2       | [x](https://s6.tntendirect.com/france2/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png"/> |
+| 3   | France 3       | [x](https://s6.tntendirect.com/france3/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png"/> |
+| 5   | France 5       | [x](https://s6.tntendirect.com/france5/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png"/> |
+| 15  | BFM TV         | [x](https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> |
+| 21  | L'Équipe Ⓖ    | [x](https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> |
 
