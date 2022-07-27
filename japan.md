@@ -1,7 +1,7 @@
 <h1>Japan</h1>
 
-| #   | Channel         | Link  | Logo |
-|:---:|:---------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | ANN News Ⓨ     | [>](https://youtu.be/coYw-eVU0Ks) | <img height="20" src="https://i.imgur.com/9IVsFXz.png"/> |
 | 2   | NHK G Ⓢ        | [>](https://nhk.mov3.co/hls/nhk.m3u8) | <img height="20" src="https://i.imgur.com/ns0PHbl.png"/> |
 | 3   | NHK World       | [>](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8) | <img height="20" src="https://i.imgur.com/TDCuUDs.png"/> |

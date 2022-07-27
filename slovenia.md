@@ -4,8 +4,8 @@
 
 https://en.wikipedia.org/wiki/Television_in_Slovenia
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | RTV SLO 1      | [>](https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YIZOtcm.png"/> |
 | 2   | RTV SLO 2      | [>](https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mQe9U2h.png"/> |
 | 3   | RTV SLO 3      | [>](https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WGUyj7r.png"/> |
@@ -15,5 +15,5 @@ https://en.wikipedia.org/wiki/Television_in_Slovenia
 
 <h2>Invalid</h2>
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|

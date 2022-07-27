@@ -1,7 +1,7 @@
 <h1>Greece</h1>
 
-| #    | Channel      | Link  | Logo |
-|:----:|:------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1    | ERT 1        | [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8) | <img height="20" src="https://i.imgur.com/WWMe8IY.png"/> |
 | 2    | ERT 2        | [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8) | <img height="20" src="https://i.imgur.com/pcusPFl.png"/> |
 | 3    | ERT 3        | [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8) | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/> |
