@@ -16,7 +16,7 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 8   | M4TV      | [>](https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HZohlNk.png"/> | M4TV.au |
 | 9   | P3TV      | [>](http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1sPhZ57.png"/> | P3tv.at |
 | 10   | RTV      | [>](http://iptv.rtv-ooe.at/stream.m3u8) | <img height="20" src="https://i.imgur.com/oD7GQxT.png"/> | RTV.at |
-| 11   | RTS  Ⓖ    | [>](https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Bhv7lvy.png"/> |
+| 11   | RTS  Ⓖ    | [>](https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Bhv7lvy.png"/> | TVTV.at |
 | 12   | Tirol TV   Ⓖ   | [>](http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1E7Nflo.jpg"/> | TirolTV.at |
 | 13   | R9      | [>](https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2fxVYsL.jpg"/> | R9.at |
 
