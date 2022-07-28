@@ -1489,6 +1489,16 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" group-title="Portugal",CNN Portugal
 https://sktv-forwarders.7m.pl/CNNportugal.php
+#EXTINF:-1 tvg-name="TVR 1" tvg-logo="https://i.imgur.com/CKQ7mpB.png" tvg-id="TVR1.ro" group-title="Romania",TVR 1
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TVR_2_%282004%29.svg/512px-TVR_2_%282004%29.svg.png" tvg-id="TVR2.ro" group-title="Romania",TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:-1 tvg-name="TVR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TVR3_logo_2019.svg/512px-TVR3_logo_2019.svg.png" tvg-id="TVR3.ro" group-title="Romania",TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+#EXTINF:-1 tvg-name="TVR International" tvg-logo="https://i.imgur.com/AlW8jyl.png" tvg-id="TVRInternational.ro" group-title="Romania",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Pro TV" tvg-logo="https://i.imgur.com/aKAfKtW.png" tvg-id="ProTV.ro" group-title="Romania",Pro TV
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-name="Первый канал Ⓢ" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Russia",Первый канал Ⓢ
 http://iptv.ktkru.ru:8001/index.m3u8
 #EXTINF:-1 tvg-name="Россия 1 Ⓢ" tvg-logo="https://i.imgur.com/WI6hKez.png" group-title="Russia",Россия 1 Ⓢ
