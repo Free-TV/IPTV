@@ -5,8 +5,8 @@
 https://en.wikipedia.org/wiki/Television_in_Germany
 https://wiki.ubuntuusers.de/Internet-TV/Stationen
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | Das Erste Ⓖ   | [>](https://mcdn.daserste.de/daserste/de/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png"/> |
 | 2   | ZDF Ⓖ         | [>](http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8) | <img height="20" src="https://i.imgur.com/JosNLQ0.png"/> |
 | 3   | 3sat Ⓖ        | [>](https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png"/> |
