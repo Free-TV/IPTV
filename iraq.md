@@ -1,7 +1,7 @@
 <h1>Iraq</h1>
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | Al-Hurra Iraq | [>](https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mXBZEQP.png"/> |
 | 2   | Al-Hurra            | [>](https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0izeu5z.png"/> |
 | 3   | Al-Iraqiya | [>](https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8) | <img height="20" src="https://i.imgur.com/imdV6kL.png"/> |

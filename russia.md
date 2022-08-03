@@ -4,8 +4,8 @@
 
 https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8#%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D1%8B (only in Russian language)
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | Первый канал Ⓢ | [>](http://iptv.ktkru.ru:8001/index.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> |
 | 2   | Россия 1 Ⓢ     | [>](http://iptv.ktkru.ru:8002/index.m3u8) | <img height="20" src="https://i.imgur.com/WI6hKez.png"/> |
 | 3   | Матч ТВ Ⓢ      | [>](http://iptv.ktkru.ru:8003/index.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> |
@@ -28,5 +28,5 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 
 <h2>Invalid</h2>
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|

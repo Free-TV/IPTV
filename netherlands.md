@@ -2,8 +2,8 @@
 
 <h2>National</h2>
 
-| #   | Channel    | Link  | Logo |
-|:---:|:----------:|:-----:|:-----:|
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | NPO 1 Ⓖ   | [>](http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8) | <img height="20" src="https://i.imgur.com/pUBy4Pb.png"/> |
 | 2   | NPO 2 Ⓖ   | [>](http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8) | <img height="20" src="https://i.imgur.com/Vl2G1H3.png"/> |
 | 3   | NPO 3 Ⓖ   | [>](http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8) | <img height="20" src="https://i.imgur.com/dVB4Pqc.png"/> |
@@ -14,8 +14,8 @@
 
 <h2>Regional</h2>
 
-| #   | Channel            | Link  | Logo |
-|:---:|:------------------:|:-----:|:-----:|
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | Omrop Fryslân      | [>](https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8) | <img height="20" src="https://i.imgur.com/0VKJLAK.png"/> |
 | 2   | RTV Noord          | [>](https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8) | <img height="20" src="https://i.imgur.com/pO5Mexa.png"/> |
 | 3   | RTV Drenthe        | [>](https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/GaGqM4z.png"/> |

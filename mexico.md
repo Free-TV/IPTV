@@ -1,7 +1,7 @@
 <h1>Mexico</h1>
 
-| #   | Channel        | Link  | Logo |
-|:---:|:--------------:|:-----:|:-----:
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 |1    | Alcarria TV    |[>](http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8) | <img height="20" src="https://i.imgur.com/zNSuxVZ.jpg"/> |
 |2    | Hipodromo de las Americas |[>](http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wc8MlGw.png"/> |
 |3    | MVM NoticiasⓈ   |[>](http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8) | <img height="20" src="https://i.imgur.com/dhLXN9n.png"/> |
