@@ -25,6 +25,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 | 17   | Мир            | [>](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 18   | ТНТ Ⓢ          | [>](http://iptv.ktkru.ru:8019/index.m3u8) | <img height="20" src="https://i.imgur.com/1WqIPOB.png"/> | TNT.ru |
 | 19   | Муз-ТВ Ⓢ          | [>](http://iptv.ktkru.ru:8020/index.m3u8) | <img height="20" src="https://i.imgur.com/Ml3qqOF.png"/> | MuzTV.ru |
+| 20   | Спас Ⓢ          | [>](http://iptv.ktkru.ru:8012/index.m3u8) | <img height="20" src="https://i.imgur.com/A6Cqsom.jpeg"/> | TelekanalSpas.ru |
 
 <h2>Invalid</h2>
 
