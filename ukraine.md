@@ -2,7 +2,6 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | 1 Krivoy Rog | [>](http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Mzh7Xz5.jpg"/> |
 | 2   | 1 Odessa Ⓢ | [>](http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9z2LnBg.png"/> |
 | 3   | 34 Kanal Ⓢ | [>](https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0buhFKQ.png"/> |
 | 4   | 7 Kanal | [>](http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8) | <img height="20" src="https://i.imgur.com/nJvGdoj.jpg"/> |
