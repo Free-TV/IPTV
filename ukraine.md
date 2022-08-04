@@ -11,7 +11,6 @@
 | 8   | BamBarBia TV | [>](http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LIk85IA.png"/> |
 | 9   | BTB Ⓢ | [>](http://video.vtvplus.com.ua:81/hls/online/index.m3u8) | <img height="20" src="https://i.imgur.com/JG493Vn.png"/> |
 | 10   | Che Pe Info Ⓢ | [>](http://109.68.40.67/life/magnolia_3/index.m3u8) | <img height="20" src="https://i.imgur.com/7Ycv3bL.png"/> |
-| 11   | Current Time Ⓢ | [>](https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8) | <img height="20" src="https://i.imgur.com/FbKbeGo.png"/> |
 | 12   | Chernivtsi Promin | [>](http://langate.tv/promin/live_720/index.m3u8) | <img height="20" src="https://i.imgur.com/IbwmfzF.png"/> |
 | 13   | CNL Europa Ⓢ | [>](http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8) | <img height="20" src="https://i.imgur.com/lozzdS7.png"/> |
 | 14   | Duma TV | [>](http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KlPqxlo.png"/> |
