@@ -9,7 +9,6 @@
 | 5   | Belarus 4 Vitebsk Ⓢ | [>](http://95.46.208.8:26258/belarus4) | <img height="20" src="https://i.imgur.com/TW6Ap71.png"/> | Belarus4Vitebsk.by 
 | 6   | CTV Belarus Ⓢ | [>](http://212.98.171.116/HLS/ctvby/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Gz6mSGu.png"/> | STV.by |
 | 7   | Hawe TV Vitebsk Ⓢ | [>](http://95.46.208.8:26259/nashe) | <img height="20" src="https://i.imgur.com/HOb5m5f.jpg"/> | NasheTV.by |
-| 8   | Nastoyashcheye vremya Ⓢ | [>](https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8) | <img height="20" src="https://i.imgur.com/z9E3DBW.png"/> | CurrentTimeTV.cz |
 | 9   | Pervyy Muzykal'nyy BY Ⓢ | [>](http://rtmp.one.by:1200) | <img height="20" src="https://i.imgur.com/7tFiG6S.jpg"/> | FirstMusicChannel.by |
 | 10   | Planeta RTR Ⓢ | [>](https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8) | <img height="20" src="https://i.imgur.com/yqRuEJd.png"/> | RTRBelarus.by |
 | 11   | Radio HIT Orsk | [>](http://hithd.camsh.orsk.ru/hls/hithd.m3u8) | <img height="20" src="https://i.imgur.com/e2RyN4r.jpg"/> |
