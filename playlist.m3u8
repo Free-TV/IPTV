@@ -53,8 +53,6 @@ http://95.46.208.8:26258/belarus4
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1 tvg-name="Hawe TV Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/HOb5m5f.jpg" tvg-id="NasheTV.by" group-title="Belarus",Hawe TV Vitebsk Ⓢ
 http://95.46.208.8:26259/nashe
-#EXTINF:-1 tvg-name="Nastoyashcheye vremya Ⓢ" tvg-logo="https://i.imgur.com/z9E3DBW.png" tvg-id="CurrentTimeTV.cz" group-title="Belarus",Nastoyashcheye vremya Ⓢ
-https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" tvg-id="FirstMusicChannel.by" group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
 http://rtmp.one.by:1200
 #EXTINF:-1 tvg-name="Planeta RTR Ⓢ" tvg-logo="https://i.imgur.com/yqRuEJd.png" tvg-id="RTRBelarus.by" group-title="Belarus",Planeta RTR Ⓢ
@@ -1527,6 +1525,8 @@ http://iptv.ktkru.ru:8009/index.m3u8
 http://iptv.ktkru.ru:8010/index.m3u8
 #EXTINF:-1 tvg-name="Рен ТВ Ⓢ" tvg-logo="https://i.imgur.com/18TAzYV.png" tvg-id="RENTV.ru" group-title="Russia",Рен ТВ Ⓢ
 http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1 tvg-name="Спас Ⓢ" tvg-logo="https://i.imgur.com/A6Cqsom.jpeg" tvg-id="TelekanalSpas.ru" group-title="Russia",Спас Ⓢ
+http://iptv.ktkru.ru:8012/index.m3u8
 #EXTINF:-1 tvg-name="СТС Ⓢ" tvg-logo="https://i.imgur.com/y9bpqUD.png" tvg-id="STS.ru" group-title="Russia",СТС Ⓢ
 http://iptv.ktkru.ru:8013/index.m3u8
 #EXTINF:-1 tvg-name="Домашний Ⓢ" tvg-logo="https://i.imgur.com/e8wlMIt.png" tvg-id="Domashniy.ru" group-title="Russia",Домашний Ⓢ
@@ -1719,8 +1719,6 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 http://video.vtvplus.com.ua:81/hls/online/index.m3u8
 #EXTINF:-1 tvg-name="Che Pe Info Ⓢ" tvg-logo="https://i.imgur.com/7Ycv3bL.png" group-title="Ukraine",Che Pe Info Ⓢ
 http://109.68.40.67/life/magnolia_3/index.m3u8
-#EXTINF:-1 tvg-name="Current Time Ⓢ" tvg-logo="https://i.imgur.com/FbKbeGo.png" group-title="Ukraine",Current Time Ⓢ
-https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 tvg-name="Chernivtsi Promin" tvg-logo="https://i.imgur.com/IbwmfzF.png" group-title="Ukraine",Chernivtsi Promin
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-name="CNL Europa Ⓢ" tvg-logo="https://i.imgur.com/lozzdS7.png" group-title="Ukraine",CNL Europa Ⓢ
