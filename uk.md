@@ -31,7 +31,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | BBC World News Ⓢ  | [>](http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8) | <img height="20" src="https://i.imgur.com/joD38lo.png"/> |
+| 1   | BBC World News Ⓢ  | [x](http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8) | <img height="20" src="https://i.imgur.com/joD38lo.png"/> |
 
 <h2>Radio</h2>
 
