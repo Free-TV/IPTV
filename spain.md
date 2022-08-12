@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Television_in_Spain#Digital_terrestrial_television
 <h3>National</h3>
 
 | #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:||
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | La 1           | [>](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | <img height="20" src="https://i.imgur.com/NbesiPn.png"/> | La1.es |
 | 2   | La 2           | [>](https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8) | <img height="20" src="https://i.imgur.com/DmuTwDw.png"/> | La2.es |
 | 3   | Antena 3       | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/c96d4179790c2af.ts) | <img height="20" src="https://i.imgur.com/j3SP4BS.png"/> | Antena3.es |
@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/Television_in_Spain#Digital_terrestrial_television
 <h3>Regional</h3>
 
 | #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:||
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 1  | Telemadrid |[>](https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8)|<img height="20" src="https://imgur.com/VSDsSTZ.png"/>| Telemadrid.es |
 | 2  | Canal Sur Andalucía Ⓨ | [>](https://www.youtube.com/watch?v=QMM1xsaFlfg)  |<img height="20" src="https://imgur.com/WcVOXPr.png"/>|
 | 3  | La 7 CYLTV |[>](https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8)|<img height="20" src="https://i.imgur.com/o2FlMXP.png"/>| La7.es |
