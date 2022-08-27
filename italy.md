@@ -14,6 +14,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 5   | Canale 5 Ⓢ Ⓖ  | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8) | <img height="20" src="https://i.imgur.com/p6YdiR1.png"/> | Canale5.it |
 | 6   | Italia 1 Ⓢ Ⓖ  | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8) | <img height="20" src="https://i.imgur.com/oCiOxBG.png"/> | Italia1.it |
 | 7   | La7            | [>](https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8) | <img height="20" src="https://i.imgur.com/F90mpSa.png"/> | La7.it |
+| 20  | Canale 20 Ⓖ   | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> |
 | 21  | Rai 4 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16) | <img height="20" src="https://i.imgur.com/XFkZRfv.png"/> |
 | 22  | Iris Ⓢ Ⓖ     | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8) | <img height="20" src="https://i.imgur.com/Ixz1BY3.png"/> | Iris.it |
 | 23  | Rai 5 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16) | <img height="20" src="https://i.imgur.com/Leu2zTO.png"/> |
@@ -510,7 +511,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 8   | TV8            | [x]() | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> |
 | 9   | Nove           | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8) | <img height="20" src="https://i.imgur.com/Hp723RU.png"/> |
-| 20  | Canale 20 Ⓢ Ⓖ | [x](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> |
 | 26  | Cielo          | [x]() | <img height="20" src="https://i.imgur.com/cPluF03.png"/> |
 | 31  | Real Time      | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> |
 | 33  | Food Network   | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> |
