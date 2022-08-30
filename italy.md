@@ -27,7 +27,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 32  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> | QVCItaly.it |
 | 34  | Cine34 Ⓢ Ⓖ   | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(b6)/index.m3u8) | <img height="20" src="https://i.imgur.com/YyldwhI.png"/> | Cine34.it |
 | 35  | Focus Ⓢ Ⓖ     | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(fu)/index.m3u8) | <img height="20" src="https://i.imgur.com/M4smqpF.png"/> | Focus.it |
-| 36  | RTL 102.5 Ⓢ    | [>](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KdissvS.png"/> |
+| 36  | RTL 102.5 Ⓢ    | [>](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KdissvS.png"/> | RTL1025Radiovisione.it |
 | 37  | GM24 Ⓢ         | [>](https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCntSA3.png"/> | GM24.it |
 | 38  | Giallo         | [>](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8) | <img height="20" src="https://i.imgur.com/0PIRwZS.png"/> | Giallo.it |
 | 39  | Top Crime Ⓢ Ⓖ | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8) | <img height="20" src="https://i.imgur.com/RFIwv9O.png"/> | TopCrime.it |
