@@ -44,7 +44,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 57  | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> | RaiScuola.it |
 | 58  | Rai Sport + Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16) | <img height="20" src="https://i.imgur.com/vD0CDEp.png"/> | RaiSportPlusHD.it |
 | 60  | Sportitalia    | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_720p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | Sportitalia.it |
-| 60  | Sportitalia MOTORI | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaMotori.it |
 | 60  | Sportitalia LIVE24 | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | Sportitalia24.it |
 | 61  | Sportitalia SOLOCALCIO | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
 | 62  | Donna TV Ⓢ     | [>](https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Aa1Abme.png"/> | DonnaTV.it |
@@ -410,8 +409,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 4352 | Fashion TV     | [>](https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KT3zgc1.png"/> |
 | 4451 | Classical Harmony | [x](https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Mje2i8r.png"/> |
 | 4452 | Moods          | [x](https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xdycnbu.png"/> |
-| 4502 | Bizzarro Movies | [x](https://8a0cd8fae5654aeab31dd0958c3f116f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_BizzarroMovies/d950f77c-2ec1-49bd-8896-3fb7522247f1/2.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
-| 4503 | Cinema Segreto | [x](https://6e7b0ca5587e4580a2922d0853ee0498.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_CinemaSegreto/99daf9c1-8b9a-45b7-b229-370562c1c71c/1.m3u8) | <img height="20" src="https://i.imgur.com/BkzplSs.png"/> |
+| 4502 | Bizzarro Movies | [x](https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
+| 4503 | Cinema Segreto | [x](https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BkzplSs.png"/> |
 | 4504 | CGtv           | [x](https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6rsLtY7.png"/> |
 | 4508 | Sofy.tv        | [>](https://sofytv-samsungit.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fsJFJeZ.png"/> |
 | 4510 | Dark Matter TV | [x](https://amg00434-tricoast-darkmatter-italy-samsunguk-lvse1.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Stm6Zc9.png"/> |
@@ -509,9 +508,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 8   | TV8            | [x]() | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> | TV8.it |
+| 8   | TV8            | [x](https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> | TV8.it |
 | 9   | Nove           | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8) | <img height="20" src="https://i.imgur.com/Hp723RU.png"/> | Nove.it |
-| 26  | Cielo          | [x]() | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | Cielo.it |
+| 26  | Cielo          | [x](https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | Cielo.it |
 | 31  | Real Time      | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> | RealTimeItaly.it |
 | 33  | Food Network   | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> | FoodNetworkItaly.it |
 | 41  | K2             | [x](https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> | K2.it |
@@ -520,6 +519,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 52  | Dmax           | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8) | <img height="20" src="https://i.imgur.com/dmEmRX7.png"/> | DMAXItaly.it |
 | 56  | HGTV – Home & Garden Tv  | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTVItaly.it |
 | 59  | Motor Trend    | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> | MotorTrend.it |
+| 60  | Sportitalia MOTORI | [x](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaMotori.it |
 | 64  | SuperTennis    | [x]() | <img height="20" src="https://i.imgur.com/GzsPlbX.png"/> | SuperTennis.it |
 | 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&output=16) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
 | 50 | Christmas – Pluto TV | [x](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/tQ8lN30.png"/> |
