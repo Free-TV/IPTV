@@ -335,7 +335,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Video Agrigento (T.V.A.) | [>](https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AaPr63E.png"/> |
 | 0   | TeleAmbiente | [>](https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jxZcQhU.png"/> |
 | 0   | TeleMajg | [>](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9tefonp.jpg"/> |
-| 0   | TeleRent 7Gold | [>](http://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> |
+| 0   | TeleRent 7Gold | [>](http://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> | 7Gold.it |
 | 0   | Telesud Trapani | [>](https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tpZvU1P.png"/> |
 | 0   | Teleuniverso | [>](https://media.velcom.it:19360/teleuniverso/teleuniverso.m3u8) | <img height="20" src="https://i.imgur.com/u8E9wBb.png"/> |
 | 0   | Televallo Trapani | [>](https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P6zuiRH.png"/> |
@@ -384,7 +384,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 4002 | Commedia – Rakuten TV | [>](https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EKKXdIU.jpg"/> |
-| 4003 | Euronews in diretta | [>](https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DUUxsO7.jpeg"/> |
+| 4003 | Euronews in diretta | [>](https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DUUxsO7.jpeg"/> | EuronewsItalian.fr |
 | 4005 | Euronews       | [x](https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> |
 | 4051 | MMATV          | [x](https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lDlbCo3.png"/> |
 | 4052 | MySurf         | [x](https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BknaJ94.png"/> |
