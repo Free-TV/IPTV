@@ -563,8 +563,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia.it" group-title="Italy",Sportitalia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportitalia MOTORI" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="SportitaliaMotori.it" group-title="Italy",Sportitalia MOTORI
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia24.it" group-title="Italy",Sportitalia LIVE24
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="SportitaliaSolocalcio.it" group-title="Italy",Sportitalia SOLOCALCIO
@@ -1581,13 +1579,13 @@ https://st01-1.iptv.joj.sk/103-tv-pc.m3u8
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Slovakia",TA3 Ⓢ
 https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
-#EXTINF:-1 tvg-name="RTV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" group-title="Slovenia",RTV SLO 1
+#EXTINF:-1 tvg-name="RTV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" tvg-id="TVSlovenija1.si" group-title="Slovenia",RTV SLO 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" group-title="Slovenia",RTV SLO 2
+#EXTINF:-1 tvg-name="RTV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" tvg-id="TVSlovenija2.si" group-title="Slovenia",RTV SLO 2
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 3" tvg-logo="https://i.imgur.com/WGUyj7r.png" group-title="Slovenia",RTV SLO 3
+#EXTINF:-1 tvg-name="RTV SLO 3" tvg-logo="https://i.imgur.com/WGUyj7r.png" tvg-id="TVSlovenija3.si" group-title="Slovenia",RTV SLO 3
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Koper" tvg-logo="https://i.imgur.com/NQvOJNh.png" group-title="Slovenia",TV Koper
+#EXTINF:-1 tvg-name="TV Koper" tvg-logo="https://i.imgur.com/NQvOJNh.png" tvg-id="TVKoperCapodistria.si" group-title="Slovenia",TV Koper
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Maribor" tvg-logo="https://i.imgur.com/tWf3dgf.png" tvg-id="TVMaribor.si" group-title="Slovenia",TV Maribor
 https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
