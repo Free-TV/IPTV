@@ -1569,7 +1569,7 @@ https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=4
 https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=6
 #EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" group-title="Slovakia",NR SR
 https://yoink-that-stv-jgskjbq68tnj.runkit.sh/?x=5
-#EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" tvg-id="JOJ.sk" group-title="Slovakia",JOJ
+#EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" tvg-id="TVJOJ.sk" group-title="Slovakia",JOJ
 https://st01-1.iptv.joj.sk/101-tv-pc.m3u8
 #EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://i.imgur.com/fKPliTj.png" tvg-id="JojPlus.sk" group-title="Slovakia",JOJ Plus
 https://st01-1.iptv.joj.sk/102-tv-pc.m3u8
