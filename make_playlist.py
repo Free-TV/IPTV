@@ -152,6 +152,7 @@ class Channel():
 if __name__ == "__main__":
     with open("playlist.m3u8", "w", encoding='utf-8') as playlist:
         print(f'#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"', file=playlist)
+        os.chdir("lists")
         for filename in sorted(os.listdir(".")):
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
