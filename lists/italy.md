@@ -21,7 +21,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 24  | Rai Movie Ⓖ   | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16) | <img height="20" src="https://i.imgur.com/RKpO8CE.png"/> | RaiMovie.it |
 | 25  | Rai Premium Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16) | <img height="20" src="https://i.imgur.com/RKI4nFy.png"/> | RaiPremium.it |
 | 27  | 27 Twentyseven Ⓢ Ⓖ | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8) | <img height="20" src="https://i.imgur.com/y2PdPCK.png"/> | 27Twentyseven.it |
-| 28  | TV 2000 Ⓢ      | [>](http://mi1.wz.tv2000.it/tv2000_alfa.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> | TV2000.va |
+| 28  | TV 2000        | [>](https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> | TV2000.va |
 | 29  | La7d           | [>](https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8) | <img height="20" src="https://i.imgur.com/AOL9nMw.png"/> | La7d.it |
 | 30  | La 5 Ⓢ Ⓖ     | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ka)/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> | La5.it |
 | 32  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> | QVCItaly.it |
@@ -112,7 +112,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Canale 7 | [>](http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9cuOLCn.png"/> |
 | 0   | Canale 74 Sicilia | [>](http://stream.ets-sistemi.it:1935/live.canale74/canale74tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/18JIVgu.png"/> |
 | 0   | Canale 8 | [>](https://59d8c0cee6f3d.streamlock.net/canale8/canale8/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ElAS2WC.png"/> |
-| 0   | Canale Italia 83 | [>](https://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZaenpJA.jpg"/> |
 | 0   | Canale Uno Tivù | [>](https://eu1.servers10.com:8081/8096/index.m3u8) | <img height="20" src="https://i.imgur.com/hfqNw92.png"/> |
 | 0   | Carina Tv | [>](http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FMGcm6I.jpg"/> |
 | 0   | Casa del Sole Tv | [>](https://eu1.servers10.com:8081/8040/index.m3u8) | <img height="20" src="https://i.imgur.com/qPdGelu.png"/> |
@@ -124,7 +123,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Class CNBC | [>](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> |
 | 0   | Cremona 1 | [>](https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a5d0F01.jpg"/> |
 | 0   | Cusano Italia Tv | [>](https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9F1sVjZ.png"/> |
-| 0   | Di.Tv 90 | [>](https://media2021.rtvweb.com/di_tv_90/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ul0o7zv.png"/> |
+| 0   | Di.Tv 80 | [>](https://media2021.rtvweb.com/di_tv_80/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ul0o7zv.png"/> |
 | 0   | Di.Tv 92 | [>](https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ul0o7zv.png"/> |
 | 0   | Digital Tv7 Benevento | [>](http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NaQkklP.png"/> |
 | 0   | Donna Shopping Tv | [>](https://media.streambrothers.com:1936/8038/8038/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oLDvx2T.png"/> |
@@ -235,7 +234,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Sardegna 1 | [>](https://59d8c0cee6f3d.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qRRGn1e.png"/> |
 | 0   | Set Tv Cilento  | [>](https://stream1.aswifi.it/settv/live/index.m3u8) | <img height="20" src="https://i.imgur.com/qN5D1jD.png"/> |
 | 0   | Sicilia Media | [>](http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oQwo4AP.png"/> |
-| 0   | Sicilia Tv | [>](https://5f22d76e220e1.streamlock.net/SiciliaTV/SiciliaTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/I5FoThW.png"/> |
+| 0   | Sicilia Tv | [>](https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/I5FoThW.png"/> |
 | 0   | Sienatv | [>](https://flash8.xdevel.com/sienatv/sienatv/master.m3u8) | <img height="20" src="https://i.imgur.com/gcysky4.png"/> |
 | 0   | Siracusa Live Tv  | [>](https://5db313b643fd8.streamlock.net/SRLIVE_1/SRLIVE_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oyPkDnz.jpg"/> |
 | 0   | Sophia Tv | [>](https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fiLNK3b.jpg"/> |
@@ -522,6 +521,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 60  | Sportitalia MOTORI | [x](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaMotori.it |
 | 64  | SuperTennis    | [x]() | <img height="20" src="https://i.imgur.com/GzsPlbX.png"/> | SuperTennis.it |
 | 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&output=16) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
+| 0   | Canale Italia 83 | [x](https://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZaenpJA.jpg"/> |
 | 50 | Christmas – Pluto TV | [x](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/tQ8lN30.png"/> |
 | 300 | Super! Xmas – Pluto TV | [x](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce0ead825b300078b7082/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/pBwvZfS.png"/> |
 | 305 | Fireplace – Pluto TV | [x](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce23f51cce000078eeed5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/csk1e76.png"/> |
