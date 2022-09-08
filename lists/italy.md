@@ -315,7 +315,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Radio Sciacca | [>](http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/suhz5mE.png"/> |
 | 0   | Tele Radio Studio 5 | [>](http://mars.az-streamingserver.com:1935/7444/7444/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lPRjSor.jpg"/> |
 | 0   | Tele Rama | [>](https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/enfqUlI.jpg"/> |
-| 0   | Tele Roma 1 | [>](https://flash2.xdevel.com/teleromauno/teleromauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3t7JWrf.png"/> |
 | 0   | Tele Romagna 24 | [>](http://livetr.teleromagna.it/mia/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Bpml478.png"/> |
 | 0   | Tele Romagna Lifestyle | [>](http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Gup84Sb.png"/> |
 | 0   | Tele Romagna Mia | [>](http://livetr.teleromagna.it/news/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IdHPiQz.png"/> |
@@ -335,7 +334,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Video Agrigento (T.V.A.) | [>](https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AaPr63E.png"/> |
 | 0   | TeleAmbiente | [>](https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jxZcQhU.png"/> |
 | 0   | TeleMajg | [>](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9tefonp.jpg"/> |
-| 0   | TeleRent 7Gold | [>](http://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> | 7Gold.it |
+| 0   | TeleRent 7Gold | [>](https://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> | 7Gold.it |
+| 0   | TeleRoma 1 | [>](https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/3t7JWrf.png"/> |
+| 0   | TeleRoma 2 | [>](https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8) | <img height="20" src="https://i.imgur.com/78hA7ma.png"/> |
 | 0   | Telesud Trapani | [>](https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tpZvU1P.png"/> |
 | 0   | Teleuniverso | [>](https://media.velcom.it:19360/teleuniverso/teleuniverso.m3u8) | <img height="20" src="https://i.imgur.com/u8E9wBb.png"/> |
 | 0   | Televallo Trapani | [>](https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P6zuiRH.png"/> |
