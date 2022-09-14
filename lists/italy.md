@@ -272,7 +272,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Club Italia | [>](https://www.theclubfactory.com/streaming/index.m3u8) | <img height="20" src="https://i.imgur.com/WxkOgg0.png"/> |
 | 0   | Tele Clusone Bergamo | [>](https://media.streambrothers.com:1936/8168/8168/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dVDY1ng.png"/> |
 | 0   | Telecolor | [>](https://5f22d76e220e1.streamlock.net/telecolor/telecolor/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bMWFJ1C.png"/> |
-| 0   | Tele Color Lombardia | [>](http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hUA29XI.jpg"/> |
+| 0   | Tele Color Lombardia | [>](https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hUA29XI.jpg"/> | TelecolorLombardia.it |
 | 0   | Tele Cupole | [>](http://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZmUI9zb.png"/> |
 | 0   | Tele Estense | [>](https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/X7i7DWo.png"/> |
 | 0   | Tele Foggia | [>](http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M7tqBu9.jpg"/> |
