@@ -88,6 +88,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Antenna 2 Bergamo | [>](https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NfvHIAw.png"/> |
 | 0   | Antenna 3 Massa | [>](http://163.172.88.73:1935/antenna3massa/a3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/79dWgVB.png"/> |
 | 0   | Antenna 3 Veneto Nord Est | [>](https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NiVHLwp.png"/> |
+| 0   | Antenna Sicilia | [>](https://5f22d76e220e1.streamlock.net/antennasicilia/antennasicilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
 | 0   | Antenna Sud 13 | [>](https://streamlive13.arcapuglia.it:8080/live/antennasud/index.m3u8) | <img height="20" src="https://i.imgur.com/VCn0g3a.png"/> |
 | 0   | Antenna Sud 174 | [>](https://streamlivesud.arcapuglia.it:8080/live/eventi/index.m3u8) | <img height="20" src="https://i.imgur.com/02dXr31.png"/> |
 | 0   | Antenna Sud 299 | [>](https://streamlivesud.arcapuglia.it:8080/live/cult/index.m3u8) | <img height="20" src="https://i.imgur.com/XuIXCKg.png"/> |
@@ -270,6 +271,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Citta' Padova | [>](http://stream.telepadova.com/live/tv1.m3u8) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
 | 0   | Tele Club Italia | [>](https://www.theclubfactory.com/streaming/index.m3u8) | <img height="20" src="https://i.imgur.com/WxkOgg0.png"/> |
 | 0   | Tele Clusone Bergamo | [>](https://media.streambrothers.com:1936/8168/8168/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dVDY1ng.png"/> |
+| 0   | Telecolor | [>](https://5f22d76e220e1.streamlock.net/telecolor/telecolor/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bMWFJ1C.png"/> |
 | 0   | Tele Color Lombardia | [>](http://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hUA29XI.jpg"/> |
 | 0   | Tele Cupole | [>](http://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZmUI9zb.png"/> |
 | 0   | Tele Estense | [>](https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/X7i7DWo.png"/> |
