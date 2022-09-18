@@ -157,6 +157,16 @@ https://hls.savoir.media/live/stream.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-name="Ici Television" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="Canada",Ici Television
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" group-title="Croatia",RTL2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" tvg-id="RTLKockica.hr" group-title="Croatia",RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-name="CMC TV" tvg-logo="https://i.imgur.com/Fh2vawT.png" tvg-id="CMCTV.hr" group-title="Croatia",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.qa" group-title="Croatia",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" tvg-id="JojFamily.sk" group-title="Czech Republic",JOJ Family Ⓢ
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
 #EXTINF:-1 tvg-name="Šlágr Originál Ⓢ" tvg-logo="https://i.imgur.com/fQcx9S2.png" tvg-id="SlagrOriginal.cz" group-title="Czech Republic",Šlágr Originál Ⓢ
