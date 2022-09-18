@@ -550,7 +550,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
 #EXTINF:-1 tvg-name="Cartoonito Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/zqc0TrY.png" tvg-id="CartoonitoItaly.it" group-title="Italy",Cartoonito Ⓢ Ⓖ
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1 tvg-name="Super! Ⓢ" tvg-logo="https://i.imgur.com/zDByOwo.png" tvg-id="Super.it" group-title="Italy",Super! Ⓢ
-https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" group-title="Italy",Rai News 24 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTINF:-1 tvg-name="Italia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-id="Italia2.it" group-title="Italy",Italia 2 Ⓢ Ⓖ
@@ -681,9 +681,9 @@ https://streaming.softwarecreation.it/Canale16/Canale16/playlist.m3u8
 https://streaming.softwarecreation.it/Canale18/Canale18/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 2" tvg-logo="https://i.imgur.com/ETqDkS1.png" group-title="Italy",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 21 Campania" tvg-logo="https://i.imgur.com/KVh8cOR.png" group-title="Italy",Canale 21 Campania
+#EXTINF:-1 tvg-name="Canale 21 Campania" tvg-logo="https://i.imgur.com/mU6Cq89.png" tvg-id="Canale21.it" group-title="Italy",Canale 21 Campania
 https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 21 Lazio" tvg-logo="https://i.imgur.com/KVh8cOR.png" group-title="Italy",Canale 21 Lazio
+#EXTINF:-1 tvg-name="Canale 21 Lazio" tvg-logo="https://i.imgur.com/cDAsrBl.png" tvg-id="Canale21Extra.it" group-title="Italy",Canale 21 Lazio
 https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 58" tvg-logo="https://i.imgur.com/RlFc74C.png" group-title="Italy",Canale 58
 https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
@@ -755,7 +755,7 @@ https://5db313b643fd8.streamlock.net:443/GiornaleRadioTelevision/GiornaleRadioTe
 https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
 #EXTINF:-1 tvg-name="Gold 78 HD" tvg-logo="https://i.imgur.com/2UHu1ye.png" group-title="Italy",Gold 78 HD
 http://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Gold Tv" tvg-logo="https://i.imgur.com/3rVi4kD.png" group-title="Italy",Gold Tv
+#EXTINF:-1 tvg-name="Gold Tv" tvg-logo="https://i.imgur.com/3rVi4kD.png" tvg-id="GoldTV.it" group-title="Italy",Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-name="GO-TV Channel" tvg-logo="https://i.imgur.com/xgjrAAn.png" tvg-id="GOTVCanale163.it" group-title="Italy",GO-TV Channel
 https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8
