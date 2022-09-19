@@ -1,12 +1,9 @@
 name: Test IPTV file quality
 
 on:
-  workflow_dispatch:
-    branches:
-      - automate
   push:
-    branches:
-      - automate
+    branches: [ master ]
+  workflow_dispatch:
 
 jobs:
   test:
