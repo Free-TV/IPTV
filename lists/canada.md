@@ -30,7 +30,7 @@
 | 25  | Global News Peterborough | [x](https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 26  | Global News Regina       | [x](https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 27  | Global News Saskatoon    | [x](https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
-| 28  | Global News Vancouver    | [x](https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
+| 28  | Global News Vancouver    | [>](https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 29  | Global News Winnipeg     | [x](https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 30  | CPAC (EN)       | [>](https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8) | <img height="20" src="https://i.imgur.com/AbdFD0S.png"/> |
 
