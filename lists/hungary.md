@@ -38,6 +38,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | 1Music Hungary | [>](http://1music.hu/1music.m3u8) | <img height="20" src="https://i.imgur.com/rw2C3DY.jpg" /> | MusicChannelHungary.hu |
 | 2   | H!T Music HU   | [>](http://hitmusic.hu/hitmusic.m3u8) | <img height="20" src="https://i.imgur.com/rw2C3DY.jpg" /> | HtMusicChannelHungary.hu |
+| 3   | MUSICPlus      | [>](http://s02.diazol.hu:10192/stream.m3u8) | | MUSICPlus.hu |
 
 <h2>Series</h2>
 
