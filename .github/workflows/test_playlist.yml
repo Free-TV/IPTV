@@ -46,6 +46,6 @@ jobs:
         run: |
           npm install -g iptv-checker || true
           mkdir -p output
-          apt-get install -y ffmpeg
+          sudo apt-get install -y ffmpeg
           iptv-checker -o output -p 100 -t 120000 ./playlist.m3u8
 
