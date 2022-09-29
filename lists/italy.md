@@ -171,7 +171,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Medjugorje Italia Tv | [>](https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hkZScXf.png"/> |
 | 0   | Medjugorje Tv Puglia  | [>](https://streamlive.arcapuglia.it:8080/live/medjugorietv/index.m3u8) | <img height="20" src="https://i.imgur.com/IWBeddh.png"/> |
 | 0   | Minformo Tv | [>](https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VJNtnZM.jpg"/> |
-| 0   | NSL            | [>](https://streannunsec-lh.akamaihd.net/i/tv_1@868496/master.m3u8) | <img height="20" src="https://i.imgur.com/5W6vRaf.png"/> |
+| 0   | NSL            | [>](https://streannlivensl.cachefly.net/nsl1/nsl1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5W6vRaf.png"/> |
 | 0   | NTI Canale 271 | [>](https://www.ntimedia.it/video/S0/S0_master.m3u8) | <img height="20" src="https://i.imgur.com/zlmcUe0.jpg"/> |
 | 0   | Napoli Nova Tv | [>](https://stream1.aswifi.it/napolinova/live/index.m3u8) | <img height="20" src="https://i.imgur.com/P5Boz0e.jpg"/> |
 | 0   | New Signal Tv Genova | [>](https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5uGTCJn.png"/> |
@@ -191,7 +191,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Parole di Vita  | [>](https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/chunklist_w2067011949.m3u8) | <img height="20" src="https://i.imgur.com/M9mIiZD.png"/> |
 | 0   | Partenope Tv | [>](https://streamlive.arcapuglia.it:8080/live/partenopetv/index.m3u8) | <img height="20" src="https://i.imgur.com/FtuWkj1.png"/> |
 | 0   | Passione Lotto Tv | [>](http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8) | <img height="20" src="https://i.imgur.com/E2JBphv.jpg"/> |
-| 0   | Pop Tv | [>](https://59d7d6f47d7fc.streamlock.net/poptv/poptv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TeolCu9.png"/> |
+| 0   | Pop Tv | [>](https://stream1.aswifi.it/poptelevision/live/index.m3u8) | <img height="20" src="https://i.imgur.com/TeolCu9.png"/> |
 | 0   | PrimAntenna TV | [>](https://585b674743bbb.streamlock.net:443/9062/9062/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gSklP3y.png"/> |
 | 0   | Prima Napoli Tv | [>](https://stream1.aswifi.it/primatvnapoli/live/index.m3u8) | <img height="20" src="https://i.imgur.com/yPuQeEy.jpg"/> |
 | 0   | Prima Tivvù | [>](https://streamtechglobal.akamaized.net/hls/live/2024751/primativvu/Group02/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oUGS2Nt.png"/> |
