@@ -31,9 +31,9 @@ jobs:
                 "require-info": true,
                 "no-trailing-spaces": true,
                 "no-whitespace-before-title": true,
-                "no-multi-spaces": true,
+                "no-multi-spaces": false,
                 "no-extra-comma": true,
-                "space-before-paren": true,
+                "space-before-paren": false,
                 "no-dash": true
               }
             }
