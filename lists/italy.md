@@ -57,13 +57,13 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 258 | RadioFreccia Ⓢ | [>](https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M5YYJv8.png"/> | RadioFrecciaTV.it |
 | 265 | RDS Social TV Ⓢ | [>](https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8) | <img height="20" src="https://i.imgur.com/TVuu0DH.png"/> | RDSSocialTV.it |
 | 266 | Radio ZETA Ⓢ   | [>](https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> | RadioZetaTV.it |
-| 772 | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> | RadioMonteCarloTV.it |
-| 786 | Virgin Radio TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> | VirginRadioTV.it |
 
 <h2>Satellite</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
+| 67  | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> | RadioMonteCarloTV.it |
+| 68  | Virgin Radio TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> | VirginRadioTV.it |
 | 89  | Senato TV      | [>](https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FoQoNZW.png"/> | SenatoTV.it |
 | 90  | Camera dei Deputati Ⓢ | [>](https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fqGn1k9.png"/> | CameradeiDeputati.it |
 | 210 | Rai 4K Ⓖ       | [>](https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5gkt9DD.png"/> | Rai4K.it |
@@ -238,7 +238,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Sienatv | [>](https://flash8.xdevel.com/sienatv/sienatv/master.m3u8) | <img height="20" src="https://i.imgur.com/gcysky4.png"/> |
 | 0   | Siracusa Live Tv  | [>](https://5db313b643fd8.streamlock.net/SRLIVE_1/SRLIVE_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oyPkDnz.jpg"/> |
 | 0   | Sophia Tv | [>](https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fiLNK3b.jpg"/> |
-| 0   | Sport2U | [>](https://live.sport2u.tv/EvoLive/myStream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WW0lNk1.png"/> |
 | 0   | Stiletv | [>](http://convision2.convergenze.it/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8) | <img height="20" src="https://i.imgur.com/v5Grhff.jpg"/> |
 | 0   | Studio 100 | [>](http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8) | <img height="20" src="https://i.imgur.com/z84qFXd.png"/> |
 | 0   | Super J Tv | [>](http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5oy5Nuu.png"/> |
