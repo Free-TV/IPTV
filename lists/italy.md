@@ -213,8 +213,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Rete 55 | [>](https://stream.internet.one/Rete55_Live/index.m3u8) | <img height="20" src="https://i.imgur.com/EsZn2cj.png"/> |
 | 0   | Rete 7 Tv | [>](https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lUTxfoh.png"/> |
 | 0   | Rete 8 Vga | [>](https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3wF2AJX.jpg"/> |
-| 0   | Rete 8 | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/dd01eec16f934937b790b24d4a7c7916/chunklist_b4628000.m3u8) | <img height="20" src="https://i.imgur.com/5WLYqLx.jpg"/> |
-| 0   | Rete 8 Sport | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/ae2a474227e7496aaf9380bc9e2eaf91/chunklist_b4628000.m3u8) | <img height="20" src="https://i.imgur.com/5WLYqLx.jpg"/> |
+| 0   | Rete 8 | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/dd01eec16f934937b790b24d4a7c7916/chunklist_b4628000.m3u8) | <img height="20" src="https://i.imgur.com/bGsjPRh.png"/> |
+| 0   | Rete 8 Sport | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/ae2a474227e7496aaf9380bc9e2eaf91/chunklist_b4628000.m3u8) | <img height="20" src="https://i.imgur.com/uUAjWlF.png"/> |
 | 0   | Rete Biella | [>](https://sb.top-ix.org/retebiella/streaming/playlist.m3u8) | <img height="20" src="https://i.imgur.com/e2ryHx7.png"/> |
 | 0   | Rete Chiara | [>](https://cp1.server89.com:19360/mediamasterpress/mediamasterpress.m3u8) | <img height="20" src="https://i.imgur.com/viL8ZrS.png"/> |
 | 0   | Rete Mia  | [>](https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kCJ621Q.png"/> |
