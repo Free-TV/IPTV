@@ -123,8 +123,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Class CNBC | [>](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> |
 | 0   | Cremona 1 | [>](https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a5d0F01.jpg"/> |
 | 0   | Cusano Italia Tv | [>](https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9F1sVjZ.png"/> |
-| 0   | Di.Tv 80 | [>](https://media2021.rtvweb.com/di_tv_80/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ul0o7zv.png"/> |
-| 0   | Di.Tv 92 | [>](https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ul0o7zv.png"/> |
+| 0   | Di.Tv 80 | [>](https://media2021.rtvweb.com/di_tv_80/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kHxTsJw.png"/> |
+| 0   | Di.Tv 92 | [>](https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/g3SI08H.png"/> |
 | 0   | Digital Tv7 Benevento | [>](http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NaQkklP.png"/> |
 | 0   | Donna Shopping Tv | [>](https://media.streambrothers.com:1936/8038/8038/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oLDvx2T.png"/> |
 | 0   | E'live Brescia Tv | [>](https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bZ3B7pi.png"/> |
@@ -149,7 +149,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Icaro Tv Rimini | [>](https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/z05VSSN.png"/> |
 | 0   | Idea Plus | [>](https://eu1.servers10.com:8081/8044/index.m3u8) | <img height="20" src="https://i.imgur.com/2edmxYF.png"/> |
 | 0   | IT Channel | [>](https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YxteePM.png"/> |
-| 0   | Italia 2 | [>](https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ISbxfY0.png"/> |
+| 0   | Italia 2 Tv | [>](https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ISbxfY0.png"/> | Italia2TV.it |
 | 0   | Italia 7 | [>](https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YBXkY4w.png"/> |
 | 0   | Iunior Tv | [>](https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9jeNlLE.png"/> |
 | 0   | L'Altro Corriere Tv  | [>](https://stream.ets-sistemi.it/live.laltrocorrieretv/laltrocorrieretv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dgj79J3.png"/> |
