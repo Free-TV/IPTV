@@ -260,18 +260,17 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Bari | [>](https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HYSz4rx.png"/> |
 | 0   | Tele Belluno | [>](https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/YiM2Z7E.png"/> |
 | 0   | Tele Blu | [>](https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NWMTlry.jpg"/> |
-| 0   | Tele Boario | [>](http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LlLD3L6.png"/> |
-| 0   | Tele Bruzzano | [>](https://player.ilariochiera.it/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8) | <img height="20" src="https://i.imgur.com/7TWbCDt.jpg"/> |
+| 0   | Tele Boario | [>](https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/LlLD3L6.png"/> |
+| 0   | Tele Bruzzano | [>](https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8) | <img height="20" src="https://i.imgur.com/7TWbCDt.jpg"/> |
 | 0   | Tele Chiara | [>](http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Q5XpnXR.png"/> |
-| 0   | Tele Citta' Padova | [>](http://stream.telepadova.com/live/tv1.m3u8) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
 | 0   | Tele Club Italia | [>](https://www.theclubfactory.com/streaming/index.m3u8) | <img height="20" src="https://i.imgur.com/WxkOgg0.png"/> |
-| 0   | Tele Clusone Bergamo | [>](https://media.streambrothers.com:1936/8168/8168/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dVDY1ng.png"/> |
+| 0   | Tele Clusone Bergamo | [>](https://media2.streambrothers.com:1936/8068/8068/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dVDY1ng.png"/> |
 | 0   | Telecolor | [>](https://5f22d76e220e1.streamlock.net/telecolor/telecolor/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bMWFJ1C.png"/> |
 | 0   | Tele Color Lombardia | [>](https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hUA29XI.jpg"/> | TelecolorLombardia.it |
-| 0   | Tele Cupole | [>](http://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZmUI9zb.png"/> |
+| 0   | Tele Cupole | [>](https://5cbd3bc28341f.streamlock.net:444/cupole/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZmUI9zb.png"/> |
 | 0   | Tele Estense | [>](https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/X7i7DWo.png"/> |
-| 0   | Tele Foggia | [>](http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M7tqBu9.jpg"/> |
-| 0   | Tele Friuli | [>](https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/2024685-telefriuli/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/AoQxZxD.png"/> |
+| 0   | Tele Foggia | [>](https://59d8c0cee6f3d.streamlock.net/telefoggia/telefoggia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M7tqBu9.jpg"/> |
+| 0   | Tele Friuli | [>](https://01.celinel.com/telefriuli/telefriuli/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AoQxZxD.png"/> |
 | 0   | Tele Gela | [>](http://live.sloode.com:1935/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/sjrxbgP.png"/> |
 | 0   | Tele Genova | [>](https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BXvPBKb.png"/> |
 | 0   | Tele Granda | [>](http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mdPc8cX.jpg"/> |
@@ -332,6 +331,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Venezia | [>](https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/SavGpCE.jpg"/> |
 | 0   | Tele Video Agrigento (T.V.A.) | [>](https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AaPr63E.png"/> |
 | 0   | TeleAmbiente | [>](https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jxZcQhU.png"/> |
+| 0   | Telecittà Padova | [>](https://tango.wifi4all.it/telecitta/telecitta.m3u8) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
 | 0   | TeleMajg | [>](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9tefonp.jpg"/> |
 | 0   | TeleRent 7Gold | [>](https://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> | 7Gold.it |
 | 0   | TeleRoma 1 | [>](https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/3t7JWrf.png"/> |
