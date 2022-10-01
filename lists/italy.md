@@ -103,8 +103,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Calabria tv | [>](https://5db313b643fd8.streamlock.net:443/CalabriaTv2/CalabriaTv2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qWirucd.png"/> |
 | 0   | Canale 10 | [>](http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KuQcjYV.png"/> |
 | 0   | Canale 12 Sassari | [>](http://wifitv.tv/media/live/1001/video_850000.m3u8) | <img height="20" src="https://i.imgur.com/u6P2lTY.jpg"/> |
-| 0   | Canale 16 | [>](https://streaming.softwarecreation.it/Canale16/Canale16/playlist.m3u8) | <img height="20" src="https://i.imgur.com/SPfgKHk.png"/> |
-| 0   | Canale 18 | [>](https://streaming.softwarecreation.it/Canale18/Canale18/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PZBX4iy.png"/> |
 | 0   | Canale 2 | [>](https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ETqDkS1.png"/> |
 | 0   | Canale 21 Campania | [>](https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mU6Cq89.png"/> | Canale21.it |
 | 0   | Canale 21 Lazio | [>](https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cDAsrBl.png"/> | Canale21Extra.it |
@@ -223,7 +221,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Rete Sole (Umbria) | [>](http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8) | <img height="20" src="https://i.imgur.com/u0ezKgE.png"/> |
 | 0   | Rete Tv Italia | [>](https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lXGWoV9.png"/> |
 | 0   | Rete Veneta | [>](http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cInhQFp.png"/> |
-| 0   | Roma Ch 71 | [>](https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UVgXu9L.png"/> |
+| 0   | Roma Tv 82 | [>](https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8) | <img height="20" src="https://i.imgur.com/C3UnlFF.png"/> |
 | 0   | Rossini Tv | [>](https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8) | <img height="20" src="https://i.imgur.com/K0Em0nx.jpg"/> |
 | 0   | Rtc Targato Napoli | [>](https://eu1.servers10.com:8081/8014/index.m3u8) | <img height="20" src="https://i.imgur.com/Jsep7uM.png"/> |
 | 0   | Rtp Tv | [>](http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/I1hYI0C.png"/> |
@@ -333,6 +331,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | TeleAmbiente | [>](https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jxZcQhU.png"/> |
 | 0   | Telecittà Padova | [>](https://tango.wifi4all.it/telecitta/telecitta.m3u8) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
 | 0   | TeleMajg | [>](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9tefonp.jpg"/> |
+| 0   | TeleRegione 118 | [>](https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iGhbsGH.png"/> |
 | 0   | TeleRent 7Gold | [>](https://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> | 7Gold.it |
 | 0   | TeleRoma 1 | [>](https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/3t7JWrf.png"/> |
 | 0   | TeleRoma 2 | [>](https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8) | <img height="20" src="https://i.imgur.com/78hA7ma.png"/> |
