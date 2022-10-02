@@ -202,7 +202,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | R.T.C. Quarta Rete | [>](https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rFGA6qL.png"/> |
 | 0   | R.T.C. Telecalabria | [>](https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tTYLcuh.jpg"/> |
 | 0   | R.T.I. Calabria | [>](https://stream.ets-sistemi.it/live.rti/rti-calabria/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hVzEvmo.jpg"/> |
-| 0   | RDE Tv | [>](https://visual.shoutca.st:1936/saiuz2/rde/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NiwPlrr.png"/> |
+| 0   | RDE Tv | [>](https://rst2.saiuzwebnetwork.it:8081/rdetrieste/index.m3u8) | <img height="20" src="https://i.imgur.com/NiwPlrr.png"/> |
 | 0   | Radio Colonna Tv | [>](https://5f22d76e220e1.streamlock.net/rctv/rctv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EcQvDfq.png"/> |
 | 0   | Radio Italia Cina Tv | [>](https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8) | <img height="20" src="https://i.imgur.com/QGkyrO3.png"/> |
 | 0   | Radio Libertà  | [>](https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/HRvPlf5.png"/> |
