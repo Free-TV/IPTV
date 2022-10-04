@@ -145,7 +145,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | GO-TV Channel | [>](https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xgjrAAn.png"/> | GOTVCanale163.it |
 | 0   | HUB Tv | [>](https://5c483b9d1019c.streamlock.net/8004/8004/playlist.m3u8) | <img height="20" src="https://i.imgur.com/46GTBEW.png"/> |
 | 0   | Icaro Tv Rimini | [>](https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/z05VSSN.png"/> |
-| 0   | Idea Plus | [>](https://eu1.servers10.com:8081/8044/index.m3u8) | <img height="20" src="https://i.imgur.com/2edmxYF.png"/> |
+| 0   | Idea Plus | [>](https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8) | <img height="20" src="https://i.imgur.com/2edmxYF.png"/> |
 | 0   | Italia 2 Tv | [>](https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ISbxfY0.png"/> | Italia2TV.it |
 | 0   | Italia 7 | [>](https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YBXkY4w.png"/> |
 | 0   | Italia Channel | [>](https://stream1.aswifi.it/italiachannel/stream/index.m3u8) | <img height="20" src="https://i.imgur.com/zuuKXGv.png"/> | ItaliaChannel.it |
