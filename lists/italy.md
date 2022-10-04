@@ -129,7 +129,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Easy Tv | [>](https://streamlive.arcapuglia.it:8080/live/canale190/index.m3u8) | <img height="20" src="https://i.imgur.com/LKrVuRR.jpg"/> |
 | 0   | Explorer | [>](https://59d7d6f47d7fc.streamlock.net/explorerhdch/explorerhdch/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gFwhIZC.png"/> |
 | 0   | Entella Tv | [>](https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1VPXKrW.png"/> |
-| 0   | Espansione Tv | [>](https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mm9HKpD.png"/> |
+| 0   | Espansione Tv | [>](https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mm9HKpD.png"/> | EspansioneTV.it |
 | 0   | Esperia Tv | [>](https://59d8c0cee6f3d.streamlock.net/esperiatv/esperiatv/playlist.m3u8) | <img height="20" src="https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv.png"/> |
 | 0   | Etna Espresso Channel | [>](https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hMUxytZ.png"/> |
 | 0   | Etv Marche | [>](https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4UO7q69.png"/> |
@@ -146,9 +146,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | HUB Tv | [>](https://5c483b9d1019c.streamlock.net/8004/8004/playlist.m3u8) | <img height="20" src="https://i.imgur.com/46GTBEW.png"/> |
 | 0   | Icaro Tv Rimini | [>](https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/z05VSSN.png"/> |
 | 0   | Idea Plus | [>](https://eu1.servers10.com:8081/8044/index.m3u8) | <img height="20" src="https://i.imgur.com/2edmxYF.png"/> |
-| 0   | IT Channel | [>](https://whoptv.on-the-web.tv:4430/diretta/direttats/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YxteePM.png"/> |
 | 0   | Italia 2 Tv | [>](https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ISbxfY0.png"/> | Italia2TV.it |
 | 0   | Italia 7 | [>](https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YBXkY4w.png"/> |
+| 0   | Italia Channel | [>](https://stream1.aswifi.it/italiachannel/stream/index.m3u8) | <img height="20" src="https://i.imgur.com/zuuKXGv.png"/> | ItaliaChannel.it |
 | 0   | Iunior Tv | [>](https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9jeNlLE.png"/> |
 | 0   | L'Altro Corriere Tv  | [>](https://stream.ets-sistemi.it/live.laltrocorrieretv/laltrocorrieretv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dgj79J3.png"/> |
 | 254 | La Grande Italia | [>](https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/chunklist_w748924424.m3u8) | <img height="20" src="https://i.imgur.com/hc8KT06.png"/> |
@@ -394,4 +394,4 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 56  | HGTV – Home & Garden Tv  | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTVItaly.it |
 | 59  | Motor Trend    | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> | MotorTrend.it |
 | 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&output=16) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
-| 0   | Canale Italia 83 | [x](https://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZaenpJA.jpg"/> |
+| 0   | Canale Italia  | [x](https://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/QlwLRyh.png"/> | CanaleItalia.it |
