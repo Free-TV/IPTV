@@ -51,7 +51,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 66  | Radio 105 TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8) | <img height="20" src="https://i.imgur.com/3NiLKvj.png"/> | Radio105TV.it |
 | 67  | R101 TV Ⓢ Ⓖ    | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8) | <img height="20" src="https://i.imgur.com/xstH1d2.png"/> | R101TV.it |
 | 69  | Deejay TV Ⓢ    | [>](https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8) | <img height="20" src="https://i.imgur.com/rlaKH6k.png"/> | DeejayTV.it |
-| 70  | RadioItaliaTV Ⓢ | [>](https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8) | <img height="20" src="https://i.imgur.com/4VCEJuJ.png"/> | RadioItaliaTV.it |
+| 70  | RadioItaliaTV   | [>](https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8) | <img height="20" src="https://i.imgur.com/4VCEJuJ.png"/> | RadioItaliaTV.it |
 | 158 | Radio KISS KISS TV | [>](https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qxu8Fkh.png"/> | KissKissTV.it |
 | 167 | VH1            | [>](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> | VH1Italia.it |
 | 258 | RadioFreccia Ⓢ | [>](https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M5YYJv8.png"/> | RadioFrecciaTV.it |
