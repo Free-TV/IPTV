@@ -234,6 +234,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | ST Europe Channel | [>](https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/T7kyY2p.png"/> |
 | 0   | Sardegna 1 | [>](https://59d8c0cee6f3d.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qRRGn1e.png"/> |
 | 0   | Set Tv Cilento  | [>](https://stream1.aswifi.it/settv/live/index.m3u8) | <img height="20" src="https://i.imgur.com/qN5D1jD.png"/> |
+| 0   | Sesta Rete | [>](https://stream4.xdevel.com/video0s976646-1400/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0B0S2gI.png"/> |
 | 0   | Sicilia Media | [>](http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oQwo4AP.png"/> |
 | 0   | Sicilia Tv | [>](https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/I5FoThW.png"/> |
 | 0   | Sienatv | [>](https://flash8.xdevel.com/sienatv/sienatv/master.m3u8) | <img height="20" src="https://i.imgur.com/gcysky4.png"/> |
