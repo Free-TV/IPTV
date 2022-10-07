@@ -1211,8 +1211,8 @@ http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
 http://stream.ets-sistemi.it:1935/live.rvm/rvmtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Video Nola" tvg-logo="https://i.imgur.com/M5z5UoD.jpg" group-title="Italy",Video Nola
 http://stream1.aswifi.it/videonola/live/index.m3u8
-#EXTINF:-1 tvg-name="Video Star" tvg-logo="https://i.imgur.com/1ddJVZ7.jpg" group-title="Italy",Video Star
-https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/playlist.m3u8
+#EXTINF:-1 tvg-name="Video Star Tv Sicilia" tvg-logo="https://i.imgur.com/1ddJVZ7.jpg" group-title="Italy",Video Star Tv Sicilia
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Videolina" tvg-logo="https://i.imgur.com/bnDZJwd.gif" group-title="Italy",Videolina
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 tvg-name="Videostar Tv Lombardia" tvg-logo="https://i.imgur.com/ecpPFZL.jpg" group-title="Italy",Videostar Tv Lombardia
