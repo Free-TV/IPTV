@@ -375,7 +375,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Video Brescia | [>](http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8) | <img height="20" src="https://i.imgur.com/9Fw2wBT.png"/> |
 | 0   | Video Mediterraneo | [>](http://stream.ets-sistemi.it:1935/live.rvm/rvmtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hJHC3uQ.png"/> |
 | 0   | Video Nola | [>](http://stream1.aswifi.it/videonola/live/index.m3u8) | <img height="20" src="https://i.imgur.com/M5z5UoD.jpg"/> |
-| 0   | Video Star | [>](https://5cbd3bc28341f.streamlock.net:444/videostar_live/_definst_/videostar/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1ddJVZ7.jpg"/> |
+| 0   | Video Star Tv Sicilia | [>](https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1ddJVZ7.jpg"/> |
 | 0   | Videolina | [>](http://livestreaming.videolina.it/live/Videolina/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bnDZJwd.gif"/> |
 | 0   | Videostar Tv Lombardia | [>](http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpPFZL.jpg"/> |
 | 0   | Vintage Radio Tv | [>](https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n3LtBNT.jpg"/> |
