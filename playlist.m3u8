@@ -653,10 +653,10 @@ https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
 http://77.68.40.210:8888/hls/basilicata1.m3u8
 #EXTINF:-1 tvg-name="Bergamo Tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" group-title="Italy",Bergamo Tv
 http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
-#EXTINF:-1 tvg-name="BFC" tvg-logo="https://i.imgur.com/3OOsLu6.png" group-title="Italy",BFC
-https://backup.superstreaming.inaria.me/BFC/index.m3u8
-#EXTINF:-1 tvg-name="BIKE" tvg-logo="https://i.imgur.com/4IzVSQI.png" group-title="Italy",BIKE
-https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
+#EXTINF:-1 tvg-name="BFC" tvg-logo="https://i.imgur.com/3OOsLu6.png" tvg-id="BFCForbes.it" group-title="Italy",BFC
+https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8
+#EXTINF:-1 tvg-name="BIKE" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-id="Bike.it" group-title="Italy",BIKE
+https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
 #EXTINF:-1 tvg-name="BOM Channel Ⓢ" tvg-logo="https://i.imgur.com/hISoOK3.png" tvg-id="BomChannel.it" group-title="Italy",BOM Channel Ⓢ
 https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-name="Cafe Tv 24" tvg-logo="https://i.imgur.com/KbcbxFw.png" group-title="Italy",Cafe Tv 24
@@ -671,9 +671,9 @@ http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
 http://wifitv.tv/media/live/1001/video_850000.m3u8
 #EXTINF:-1 tvg-name="Canale 2" tvg-logo="https://i.imgur.com/ETqDkS1.png" group-title="Italy",Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 21 Campania" tvg-logo="https://i.imgur.com/mU6Cq89.png" tvg-id="Canale21.it" group-title="Italy",Canale 21 Campania
+#EXTINF:-1 tvg-name="Canale 21" tvg-logo="https://i.imgur.com/mU6Cq89.png" tvg-id="Canale21.it" group-title="Italy",Canale 21
 https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 21 Lazio" tvg-logo="https://i.imgur.com/cDAsrBl.png" tvg-id="Canale21Extra.it" group-title="Italy",Canale 21 Lazio
+#EXTINF:-1 tvg-name="Canale 21 Extra" tvg-logo="https://i.imgur.com/cDAsrBl.png" tvg-id="Canale21Extra.it" group-title="Italy",Canale 21 Extra
 https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 58" tvg-logo="https://i.imgur.com/RlFc74C.png" group-title="Italy",Canale 58
 https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
@@ -881,6 +881,8 @@ https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
 https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Radio Monte Kronio Tv (R.M.K.)" tvg-logo="https://i.imgur.com/t0I2Shi.jpg" group-title="Italy",Radio Monte Kronio Tv (R.M.K.)
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Norba Tv" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" group-title="Italy",Radio Norba Tv
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Reggio Tv" tvg-logo="https://i.imgur.com/merrg2C.png" group-title="Italy",Reggio Tv
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete 55" tvg-logo="https://i.imgur.com/EsZn2cj.png" group-title="Italy",Rete 55
@@ -1039,8 +1041,6 @@ https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/p
 http://185.202.128.1:1935/test/BlackMagic/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Monteneve 3" tvg-logo="https://i.imgur.com/LJhQApn.jpg" group-title="Italy",Tele Monteneve 3
 http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Norba (TG Norba 24 )" tvg-logo="https://i.imgur.com/9MhrrJK.png" group-title="Italy",Tele Norba (TG Norba 24 )
-https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/manifest.mpd
 #EXTINF:-1 tvg-name="Tele Nord Est" tvg-logo="https://i.imgur.com/TakoSUX.png" group-title="Italy",Tele Nord Est
 https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Nord Genova" tvg-logo="https://i.imgur.com/gQWB9Gx.png" group-title="Italy",Tele Nord Genova
@@ -1151,6 +1151,8 @@ https://media.velcom.it:19360/teleuniverso/teleuniverso.m3u8
 https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Tevere Tv" tvg-logo="https://i.imgur.com/ghBX2Hn.png" group-title="Italy",Tevere Tv
 https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
+#EXTINF:-1 tvg-name="TG Norba 24" tvg-logo="https://i.imgur.com/9MhrrJK.png" tvg-id="TGNorba24.it" group-title="Italy",TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="TLT Molise" tvg-logo="https://i.imgur.com/wgwD7gh.png" group-title="Italy",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1 tvg-name="Touring Tv" tvg-logo="https://i.imgur.com/E2Feao5.jpg" group-title="Italy",Touring Tv
