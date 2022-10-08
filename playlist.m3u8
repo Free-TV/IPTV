@@ -1409,6 +1409,8 @@ https://st01-1.iptv.joj.sk/101-tv-pc.m3u8
 https://st01-1.iptv.joj.sk/102-tv-pc.m3u8
 #EXTINF:-1 tvg-name="WAU" tvg-logo="https://i.imgur.com/3M46moH.png" tvg-id="TVWAU.sk" group-title="Slovakia",WAU
 https://st01-1.iptv.joj.sk/103-tv-pc.m3u8
+#EXTINF:-1 tvg-name="JOJ 24" tvg-logo="https://i.imgur.com/owEVXRE.png" tvg-id="JOJ24.sk" group-title="Slovakia",JOJ 24
+https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
 #EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" group-title="Slovakia",Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Slovakia",TA3 Ⓢ
