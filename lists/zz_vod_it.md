@@ -4,7 +4,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Sportitalia LIVE24 | [>](https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | Sportitalia24.it |
+| 1   | Sportitalia LIVE24 | [>](https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | Sportitalia24.it |
 | 3   | Sport2U | [>](https://live.sport2u.tv/EvoLive/myStream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WW0lNk1.png"/> |
 | 4   | Grande Fratello Vip Regia 1 Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd) | <img height="20" src="https://i.imgur.com/PBTdU4G.png"/> |
 | 5   | Grande Fratello Vip Regia 2 Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd) | <img height="20" src="https://i.imgur.com/FKfwbHD.png"/> |
