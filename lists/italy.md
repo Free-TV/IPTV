@@ -94,8 +94,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | BFC            | [>](https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> | BFCForbes.it |
 | 0   | BIKE           | [>](https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
 | 0   | BOM Channel Ⓢ    | [>](https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hISoOK3.png"/> | BomChannel.it |
-| 0   | Cafe Tv 24 | [>](http://srv3.meway.tv:1957/cafe/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KbcbxFw.png"/> |
-| 0   | Calabria Uno TV  | [>](https://5f22d76e220e1.streamlock.net/calabriaunotv/calabriaunotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
+| 0   | Cafe Tv 24 | [>](https://srvx1.selftv.video/cafe/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KbcbxFw.png"/> |
+| 0   | Calabria Uno Tv  | [>](https://stream3.aswifi.it/calabriauno/live/index.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
 | 0   | Calabria tv | [>](https://5db313b643fd8.streamlock.net:443/CalabriaTv2/CalabriaTv2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qWirucd.png"/> |
 | 0   | Canale 10 | [>](http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KuQcjYV.png"/> |
 | 0   | Canale 12 Sassari | [>](http://wifitv.tv/media/live/1001/video_850000.m3u8) | <img height="20" src="https://i.imgur.com/u6P2lTY.jpg"/> |
@@ -363,17 +363,17 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tv Qui Modena | [>](https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4bOYlfg.png"/> |
 | 0   | Tv Uno | [>](http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv) | <img height="20" src="https://i.imgur.com/OtCwYsh.jpg"/> |
 | 0   | Tv Yes | [>](https://stream1.aswifi.it/radioyes/live/index.m3u8) | <img height="20" src="https://i.imgur.com/1wsO8U7.png"/> |
-| 0   | Tv7 Azzurra | [>](http://217.61.26.46:8080/hls/azzurra.m3u8) | <img height="20" src="https://i.imgur.com/yYvGWHL.png"/> |
-| 0   | Tv7 News | [>](http://217.61.26.46:8080/hls/news.m3u8) | <img height="20" src="https://i.imgur.com/rlMEE1j.png"/> |
-| 0   | Tv7 Triveneta | [>](http://217.61.26.46:8080/hls/triveneta.m3u8) | <img height="20" src="https://i.imgur.com/O2NF7jJ.jpg"/> |
+| 0   | Tv7 Azzurra | [>](https://www.gruppotv7.com:8090/hls/azzurra.m3u8) | <img height="20" src="https://i.imgur.com/yYvGWHL.png"/> |
+| 0   | Tv7 News | [>](https://www.gruppotv7.com:8090/hls/ireporter.m3u8) | <img height="20" src="https://i.imgur.com/rlMEE1j.png"/> |
+| 0   | Tv7 Triveneta | [>](https://www.gruppotv7.com:8090/hls/triveneta.m3u8) | <img height="20" src="https://i.imgur.com/O2NF7jJ.jpg"/> |
 | 0   | Tva Vicenza | [>](http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FtFuPCC.png"/> |
-| 0   | Tvr Xenon | [>](https://cloudtv.azotosolutions.com:9553/tvrxenonlive/tvrxenonlive/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
+| 0   | Tvr Xenon | [>](https://cdn3-ger.azotosolutions.com/cdnedge4/live4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
 | 0   | Tvrs Tv | [>](https://59d7d6f47d7fc.streamlock.net/tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
 | 0   | Umbria TV  | [>](https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kccGe02.png"/> |
 | 0   | Vera Tv | [>](http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/djMvkvN.png"/> |
-| 0   | Video 33 | [>](http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Wp24htV.jpg"/> |
+| 0   | VB33 | [>](https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ygDuIxU.png"/> |
 | 0   | Video Calabria | [>](https://customer-vkv8jtxsth4yne24.cloudflarestream.com/5e8f0571c34cecd39453f02ad6e8d619/manifest/video.m3u8) | <img height="20" src="https://i.imgur.com/Bc2AvIm.png"/> | VideoCalabria.it |
-| 0   | Video Mediterraneo | [>](http://stream.ets-sistemi.it:1935/live.rvm/rvmtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hJHC3uQ.png"/> |
+| 0   | Video Mediterraneo | [>](https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S23348473/u5bWX5Bh1fDx/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hJHC3uQ.png"/> |
 | 0   | Video Nola | [>](http://stream1.aswifi.it/videonola/live/index.m3u8) | <img height="20" src="https://i.imgur.com/M5z5UoD.jpg"/> |
 | 0   | Video Star Tv Sicilia | [>](https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1ddJVZ7.jpg"/> |
 | 0   | Videolina | [>](http://livestreaming.videolina.it/live/Videolina/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bnDZJwd.gif"/> |
@@ -381,7 +381,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Vintage Radio Tv | [>](https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n3LtBNT.jpg"/> |
 | 0   | Vuemme Tv | [>](https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x5A0xU6.png"/> |
 | 0   | Well Tv | [>](https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Kqgz4Na.png"/> |
-| 0   | Yvii Tv | [>](https://yviistreamer.kernel.online/hls/yviitv.m3u8) | <img height="20" src="https://i.imgur.com/yP5AvDo.png"/> |
+| 0   | Yvii Tv | [>](https://80.211.72.5/hls/yviitv.m3u8) | <img height="20" src="https://i.imgur.com/yP5AvDo.png"/> |
 | 0   | Zerouno Tv News | [>](https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vxRzyjE.png"/> |
 
 <h2>Invalid</h2>
