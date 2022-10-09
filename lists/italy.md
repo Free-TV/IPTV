@@ -98,7 +98,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Calabria Uno Tv  | [>](https://stream3.aswifi.it/calabriauno/live/index.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
 | 0   | Calabria tv | [>](https://5db313b643fd8.streamlock.net:443/CalabriaTv2/CalabriaTv2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qWirucd.png"/> |
 | 0   | Canale 10 | [>](http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KuQcjYV.png"/> |
-| 0   | Canale 12 Sassari | [>](http://wifitv.tv/media/live/1001/video_850000.m3u8) | <img height="20" src="https://i.imgur.com/u6P2lTY.jpg"/> |
 | 0   | Canale 2 | [>](https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ETqDkS1.png"/> |
 | 0   | Canale 21 | [>](https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mU6Cq89.png"/> | Canale21.it |
 | 0   | Canale 21 Extra | [>](https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cDAsrBl.png"/> | Canale21Extra.it |
@@ -107,11 +106,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Canale 74 Sicilia | [>](http://stream.ets-sistemi.it:1935/live.canale74/canale74tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/18JIVgu.png"/> |
 | 0   | Canale 8 | [>](https://59d8c0cee6f3d.streamlock.net/canale8/canale8/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ElAS2WC.png"/> |
 | 0   | Canale Uno Tivù | [>](https://eu1.servers10.com:8081/8096/index.m3u8) | <img height="20" src="https://i.imgur.com/hfqNw92.png"/> |
-| 0   | Carina Tv | [>](http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FMGcm6I.jpg"/> |
-| 0   | Casa del Sole Tv | [>](https://eu1.servers10.com:8081/8040/index.m3u8) | <img height="20" src="https://i.imgur.com/qPdGelu.png"/> |
+| 0   | Carina Tv | [>](https://stream7.zivoli.it/carinatv/carinatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FMGcm6I.jpg"/> |
 | 0   | Casa Sanremo TV | [>](https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/WL3SFTs.png"/> |
 | 0   | Castrovillari Tv | [>](http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/V0kjYNG.png"/> |
-| 0   | Chiesa Tv | [>](http://cldwz.glauco.it/HLS/Chiesadimilanoaac/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/U0PRT88.png"/> |
 | 0   | Ciao USA | [>](http://joe.livebox.co.in/iotieviTVhls/CIAOUSA.m3u8) | <img height="20" src="https://i.imgur.com/CJ2iXYx.png"/> |
 | 0   | Cilento Channel | [>](https://streaming.dimind.it/live/cilentocnn/index.m3u8) | <img height="20" src="https://i.imgur.com/4k9Su8j.png"/> |
 | 0   | Class CNBC | [>](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> |
@@ -123,8 +120,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Digital Tv7 Benevento | [>](http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NaQkklP.png"/> |
 | 0   | Donna Shopping Tv | [>](https://media.streambrothers.com:1936/8038/8038/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oLDvx2T.png"/> |
 | 0   | E'live Brescia Tv | [>](https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bZ3B7pi.png"/> |
-| 0   | Easy Tv | [>](https://streamlive.arcapuglia.it:8080/live/canale190/index.m3u8) | <img height="20" src="https://i.imgur.com/LKrVuRR.jpg"/> |
-| 0   | Explorer | [>](https://59d7d6f47d7fc.streamlock.net/explorerhdch/explorerhdch/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gFwhIZC.png"/> |
+| 0   | Easy Tv Canale 190 | [>](https://diretta.arcapuglia.it:8080/live/newmedia/index.m3u8) | <img height="20" src="https://i.imgur.com/LKrVuRR.jpg"/> |
 | 0   | Entella Tv | [>](https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1VPXKrW.png"/> |
 | 0   | Espansione Tv | [>](https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mm9HKpD.png"/> | EspansioneTV.it |
 | 0   | Esperia Tv | [>](https://59d8c0cee6f3d.streamlock.net/esperiatv/esperiatv/playlist.m3u8) | <img height="20" src="https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv.png"/> |
@@ -132,6 +128,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Etv Marche | [>](https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4UO7q69.png"/> |
 | 0   | Etv Rete7 | [>](https://live.ipstream.it/etv/etv.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Gwj65qg.jpg"/> |
 | 0   | Euro Tv | [>](https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HCl5Zbu.png"/> |
+| 0   | Explorer | [>](https://59d7d6f47d7fc.streamlock.net/explorerhdch/explorerhdch/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gFwhIZC.png"/> |
 | 0   | Extra Tv | [>](https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8) | <img height="20" src="https://i.imgur.com/KCBurST.png"/> |
 | 0   | FM Tv Marche | [>](https://cloudtv.azotosolutions.com:9553/media/media/playlist.m3u8) | <img height="20" src="https://i.imgur.com/yY01NhL.jpg"/> |
 | 0   | Fano Tv (Canale17) | [>](https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8) | <img height="20" src="https://i.imgur.com/39oS1s4.jpg"/> |
@@ -149,23 +146,22 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Italia Channel | [>](https://stream1.aswifi.it/italiachannel/stream/index.m3u8) | <img height="20" src="https://i.imgur.com/zuuKXGv.png"/> | ItaliaChannel.it |
 | 0   | Iunior Tv | [>](https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9jeNlLE.png"/> |
 | 0   | L'Altro Corriere Tv  | [>](https://stream.ets-sistemi.it/live.laltrocorrieretv/laltrocorrieretv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dgj79J3.png"/> |
-| 254 | La Grande Italia | [>](https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/chunklist_w748924424.m3u8) | <img height="20" src="https://i.imgur.com/hc8KT06.png"/> |
-| 0   | La Tua Tv | [>](https://wms2.zivoli.it/latuatv/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nc3I0cS.png"/> |
 | 0   | La tr3 Marsala | [>](https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/XlxpfEx.png"/> |
-| 0   | LaC News 24 | [>](https://cdn.mainstreaming.tv/live/100532/HVvPMzy/playlist.m3u8?rnd=861954) | <img height="20" src="https://i.imgur.com/02vCECa.png"/> |
-| 0   | LaC Tv Calabria | [>](http://streamcdnb9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2Ef6crS.png"/> |
+| 0   | LaC News 24 | [>](https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8) | <img height="20" src="https://i.imgur.com/02vCECa.png"/> |
+| 0   | LaC Tv Calabria | [>](https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2Ef6crS.png"/> |
 | 0   | Lab Tv | [>](http://live.sloode.com:1935/labtv_live/labtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OpRS6Fl.png"/> |
 | 0   | Lazio Tv | [>](https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6gbWHvP.jpg"/> |
 | 0   | Le Cronache Lucane Tv | [>](http://stucazz.com:8888/hls/cronache.m3u8) | <img height="20" src="https://i.imgur.com/EBY3IZL.jpg"/> |
-| 0   | Lira Tv | [>](https://5e06222f4d978.streamlock.net/liratv/liratv1500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S0ReVEo.png"/> |
+| 0   | Lira Tv | [>](https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S0ReVEo.png"/> |
 | 0   | Lombardia Tv | [>](https://5db313b643fd8.streamlock.net/LOMBARDIATV/LOMBARDIATV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/aksVy9f.jpg"/> |
 | 0   | Love in Venice | [>](http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lLBzzce.png"/> |
 | 0   | Lucania Tv | [>](http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wuUNVR5.png"/> |
 | 0   | Made in BO | [>](https://srvx1.selftv.video/dmchannel/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WFnrMS0.png"/> |
+| 0   | Matrix Tv | [>](https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/chunklist_w748924424.m3u8) | <img height="20" src="https://i.imgur.com/m1HeXrn.png"/> |
 | 0   | Media Tv | [>](http://live.sloode.com:1935/mediatv/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WFiRWO9.png"/> |
 | 0   | Mediterranea Tv | [>](https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GUTOqRt.png"/> |
 | 0   | Medjugorje Italia Tv | [>](https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hkZScXf.png"/> |
-| 0   | Medjugorje Tv Puglia  | [>](https://streamlive.arcapuglia.it:8080/live/medjugorietv/index.m3u8) | <img height="20" src="https://i.imgur.com/IWBeddh.png"/> |
+| 0   | Medjugorje Tv Puglia  | [>](https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8) | <img height="20" src="https://i.imgur.com/IWBeddh.png"/> |
 | 0   | Minformo Tv | [>](https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VJNtnZM.jpg"/> |
 | 0   | NSL            | [>](https://streannlivensl.cachefly.net/nsl1/nsl1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5W6vRaf.png"/> |
 | 0   | NTI Canale 271 | [>](https://www.ntimedia.it/video/S0/S0_master.m3u8) | <img height="20" src="https://i.imgur.com/zlmcUe0.jpg"/> |
@@ -186,7 +182,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Padre Pio Tv | [>](https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/7ajxEPH.png"/> |
 | 0   | Paradise Tv | [>](https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/okIBfIb.jpg"/> |
 | 0   | Parole di Vita  | [>](https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/chunklist_w2067011949.m3u8) | <img height="20" src="https://i.imgur.com/M9mIiZD.png"/> |
-| 0   | Partenope Tv | [>](https://streamlive.arcapuglia.it:8080/live/partenopetv/index.m3u8) | <img height="20" src="https://i.imgur.com/FtuWkj1.png"/> |
+| 0   | Partenope Tv | [>](https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8) | <img height="20" src="https://i.imgur.com/FtuWkj1.png"/> |
 | 0   | Passione Lotto Tv | [>](http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8) | <img height="20" src="https://i.imgur.com/E2JBphv.jpg"/> |
 | 0   | Pop Tv | [>](https://stream1.aswifi.it/poptelevision/live/index.m3u8) | <img height="20" src="https://i.imgur.com/TeolCu9.png"/> |
 | 0   | PrimAntenna TV | [>](https://585b674743bbb.streamlock.net:443/9062/9062/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gSklP3y.png"/> |
@@ -210,6 +206,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Radio Norba Tv | [>](https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/qftBPM9.png"/> | RadionorbaTV.it |
 | 0   | Radio Roma | [>](https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RKvfStm.png"/> |
 | 0   | Reggio Tv | [>](https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/merrg2C.png"/> |
+| 0   | Rei Tv | [>](https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YNRWFOo.png"/> |
 | 0   | Rete 55 | [>](https://stream.internet.one/Rete55_Live/index.m3u8) | <img height="20" src="https://i.imgur.com/EsZn2cj.png"/> |
 | 0   | Rete 7 Tv | [>](https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lUTxfoh.png"/> |
 | 0   | Rete 8 Vga | [>](https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3wF2AJX.jpg"/> |
@@ -234,9 +231,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Sardegna 1 | [>](https://59d8c0cee6f3d.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qRRGn1e.png"/> |
 | 0   | Set Tv Cilento  | [>](https://stream1.aswifi.it/settv/live/index.m3u8) | <img height="20" src="https://i.imgur.com/qN5D1jD.png"/> |
 | 0   | Sesta Rete | [>](https://stream4.xdevel.com/video0s976646-1400/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0B0S2gI.png"/> |
-| 0   | Sicilia Media | [>](http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oQwo4AP.png"/> |
 | 0   | Sicilia Tv | [>](https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/I5FoThW.png"/> |
-| 0   | Sienatv | [>](https://flash8.xdevel.com/sienatv/sienatv/master.m3u8) | <img height="20" src="https://i.imgur.com/gcysky4.png"/> |
+| 0   | Sienatv | [>](https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gcysky4.png"/> |
 | 0   | Siracusa Live Tv  | [>](https://5db313b643fd8.streamlock.net/SRLIVE_1/SRLIVE_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oyPkDnz.jpg"/> |
 | 0   | Sophia Tv | [>](https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fiLNK3b.jpg"/> |
 | 0   | Stiletv | [>](http://convision2.convergenze.it/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8) | <img height="20" src="https://i.imgur.com/v5Grhff.jpg"/> |
@@ -363,9 +359,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tv Qui Modena | [>](https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4bOYlfg.png"/> |
 | 0   | Tv Uno | [>](http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv) | <img height="20" src="https://i.imgur.com/OtCwYsh.jpg"/> |
 | 0   | Tv Yes | [>](https://stream1.aswifi.it/radioyes/live/index.m3u8) | <img height="20" src="https://i.imgur.com/1wsO8U7.png"/> |
-| 0   | Tv7 Azzurra | [>](https://www.gruppotv7.com:8090/hls/azzurra.m3u8) | <img height="20" src="https://i.imgur.com/yYvGWHL.png"/> |
-| 0   | Tv7 News | [>](https://www.gruppotv7.com:8090/hls/ireporter.m3u8) | <img height="20" src="https://i.imgur.com/rlMEE1j.png"/> |
-| 0   | Tv7 Triveneta | [>](https://www.gruppotv7.com:8090/hls/triveneta.m3u8) | <img height="20" src="https://i.imgur.com/O2NF7jJ.jpg"/> |
+| 0   | Tv7 Azzurra | [>](https://www.gruppotv7.com:8090/hls/azzurra.m3u8) | <img height="20" src="https://i.imgur.com/xdukioH.png"/> |
+| 0   | Tv7 iReporter | [>](https://www.gruppotv7.com:8090/hls/ireporter.m3u8) | <img height="20" src="https://i.imgur.com/37i2B6m.png"/> |
+| 0   | Tv7 Triveneta | [>](https://www.gruppotv7.com:8090/hls/triveneta.m3u8) | <img height="20" src="https://i.imgur.com/bYiaO7l.png"/> |
 | 0   | Tva Vicenza | [>](http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FtFuPCC.png"/> |
 | 0   | Tvr Xenon | [>](https://cdn3-ger.azotosolutions.com/cdnedge4/live4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
 | 0   | Tvrs Tv | [>](https://59d7d6f47d7fc.streamlock.net/tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
@@ -402,3 +398,4 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 59  | Motor Trend    | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> | MotorTrend.it |
 | 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&output=16) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
 | 0   | Canale Italia  | [x](https://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/QlwLRyh.png"/> | CanaleItalia.it |
+| 0   | La Tua Tv | [x](https://wms2.zivoli.it/latuatv/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nc3I0cS.png"/> |
