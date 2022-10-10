@@ -633,6 +633,8 @@ https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
 https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8
 #EXTINF:-1 tvg-name="Apulia Web Tv" tvg-logo="https://i.imgur.com/AnU4g2J.png" group-title="Italy",Apulia Web Tv
 https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8
+#EXTINF:-1 tvg-name="Aristanis SuperTv" tvg-logo="https://i.imgur.com/v8PlAJO.png" group-title="Italy",Aristanis SuperTv
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
 #EXTINF:-1 tvg-name="Arte Network Orler" tvg-logo="https://i.imgur.com/DP5y0Er.png" group-title="Italy",Arte Network Orler
 https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 #EXTINF:-1 tvg-name="Aurora Arte" tvg-logo="https://i.imgur.com/BoLZ5wG.png" tvg-id="AuroraArte.it" group-title="Italy",Aurora Arte
@@ -919,8 +921,6 @@ http://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S12268608/CXHH7K39hg9K/pl
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 tvg-name="ST Europe Channel" tvg-logo="https://i.imgur.com/T7kyY2p.png" group-title="Italy",ST Europe Channel
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/qRRGn1e.png" group-title="Italy",Sardegna 1
-https://59d8c0cee6f3d.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
 #EXTINF:-1 tvg-name="Set Tv Cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="Italy",Set Tv Cilento
 https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:-1 tvg-name="Sesta Rete" tvg-logo="https://i.imgur.com/0B0S2gI.png" group-title="Italy",Sesta Rete
