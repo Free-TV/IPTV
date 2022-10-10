@@ -86,6 +86,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Antenna Sud Extra | [>](https://live.antennasudwebtv.it:9443/hls/vod92.m3u8) | <img height="20" src="https://i.imgur.com/6tBv8VD.png"/> |
 | 0   | Antenna Sud Sport | [>](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | Apulia Web Tv | [>](https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8) | <img height="20" src="https://i.imgur.com/AnU4g2J.png"/> |
+| 0   | Aristanis SuperTv | [>](https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v8PlAJO.png"/> |
 | 0   | Arte Network Orler | [>](https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DP5y0Er.png"/> |
 | 0   | Aurora Arte | [>](https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BoLZ5wG.png"/> | AuroraArte.it |
 | 0   | Azzurra Tv Vco | [>](https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mSWw8uW.png"/> | AzzurraTV.it |
@@ -229,7 +230,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Rtv 38 Toscana | [>](http://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S12268608/CXHH7K39hg9K/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xqlhJqK.png"/> |
 | 0   | SL 48 Tv | [>](http://media.velcom.it:1935/sl48/sl48/playlist.m3u8) | <img height="20" src="https://i.imgur.com/b58oouu.jpg"/> |
 | 0   | ST Europe Channel | [>](https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/T7kyY2p.png"/> |
-| 0   | Sardegna 1 | [>](https://59d8c0cee6f3d.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qRRGn1e.png"/> |
 | 0   | Set Tv Cilento  | [>](https://stream1.aswifi.it/settv/live/index.m3u8) | <img height="20" src="https://i.imgur.com/qN5D1jD.png"/> |
 | 0   | Sesta Rete | [>](https://stream4.xdevel.com/video0s976646-1400/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0B0S2gI.png"/> |
 | 0   | Sicilia 24 Tv | [>](https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GhQX36O.png"/> |
@@ -402,3 +402,5 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&output=16) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
 | 0   | Canale Italia  | [x](https://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/QlwLRyh.png"/> | CanaleItalia.it |
 | 0   | La Tua Tv | [x](https://wms2.zivoli.it/latuatv/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nc3I0cS.png"/> |
+| 0   | Sardegna 1 | [x](https://59d8c0cee6f3d.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qRRGn1e.png"/> |
+| 0   | Telesardegna | [x](https://dotfvxkfj90ca.cloudfront.net/live/telesardegnalive1_aac/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LC5fKHU.png"/> |
