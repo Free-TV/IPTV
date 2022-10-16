@@ -1805,14 +1805,14 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Urban Ⓖ" tvg-logo="https://i.imgur.com/PAx9qj8.png" group-title="VOD Italy",Trace Urban Ⓖ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-name="Full Moon" tvg-logo="https://i.imgur.com/0xT7bZP.jpg" group-title="VOD Italy",Full Moon
+https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cinema Segreto" tvg-logo="https://i.imgur.com/pID3ZGx.png" group-title="VOD Italy",Cinema Segreto
 https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Family – Rakuten TV" tvg-logo="https://i.imgur.com/BCC123A.jpg" group-title="VOD Italy",Family – Rakuten TV
 https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bizzarro Movies" tvg-logo="https://i.imgur.com/EbDLnZB.png" group-title="VOD Italy",Bizzarro Movies
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Full Moon" tvg-logo="https://i.imgur.com/0xT7bZP.jpg" group-title="VOD Italy",Full Moon
-https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" group-title="VOD Italy",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="WP" tvg-logo="https://i.imgur.com/W5I5yY0.png" group-title="VOD Italy",WP
