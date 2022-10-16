@@ -27,7 +27,7 @@
 | 4131 | Yamato Animation | [>](https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rOl7HfS.png"/> |
 | 4163 | BBC Drama | [>](https://4965d0c5c25f4eba990ba5e97b677215.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_BBCDrama/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hY1M4hL.jpg"/> |
 | 4169 | Televisa Telenovelas | [>](https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GaJIRN3.jpg"/> |
-| 4210 | Stories – Rakuten TV | [>](https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A3A97V1.jpeg"/> |
+| 4210 | Stories – Rakuten TV | [>](https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tMcUvjI.jpg"/> |
 | 4216 | Humanity Documentari | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0) | <img height="20" src="https://i.imgur.com/4gwdyar.png"/> |
 | 4405 | The Boat Show | [>](https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8) | <img height="20" src="https://i.imgur.com/cPTLian.png"/> |
 | 4411 | Fashion TV     | [>](https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KT3zgc1.png"/> |
@@ -41,14 +41,18 @@
 | 4622 | Planeta Junior | [>](https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/F71WMja.jpg"/> |
 | 4628 | MONDO TV KIDS  | [>](https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DMqKFIM.png"/> |
 | 4710 | Vevo Pop | [>](https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8) | <img height="20" src="https://i.imgur.com/DPqMpQC.png"/> |
+| 4716 | Radio Italia Trend | [>](https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpfn3e.png"/> |
 | 4725 | Clubbing TV | [>](https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/D1IuAqu.jpg"/> |
 | 4728 | Deluxe Lounge HD | [>](https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8) | <img height="20" src="https://i.imgur.com/LzIsXym.png"/> |
+| 4734 | Trace Latina Ⓖ | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GHbz8wd.png"/> |
+| 4737 | Trace Urban Ⓖ | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PAx9qj8.png"/> |
 | 4960 | Cinema Segreto | [>](https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pID3ZGx.png"/> |
 | 4966 | Family – Rakuten TV | [>](https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BCC123A.jpg"/> |
 | 4969 | Bizzarro Movies | [>](https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
 | 4972 | CGtv | [>](https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6rsLtY7.png"/> |
 | 4975 | WP | [>](https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/W5I5yY0.png"/> |
 | 4978 | Documentari – Rakuten TV | [>](https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rAHBiO8.jpg"/> |
+| 4984 | Shorts Ⓖ       | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GwM7RHV.jpg"/> |
 | 4990 | Sofy.tv        | [>](https://sofytv-samsungit.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fsJFJeZ.png"/> |
 | 4996 | Film Top – Rakuten TV | [>](https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OfD9hM9.jpeg"/> |
 | 4998 | Drammatico – Rakuten TV | [>](https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nx3JzZK.jpg"/> |
