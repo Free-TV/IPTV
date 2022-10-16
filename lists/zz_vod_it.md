@@ -32,7 +32,7 @@
 | 4405 | The Boat Show | [>](https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8) | <img height="20" src="https://i.imgur.com/cPTLian.png"/> |
 | 4411 | Fashion TV     | [>](https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KT3zgc1.png"/> |
 | 4513 | SportOutdoor.tv | [>](https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fwOuEBl.png"/> |
-| 4516 | Italian Fishing TV | [>](https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Q0jHCdC.png"/> |
+| 4516 | Italian Fishing TV | [>](https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Q0jHCdC.png"/> | ItalianFishingTV.it |
 | 4563 | FUEL TV        | [>](https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4Lzo6M4.png"/> |
 | 4610 | Teletubbies    | [>](https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tSw1oON.jpeg"/> |
 | 4613 | duckTV         | [>](https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BKoAJZV.jpeg"/> |
