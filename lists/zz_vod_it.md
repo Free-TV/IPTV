@@ -46,10 +46,10 @@
 | 4728 | Deluxe Lounge HD | [>](https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8) | <img height="20" src="https://i.imgur.com/LzIsXym.png"/> |
 | 4734 | Trace Latina Ⓖ | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GHbz8wd.png"/> |
 | 4737 | Trace Urban Ⓖ | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PAx9qj8.png"/> |
+| 4957 | Full Moon | [>](https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0xT7bZP.jpg"/> |
 | 4960 | Cinema Segreto | [>](https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pID3ZGx.png"/> |
 | 4966 | Family – Rakuten TV | [>](https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BCC123A.jpg"/> |
 | 4969 | Bizzarro Movies | [>](https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
-| 4957 | Full Moon | [>](https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0xT7bZP.jpg"/> |
 | 4972 | CGtv | [>](https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6rsLtY7.png"/> |
 | 4975 | WP | [>](https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/W5I5yY0.png"/> |
 | 4978 | Documentari – Rakuten TV | [>](https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rAHBiO8.jpg"/> |
