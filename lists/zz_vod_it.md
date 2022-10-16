@@ -49,6 +49,7 @@
 | 4960 | Cinema Segreto | [>](https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pID3ZGx.png"/> |
 | 4966 | Family – Rakuten TV | [>](https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BCC123A.jpg"/> |
 | 4969 | Bizzarro Movies | [>](https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
+| 4957 | Full Moon | [>](https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0xT7bZP.jpg"/> |
 | 4972 | CGtv | [>](https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6rsLtY7.png"/> |
 | 4975 | WP | [>](https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/W5I5yY0.png"/> |
 | 4978 | Documentari – Rakuten TV | [>](https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rAHBiO8.jpg"/> |
