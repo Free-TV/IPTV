@@ -1777,7 +1777,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/fwOuEBl.png" group-title="VOD Italy",SportOutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" group-title="VOD Italy",Italian Fishing TV
+#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" tvg-id="ItalianFishingTV.it" group-title="VOD Italy",Italian Fishing TV
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/4Lzo6M4.png" group-title="VOD Italy",FUEL TV
 https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
