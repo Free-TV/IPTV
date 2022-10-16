@@ -37,7 +37,7 @@
 | 4610 | Teletubbies    | [>](https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tSw1oON.jpeg"/> |
 | 4613 | duckTV         | [>](https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BKoAJZV.jpeg"/> |
 | 4616 | Amuse Animation | [>](https://amuse-amuseanimation-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TLIQ9Th.png"/> |
-| 4619 | SuperToons TV  | [>](https://c8f849b4e0334773afc848e8752ce707.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_SuperToonsTV/playlist.m3u8?ads.wurl_channel=659&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D) | <img height="20" src="https://i.imgur.com/A6vCYsC.png"/> |
+| 4619 | SuperToons TV  | [>](https://kedoo-supertoonstv-4-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A6vCYsC.png"/> |
 | 4622 | Planeta Junior | [>](https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/F71WMja.jpg"/> |
 | 4628 | MONDO TV KIDS  | [>](https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DMqKFIM.png"/> |
 | 4710 | Vevo Pop | [>](https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8) | <img height="20" src="https://i.imgur.com/DPqMpQC.png"/> |
