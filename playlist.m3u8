@@ -1741,84 +1741,82 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/mani
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
 #EXTINF:-1 tvg-name="Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/fFZeBnc.png" group-title="VOD Italy",Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
-#EXTINF:-1 tvg-name="Commedia – Rakuten TV" tvg-logo="https://i.imgur.com/EKKXdIU.jpg" group-title="VOD Italy",Commedia – Rakuten TV
-https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews in diretta" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg" tvg-id="EuronewsItalian.fr" group-title="VOD Italy",Euronews in diretta
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="MMATV" tvg-logo="https://i.imgur.com/lDlbCo3.png" group-title="VOD Italy",MMATV
-https://ov.ottera.tv/live/master.m3u8?channel=mma_mm
-#EXTINF:-1 tvg-name="Motor1TV" tvg-logo="https://i.imgur.com/UERYhO1.png" group-title="VOD Italy",Motor1TV
-https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8
-#EXTINF:-1 tvg-name="The Boat Show" tvg-logo="https://i.imgur.com/247rk8A.jpg" group-title="VOD Italy",The Boat Show
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
-#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/4Lzo6M4.png" group-title="VOD Italy",FUEL TV
-https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/fwOuEBl.png" group-title="VOD Italy",SportOutdoor.tv
-https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8
-#EXTINF:-1 tvg-name="Humanity Documentari" tvg-logo="https://i.imgur.com/4gwdyar.png" group-title="VOD Italy",Humanity Documentari
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-name="BBC Drama – Rakuten TV" tvg-logo="https://i.imgur.com/3WozrTm.png" group-title="VOD Italy",BBC Drama – Rakuten TV
-https://4965d0c5c25f4eba990ba5e97b677215.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_BBCDrama/playlist.m3u8
-#EXTINF:-1 tvg-name="Yamato Animation" tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="VOD Italy",Yamato Animation
-https://4e2e58758a334de4b01b25ab2e5f89c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_YamatoAnimation/playlist.m3u8
-#EXTINF:-1 tvg-name="Stories – Rakuten TV" tvg-logo="https://i.imgur.com/A3A97V1.jpeg" group-title="VOD Italy",Stories – Rakuten TV
-https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://i.imgur.com/JmQ6QjL.png" group-title="VOD Italy",FailArmy
-https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/daTU44g.jpeg" group-title="VOD Italy",The Pet Collective
-https://7d5d97e5180d4065bee9b7ec23003d1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_ThePetCollective/playlist.m3u8
-#EXTINF:-1 tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/xwz9zKk.jpeg" group-title="VOD Italy",People Are Awesome
-https://cd60a46e1f3045a5b67607e17fbcee88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_PeopleAreAwesome/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale Europa" tvg-logo="https://i.imgur.com/Zw2ZIfz.jpg" group-title="VOD Italy",Canale Europa
-https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Alma TV Travel" tvg-logo="https://i.imgur.com/fmgWvet.png" group-title="VOD Italy",Alma TV Travel
-https://00791af53d174795819a600b092d0b5e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_AlmaTVTravel/playlist.m3u8
-#EXTINF:-1 tvg-name="MONDO TV KIDS" tvg-logo="https://i.imgur.com/DMqKFIM.png" group-title="VOD Italy",MONDO TV KIDS
-https://5609f25938604dc7bf112c01611de124.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_MondoTVKids/playlist.m3u8
-#EXTINF:-1 tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/yO3mWJf.png" group-title="VOD Italy",Amuse Animation
-https://2fc68d114219486eb49e5d7ac3189dbb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_AmuseAnimation/playlist.m3u8
-#EXTINF:-1 tvg-name="SuperToons TV" tvg-logo="https://i.imgur.com/A6vCYsC.png" group-title="VOD Italy",SuperToons TV
-https://c8f849b4e0334773afc848e8752ce707.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_SuperToonsTV/playlist.m3u8?ads.wurl_channel=659&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/tSw1oON.jpeg" group-title="VOD Italy",Teletubbies
-https://4dab4c773c874a00912d072efdafc136.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_WildBrainPresentsTeletubbies/playlist.m3u8
-#EXTINF:-1 tvg-name="duckTV" tvg-logo="https://i.imgur.com/BKoAJZV.jpeg" group-title="VOD Italy",duckTV
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/KT3zgc1.png" group-title="VOD Italy",Fashion TV
-https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Alma TV Food" tvg-logo="https://i.imgur.com/h4Luh9j.png" group-title="VOD Italy",Alma TV Food
 https://5dc8dd4cf0b5427eabbefe95b3ddfbf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_AlmaTVFood/playlist.m3u8
-#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/LnH5F8B.png" group-title="VOD Italy",Vevo Pop
-https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/o1k91l1.png" group-title="VOD Italy",Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8
-#EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="https://i.imgur.com/F4ch0op.png" group-title="VOD Italy",Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bizzarro Movies" tvg-logo="https://i.imgur.com/EbDLnZB.png" group-title="VOD Italy",Bizzarro Movies
-https://797fbe152cbe418697be037aef3a708f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_BizzarroMovies/playlist.m3u8
-#EXTINF:-1 tvg-name="Cinema Segreto" tvg-logo="https://i.imgur.com/pID3ZGx.png" group-title="VOD Italy",Cinema Segreto
-https://9e46da7e898449668789c1b36e25aea6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CinemaSegreto/playlist.m3u8
-#EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/nz1ofBi.png" group-title="VOD Italy",CGtv
-https://99d8c10bb3a6428ca41d80c034b759f1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CGtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sofy.tv" tvg-logo="https://i.imgur.com/fsJFJeZ.png" group-title="VOD Italy",Sofy.tv
-https://sofytv-samsungit.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Documentari – Rakuten TV" tvg-logo="https://i.imgur.com/rAHBiO8.jpg" group-title="VOD Italy",Documentari – Rakuten TV
-https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Family – Rakuten TV" tvg-logo="https://i.imgur.com/BCC123A.jpg" group-title="VOD Italy",Family – Rakuten TV
-https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Drammatico – Rakuten TV" tvg-logo="https://i.imgur.com/Nx3JzZK.jpg" group-title="VOD Italy",Drammatico – Rakuten TV
-https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Film d'azione – Rakuten TV" tvg-logo="https://i.imgur.com/KDmDQM6.jpg" group-title="VOD Italy",Film d'azione – Rakuten TV
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Planeta Junior" tvg-logo="https://i.imgur.com/9IFuapQ.png" group-title="VOD Italy",Planeta Junior
-https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Film Top – Rakuten TV" tvg-logo="https://i.imgur.com/OfD9hM9.jpeg" group-title="VOD Italy",Film Top – Rakuten TV
-https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Alma TV Travel" tvg-logo="https://i.imgur.com/fmgWvet.png" group-title="VOD Italy",Alma TV Travel
+https://00791af53d174795819a600b092d0b5e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_AlmaTVTravel/playlist.m3u8
 #EXTINF:-1 tvg-name="Classico – Rakuten TV" tvg-logo="https://i.imgur.com/ytN6jfl.jpeg" group-title="VOD Italy",Classico – Rakuten TV
 https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Thriller – Rakuten TV" tvg-logo="https://i.imgur.com/jJTnBNk.jpeg" group-title="VOD Italy",Thriller – Rakuten TV
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Romance – Rakuten TV" tvg-logo="https://i.imgur.com/TiXrzJZ.jpeg" group-title="VOD Italy",Romance – Rakuten TV
 https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Commedia – Rakuten TV" tvg-logo="https://i.imgur.com/EKKXdIU.jpg" group-title="VOD Italy",Commedia – Rakuten TV
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews in diretta" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg" tvg-id="EuronewsItalian.fr" group-title="VOD Italy",Euronews in diretta
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://i.imgur.com/JmQ6QjL.png" group-title="VOD Italy",FailArmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Motor1TV" tvg-logo="https://i.imgur.com/UERYhO1.png" group-title="VOD Italy",Motor1TV
+https://b87f4ca7d206491eb1e66c08df063cf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Motor1TV/playlist.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/daTU44g.jpeg" group-title="VOD Italy",The Pet Collective
+https://7d5d97e5180d4065bee9b7ec23003d1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_ThePetCollective/playlist.m3u8
+#EXTINF:-1 tvg-name="Canale Europa" tvg-logo="https://i.imgur.com/Zw2ZIfz.jpg" group-title="VOD Italy",Canale Europa
+https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="People Are Awesome" tvg-logo="https://i.imgur.com/xwz9zKk.jpeg" group-title="VOD Italy",People Are Awesome
+https://cd60a46e1f3045a5b67607e17fbcee88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_PeopleAreAwesome/playlist.m3u8
+#EXTINF:-1 tvg-name="Yamato Animation" tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="VOD Italy",Yamato Animation
+https://4e2e58758a334de4b01b25ab2e5f89c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_YamatoAnimation/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Drama" tvg-logo="https://i.imgur.com/3WozrTm.png" group-title="VOD Italy",BBC Drama
+https://4965d0c5c25f4eba990ba5e97b677215.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_BBCDrama/playlist.m3u8
+#EXTINF:-1 tvg-name="Stories – Rakuten TV" tvg-logo="https://i.imgur.com/A3A97V1.jpeg" group-title="VOD Italy",Stories – Rakuten TV
+https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Humanity Documentari" tvg-logo="https://i.imgur.com/4gwdyar.png" group-title="VOD Italy",Humanity Documentari
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-name="The Boat Show" tvg-logo="https://i.imgur.com/247rk8A.jpg" group-title="VOD Italy",The Boat Show
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/KT3zgc1.png" group-title="VOD Italy",Fashion TV
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/fwOuEBl.png" group-title="VOD Italy",SportOutdoor.tv
+https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8
+#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/4Lzo6M4.png" group-title="VOD Italy",FUEL TV
+https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/tSw1oON.jpeg" group-title="VOD Italy",Teletubbies
+https://4dab4c773c874a00912d072efdafc136.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_WildBrainPresentsTeletubbies/playlist.m3u8
+#EXTINF:-1 tvg-name="duckTV" tvg-logo="https://i.imgur.com/BKoAJZV.jpeg" group-title="VOD Italy",duckTV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/TLIQ9Th.png" group-title="VOD Italy",Amuse Animation
+https://2fc68d114219486eb49e5d7ac3189dbb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_AmuseAnimation/playlist.m3u8
+#EXTINF:-1 tvg-name="SuperToons TV" tvg-logo="https://i.imgur.com/A6vCYsC.png" group-title="VOD Italy",SuperToons TV
+https://c8f849b4e0334773afc848e8752ce707.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_SuperToonsTV/playlist.m3u8?ads.wurl_channel=659&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-name="Planeta Junior" tvg-logo="https://i.imgur.com/9IFuapQ.png" group-title="VOD Italy",Planeta Junior
+https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MONDO TV KIDS" tvg-logo="https://i.imgur.com/DMqKFIM.png" group-title="VOD Italy",MONDO TV KIDS
+https://5609f25938604dc7bf112c01611de124.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_MondoTVKids/playlist.m3u8
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/LnH5F8B.png" group-title="VOD Italy",Vevo Pop
+https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8
+#EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="https://i.imgur.com/F4ch0op.png" group-title="VOD Italy",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/o1k91l1.png" group-title="VOD Italy",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8
+#EXTINF:-1 tvg-name="Cinema Segreto" tvg-logo="https://i.imgur.com/pID3ZGx.png" group-title="VOD Italy",Cinema Segreto
+https://9e46da7e898449668789c1b36e25aea6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CinemaSegreto/playlist.m3u8
+#EXTINF:-1 tvg-name="Family – Rakuten TV" tvg-logo="https://i.imgur.com/BCC123A.jpg" group-title="VOD Italy",Family – Rakuten TV
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bizzarro Movies" tvg-logo="https://i.imgur.com/EbDLnZB.png" group-title="VOD Italy",Bizzarro Movies
+https://797fbe152cbe418697be037aef3a708f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_BizzarroMovies/playlist.m3u8
+#EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/nz1ofBi.png" group-title="VOD Italy",CGtv
+https://99d8c10bb3a6428ca41d80c034b759f1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CGtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Documentari – Rakuten TV" tvg-logo="https://i.imgur.com/rAHBiO8.jpg" group-title="VOD Italy",Documentari – Rakuten TV
+https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sofy.tv" tvg-logo="https://i.imgur.com/fsJFJeZ.png" group-title="VOD Italy",Sofy.tv
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Film Top – Rakuten TV" tvg-logo="https://i.imgur.com/OfD9hM9.jpeg" group-title="VOD Italy",Film Top – Rakuten TV
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Drammatico – Rakuten TV" tvg-logo="https://i.imgur.com/Nx3JzZK.jpg" group-title="VOD Italy",Drammatico – Rakuten TV
+https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Film d'azione – Rakuten TV" tvg-logo="https://i.imgur.com/KDmDQM6.jpg" group-title="VOD Italy",Film d'azione – Rakuten TV
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Super! Halloween – Pluto TV" tvg-logo="https://i.imgur.com/M4PKJo5.png" group-title="VOD Italy",Super! Halloween – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8d22424f1bd0007a5f387/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="VH1+ Music Legends – Pluto TV" tvg-logo="https://i.imgur.com/kJ1MDVi.png" group-title="VOD Italy",VH1+ Music Legends – Pluto TV
@@ -1967,8 +1965,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608015ea4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="FUEL TV – Pluto TV" tvg-logo="https://i.imgur.com/sfL6NXb.png" group-title="VOD Italy",FUEL TV – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dbea1f19550007dd0dfa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-name="Euronews – Pluto TV" tvg-logo="https://i.imgur.com/Zpf2ykM.png" group-title="VOD Italy",Euronews – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="CBS News – Pluto TV" tvg-logo="https://i.imgur.com/ApsK6Eq.png" group-title="VOD Italy",CBS News – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Telefe Noticias – Pluto TV" tvg-logo="https://i.imgur.com/X1YDGcd.png" group-title="VOD Italy",Telefe Noticias – Pluto TV
