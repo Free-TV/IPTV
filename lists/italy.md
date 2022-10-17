@@ -99,6 +99,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Cafe Tv 24 | [>](https://srvx1.selftv.video/cafe/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KbcbxFw.png"/> |
 | 0   | Calabria Uno Tv  | [>](https://stream3.aswifi.it/calabriauno/live/index.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
 | 0   | Calabria tv | [>](https://5db313b643fd8.streamlock.net:443/CalabriaTv2/CalabriaTv2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qWirucd.png"/> |
+| 0   | CampioneSport | [>](https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6Z7a1Gs.png"/> |
 | 0   | Canale 10 | [>](http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KuQcjYV.png"/> |
 | 0   | Canale 2 | [>](https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ETqDkS1.png"/> |
 | 0   | Canale 21 | [>](https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mU6Cq89.png"/> | Canale21.it |
@@ -167,6 +168,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Medjugorje Italia Tv | [>](https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hkZScXf.png"/> |
 | 0   | Medjugorje Tv Puglia  | [>](https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8) | <img height="20" src="https://i.imgur.com/IWBeddh.png"/> |
 | 0   | Minformo Tv | [>](https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VJNtnZM.jpg"/> |
+| 0   | Motori Tv      | [>](https://5f22d76e220e1.streamlock.net/primantenna/primantenna/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NWXQKbl.png"/> |
 | 0   | NSL            | [>](https://streannlivensl.cachefly.net/nsl1/nsl1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5W6vRaf.png"/> |
 | 0   | NTI Canale 271 | [>](https://www.ntimedia.it/video/S0B/S0B_master.m3u8) | <img height="20" src="https://i.imgur.com/zlmcUe0.jpg"/> |
 | 0   | New Signal Tv Genova | [>](https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5uGTCJn.png"/> |
@@ -198,6 +200,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | R.T.C. Telecalabria | [>](https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tTYLcuh.jpg"/> | RTCTelecalabria.it |
 | 0   | R.T.I. Calabria | [>](https://stream.cp.ets-sistemi.it:1936/rti-calabria/rti-calabria/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hVzEvmo.jpg"/> |
 | 0   | RDE Tv | [>](https://rst2.saiuzwebnetwork.it:8081/rdetrieste/index.m3u8) | <img height="20" src="https://i.imgur.com/NiwPlrr.png"/> |
+| 0   | RTM Manduria | [>](https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WwzU0EP.png"/> |
 | 0   | RTR99 Tv | [>](https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mkO95pD.png"/> |
 | 0   | Radio Italia Cina Tv | [>](https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8) | <img height="20" src="https://i.imgur.com/QGkyrO3.png"/> |
 | 0   | Radio Libertà  | [>](https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/HRvPlf5.png"/> |
