@@ -67,6 +67,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 89  | Senato TV      | [>](https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FoQoNZW.png"/> | SenatoTV.it |
 | 90  | Camera dei Deputati Ⓢ | [>](https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fqGn1k9.png"/> | CameradeiDeputati.it |
 | 210 | Rai 4K Ⓖ       | [>](https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5gkt9DD.png"/> | Rai4K.it |
+| 507 | Class CNBC | [>](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | ClassCNBC.us |
 | 701 | UniNettuno University TV Ⓖ | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BOGMeio.png"/> | UniNettunoUniversityTV.it |
 
 <h2>Regional</h2>
@@ -114,7 +115,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Castrovillari Tv | [>](http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/V0kjYNG.png"/> |
 | 0   | Ciao USA | [>](http://joe.livebox.co.in/iotieviTVhls/CIAOUSA.m3u8) | <img height="20" src="https://i.imgur.com/CJ2iXYx.png"/> |
 | 0   | Cilento Channel | [>](https://streaming.dimind.it/live/cilentocnn/index.m3u8) | <img height="20" src="https://i.imgur.com/4k9Su8j.png"/> |
-| 0   | Class CNBC | [>](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> |
 | 0   | Cremona 1 | [>](https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a5d0F01.jpg"/> |
 | 0   | Cusano Italia Tv | [>](https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9F1sVjZ.png"/> |
 | 0   | Deluxe 139 | [>](https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kRexw3w.png"/> |
