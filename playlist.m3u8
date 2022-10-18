@@ -1776,7 +1776,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Stories – Rakuten TV" tvg-logo="https://i.imgur.com/tMcUvjI.jpg" group-title="VOD Italy",Stories – Rakuten TV
 https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Humanity Documentari" tvg-logo="https://i.imgur.com/4gwdyar.png" group-title="VOD Italy",Humanity Documentari
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="The Boat Show" tvg-logo="https://i.imgur.com/cPTLian.png" group-title="VOD Italy",The Boat Show
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/KT3zgc1.png" group-title="VOD Italy",Fashion TV
