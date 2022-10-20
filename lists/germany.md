@@ -38,6 +38,4 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 29   | Radio Bremen Ⓖ      | [>](https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/640px-Logo_Radio_Bremen.svg.png"/> |
 | 30   | Nick Ⓖ      | [>](http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8) | <img height="20" src="https://i.imgur.com/mhldfsB.png"/> | NickGermany.de |
 | 31   | Deluxe Music      | [>](https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8) | <img height="20" src="https://i.imgur.com/E65GQN9.png"/> | DeluxeMusic.de |
-| 32   | Euronews Deutsch      | [>](https://euronews.alteox.app/hls/de_stream.m3u8) | <img height="20" src="https://i.postimg.cc/sDDydM6Z/Euronews-2016-logo.png"/> |
-
-
+| 32   | Euronews Deutsch      | [>](https://euronews.alteox.app/hls/de_stream.m3u8) | <img height="20" src="https://i.postimg.cc/sDDydM6Z/Euronews-2016-logo.png"/> | EuronewsGerman.fr |
