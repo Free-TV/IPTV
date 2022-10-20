@@ -41,8 +41,8 @@
 | 24  | RMC Découverte | [>](https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> | RMCDecouverte.fr |
 | 25  | Chérie 25  | [>](https://s13.tntendirect.com/cherie25/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png"/> | Cherie25.fr |
 | 26  | LCI          | [>](https://sv0.data-stream.top/hls/lci.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
-| 31  | Euronews     | [x](https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> |
-| 31  | Euronews     | [x](https://euronews.alteox.app/hls/fr_stream.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> |
+| 31  | Euronews     | [x](https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
+| 31  | Euronews     | [>](https://euronews.alteox.app/hls/fr_stream.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
 
 
 <h2>DVB-S</h2>
