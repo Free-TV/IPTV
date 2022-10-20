@@ -353,7 +353,7 @@ https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 #EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Euronews Deutsch" tvg-logo="https://i.postimg.cc/sDDydM6Z/Euronews-2016-logo.png" group-title="Germany",Euronews Deutsch
+#EXTINF:-1 tvg-name="Euronews Deutsch" tvg-logo="https://i.postimg.cc/sDDydM6Z/Euronews-2016-logo.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch
 https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" tvg-id="ERT1.gr" group-title="Greece",ERT 1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
