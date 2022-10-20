@@ -1381,6 +1381,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://iptv.ktkru.ru:8019/index.m3u8
 #EXTINF:-1 tvg-name="Муз-ТВ Ⓢ" tvg-logo="https://i.imgur.com/Ml3qqOF.png" tvg-id="MuzTV.ru" group-title="Russia",Муз-ТВ Ⓢ
 http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsRussian.fr" group-title="Russia",Euronews
+https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 tvg-name="San Marino Rtv" tvg-logo="https://i.imgur.com/lJpOlLv.png" tvg-id="SanMarinoRTV.sm" group-title="San Marino",San Marino Rtv
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-name="San Marino Rtv Sport" tvg-logo="https://i.imgur.com/PGm944g.png" tvg-id="SanMarinoRTVSport.sm" group-title="San Marino",San Marino Rtv Sport
