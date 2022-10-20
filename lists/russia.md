@@ -26,6 +26,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 | 18   | Мир            | [>](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 19   | ТНТ Ⓢ          | [>](http://iptv.ktkru.ru:8019/index.m3u8) | <img height="20" src="https://i.imgur.com/1WqIPOB.png"/> | TNT.ru |
 | 20   | Муз-ТВ Ⓢ          | [>](http://iptv.ktkru.ru:8020/index.m3u8) | <img height="20" src="https://i.imgur.com/Ml3qqOF.png"/> | MuzTV.ru |
+| 21   | Euronews | [>](https://euronews.alteox.app/hls/ru_stream.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsRussian.fr |
 
 <h2>Invalid</h2>
 
