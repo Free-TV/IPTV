@@ -250,13 +250,13 @@ https://www.publicsenat.fr/direct
 #EXTINF:-1 tvg-name="CNews" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" group-title="France",CNews
 https://www.dailymotion.com/embed/video/x3b68jn
 #EXTINF:-1 tvg-name="franceinfo: Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/85px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" group-title="France",franceinfo: Ⓨ
-https://www.youtube.com/watch?v=Z-Nwo-ypKtM
+https://www.youtube.com/c/franceinfo/live
 #EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-24-fr.png" tvg-id="France24French.fr" group-title="France",France 24 Ⓨ
-https://www.youtube.com/watch?v=gxG3pdKvlIs
+https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-name="L'Équipe Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" group-title="France",L'Équipe Ⓖ
 https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-name="France Inter Ⓨ" tvg-logo="https://i.imgur.com/d9Ncl8m.png" group-title="France",France Inter Ⓨ
-https://www.youtube.com/watch?v=lmaSg4EAYVQ
+https://www.youtube.com/c/FranceInter/live
 #EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png" tvg-id="TF1.fr" group-title="France",TF1
 https://s13.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png" tvg-id="France2.fr" group-title="France",France 2
