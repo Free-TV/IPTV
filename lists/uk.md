@@ -24,7 +24,7 @@
 | 51  | Jewlery Maker | [>](https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/azSptPw.png"/> |
 | 63  | BBC News Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/xBLLYyx.png"/> |
 | 65  | CBeebies Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/CE8mgnW.png"/> |
-| 72  | Sky News    | [>](https://www.youtube.com/watch?v=9Auq9mYxFEE) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
+| 72  | Sky News Ⓨ  | [>](https://www.youtube.com/c/SkyNews/live) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
 | 91  | PBS America   | [>](https://pbs-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J4zE5z9.jpg"/> |
 
 <h2>DVB-S</h2>
