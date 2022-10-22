@@ -20,3 +20,4 @@
 | 15   | ERT Sports 4 | [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> |
 | 15   | ERT Sports 5 | [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> |
 | 15   | ERT Sports 6 | [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m3u8) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> |
+| 16  | Euronews Greek Ⓨ | [>](https://www.youtube.com/c/euronewsGreek/live) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsGreek.fr |
