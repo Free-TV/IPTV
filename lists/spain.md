@@ -26,8 +26,8 @@ https://en.wikipedia.org/wiki/Television_in_Spain#Digital_terrestrial_television
 | 3  | Canal Sur Andalucía | [>](https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8)  |<img height="20" src="https://imgur.com/WcVOXPr.png"/>|
 | 4  | La 7 CYLTV |[>](https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8)|<img height="20" src="https://i.imgur.com/o2FlMXP.png"/>| La7.es |
 | 5  | La 8 León  | [>](https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8)|<img height="20" src="https://imgur.com/mhK7EWO.png"/>|
-| 6  | Televisión Canaria Ⓨ | [>](https://www.youtube.com/watch?v=6LlZXt8nk4s)|<img height="20" src="https://imgur.com/68LNS8e.png"/>|
-| 7  | IB3 Global Ⓨ | [>](https://www.youtube.com/watch?v=MtNkzID0ULs)|<img height="20" src="https://i.imgur.com/b59MxgM.png"/>|
+| 6  | Televisión Canaria Ⓨ | [>](https://www.youtube.com/user/TelevisionCanaria/live)|<img height="20" src="https://imgur.com/68LNS8e.png"/>|
+| 7  | IB3 Global Ⓨ | [>](https://www.youtube.com/c/ib3/live)|<img height="20" src="https://i.imgur.com/b59MxgM.png"/>|
 | 8  | Canal Extremadura |[>](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8)|<img height="20" src="https://imgur.com/xBeywIA.png"/>|
 | 9  | Aragón TV |[>](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8)|<img height="20" src="https://imgur.com/8H3Q07b.png"/>| AragonTV.es |
 | 10 |EITB1 |[>](https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8)|<img height="20" src="https://imgur.com/VBVu2bu.png"/>|
