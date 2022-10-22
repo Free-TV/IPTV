@@ -1460,9 +1460,9 @@ https://cdnlive.shooowit.net/la7live/smil:channel1.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-name="La 8 León" tvg-logo="https://imgur.com/mhK7EWO.png" group-title="Spain",La 8 León
 https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
 #EXTINF:-1 tvg-name="Televisión Canaria Ⓨ" tvg-logo="https://imgur.com/68LNS8e.png" group-title="Spain",Televisión Canaria Ⓨ
-https://www.youtube.com/watch?v=6LlZXt8nk4s
+https://www.youtube.com/user/TelevisionCanaria/live
 #EXTINF:-1 tvg-name="IB3 Global Ⓨ" tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Spain",IB3 Global Ⓨ
-https://www.youtube.com/watch?v=MtNkzID0ULs
+https://www.youtube.com/c/ib3/live
 #EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="https://imgur.com/xBeywIA.png" group-title="Spain",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="Aragón TV" tvg-logo="https://imgur.com/8H3Q07b.png" tvg-id="AragonTV.es" group-title="Spain",Aragón TV
