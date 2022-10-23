@@ -15,11 +15,11 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | CNN            | [>](https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> | CNN.us |
+| 1   | CNN            | [>](https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> | CNN.us |
 | 2   | CNBC Ⓨ         | [>](https://www.youtube.com/c/CNBC/live) | <img height="20" src="https://i.imgur.com/BTasyOy.png"/> | CNBC.us |
-| 3   | Bloomberg Ⓨ    | [>](https://www.youtube.com/BloombergTV/live) | <img height="20" src="https://i.imgur.com/VnCcH73.png"/> | BloombergTelevision.us |
+| 3   | Bloomberg      | [>](https://bloomberg.com/media-manifest/streams/us.m3u8) | <img height="20" src="https://i.imgur.com/VnCcH73.png"/> | BloombergTelevision.us |
 | 4   | ABC News       | [>](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> | ABCNews.us |
-| 5   | CBS News Ⓨ     | [>](https://www.youtube.com/c/CBSNews/live) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> | CBSNews.us |
+| 5   | CBS News       | [>](https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> | CBSNews.us |
 | 6   | NBC News       | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> | NBCNewsNow.us |
 | 7   | Reuters TV     | [>](https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> |
 | 8   | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVPublic.us |
