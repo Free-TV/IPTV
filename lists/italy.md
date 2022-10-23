@@ -97,6 +97,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | BFC            | [>](https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> | BFCForbes.it |
 | 0   | BIKE           | [>](https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
 | 0   | BOM Channel Ⓢ    | [>](https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hISoOK3.png"/> | BomChannel.it |
+| 0   | ByoBlu | [>](https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1xaHGtU.png"/> |
 | 0   | Cafe Tv 24 | [>](https://srvx1.selftv.video/cafe/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KbcbxFw.png"/> |
 | 0   | Calabria Uno Tv  | [>](https://stream3.aswifi.it/calabriauno/live/index.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
 | 0   | Calabria tv | [>](https://5db313b643fd8.streamlock.net:443/CalabriaTv2/CalabriaTv2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qWirucd.png"/> |
@@ -113,7 +114,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Carina Tv | [>](https://stream7.zivoli.it/carinatv/carinatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FMGcm6I.jpg"/> |
 | 0   | Casa Sanremo TV | [>](https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/WL3SFTs.png"/> |
 | 0   | Castrovillari Tv | [>](http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/V0kjYNG.png"/> |
-| 0   | Ciao USA | [>](http://joe.livebox.co.in/iotieviTVhls/CIAOUSA.m3u8) | <img height="20" src="https://i.imgur.com/CJ2iXYx.png"/> |
 | 0   | Cilento Channel | [>](https://streaming.dimind.it/live/cilentocnn/index.m3u8) | <img height="20" src="https://i.imgur.com/4k9Su8j.png"/> |
 | 0   | Cremona 1 | [>](https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a5d0F01.jpg"/> |
 | 0   | Cusano Italia Tv | [>](https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9F1sVjZ.png"/> |
@@ -239,11 +239,11 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Super J Tv | [>](http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5oy5Nuu.png"/> |
 | 0   | Super Six | [>](https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kHSuyub.png"/> |
 | 0   | Supertv | [>](http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8) | <img height="20" src="https://i.imgur.com/7gUZcEh.png"/> |
-| 0   | T.R.L Tele Radio Leo | [>](https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qAagkJT.png"/> |
-| 0   | T.S.E. Uno (Tele Scout Europa) | [>](http://stream.mariatvcdn.com/tse/bd5a2cb40637623177295aed22db25f9.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OA0PRsb.png"/> |
 | 0   | T9 | [>](https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vlJaxJl.png"/> |
 | 0   | TRC Santeramo | [>](https://59d7d6f47d7fc.streamlock.net/trc/trc/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VbYdS8P.jpg"/> |
+| 0   | TRL Tele Radio Leo | [>](https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qAagkJT.png"/> |
 | 0   | TSD Tv Arezzo(Tele San Domenico) | [>](https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WQ8eQXc.png"/> |
+| 0   | TSE Uno (Tele Scout Europa) | [>](http://stream.mariatvcdn.com/tse/bd5a2cb40637623177295aed22db25f9.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OA0PRsb.png"/> |
 | 0   | TVL (TV Libera Pistoia) | [>](http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/07geF0L.png"/> |
 | 0   | Tcf Tv | [>](http://live.sloode.com:1935/tcf_live/telecineforum/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fiylFs2.jpg"/> |
 | 0   | Tci | [>](https://player-api.new.livestream.com/accounts/27460990/events/8287184/broadcasts/223071659.secure.m3u8) | <img height="20" src="https://i.imgur.com/lCZTaKs.jpg"/> |
