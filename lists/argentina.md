@@ -13,6 +13,11 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 | 24.4 | Crónica TV Ⓨ   | [>](https://www.youtube.com/c/cronicatv/live) | <img height="20" src="https://i.imgur.com/k2Ku8Ib.png"/> | CronicaTV.ar |
 | 25.2 | C5N Ⓨ          | [>](https://www.youtube.com/c/c5n/live) | <img height="20" src="https://i.imgur.com/E3pamA5.png"/> | C5NHD.ar |
 | 25.3 | LN+ Ⓨ          | [>](https://www.youtube.com/c/LaNacionMas/live) | <img height="20" src="https://i.imgur.com/vJYzGt1.png"/> | ElNueveHD.ar |
+| 27.2 | Net TV         | [>](https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EWmshtx.png"/> | NETTV.ar |
+| 33.1 | El Trece       | [>](https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8) | <img height="20" src="https://i.imgur.com/ZK7AQFg.png"/> | ElTrece.ar |
+| 35.1 | El Nueve       | [>](https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/EtcVSm4.png"/> | ElNueve.ar |
+| 36.1 | América Ⓨ      | [>](https://www.youtube.com/c/americaenvivo/live) | <img height="20" src="https://i.imgur.com/Jt7dOQm.png"/> | AmericaTV.ar |
+| 36.2 | A24 Ⓨ          | [>](https://www.youtube.com/c/A24com/live) | <img height="20" src="https://i.imgur.com/OdhF7ym.png"/> | A24.ar |
 
 <h2>Invalid</h2>
 
