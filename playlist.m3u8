@@ -273,8 +273,10 @@ https://www.publicsenat.fr/direct
 https://www.dailymotion.com/embed/video/x3b68jn
 #EXTINF:-1 tvg-name="franceinfo: Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/85px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" group-title="France",franceinfo: Ⓨ
 https://www.youtube.com/c/franceinfo/live
-#EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-24-fr.png" tvg-id="France24French.fr" group-title="France",France 24 Ⓨ
+#EXTINF:-1 tvg-name="France 24 Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24French.fr" group-title="France",France 24 Ⓨ
 https://www.youtube.com/c/FRANCE24/live
+#EXTINF:-1 tvg-name="Africanews Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="France",Africanews Ⓨ
+https://www.youtube.com/c/Africanewsfr/live
 #EXTINF:-1 tvg-name="L'Équipe Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" group-title="France",L'Équipe Ⓖ
 https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-name="France Inter Ⓨ" tvg-logo="https://i.imgur.com/d9Ncl8m.png" group-title="France",France Inter Ⓨ
