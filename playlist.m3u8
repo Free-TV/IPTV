@@ -1813,6 +1813,8 @@ https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
 https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Yamato Animation" tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="VOD Italy",Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Doctor Who" tvg-logo="https://i.imgur.com/J2B9FjO.jpg" group-title="VOD Italy",BBC Doctor Who
+https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Drama" tvg-logo="https://i.imgur.com/hY1M4hL.jpg" group-title="VOD Italy",BBC Drama
 https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa Telenovelas" tvg-logo="https://i.imgur.com/GaJIRN3.jpg" group-title="VOD Italy",Televisa Telenovelas
