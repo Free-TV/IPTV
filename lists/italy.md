@@ -329,7 +329,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Telecittà Padova | [>](https://tango.wifi4all.it/telecitta/telecitta.m3u8) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
 | 0   | Telejato | [>](https://telejato.liberotratto.com/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/r3Dqzdj.png"/> |
 | 0   | Teleleonessa | [>](http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8) | <img height="20" src="https://i.imgur.com/jq3etlV.png"/> |
-| 0   | Telenova ⓎⒻ | [>](http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TelenovaMSP/live) | <img height="20" src=""/> | Telenova.it |
+| 0   | Telenova ⓎⒻ | [>](http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TelenovaMSP/live) | <img height="20" src="https://i.imgur.com/x41IkJK.png"/> | Telenova.it |
 | 0   | TeleMajg | [>](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9tefonp.jpg"/> |
 | 0   | TeleRegione 118 | [>](https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iGhbsGH.png"/> |
 | 0   | TeleRent 7Gold | [>](https://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> | 7Gold.it |
