@@ -1155,6 +1155,8 @@ https://tango.wifi4all.it/telecitta/telecitta.m3u8
 https://telejato.liberotratto.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Teleleonessa" tvg-logo="https://i.imgur.com/jq3etlV.png" group-title="Italy",Teleleonessa
 http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
+#EXTINF:-1 tvg-name="Telenova ⓎⒻ" tvg-logo="" tvg-id="Telenova.it" group-title="Italy",Telenova ⓎⒻ
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TelenovaMSP/live
 #EXTINF:-1 tvg-name="TeleMajg" tvg-logo="https://i.imgur.com/9tefonp.jpg" group-title="Italy",TeleMajg
 https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleRegione 118" tvg-logo="https://i.imgur.com/iGhbsGH.png" group-title="Italy",TeleRegione 118
