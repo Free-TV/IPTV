@@ -10,8 +10,9 @@
 | 14  | Public Sénat | [>](https://www.publicsenat.fr/direct) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | PublicSenat.fr |
 | 16  | CNews      | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/UMRGAHx.png"/> | CNews.fr |
 | 27  | franceinfo: Ⓨ | [>](https://www.youtube.com/c/franceinfo/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/85px-Franceinfo.svg.png"/> | Franceinfo.fr |
-| 28  | France 24 Ⓨ   | [>](https://www.youtube.com/c/FRANCE24/live) | <img height="20" src="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/france-24-fr.png"/> | France24French.fr |
+| 28  | France 24 Ⓨ   | [>](https://www.youtube.com/c/FRANCE24/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24French.fr |
 | 31  | Euronews Ⓨ    | [x](https://www.youtube.com/c/euronewsfr/live) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
+| 33  | Africanews Ⓨ | [>](https://www.youtube.com/c/Africanewsfr/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
 | 21  | L'Équipe Ⓖ    | [>](https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
 | 32  | France Inter Ⓨ | [>](https://www.youtube.com/c/FranceInter/live) | <img height="20" src="https://i.imgur.com/d9Ncl8m.png"/> |
 
