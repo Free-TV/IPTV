@@ -25,6 +25,7 @@
 | 4119 | Canale Europa  | [>](https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Zw2ZIfz.jpg"/> |
 | 4122 | People Are Awesome | [>](https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xwz9zKk.jpeg"/> |
 | 4131 | Yamato Animation | [>](https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rOl7HfS.png"/> |
+| 4160 | BBC Doctor Who | [>](https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J2B9FjO.jpg"/> |
 | 4163 | BBC Drama | [>](https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hY1M4hL.jpg"/> |
 | 4169 | Televisa Telenovelas | [>](https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GaJIRN3.jpg"/> |
 | 4210 | Stories – Rakuten TV | [>](https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tMcUvjI.jpg"/> |
