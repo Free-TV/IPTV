@@ -14,7 +14,7 @@
 | 31  | Euronews Ⓨ    | [x](https://www.youtube.com/c/euronewsfr/live) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
 | 33  | Africanews Ⓨ | [>](https://www.youtube.com/c/Africanewsfr/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
 | 21  | L'Équipe Ⓖ    | [>](https://www.dailymotion.com/video/x2lefik) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
-| 32  | France Inter Ⓨ | [>](https://www.youtube.com/c/FranceInter/live) | <img height="20" src="https://i.imgur.com/d9Ncl8m.png"/> |
+| 32  | France Inter Ⓨ | [>](https://www.youtube.com/c/FranceInter/live) | <img height="20" src="https://i.imgur.com/d9Ncl8m.png"/> | FranceInter.fr |
 
 <h2>Unreliable (tntdirect)</h2>
 
@@ -51,5 +51,5 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 29  | TV5 Monde Info   | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
-| 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeEurope.fr |
+| 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
 | 31  | TV5 Monde Europe | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeEurope.fr |
