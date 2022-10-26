@@ -1785,6 +1785,8 @@ https://euronews.alteox.app/hls/es_stream.m3u8
 https://www.youtube.com/c/FRANCE24Espanol/live
 #EXTINF:-1 tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEspanol.de" group-title="News (ES)",DW Español Ⓢ
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNSpanish.cn" group-title="News (ES)",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia24.it" group-title="VOD Italy",Sportitalia LIVE24
 https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
 #EXTINF:-1 tvg-name="Sport2U" tvg-logo="https://i.imgur.com/WW0lNk1.png" group-title="VOD Italy",Sport2U
