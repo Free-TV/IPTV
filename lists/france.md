@@ -15,6 +15,7 @@
 | 33  | Africanews Ⓨ | [>](https://www.youtube.com/c/Africanewsfr/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
 | 21  | L'Équipe ⒹⒼ    | [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
 | 32  | France Inter Ⓨ | [>](https://www.youtube.com/c/FranceInter/live) | <img height="20" src="https://i.imgur.com/d9Ncl8m.png"/> | FranceInter.fr |
+| 34  | CGTN Français | [>](https://news.cgtn.com/resource/live/french/cgtn-f.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNFrench.cn |
 
 <h2>Unreliable (tntdirect)</h2>
 
