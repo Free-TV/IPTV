@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 1   | M1             | [>](https://sktv-forwarders.7m.pl/get.php?x=M1) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
 | 2   | M2 / Petőfi TV | [>](https://sktv-forwarders.7m.pl/get.php?x=M2) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
 | 3   | M3             | [x](https://archivum.mtva.hu/m3/embed) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
-| 4   | M4 Sport       | [>](https://c202-node62-cdn.connectmedia.hu/1004/fdbb9a66e8caee09bc4f9dbfccc838fd/633fc6a1/02.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
+| 4   | M4 Sport       | [>](https://c401-node61-cdn.connectmedia.hu/1004/bbf823acb1cd7ca7447f2001f8e1983d/635cbfa0/02.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
 | 5   | M4+ Sport      | [>](https://sktv-forwarders.7m.pl/get.php?x=M4Plus) | <img height="20" src="https://www.lyngsat.com/logo/tv/mm/m4-sport-plus-hu.png" /> | M4SportPlus.hu |
 | 6   | M5 Hungary     | [>](https://sktv-forwarders.7m.pl/get.php?x=M5) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
 | 7   | Duna TV        | [>](https://sktv-forwarders.7m.pl/get.php?x=Duna) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
