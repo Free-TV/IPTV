@@ -1277,22 +1277,22 @@ https://80.211.72.5/hls/yviitv.m3u8
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
 #EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News Ⓨ
 https://www.youtube.com/user/ANNnewsCH/live
-#EXTINF:-1 tvg-name="NHK G Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" tvg-id="NHKGeneralTV.jp" group-title="Japan",NHK G Ⓢ
-https://nhk2.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan",NHK World
+#EXTINF:-1 tvg-name="NHK General TV Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" tvg-id="NHKGeneralTV.jp" group-title="Japan",NHK General TV Ⓢ
+https://nhk3.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan",NHK World-Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-name="日テレ1 Ⓢ" tvg-logo="https://i.imgur.com/IGu52nM.png" group-title="Japan",日テレ1 Ⓢ
-https://ntv2.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" tvg-id="news.ntv.co.jp" group-title="Japan",日テレNEWS24 Ⓢ
+#EXTINF:-1 tvg-name="日テレ Ⓢ" tvg-logo="https://i.imgur.com/IGu52nM.png" tvg-id="NipponTV.jp" group-title="Japan",日テレ Ⓢ
+https://ntv3.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" tvg-id="NTVNews24.jp" group-title="Japan",日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-name="フジテレビ Ⓢ" tvg-logo="https://i.imgur.com/CjoqJXh.png" group-title="Japan",フジテレビ Ⓢ
-https://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="フジテレビ Ⓢ" tvg-logo="https://i.imgur.com/CjoqJXh.png" tvg-id="FujiTV.jp" group-title="Japan",フジテレビ Ⓢ
+https://fujitv3.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-name="TBS Ⓢ" tvg-logo="https://i.imgur.com/SzWJscr.png" group-title="Japan",TBS Ⓢ
 https://tbs2.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-name="TBS News Ⓨ" tvg-logo="https://i.imgur.com/SzWJscr.png" group-title="Japan",TBS News Ⓨ
+#EXTINF:-1 tvg-name="TBS News Ⓨ" tvg-logo="https://i.imgur.com/hk0oZab.png" tvg-id="TBSNews.jp" group-title="Japan",TBS News Ⓨ
 https://www.youtube.com/c/tbsnews/live
-#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" group-title="Japan",TV Tokyo
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" tvg-id="BSTVTokyo.jp" group-title="Japan",BS TV Tokyo
+http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8
 #EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/ghRFrKj.png" tvg-id="TokyoMX1.jp" group-title="Japan",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/ghRFrKj.png" tvg-id="TokyoMX2.jp" group-title="Japan",Tokyo MX2
