@@ -436,7 +436,7 @@ https://sktv-forwarders.7m.pl/get.php?x=M1
 #EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" group-title="Hungary",M2 / Petőfi TV
 https://sktv-forwarders.7m.pl/get.php?x=M2
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
-https://c202-node62-cdn.connectmedia.hu/1004/fdbb9a66e8caee09bc4f9dbfccc838fd/633fc6a1/02.m3u8
+https://c401-node61-cdn.connectmedia.hu/1004/bbf823acb1cd7ca7447f2001f8e1983d/635cbfa0/02.m3u8
 #EXTINF:-1 tvg-name="M4+ Sport" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m4-sport-plus-hu.png" tvg-id="M4SportPlus.hu" group-title="Hungary",M4+ Sport
 https://sktv-forwarders.7m.pl/get.php?x=M4Plus
 #EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" tvg-id="M5.hu" group-title="Hungary",M5 Hungary
