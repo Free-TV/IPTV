@@ -1301,6 +1301,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/ghRFrKj.png" tvg-id="TokyoMX2.jp" group-title="Japan",Tokyo MX2
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://i.imgur.com/rls8NVc.png" tvg-id="TVAsahi.jp" group-title="Japan",TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-name="HTB Ⓨ" tvg-logo="https://i.imgur.com/A0Wj0Ys.png" group-title="Japan",HTB Ⓨ
 https://www.youtube.com/c/htbnews/live
 #EXTINF:-1 tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Fik3Nm9.png" tvg-id="GunmaTV.jp" group-title="Japan",Gunma TV
