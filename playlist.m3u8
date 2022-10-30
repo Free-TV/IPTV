@@ -1293,8 +1293,10 @@ https://tbs2.mov3.co/hls/tbs.m3u8
 https://www.youtube.com/c/tbsnews/live
 #EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/g1pTQIm.png" tvg-id="BSTBS.jp" group-title="Japan",BS-TBS
 http://cdnv148.cloudrsst.com:1935/jptv/bstbs_720/playlist.m3u8
-#EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" tvg-id="BSTVTokyo.jp" group-title="Japan",BS TV Tokyo
+#EXTINF:-1 tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/yJfA6ak.png" tvg-id="BSTVTokyo.jp" group-title="Japan",BSテレ東
 http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" group-title="Japan",TV Tokyo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/ghRFrKj.png" tvg-id="TokyoMX1.jp" group-title="Japan",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/ghRFrKj.png" tvg-id="TokyoMX2.jp" group-title="Japan",Tokyo MX2
