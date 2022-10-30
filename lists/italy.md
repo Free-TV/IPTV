@@ -392,7 +392,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 26  | Cielo          | [x](https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | Cielo.it |
 | 31  | Real Time      | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> | RealTimeItaly.it |
 | 33  | Food Network   | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> | FoodNetworkItaly.it |
-| 37  | Warner TV      | [x]() | <img height="20" src="https://i.imgur.com/6MZpD7N.png"/> |
+| 37  | Warner TV      | [x]() | <img height="20" src="https://i.imgur.com/oIWFcOC.png"/> | WarnerTVItaly.it |
 | 38  | Giallo         | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8) | <img height="20" src="https://i.imgur.com/0PIRwZS.png"/> | Giallo.it |
 | 41  | K2             | [x](https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> | K2.it |
 | 44  | Frisbee        | [x](https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> | Frisbee.it |
