@@ -11,12 +11,13 @@
 | 7   | TBS Ⓢ     | [>](https://tbs2.mov3.co/hls/tbs.m3u8) | <img height="20" src="https://i.imgur.com/SzWJscr.png"/> |
 | 8   | TBS News Ⓨ     | [>](https://www.youtube.com/c/tbsnews/live) | <img height="20" src="https://i.imgur.com/hk0oZab.png"/> | TBSNews.jp |
 | 9   | BS-TBS         | [>](http://cdnv148.cloudrsst.com:1935/jptv/bstbs_720/playlist.m3u8) | <img height="20" src="https://i.imgur.com/g1pTQIm.png"/> | BSTBS.jp |
-| 10  | BS TV Tokyo  | [>](http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BMXZjA1.png"/> | BSTVTokyo.jp |
-| 11   | Tokyo MX1    | [>](https://movie.mcas.jp/mcas/mx1_2/master.m3u8) | <img height="20" src="https://i.imgur.com/ghRFrKj.png"/> | TokyoMX1.jp |
-| 12   | Tokyo MX2    | [>](https://movie.mcas.jp/mcas/mx2_2/master.m3u8) | <img height="20" src="https://i.imgur.com/ghRFrKj.png"/> | TokyoMX2.jp |
-| 13   | HTB Ⓨ          | [>](https://www.youtube.com/c/htbnews/live) | <img height="20" src="https://i.imgur.com/A0Wj0Ys.png"/> |
-| 14   | Gunma TV    | [>](https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8) | <img height="20" src="https://i.imgur.com/Fik3Nm9.png"/> | GunmaTV.jp |
-| 15   | Weathernews     | [>](http://movie.mcas.jp/mcas/wn1_2/master.m3u8) | <img height="20" src="https://i.imgur.com/7YLRtla.png"/> | Weathernews.jp |
-| 16   | GSTV            | [>](https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/0wds9n8.png"/> | GSTV.jp |
-| 17   | QVC Ⓢ          | [>](http://cdn-live1.qvc.jp/iPhone/800/800.m3u8) | <img height="20" src="https://i.imgur.com/B74hZKd.png"/> | QVCJapan.jp |
-| 18   | Shop Channel    | [>](http://stream1.shopch.jp/HLS/out1/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/rkdKa5a.png"/> | ShopChannel.jp |
+| 10  | BSテレ東        | [>](http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8) | <img height="20" src="https://i.imgur.com/yJfA6ak.png"/> | BSTVTokyo.jp |
+| 11  | TV Tokyo     | [>](https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8) | <img height="20" src="https://i.imgur.com/BMXZjA1.png"/> |
+| 12   | Tokyo MX1    | [>](https://movie.mcas.jp/mcas/mx1_2/master.m3u8) | <img height="20" src="https://i.imgur.com/ghRFrKj.png"/> | TokyoMX1.jp |
+| 13   | Tokyo MX2    | [>](https://movie.mcas.jp/mcas/mx2_2/master.m3u8) | <img height="20" src="https://i.imgur.com/ghRFrKj.png"/> | TokyoMX2.jp |
+| 14   | HTB Ⓨ          | [>](https://www.youtube.com/c/htbnews/live) | <img height="20" src="https://i.imgur.com/A0Wj0Ys.png"/> |
+| 15   | Gunma TV    | [>](https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8) | <img height="20" src="https://i.imgur.com/Fik3Nm9.png"/> | GunmaTV.jp |
+| 16   | Weathernews     | [>](http://movie.mcas.jp/mcas/wn1_2/master.m3u8) | <img height="20" src="https://i.imgur.com/7YLRtla.png"/> | Weathernews.jp |
+| 17   | GSTV            | [>](https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/0wds9n8.png"/> | GSTV.jp |
+| 18   | QVC Ⓢ          | [>](http://cdn-live1.qvc.jp/iPhone/800/800.m3u8) | <img height="20" src="https://i.imgur.com/B74hZKd.png"/> | QVCJapan.jp |
+| 19   | Shop Channel    | [>](http://stream1.shopch.jp/HLS/out1/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/rkdKa5a.png"/> | ShopChannel.jp |
