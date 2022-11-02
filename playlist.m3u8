@@ -1867,6 +1867,8 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/mani
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
 #EXTINF:-1 tvg-name="Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/fFZeBnc.png" group-title="VOD Italy",Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
+#EXTINF:-1 tvg-name="Documentari – Rakuten TV" tvg-logo="https://i.imgur.com/rAHBiO8.jpg" group-title="VOD Italy",Documentari – Rakuten TV
+https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Classico – Rakuten TV" tvg-logo="https://i.imgur.com/ytN6jfl.jpeg" group-title="VOD Italy",Classico – Rakuten TV
 https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Thriller – Rakuten TV" tvg-logo="https://i.imgur.com/jJTnBNk.jpeg" group-title="VOD Italy",Thriller – Rakuten TV
@@ -1901,13 +1903,13 @@ https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="The Boat Show" tvg-logo="https://i.imgur.com/cPTLian.png" group-title="VOD Italy",The Boat Show
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/KT3zgc1.png" group-title="VOD Italy",Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/KT3zgc1.png" tvg-id="FashionTVEurope.fr" group-title="VOD Italy",Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/fwOuEBl.png" group-title="VOD Italy",SportOutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" tvg-id="ItalianFishingTV.it" group-title="VOD Italy",Italian Fishing TV
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/4Lzo6M4.png" group-title="VOD Italy",FUEL TV
+#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/4Lzo6M4.png" tvg-id="FuelTV.us" group-title="VOD Italy",FUEL TV
 https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/tSw1oON.jpeg" group-title="VOD Italy",Teletubbies
 https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
@@ -1923,15 +1925,15 @@ https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
 https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/DPqMpQC.png" group-title="VOD Italy",Vevo Pop
 https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-name="Radio Italia Trend" tvg-logo="https://i.imgur.com/ecpfn3e.png" group-title="VOD Italy",Radio Italia Trend
+#EXTINF:-1 tvg-name="Radio Italia Trend" tvg-logo="https://i.imgur.com/ecpfn3e.png" tvg-id="RadioItaliaTrendTV.it" group-title="VOD Italy",Radio Italia Trend
 https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="https://i.imgur.com/D1IuAqu.jpg" group-title="VOD Italy",Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/LzIsXym.png" group-title="VOD Italy",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8
-#EXTINF:-1 tvg-name="Trace Latina Ⓖ" tvg-logo="https://i.imgur.com/GHbz8wd.png" group-title="VOD Italy",Trace Latina Ⓖ
+#EXTINF:-1 tvg-name="Trace Latina Ⓖ" tvg-logo="https://i.imgur.com/GHbz8wd.png" tvg-id="TraceLatina.fr" group-title="VOD Italy",Trace Latina Ⓖ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-name="Trace Urban Ⓖ" tvg-logo="https://i.imgur.com/PAx9qj8.png" group-title="VOD Italy",Trace Urban Ⓖ
+#EXTINF:-1 tvg-name="Trace Urban Ⓖ" tvg-logo="https://i.imgur.com/PAx9qj8.png" tvg-id="TraceUrban.fr" group-title="VOD Italy",Trace Urban Ⓖ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Full Moon" tvg-logo="https://i.imgur.com/0xT7bZP.jpg" group-title="VOD Italy",Full Moon
 https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
@@ -1945,8 +1947,6 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="WP" tvg-logo="https://i.imgur.com/W5I5yY0.png" group-title="VOD Italy",WP
 https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Documentari – Rakuten TV" tvg-logo="https://i.imgur.com/rAHBiO8.jpg" group-title="VOD Italy",Documentari – Rakuten TV
-https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Shorts Ⓖ" tvg-logo="https://i.imgur.com/GwM7RHV.jpg" group-title="VOD Italy",Shorts Ⓖ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Sofy.tv" tvg-logo="https://i.imgur.com/fsJFJeZ.png" group-title="VOD Italy",Sofy.tv
