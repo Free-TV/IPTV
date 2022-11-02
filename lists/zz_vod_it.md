@@ -9,9 +9,10 @@
 | 4   | Grande Fratello Vip Regia 1 Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd) | <img height="20" src="https://i.imgur.com/PBTdU4G.png"/> |
 | 5   | Grande Fratello Vip Regia 2 Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd) | <img height="20" src="https://i.imgur.com/FKfwbHD.png"/> |
 | 6   | Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ | [>](https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd) | <img height="20" src="https://i.imgur.com/fFZeBnc.png"/> |
-| 9   | Classico – Rakuten TV | [>](https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ytN6jfl.jpeg"/> |
-| 10  | Thriller – Rakuten TV | [>](https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jJTnBNk.jpeg"/> |
-| 11  | Romance – Rakuten TV | [>](https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TiXrzJZ.jpeg"/> |
+| 9   | Documentari – Rakuten TV | [>](https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rAHBiO8.jpg"/> |
+| 10  | Classico – Rakuten TV | [>](https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ytN6jfl.jpeg"/> |
+| 11  | Thriller – Rakuten TV | [>](https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jJTnBNk.jpeg"/> |
+| 12  | Romance – Rakuten TV | [>](https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TiXrzJZ.jpeg"/> |
 
 <h2>Samsung TV Plus</h2>
 
@@ -31,10 +32,10 @@
 | 4210 | Stories – Rakuten TV | [>](https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tMcUvjI.jpg"/> |
 | 4216 | Humanity Documentari | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4gwdyar.png"/> |
 | 4405 | The Boat Show | [>](https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8) | <img height="20" src="https://i.imgur.com/cPTLian.png"/> |
-| 4411 | Fashion TV     | [>](https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KT3zgc1.png"/> |
+| 4411 | Fashion TV     | [>](https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KT3zgc1.png"/> | FashionTVEurope.fr |
 | 4513 | SportOutdoor.tv | [>](https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fwOuEBl.png"/> |
 | 4516 | Italian Fishing TV | [>](https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Q0jHCdC.png"/> | ItalianFishingTV.it |
-| 4563 | FUEL TV        | [>](https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4Lzo6M4.png"/> |
+| 4563 | FUEL TV        | [>](https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4Lzo6M4.png"/> | FuelTV.us |
 | 4610 | Teletubbies    | [>](https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tSw1oON.jpeg"/> |
 | 4613 | duckTV         | [>](https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BKoAJZV.jpeg"/> |
 | 4616 | Amuse Animation | [>](https://amuse-amuseanimation-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TLIQ9Th.png"/> |
@@ -42,18 +43,17 @@
 | 4622 | Planeta Junior | [>](https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/F71WMja.jpg"/> |
 | 4628 | MONDO TV KIDS  | [>](https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DMqKFIM.png"/> |
 | 4710 | Vevo Pop | [>](https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8) | <img height="20" src="https://i.imgur.com/DPqMpQC.png"/> |
-| 4716 | Radio Italia Trend | [>](https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpfn3e.png"/> |
+| 4716 | Radio Italia Trend | [>](https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpfn3e.png"/> | RadioItaliaTrendTV.it |
 | 4725 | Clubbing TV | [>](https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/D1IuAqu.jpg"/> |
 | 4728 | Deluxe Lounge HD | [>](https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8) | <img height="20" src="https://i.imgur.com/LzIsXym.png"/> |
-| 4734 | Trace Latina Ⓖ | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GHbz8wd.png"/> |
-| 4737 | Trace Urban Ⓖ | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PAx9qj8.png"/> |
+| 4734 | Trace Latina Ⓖ | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GHbz8wd.png"/> | TraceLatina.fr |
+| 4737 | Trace Urban Ⓖ | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PAx9qj8.png"/> | TraceUrban.fr |
 | 4957 | Full Moon | [>](https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0xT7bZP.jpg"/> |
 | 4960 | Cinema Segreto | [>](https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pID3ZGx.png"/> |
 | 4966 | Family – Rakuten TV | [>](https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BCC123A.jpg"/> |
 | 4969 | Bizzarro Movies | [>](https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
 | 4972 | CGtv | [>](https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6rsLtY7.png"/> |
 | 4975 | WP | [>](https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/W5I5yY0.png"/> |
-| 4978 | Documentari – Rakuten TV | [>](https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rAHBiO8.jpg"/> |
 | 4984 | Shorts Ⓖ       | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GwM7RHV.jpg"/> |
 | 4990 | Sofy.tv        | [>](https://sofytv-samsungit.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fsJFJeZ.png"/> |
 | 4996 | Film Top – Rakuten TV | [>](https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OfD9hM9.jpeg"/> |
