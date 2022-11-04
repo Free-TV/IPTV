@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Television_in_South_Korea
 | 4   | EBS 1 Ⓢ        | [>](https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png"/> | EBS1TV.kr |
 | 5   | EBS 2 Ⓢ        | [>](https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png"/> | EBS2TV.kr |
 | 6   | MBC TV         | [>](http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png"/> | MBCTV.kr |
-| 7   | SBS TV         | [x](https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png"/> | SBSTV.kr |
+| 7   | SBS TV         | [>](https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png"/> | SBSTV.kr |
 | 8   | KNN TV         | [>](http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/512px-KNN_logo.svg.png"/> | KNNTV.kr |
 | 9   | TBC TV         | [x](http://221.157.125.239:1935/live/psike/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Daegu_Broadcasting_Corporation.svg/512px-Daegu_Broadcasting_Corporation.svg.png"/> | TBCTV.kr |
 | 10  | KBC TV         | [>](http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/512px-KBC_Gwangju_Broadcasting_logo.svg.png"/> | KBCTV.kr |
@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Television_in_South_Korea
 | 14  | CJB TV         | [>](http://1.222.207.80:1935/live/cjbtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MvxdZhX.png"/> | CJBTV.kr |
 | 15  | G1 TV          | [x](http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TYYffUe.png"/> | G1TV.kr |
 | 16  | JIBS TV        | [>](http://123.140.197.22/stream/1/play.m3u8) | <img height="20" src="https://i.imgur.com/RVWpBoz.png"/> | JIBSTV.kr |
-| 17  | OBS TV         | [x](https://vod.obs.co.kr:444/live/obsstream1/myStream.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oWB3ApR.png"/> | OBSGyeonginTV.kr |
+| 17  | OBS TV         | [>](https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8) | <img height="20" src="https://i.imgur.com/oWB3ApR.png"/> | OBSGyeonginTV.kr |
 | 18  | Arirang        | [>](http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RuHZ6Dx.png"/> | ArirangTV.kr |
 | 19  | EBS Kids Ⓢ     | [>](https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8) | <img height="20" src="https://i.imgur.com/62oo8Bx.png"/> | EBSKids.kr |
 | 20  | EBS Plus 1 Ⓢ   | [>](https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ImUHRG2.png"/> | EBSPlus1.kr |
