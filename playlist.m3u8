@@ -733,11 +733,15 @@ http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
 http://stream.ets-sistemi.it:1935/live.canale74/canale74tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 8" tvg-logo="https://i.imgur.com/ElAS2WC.png" group-title="Italy",Canale 8
 https://59d8c0cee6f3d.streamlock.net/canale8/canale8/playlist.m3u8
+#EXTINF:-1 tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/QlwLRyh.png" tvg-id="CanaleItalia.it" group-title="Italy",Canale Italia
+https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale Uno Tivù" tvg-logo="https://i.imgur.com/hfqNw92.png" group-title="Italy",Canale Uno Tivù
 https://eu1.servers10.com:8081/8096/index.m3u8
 #EXTINF:-1 tvg-name="Carina Tv" tvg-logo="https://i.imgur.com/FMGcm6I.jpg" group-title="Italy",Carina Tv
 https://stream7.zivoli.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Casa Sanremo TV" tvg-logo="https://i.imgur.com/WL3SFTs.png" group-title="Italy",Casa Sanremo TV
+#EXTINF:-1 tvg-name="Casa Italia 53" tvg-logo="https://i.imgur.com/O4GQVCk.png" group-title="Italy",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Casa Sanremo Tv" tvg-logo="https://i.imgur.com/WL3SFTs.png" group-title="Italy",Casa Sanremo Tv
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Castrovillari Tv" tvg-logo="https://i.imgur.com/V0kjYNG.png" group-title="Italy",Castrovillari Tv
 http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
