@@ -77,17 +77,14 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | 111 Tv | [>](https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4jY8yAI.png"/> |
 | 0   | 12 Tv Parma | [>](https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xnUgx6b.png"/> | 12TVParma.it |
-| 0   | AB Channel  | [>](https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Ze2xvoY.png"/> | ABChannel.it |
 | 0   | Abc Tv | [>](https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8) | <img height="20" src="https://i.imgur.com/nVmIeTD.png"/> |
 | 0   | Alpauno | [>](https://5cbd3bc28341f.streamlock.net:444/alpauno/alpauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4QKFtUa.png"/> |
 | 0   | Alto Adige Tv | [>](https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S2sCFQi.png"/> | AltoAdigeTV.it |
 | 0   | Antenna 2 Bergamo | [>](https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NfvHIAw.png"/> |
-| 0   | Antenna 3 Massa | [>](http://163.172.88.73:1935/antenna3massa/a3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CHDU86j.png"/> |
 | 0   | Antenna 3 Veneto Nord Est | [>](https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NiVHLwp.png"/> | AntennaTreNordest.it |
 | 0   | Antenna Sicilia | [>](https://5f22d76e220e1.streamlock.net/antennasicilia/antennasicilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
 | 0   | Antenna Sud | [>](https://live.antennasudwebtv.it:9443/hls/vod.m3u8) | <img height="20" src="https://i.imgur.com/b8y6ImZ.png"/> |
 | 0   | Antenna Sud Extra | [>](https://live.antennasudwebtv.it:9443/hls/vod92.m3u8) | <img height="20" src="https://i.imgur.com/6tBv8VD.png"/> |
-| 0   | Antenna Sud Sport | [>](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | Apulia Web Tv | [>](https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8) | <img height="20" src="https://i.imgur.com/AnU4g2J.png"/> |
 | 0   | Aristanis SuperTv | [>](https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v8PlAJO.png"/> |
 | 0   | Arte Network Orler | [>](https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DP5y0Er.png"/> |
@@ -403,6 +400,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 56  | HGTV – Home & Garden Tv  | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTVItaly.it |
 | 59  | Motor Trend    | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> | MotorTrend.it |
 | 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&output=16) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
+| 0   | AB Channel  | [x](https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Ze2xvoY.png"/> | ABChannel.it |
+| 0   | Antenna 3 Massa | [x](http://163.172.88.73:1935/antenna3massa/a3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CHDU86j.png"/> |
+| 0   | Antenna Sud Sport | [x](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | La Tua Tv | [x](https://wms2.zivoli.it/latuatv/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nc3I0cS.png"/> |
 | 0   | Odeon 24 | [x](https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M1tVBuH.png"/> |
 | 0   | Otto Channel 696 Tv | [x](https://meridelive-lh.akamaihd.net/i/ottop_1@118465/index_1_av-p.m3u8?sd=10&rebase=on) | <img height="20" src="https://i.imgur.com/i6PJJDU.png"/> |
