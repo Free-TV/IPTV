@@ -42,7 +42,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 57  | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> | RaiScuola.it |
 | 58  | Rai Sport + Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16) | <img height="20" src="https://i.imgur.com/vD0CDEp.png"/> | RaiSportPlusHD.it |
 | 60  | Sportitalia    | [>](https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | Sportitalia.it |
-| 61  | Sportitalia SOLOCALCIO | [>](https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/003F05D2AFD81F94099616F45367BD29ABE4497C/index.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
 | 62  | Donna TV Ⓢ     | [>](https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Aa1Abme.png"/> | DonnaTV.it |
 | 63  | GM24 Ⓢ         | [>](https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCntSA3.png"/> | GM24.it |
 | 64  | SuperTennis    | [>](https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8) | <img height="20" src="https://i.imgur.com/GzsPlbX.png"/> | SuperTennis.it |
@@ -62,6 +61,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
+| 58  | Sportitalia SOLOCALCIO | [>](https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/003F05D2AFD81F94099616F45367BD29ABE4497C/index.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
 | 67  | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> | RadioMonteCarloTV.it |
 | 68  | Virgin Radio TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> | VirginRadioTV.it |
 | 89  | Senato TV      | [>](https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FoQoNZW.png"/> | SenatoTV.it |
@@ -190,6 +190,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Prima Napoli Tv | [>](https://stream1.aswifi.it/primatvnapoli/live/index.m3u8) | <img height="20" src="https://i.imgur.com/yPuQeEy.jpg"/> |
 | 0   | Prima Tivvù | [>](https://01.celinel.com/primativvu/primativvu2021/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oUGS2Nt.png"/> |
 | 0   | Prima Tv Sicilia | [>](https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/br45JER.png"/> |
+| 0   | PrimaFREE | [>](https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YrSSmOL.png"/> |
 | 0   | Primantenna Torino | [>](https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8) | <img height="20" src="https://i.imgur.com/sqEcPFs.gif"/> |
 | 0   | Primocanale | [>](https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xWF1A1U.png"/> |
 | 0   | Promovideo Tv | [>](https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MwK9HVG.png"/> |
