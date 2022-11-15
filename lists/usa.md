@@ -21,7 +21,7 @@
 | 4   | ABC News       | [>](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> | ABCNews.us |
 | 5   | CBS News       | [>](https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> | CBSNews.us |
 | 6   | NBC News       | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> | NBCNewsNow.us |
-| 7   | Reuters TV     | [>](https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> |
+| 7   | Reuters TV     | [x](https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> |
 | 8   | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVPublic.us |
 | 9   | NASA TV Media  | [>](https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVMedia.us |
 
