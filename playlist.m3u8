@@ -174,8 +174,8 @@ https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 #EXTINF:-1 tvg-name="Global News Vancouver" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Vancouver
 https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8
 #EXTINF:-1 tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" group-title="Canada",CPAC (EN)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://i.imgur.com/jtyrp30.png" group-title="Canada",ICI RDI
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" group-title="Canada",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-name="ICI Télé HD Ⓖ" tvg-logo="https://i.imgur.com/HsSi3NV.png" group-title="Canada",ICI Télé HD Ⓖ
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
@@ -189,8 +189,8 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-name="CPAC (FR)" tvg-logo="https://i.imgur.com/AbdFD0S.png" group-title="Canada",CPAC (FR)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
-#EXTINF:-1 tvg-name="Ici Television" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="Canada",Ici Television
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-name="ICI Montreal" tvg-logo="https://i.imgur.com/Z1b2TJD.png" group-title="Canada",ICI Montreal
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://i.imgur.com/AMcIAOV.png" tvg-id="CETV1.cn" group-title="China",CETV-1
 http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 #EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://i.imgur.com/a9mvoeP.png" tvg-id="CETV2.cn" group-title="China",CETV-2
