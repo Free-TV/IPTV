@@ -8,3 +8,4 @@
 | 4   | DW English  | [>](https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> | DWEnglish.de |
 | 5   | Al Jazeera English   | [>](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) | <img height="20" src="https://i.imgur.com/BB93NQP.png"/> | AlJazeeraEnglish.qa |
 | 6   | CGTN English         | [>](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTN.cn |
+| 7   | SkyNews English  Ⓨ   | [>](https://www.youtube.com/watch?v=9Auq9mYxFEE) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png"/> | SkyNewsInternational.uk |
