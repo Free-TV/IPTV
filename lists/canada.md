@@ -32,13 +32,13 @@
 | 27  | Global News Saskatoon    | [x](https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 28  | Global News Vancouver    | [>](https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 29  | Global News Winnipeg     | [x](https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
-| 30  | CPAC (EN)       | [>](https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8) | <img height="20" src="https://i.imgur.com/AbdFD0S.png"/> |
+| 30  | CPAC (EN)       | [>](https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/AbdFD0S.png"/> |
 
 <h2>French</h2>
 
 | #   | Channel      | Link   | Logo |
 |:---:|:------------:|:------:|:-----:
-| 1   | ICI RDI      | [>](https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8) | <img height="20" src="https://i.imgur.com/jtyrp30.png"/> |
+| 1   | ICI RDI      | [>](https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png"/> |
 | 2   | ICI Télé HD Ⓖ | [>](https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8) | <img height="20" src="https://i.imgur.com/HsSi3NV.png"/> |
 | 3   | TVA Ⓖ       | [>](https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8) | <img height="20" src="https://i.imgur.com/1GR8Szn.png"/> |
 | 4   | Noovo        | [>](https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd) | <img height="20" src="https://i.imgur.com/BL9ziSJ.png"/> |
@@ -52,6 +52,5 @@
 | #   | Channel           | Link   | Logo |
 |:---:|:-----------------:|:------:|:-----:
 | 1   | APTN              | [x]() | <img height="20" src="https://i.imgur.com/S213Hyb.png"/> |
-| 2   | ICI International | [x]() | <img height="20" src=""/> |
-| 3   | Omni Television   | [x]() | <img height="20" src=""/> |
-| 4   | Ici Television    | [>](https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8) | <img height="20" src="https://i.imgur.com/Z1b2TJD.png"/> |
+| 2   | Omni Television   | [x]() | <img height="20" src=""/> |
+| 3   | ICI Montreal    | [>](https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8) | <img height="20" src="https://i.imgur.com/Z1b2TJD.png"/> |
