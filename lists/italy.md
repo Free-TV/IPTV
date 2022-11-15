@@ -121,7 +121,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Di.Tv 80 | [>](https://media2021.rtvweb.com/di_tv_80/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kHxTsJw.png"/> |
 | 0   | Di.Tv 92 | [>](https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/g3SI08H.png"/> |
 | 0   | Digital Tv7 Benevento | [>](http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NaQkklP.png"/> |
-| 0   | Donna Shopping Tv | [>](https://media.streambrothers.com:1936/8038/8038/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oLDvx2T.png"/> |
+| 0   | Donna Shopping Tv | [>](https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oLDvx2T.png"/> |
 | 0   | E'live Brescia Tv | [>](https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bZ3B7pi.png"/> |
 | 0   | Easy Tv Canale 190 | [>](https://diretta.arcapuglia.it:8080/live/newmedia/index.m3u8) | <img height="20" src="https://i.imgur.com/LKrVuRR.jpg"/> |
 | 0   | Entella Tv | [>](https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1VPXKrW.png"/> |
