@@ -24,12 +24,28 @@ https://en.wikipedia.org/wiki/List_of_IRIB_television_channels
 | 16   | IRIB Omid Ⓢ    | [x](https://s1-cloud.irib.ir/securelive3/omidsd/omidsd.m3u8) | <img height="20" src="https://i.imgur.com/s9iUe1l.png"/> | IRIBOmid.ir |
 | 17   | IRIB Tamasha   | [x](https://s1-cloud.irib.ir/securelive3/tamashahd/tamashahd.m3u8) | <img height="20" src="https://i.imgur.com/YffSCWH.png"/> | Tamasha.ir |
 | 18   | iFilm          | [x](https://s1-cloud.irib.ir/securelive3/ifilmhd/ifilmhd.m3u8) | <img height="20" src="https://i.imgur.com/4Z9L1AW.png"/> | iFilmPersian.ir |
+| 19   | IRIB UHD-HDR   | [x](https://s1-cloud.irib.ir/securelive3/uhd/uhd.m3u8) | <img height="20" src="https://i.imgur.com/qZ98jaa.png"/> | IRIBUHD.ir |
 
 <h2>Foreign channels</h2>
 
 | #    | Channel        | Link  | Logo | EPG id |
 |:----:|:--------------:|:-----:|:----:|:------:|
-| 1    | Al-Alam News Network Ⓢ | [>](https://live2.alalam.ir/alalam.m3u8) | <img height="20" src="https://i.imgur.com/jY1u1zz.png"/> | AlalamNewsChannel.ir |
+| 1    | Jame Jam TV 1  | [x](https://s1-cloud.irib.ir/securelive3/jamejam1hd/jamejam1hd.m3u8) | <img height="20" src="https://i.imgur.com/BjaN3W1.png"/> | JameJamTVNetwork1.ir |
+| 2    | Jame Jam TV 2 Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/jamejam2sd/jamejam2sd.m3u8) | <img height="20" src="https://i.imgur.com/BjaN3W1.png"/> | JameJamTVNetwork2.ir |
+| 3    | Jame Jam TV 3 Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/jamejam3sd/jamejam3sd.m3u8) | <img height="20" src="https://i.imgur.com/BjaN3W1.png"/> | JameJamTVNetwork3.ir |
+| 4    | iFilm 2 Ⓢ      | [x](https://s1-cloud.irib.ir/securelive3/ifilm2sd/ifilm2sd.m3u8) | <img height="20" src="https://i.imgur.com/WZrGsFb.png"/> | iFilm2.ir |
+| 5    | iFilm Arabic Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/ifilmarabsd/ifilmarabsd.m3u8) | <img height="20" src="https://i.imgur.com/D3cXTpJ.png"/> | iFilmArabic.ir |
+| 6    | iFilm English Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/ifilmengsd/ifilmengsd.m3u8) | <img height="20" src="https://i.imgur.com/RdC0DQk.png"/> | iFilmEnglish.ir |
+| 7    | Sahar TV Azeri Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8) | <img height="20" src="https://i.imgur.com/ZvNpHTj.png"/> | SaharAzeri.ir |
+| 8    | Sahar TV Urdu Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8) | <img height="20" src="https://i.imgur.com/krc2nHm.png"/> | SaharUrdu.ir |
+| 9    | Sahar TV Kurdi Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/saharkurdsd/saharkurdsd.m3u8) | <img height="20" src="https://i.imgur.com/FxFNcHA.png"/> | SaharKurdi.ir |
+| 10   | Sahar TV Balkan Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/saharbalksd/saharbalksd.m3u8) | <img height="20" src="https://i.imgur.com/RdmtePb.png"/> | SaharBalkan.ir |
+| 11   | Al-Kawthar TV Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/alkawtharsd/alkawtharsd.m3u8) | <img height="20" src="https://i.imgur.com/kKAKqd5.png"/> | AlKawtharTV.ir |
+| 12   | Al-Alam News Network Ⓢ | [>](https://live2.alalam.ir/alalam.m3u8) | <img height="20" src="https://i.imgur.com/UbD0Ndr.png"/> | AlalamNewsChannel.ir |
+| 13   | Press TV        | [>](https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/X3YP2Gg.png"/> | PressTV.ir |
+| 14   | Press TV French | [>](https://live1.presstv.ir/live/presstvfr/index.m3u8) | <img height="20" src="https://i.imgur.com/X3YP2Gg.png"/> | PressTVFrench.ir |
+| 15   | HispanTV Ⓢ      | [>](https://live1.presstv.ir/live/hispan.m3u8) | <img height="20" src="https://i.imgur.com/hnhP9o0.png"/> | HispanTV.ir |
+| 16   | IranPress Ⓢ     | [>](https://live1.presstv.ir/live/iranpress/index.m3u8) | <img height="20" src="https://i.imgur.com/Qrubr3v.png"/> | IranPress.ir |
 
 <h2>Provincial channels</h2>
 
