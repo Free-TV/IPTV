@@ -61,7 +61,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 55  | Gold TV Sat    | [>](https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTV.it |
+| 55  | Gold TV Sat    | [>](https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTVSat.it |
 | 58  | Sportitalia SOLOCALCIO | [>](https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/003F05D2AFD81F94099616F45367BD29ABE4497C/index.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
 | 59  | Euronews Italian | [>](https://euronews.alteox.app/hls/it_stream.m3u8) | <img height="20" src="https://i.imgur.com/F3MkfJN.png"/> | EuronewsItalian.fr |
 | 67  | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> | RadioMonteCarloTV.it |
@@ -141,7 +141,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Giornale Radio Tv | [>](https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TMtvCLL.jpg"/> |
 | 0   | Giovanni Paolo Tv | [>](https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8) | <img height="20" src="https://i.imgur.com/GH5eJE6.png"/> |
 | 0   | Gold Sport  | [>](http://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/0oCNuIY.png"/> |
-| 0   | Gold Tv  | [>](https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> |
+| 0   | Gold Tv  | [>](https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTV.it |
 | 0   | GO-TV Channel | [>](https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xgjrAAn.png"/> | GOTVCanale163.it |
 | 0   | HUB Tv | [>](https://5c483b9d1019c.streamlock.net/8004/8004/playlist.m3u8) | <img height="20" src="https://i.imgur.com/46GTBEW.png"/> |
 | 0   | Icaro Tv Rimini | [>](https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/z05VSSN.png"/> |
@@ -366,6 +366,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tv7 iReporter | [>](https://www.gruppotv7.com:8090/hls/ireporter.m3u8) | <img height="20" src="https://i.imgur.com/37i2B6m.png"/> |
 | 0   | Tv7 Triveneta | [>](https://www.gruppotv7.com:8090/hls/triveneta.m3u8) | <img height="20" src="https://i.imgur.com/bYiaO7l.png"/> |
 | 0   | Tva Vicenza | [>](http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FtFuPCC.png"/> |
+| 0   | TVR Più TeleRegione | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/a14a9d0455b34b02842e05e6a4ad0572/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Wzb5qaT.png"/> |
 | 0   | Tvr Xenon | [>](https://cdn3-ger.azotosolutions.com/cdnedge4/live4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
 | 0   | Tvrs Tv | [>](https://59d7d6f47d7fc.streamlock.net/tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
 | 0   | Umbria Tv  | [>](https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kccGe02.png"/> |
