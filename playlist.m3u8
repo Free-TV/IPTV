@@ -943,6 +943,8 @@ http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Radio Roma" tvg-logo="https://i.imgur.com/RKvfStm.png" group-title="Italy",Radio Roma
 https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Roma Television" tvg-logo="https://i.imgur.com/RKvfStm.png" group-title="Italy",Radio Roma Television
+https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
 #EXTINF:-1 tvg-name="RDE Tv" tvg-logo="https://i.imgur.com/NiwPlrr.png" group-title="Italy",RDE Tv
 https://rst2.saiuzwebnetwork.it:8081/rdetrieste/index.m3u8
 #EXTINF:-1 tvg-name="Reggio Tv" tvg-logo="https://i.imgur.com/merrg2C.png" group-title="Italy",Reggio Tv
@@ -1053,8 +1055,6 @@ http://163.172.88.73:1935/magic_web/site/playlist.m3u8
 https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Belluno" tvg-logo="https://i.imgur.com/YiM2Z7E.png" group-title="Italy",Tele Belluno
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
-#EXTINF:-1 tvg-name="Tele Blu" tvg-logo="https://i.imgur.com/NWMTlry.jpg" group-title="Italy",Tele Blu
-https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Boario" tvg-logo="https://i.imgur.com/LlLD3L6.png" group-title="Italy",Tele Boario
 https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Tele Bruzzano" tvg-logo="https://i.imgur.com/7TWbCDt.jpg" group-title="Italy",Tele Bruzzano
@@ -1095,10 +1095,10 @@ https://player-api.new.livestream.com/accounts/17114188/events/4902226/broadcast
 https://live.teleliguriasud.it/hls/tls/index.m3u8
 #EXTINF:-1 tvg-name="Tele Mantova" tvg-logo="https://i.imgur.com/bkSPcs4.png" group-title="Italy",Tele Mantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Tele Mia Extra" tvg-logo="https://i.imgur.com/upzBG32.png" group-title="Italy",Tele Mia Extra
-https://player.ilariochiera.it/fileadmin/hls/TelemiaExtra/stream.m3u8
 #EXTINF:-1 tvg-name="Tele Mia" tvg-logo="https://i.imgur.com/SdXpCwL.png" group-title="Italy",Tele Mia
-http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 tvg-name="Tele Mia Extra" tvg-logo="https://i.imgur.com/upzBG32.png" group-title="Italy",Tele Mia Extra
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
 #EXTINF:-1 tvg-name="Tele Mistretta Life e Family" tvg-logo="https://i.imgur.com/y2LLwiy.png" group-title="Italy",Tele Mistretta Life e Family
 https://stream.mariatvcdn.com/telemistrettalive2/ddbcd59a192d6f92336991e344fa1821.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Mistretta Radio" tvg-logo="https://i.imgur.com/d7O7Uqa.png" group-title="Italy",Tele Mistretta Radio
@@ -1166,9 +1166,7 @@ http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Sirio" tvg-logo="https://i.imgur.com/mDN6QX1.png" group-title="Italy",Tele Sirio
 https://www.telesirio.it/live/stream.m3u8
 #EXTINF:-1 tvg-name="Tele Spazio Messina" tvg-logo="https://i.imgur.com/Io5w6lT.png" group-title="Italy",Tele Spazio Messina
-http://smart.telespazioplay.com:8080/play/stream.m3u8
-#EXTINF:-1 tvg-name="Tele Star 1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="Italy",Tele Star 1
-http://193.34.109.10:8090/
+https://rtm.cyberspazio.cloud:5443/LiveApp/streams/049229794390395765037801.m3u8
 #EXTINF:-1 tvg-name="Tele Sud Puglia" tvg-logo="https://i.imgur.com/fqTLtvs.png" group-title="Italy",Tele Sud Puglia
 https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Tebe" tvg-logo="https://i.imgur.com/YirYT4J.png" group-title="Italy",Tele Tebe
@@ -1189,6 +1187,8 @@ https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleAmbiente" tvg-logo="https://i.imgur.com/jxZcQhU.png" group-title="Italy",TeleAmbiente
 https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleblu" tvg-logo="https://i.imgur.com/bZNxSey.png" group-title="Italy",Teleblu
+https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Telecampione" tvg-logo="https://i.imgur.com/LhjwmME.png" group-title="Italy",Telecampione
 https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleciociaria 178" tvg-logo="https://i.imgur.com/g2t0FZg.png" group-title="Italy",Teleciociaria 178
@@ -1213,6 +1213,8 @@ https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
 https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="TeleRomaDue" tvg-logo="https://i.imgur.com/78hA7ma.png" group-title="Italy",TeleRomaDue
 https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+#EXTINF:-1 tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" group-title="Italy",Telestar1
+http://89.47.97.15/telestar/telestar.m3u8
 #EXTINF:-1 tvg-name="Telesud Trapani" tvg-logo="https://i.imgur.com/tpZvU1P.png" group-title="Italy",Telesud Trapani
 https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleuniverso" tvg-logo="https://i.imgur.com/u8E9wBb.png" group-title="Italy",Teleuniverso
@@ -1297,6 +1299,8 @@ https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8
 #EXTINF:-1 tvg-name="Well Tv" tvg-logo="https://i.imgur.com/Kqgz4Na.png" group-title="Italy",Well Tv
 https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8
+#EXTINF:-1 tvg-name="WLTV" tvg-logo="https://i.imgur.com/aL8jKtU.png" group-title="Italy",WLTV
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 #EXTINF:-1 tvg-name="Yvii Tv" tvg-logo="https://i.imgur.com/yP5AvDo.png" group-title="Italy",Yvii Tv
 https://80.211.72.5/hls/yviitv.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Italy",Zerouno Tv News
