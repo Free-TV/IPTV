@@ -1894,7 +1894,7 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNSpanish.cn" group-title="News (ES)",CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia24.it" group-title="VOD Italy",Sportitalia LIVE24
-https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/A2C6100B283BBDC574ADDCF8F9CEAF0D5E6F64A3/index.m3u8
 #EXTINF:-1 tvg-name="Sport2U" tvg-logo="https://i.imgur.com/WW0lNk1.png" group-title="VOD Italy",Sport2U
 https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Grande Fratello Vip Regia 1 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/PBTdU4G.png" group-title="VOD Italy",Grande Fratello Vip Regia 1 Ⓢ Ⓖ
