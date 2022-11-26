@@ -369,7 +369,7 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="BR Süd Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_BR_Fernsehen_2021.svg/768px-Logo_BR_Fernsehen_2021.svg.png" tvg-id="BRFernsehenSud.de" group-title="Germany",BR Süd Ⓖ
 https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="HR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/640px-Hr-fernsehen_Logo_2015.svg.png" tvg-id="HR.de" group-title="Germany",HR Ⓖ
+#EXTINF:-1 tvg-name="HR Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/640px-Hr-fernsehen_Logo_2015.svg.png" tvg-id="HRFernsehen.de" group-title="Germany",HR Ⓖ
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/640px-MDR_Logo_2017.svg.png" tvg-id="MDRFernsehenSachsen.de" group-title="Germany",MDR Sachsen Ⓖ
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
@@ -385,7 +385,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenSchleswigHolstein.de" group-title="Germany",NDR Schleswig-Holstein Ⓖ
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-name="Radio Bremen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_Radio_Bremen_TV.svg/640px-Logo_Radio_Bremen_TV.svg.png" tvg-id="RadioBremenFernsehen.de" group-title="Germany",Radio Bremen Ⓖ
+#EXTINF:-1 tvg-name="Radio Bremen Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/640px-Logo_Radio_Bremen.svg.png" tvg-id="RadioBremenFernsehen.de" group-title="Germany",Radio Bremen Ⓖ
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-name="RBB Berlin Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/640px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-id="RBBBerlin.de" group-title="Germany",RBB Berlin Ⓖ
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
