@@ -3,7 +3,7 @@
 https://en.wikipedia.org/wiki/Television_in_Italy#Digital_terrestrial_television
 https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
-<h2>National</h2>
+<h2>National DVB-T</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
@@ -75,7 +75,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 511 | BFC            | [>](https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> | BFCForbes.it |
 | 701 | UniNettuno University TV Ⓖ | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BOGMeio.png"/> | UniNettunoUniversityTV.it |
 
-<h2>Regional</h2>
+<h2>Regional DVB-T</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
@@ -86,6 +86,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Alpauno | [>](https://5cbd3bc28341f.streamlock.net:444/alpauno/alpauno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4QKFtUa.png"/> |
 | 0   | Alto Adige Tv | [>](https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S2sCFQi.png"/> | AltoAdigeTV.it |
 | 0   | Antenna 2 Bergamo | [>](https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NfvHIAw.png"/> |
+| 0   | Antenna 3 Massa | [>](https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CHDU86j.png"/> |
 | 0   | Antenna 3 Veneto Nord Est | [>](https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NiVHLwp.png"/> | AntennaTreNordest.it |
 | 0   | Antenna Sicilia | [>](https://5f22d76e220e1.streamlock.net/antennasicilia/antennasicilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
 | 0   | Antenna Sud | [>](https://live.antennasudwebtv.it:9443/hls/vod.m3u8) | <img height="20" src="https://i.imgur.com/b8y6ImZ.png"/> |
@@ -407,7 +408,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 56  | HGTV – Home & Garden Tv  | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTVItaly.it |
 | 59  | Motor Trend    | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> | MotorTrend.it |
 | 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&output=16) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
-| 0   | Antenna 3 Massa | [x](http://163.172.88.73:1935/antenna3massa/a3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CHDU86j.png"/> |
 | 0   | Antenna Sud Sport | [x](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | Antenna Sud Sport 2 | [x](https://live.antennasudwebtv.it:9443/hls/vodsport2.m3u8) | <img height="20" src="https://i.imgur.com/dl86FW1.png"/> |
 | 0   | GO-TV Channel | [x](https://vimeo.com/event/2384698/embed) | <img height="20" src="https://i.imgur.com/xgjrAAn.png"/> | GOTVCanale163.it |
