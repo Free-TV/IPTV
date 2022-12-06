@@ -27,7 +27,7 @@
 | 22  | Global News Halifax      | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Halifax/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 23  | Global News Kingston     | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Kingston/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 24  | Global News Montreal     | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Montreal/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
-| 25  | Global News Peterborough | [>](http://siloh.pluto.tv/lilo/production/GlobalNews/Peterborough/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
+| 25  | Global News Peterborough | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Peterborough/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 26  | Global News Regina       | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Regina/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 27  | Global News Saskatoon    | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Saskatoon/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 28  | Global News Vancouver    | [>](https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
