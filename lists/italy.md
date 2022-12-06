@@ -99,7 +99,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Basilicata 1 Tv | [>](http://77.68.40.210:8888/hls/basilicata1.m3u8) | <img height="20" src="https://i.imgur.com/VS6CQ88.png"/> |
 | 0   | Bergamo Tv | [>](http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8) | <img height="20" src="https://i.imgur.com/1doR6Vl.png"/> |
 | 0   | BOM Channel Ⓢ    | [>](https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hISoOK3.png"/> | BomChannel.it |
-| 0   | ByoBlu | [>](https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1xaHGtU.png"/> |
 | 0   | Cafe Tv 24 | [>](https://srvx1.selftv.video/cafe/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KbcbxFw.png"/> |
 | 0   | Calabria Uno Tv  | [>](https://stream3.aswifi.it/calabriauno/live/index.m3u8) | <img height="20" src="https://i.imgur.com/2TK1GQ5.png"/> |
 | 0   | Calabria tv | [>](https://5db313b643fd8.streamlock.net:443/CalabriaTv2/CalabriaTv2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qWirucd.png"/> |
@@ -409,6 +408,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 146 | Rai Sport Ⓢ Ⓖ | [x](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975&output=16) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
 | 0   | Antenna Sud Sport | [x](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | Antenna Sud Sport 2 | [x](https://live.antennasudwebtv.it:9443/hls/vodsport2.m3u8) | <img height="20" src="https://i.imgur.com/dl86FW1.png"/> |
+| 0   | ByoBlu | [x](https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1xaHGtU.png"/> |
 | 0   | GO-TV Channel | [x](https://vimeo.com/event/2384698/embed) | <img height="20" src="https://i.imgur.com/xgjrAAn.png"/> | GOTVCanale163.it |
 | 0   | La Tua Tv | [x](https://wms2.zivoli.it/latuatv/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nc3I0cS.png"/> |
 | 0   | Otto Channel 696 Tv | [x](https://meridelive-lh.akamaihd.net/i/ottop_1@118465/index_1_av-p.m3u8?sd=10&rebase=on) | <img height="20" src="https://i.imgur.com/i6PJJDU.png"/> |
