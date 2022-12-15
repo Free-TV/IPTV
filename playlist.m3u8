@@ -1941,22 +1941,18 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/mani
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd
 #EXTINF:-1 tvg-name="Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/fFZeBnc.png" group-title="VOD Italy",Grande Fratello Vip Regia un'ora fa Ⓢ Ⓖ
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd
-#EXTINF:-1 tvg-name="Documentari – Rakuten TV" tvg-logo="https://i.imgur.com/rAHBiO8.jpg" group-title="VOD Italy",Documentari – Rakuten TV
-https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Stories – Rakuten TV" tvg-logo="https://i.imgur.com/tMcUvjI.jpg" group-title="VOD Italy",Stories – Rakuten TV
+https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Classico – Rakuten TV" tvg-logo="https://i.imgur.com/ytN6jfl.jpeg" group-title="VOD Italy",Classico – Rakuten TV
 https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Thriller – Rakuten TV" tvg-logo="https://i.imgur.com/jJTnBNk.jpeg" group-title="VOD Italy",Thriller – Rakuten TV
 https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Romance – Rakuten TV" tvg-logo="https://i.imgur.com/TiXrzJZ.jpeg" group-title="VOD Italy",Romance – Rakuten TV
-https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Commedia – Rakuten TV" tvg-logo="https://i.imgur.com/EKKXdIU.jpg" group-title="VOD Italy",Commedia – Rakuten TV
-https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Euronews in diretta" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg" tvg-id="EuronewsItalian.fr" group-title="VOD Italy",Euronews in diretta
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Commedia – Rakuten TV" tvg-logo="https://i.imgur.com/EKKXdIU.jpg" group-title="VOD Italy",Commedia – Rakuten TV
+https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://i.imgur.com/WupT16d.jpg" group-title="VOD Italy",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Motor1TV" tvg-logo="https://i.imgur.com/UERYhO1.png" group-title="VOD Italy",Motor1TV
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/daTU44g.jpeg" group-title="VOD Italy",The Pet Collective
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale Europa" tvg-logo="https://i.imgur.com/Zw2ZIfz.jpg" group-title="VOD Italy",Canale Europa
@@ -1971,14 +1967,16 @@ https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
 https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Televisa Telenovelas" tvg-logo="https://i.imgur.com/GaJIRN3.jpg" group-title="VOD Italy",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Stories – Rakuten TV" tvg-logo="https://i.imgur.com/tMcUvjI.jpg" group-title="VOD Italy",Stories – Rakuten TV
-https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Humanity Documentari" tvg-logo="https://i.imgur.com/4gwdyar.png" group-title="VOD Italy",Humanity Documentari
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-name="Documentari – Rakuten TV" tvg-logo="https://i.imgur.com/rAHBiO8.jpg" group-title="VOD Italy",Documentari – Rakuten TV
+https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="The Boat Show" tvg-logo="https://i.imgur.com/cPTLian.png" group-title="VOD Italy",The Boat Show
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/KT3zgc1.png" tvg-id="FashionTVEurope.fr" group-title="VOD Italy",Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Motor1TV" tvg-logo="https://i.imgur.com/UERYhO1.png" group-title="VOD Italy",Motor1TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://i.imgur.com/fwOuEBl.png" group-title="VOD Italy",SportOutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" tvg-id="ItalianFishingTV.it" group-title="VOD Italy",Italian Fishing TV
@@ -1989,8 +1987,6 @@ https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="duckTV" tvg-logo="https://i.imgur.com/BKoAJZV.jpeg" group-title="VOD Italy",duckTV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/TLIQ9Th.png" group-title="VOD Italy",Amuse Animation
-https://amuse-amuseanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="SuperToons TV" tvg-logo="https://i.imgur.com/A6vCYsC.png" group-title="VOD Italy",SuperToons TV
 https://kedoo-supertoonstv-4-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Planeta Junior" tvg-logo="https://i.imgur.com/F71WMja.jpg" group-title="VOD Italy",Planeta Junior
@@ -2021,8 +2017,12 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="WP" tvg-logo="https://i.imgur.com/W5I5yY0.png" group-title="VOD Italy",WP
 https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Risate all'italiana" tvg-logo="https://i.imgur.com/aQ8Tdo4.png" group-title="VOD Italy",Risate all'italiana
+https://minerva-risateallitaliana-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Shorts Ⓖ" tvg-logo="https://i.imgur.com/GwM7RHV.jpg" group-title="VOD Italy",Shorts Ⓖ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-name="Romance – Rakuten TV" tvg-logo="https://i.imgur.com/TiXrzJZ.jpeg" group-title="VOD Italy",Romance – Rakuten TV
+https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sofy.tv" tvg-logo="https://i.imgur.com/fsJFJeZ.png" group-title="VOD Italy",Sofy.tv
 https://sofytv-samsungit.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Film Top – Rakuten TV" tvg-logo="https://i.imgur.com/OfD9hM9.jpeg" group-title="VOD Italy",Film Top – Rakuten TV
