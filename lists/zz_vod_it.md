@@ -52,7 +52,7 @@
 | 4969 | Bizzarro Movies | [>](https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EbDLnZB.png"/> |
 | 4972 | CGtv | [>](https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6rsLtY7.png"/> |
 | 4975 | WP | [>](https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/W5I5yY0.png"/> |
-| 4979 | Risate all'italiana | [>](https://minerva-risateallitaliana-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/aQ8Tdo4.png"/> |
+| 4979 | Risate all'italiana | [>](https://minerva-risateallitaliana-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LCN66Z1.png"/> |
 | 4984 | Shorts Ⓖ       | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GwM7RHV.jpg"/> |
 | 4985 | Romance – Rakuten TV | [>](https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TiXrzJZ.jpeg"/> |
 | 4990 | Sofy.tv        | [>](https://sofytv-samsungit.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fsJFJeZ.png"/> |
