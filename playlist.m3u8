@@ -1663,6 +1663,18 @@ http://190.2.155.162/RSI1/index.m3u8
 http://190.2.155.162/RSI2/index.m3u8
 #EXTINF:-1 tvg-name="Teleticino" tvg-logo="https://i.imgur.com/zm2ruqz.png" tvg-id="TeleTicino.ch" group-title="Switzerland",Teleticino
 https://livestream.gruppocdt.ch/hls/teleticino.m3u8
+#EXTINF:-1 tvg-name="CNC3" tvg-logo="https://i.imgur.com/1E73l2j.png" tvg-id="CNC3.tt" group-title="Trinidad",CNC3
+https://sktv-forwarders.7m.pl/get.php?x=CNC3
+#EXTINF:-1 tvg-name="gayelle" tvg-logo="https://i.imgur.com/GhWdqLq.jpg" tvg-id="" group-title="Trinidad",gayelle
+https://sktv-forwarders.7m.pl/get.php?x=gayelle
+#EXTINF:-1 tvg-name="Synergy TV" tvg-logo="https://i.imgur.com/ugAy0UG.jpg" tvg-id="SynergyTV.tt" group-title="Trinidad",Synergy TV
+https://sktv-forwarders.7m.pl/get.php?x=Synergy_TV
+#EXTINF:-1 tvg-name="TTT" tvg-logo="https://i.imgur.com/rxf4x8J.jpg" tvg-id="TTT.tt" group-title="Trinidad",TTT
+https://sktv-forwarders.7m.pl/get.php?x=TTT
+#EXTINF:-1 tvg-name="IBN" tvg-logo="https://i.imgur.com/hSJGncF.jpg" tvg-id="" group-title="Trinidad",IBN
+https://sktv-forwarders.7m.pl/get.php?x=IBN
+#EXTINF:-1 tvg-name="Trinity TV" tvg-logo="https://i.imgur.com/prgVynR.jpg" tvg-id="" group-title="Trinidad",Trinity TV
+https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" group-title="Turkey",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2 Ⓖ" tvg-logo="https://i.imgur.com/lNWrOE2.png" tvg-id="TRT2.tr" group-title="Turkey",TRT 2 Ⓖ
