@@ -22,7 +22,7 @@
 | 30  | QVC Style   | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/xfEoWFA.png"/> |
 | 37  | GemsTV Ⓢ   | [>](http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8) | <img height="20" src="https://i.imgur.com/IR2sTag.png"/> |
 | 51  | Jewlery Maker | [>](https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/azSptPw.png"/> |
-| 53  | Now 80s    | [>](https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8paz37m.png"/> |
+| 53  | Now 80s    | [>](https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8paz37m.png"/> |
 | 63  | BBC News Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/xBLLYyx.png"/> |
 | 65  | CBeebies Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/CE8mgnW.png"/> |
 | 72  | Sky News  | [>](https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
