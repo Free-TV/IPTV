@@ -22,9 +22,10 @@
 | 30  | QVC Style   | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/xfEoWFA.png"/> |
 | 37  | GemsTV Ⓢ   | [>](http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8) | <img height="20" src="https://i.imgur.com/IR2sTag.png"/> |
 | 51  | Jewlery Maker | [>](https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/azSptPw.png"/> |
+| 53  | Now 80s    | [>](https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8paz37m.png"/> |
 | 63  | BBC News Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/xBLLYyx.png"/> |
 | 65  | CBeebies Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/CE8mgnW.png"/> |
-| 72  | Sky News Ⓨ  | [>](https://www.youtube.com/c/SkyNews/live) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
+| 72  | Sky News  | [>](https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
 | 91  | PBS America   | [>](https://pbs-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J4zE5z9.jpg"/> |
 
 <h2>DVB-S</h2>
@@ -76,7 +77,6 @@
 | 48  | CBS Reality | [x]() | <img height="20" src="https://i.imgur.com/YykQhHd.png"/> |
 | 49  | CBS Drama   | [x]() | <img height="20" src="https://i.imgur.com/69fKWg0.png"/> |
 | 50  | Horror Channel | [x]() | <img height="20" src="https://i.imgur.com/NZpDDER.png"/> |
-| 53  | Now 80s    | [x]() | <img height="20" src="https://i.imgur.com/8paz37m.png"/> |
 | 55  | Talking Pictures TV | [x]() | <img height="20" src="https://i.imgur.com/t0tHdqL.png"/> |
 | 56  | Together TV | [x]() | <img height="20" src="https://i.imgur.com/dfnKViW.png"/> |
 | 57  | PBS America | [x]() | <img height="20" src="https://i.imgur.com/RIJLELd.png"/> |
