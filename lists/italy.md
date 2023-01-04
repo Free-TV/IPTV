@@ -14,7 +14,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 5   | Canale 5 Ⓖ    | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/index.m3u8) | <img height="20" src="https://i.imgur.com/p6YdiR1.png"/> | Canale5.it |
 | 6   | Italia 1 Ⓖ    | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8) | <img height="20" src="https://i.imgur.com/oCiOxBG.png"/> | Italia1.it |
 | 7   | La7            | [>](https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8) | <img height="20" src="https://i.imgur.com/F90mpSa.png"/> | La7.it |
-| 20  | Canale 20 Ⓖ   | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> | 20Mediaset.it |
+| 20  | 20 Mediaset Ⓖ | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> | 20Mediaset.it |
 | 21  | Rai 4 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16) | <img height="20" src="https://i.imgur.com/XFkZRfv.png"/> | Rai4.it |
 | 22  | Iris Ⓢ Ⓖ     | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ki)/index.m3u8) | <img height="20" src="https://i.imgur.com/Ixz1BY3.png"/> | Iris.it |
 | 23  | Rai 5 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16) | <img height="20" src="https://i.imgur.com/Leu2zTO.png"/> | Rai5.it |
@@ -40,7 +40,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 54  | Rai Storia Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> | RaiStoria.it |
 | 55  | Mediaset Extra Ⓢ Ⓖ | [>](https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8) | <img height="20" src="https://i.imgur.com/mM8lopo.png"/> | MediasetExtra.it |
 | 57  | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> | RaiScuola.it |
-| 58  | Rai Sport + Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16) | <img height="20" src="https://i.imgur.com/vD0CDEp.png"/> | RaiSportPlusHD.it |
+| 58  | Rai Sport + Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16) | <img height="20" src="https://i.imgur.com/vD0CDEp.png"/> | RaiSportPlus.it |
 | 60  | Sportitalia Plus | [>](https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | Sportitalia.it |
 | 62  | Donna TV Ⓢ     | [>](https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Aa1Abme.png"/> | DonnaTV.it |
 | 63  | GM24 Ⓢ         | [>](https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCntSA3.png"/> | GM24.it |
@@ -395,7 +395,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 8   | TV8            | [x](https://skyanywhere3-i.akamaihd.net/hls/live/510694/mtv8sdlive/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> | TV8.it |
 | 9   | Nove           | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8) | <img height="20" src="https://i.imgur.com/Hp723RU.png"/> | Nove.it |
-| 26  | Cielo          | [x](https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | Cielo.it |
+| 26  | Cielo TV       | [x](https://skyanywhere3-i.akamaihd.net/hls/live/510693/cielo/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | CieloTV.it |
 | 31  | Real Time      | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> | RealTimeItaly.it |
 | 33  | Food Network   | [x](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> | FoodNetworkItaly.it |
 | 37  | Warner TV      | [x]() | <img height="20" src="https://i.imgur.com/oIWFcOC.png"/> | WarnerTVItaly.it |
