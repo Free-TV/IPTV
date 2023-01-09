@@ -163,35 +163,35 @@ https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012
 #EXTINF:-1 tvg-name="CHCH" tvg-logo="https://i.imgur.com/jYSXaga.png" group-title="Canada",CHCH
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841
-#EXTINF:-1 tvg-name="ONNtv Ontario" tvg-logo="https://i.imgur.com/zz5ST9K.png" group-title="Canada",ONNtv Ontario
+#EXTINF:-1 tvg-name="ONNtv Ontario" tvg-logo="https://i.imgur.com/zz5ST9K.png" tvg-id="ONNtv.ca" group-title="Canada",ONNtv Ontario
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1 tvg-name="Star TV" tvg-logo="https://i.imgur.com/Ap54LCC.png" group-title="Canada",Star TV
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" group-title="Canada",CBC News
+#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://i.imgur.com/1EqQGKS.png" tvg-id="CBCNewsNetwork.ca" group-title="Canada",CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-name="CTV News" tvg-logo="https://i.imgur.com/T3oBeiX.png" group-title="Canada",CTV News
+#EXTINF:-1 tvg-name="CTV News" tvg-logo="https://i.imgur.com/T3oBeiX.png" tvg-id="CTVNewsChannel.ca" group-title="Canada",CTV News
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News
 https://siloh.pluto.tv/lilo/production/GlobalNews/National/CAN/master.m3u8
-#EXTINF:-1 tvg-name="Global News BC" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News BC
+#EXTINF:-1 tvg-name="Global News BC" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CHANDT.ca" group-title="Canada",Global News BC
 https://siloh.pluto.tv/lilo/production/GlobalNews/BC/CAN/master.m3u8
-#EXTINF:-1 tvg-name="Global News Calgary" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Calgary
+#EXTINF:-1 tvg-name="Global News Calgary" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CICTDT.ca" group-title="Canada",Global News Calgary
 https://siloh.pluto.tv/lilo/production/GlobalNews/Calgary/CAN/master.m3u8
 #EXTINF:-1 tvg-name="Global News Halifax" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Halifax
 https://siloh.pluto.tv/lilo/production/GlobalNews/Halifax/CAN/master.m3u8
-#EXTINF:-1 tvg-name="Global News Kingston" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Kingston
+#EXTINF:-1 tvg-name="Global News Kingston" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CKWSDT.ca" group-title="Canada",Global News Kingston
 https://siloh.pluto.tv/lilo/production/GlobalNews/Kingston/CAN/master.m3u8
 #EXTINF:-1 tvg-name="Global News Montreal" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Montreal
 https://siloh.pluto.tv/lilo/production/GlobalNews/Montreal/CAN/master.m3u8
-#EXTINF:-1 tvg-name="Global News Peterborough" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Peterborough
+#EXTINF:-1 tvg-name="Global News Peterborough" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CHEXDT.ca" group-title="Canada",Global News Peterborough
 https://siloh.pluto.tv/lilo/production/GlobalNews/Peterborough/CAN/master.m3u8
-#EXTINF:-1 tvg-name="Global News Regina" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Regina
+#EXTINF:-1 tvg-name="Global News Regina" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CFREDT.ca" group-title="Canada",Global News Regina
 https://siloh.pluto.tv/lilo/production/GlobalNews/Regina/CAN/master.m3u8
-#EXTINF:-1 tvg-name="Global News Saskatoon" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Saskatoon
+#EXTINF:-1 tvg-name="Global News Saskatoon" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CFSKDT.ca" group-title="Canada",Global News Saskatoon
 https://siloh.pluto.tv/lilo/production/GlobalNews/Saskatoon/CAN/master.m3u8
 #EXTINF:-1 tvg-name="Global News Vancouver" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Vancouver
 https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8
-#EXTINF:-1 tvg-name="Global News Winnipeg" tvg-logo="https://i.imgur.com/IpfmG93.png" group-title="Canada",Global News Winnipeg
+#EXTINF:-1 tvg-name="Global News Winnipeg" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CKNDDT.ca" group-title="Canada",Global News Winnipeg
 https://siloh.pluto.tv/lilo/production/GlobalNews/Winnipeg/CAN/master.m3u8
 #EXTINF:-1 tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" tvg-id="CPACEnglish.ca" group-title="Canada",CPAC (EN)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
