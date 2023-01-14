@@ -547,10 +547,10 @@ https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-name="DD National ⓎⒻ" tvg-logo="https://i.imgur.com/MohlE5B.png" tvg-id="DDNational.in" group-title="India",DD National ⓎⒻ
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/doordarshan/live
-#EXTINF:-1 tvg-name="DD News ⓎⒻ" tvg-logo="https://i.imgur.com/znnVCEf.png" tvg-id="DDNews.in" group-title="India",DD News ⓎⒻ
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ddnews/live
+#EXTINF:-1 tvg-name="DD National Ⓨ" tvg-logo="https://i.imgur.com/MohlE5B.png" tvg-id="DDNational.in" group-title="India",DD National Ⓨ
+https://www.youtube.com/doordarshan/live
+#EXTINF:-1 tvg-name="DD News Ⓨ" tvg-logo="https://i.imgur.com/znnVCEf.png" tvg-id="DDNews.in" group-title="India",DD News Ⓨ
+https://www.youtube.com/c/ddnews/live
 #EXTINF:-1 tvg-name="Al-Alam News Network Ⓢ" tvg-logo="https://i.imgur.com/UbD0Ndr.png" tvg-id="AlalamNewsChannel.ir" group-title="Iran",Al-Alam News Network Ⓢ
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="Iran",Press TV
