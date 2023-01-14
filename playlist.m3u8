@@ -1025,6 +1025,8 @@ https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/live/S54697960/CXHH7K39hg9K/p
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 tvg-name="ST Europe Channel" tvg-logo="https://i.imgur.com/T7kyY2p.png" group-title="Italy",ST Europe Channel
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+#EXTINF:-1 tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="Italy",Sardegna 1
+https://5bb65e9de3fdf.streamlock.net/live/_definst_/Sardegna1/playlist.m3u8
 #EXTINF:-1 tvg-name="Set Tv Cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="Italy",Set Tv Cilento
 https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:-1 tvg-name="Sesta Rete" tvg-logo="https://i.imgur.com/0B0S2gI.png" group-title="Italy",Sesta Rete
@@ -1045,7 +1047,7 @@ https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u
 http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
 #EXTINF:-1 tvg-name="Super J Tv" tvg-logo="https://i.imgur.com/5oy5Nuu.png" group-title="Italy",Super J Tv
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Super Six" tvg-logo="https://i.imgur.com/kHSuyub.png" group-title="Italy",Super Six
+#EXTINF:-1 tvg-name="Super Six" tvg-logo="https://i.imgur.com/kHSuyub.png" tvg-id="SuperSix.it" group-title="Italy",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-name="Supertv" tvg-logo="https://i.imgur.com/7gUZcEh.png" group-title="Italy",Supertv
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
@@ -1225,8 +1227,6 @@ https://tango.wifi4all.it/telecitta/telecitta.m3u8
 https://telejato.liberotratto.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Teleleonessa" tvg-logo="https://i.imgur.com/jq3etlV.png" group-title="Italy",Teleleonessa
 http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
-#EXTINF:-1 tvg-name="Telenova ⓎⒻ" tvg-logo="https://i.imgur.com/x41IkJK.png" tvg-id="Telenova.it" group-title="Italy",Telenova ⓎⒻ
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TelenovaMSP/live
 #EXTINF:-1 tvg-name="TeleMajg" tvg-logo="https://i.imgur.com/9tefonp.jpg" group-title="Italy",TeleMajg
 https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleRegione 118" tvg-logo="https://i.imgur.com/iGhbsGH.png" group-title="Italy",TeleRegione 118
@@ -1329,6 +1329,8 @@ https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 https://80.211.72.5/hls/yviitv.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Italy",Zerouno Tv News
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
+#EXTINF:-1 tvg-name="Telenova Ⓨ" tvg-logo="https://i.imgur.com/x41IkJK.png" tvg-id="Telenova.it" group-title="Italy",Telenova Ⓨ
+https://www.youtube.com/user/TelenovaMSP/live
 #EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News Ⓨ
 https://www.youtube.com/user/ANNnewsCH/live
 #EXTINF:-1 tvg-name="NHK General TV Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" tvg-id="NHKGeneralTV.jp" group-title="Japan",NHK General TV Ⓢ
