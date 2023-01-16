@@ -672,7 +672,7 @@ https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channe
 #EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" group-title="Italy",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="Italy",RadioItaliaTV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/qxu8Fkh.png" tvg-id="KissKissTV.it" group-title="Italy",Radio KISS KISS TV
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="VH1" tvg-logo="https://i.imgur.com/5ONlZGS.png" tvg-id="VH1Italia.it" group-title="Italy",VH1
@@ -683,7 +683,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-name="RadioFreccia" tvg-logo="https://i.imgur.com/M5YYJv8.png" tvg-id="RadioFrecciaTV.it" group-title="Italy",RadioFreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1 tvg-name="RDS Social TV Ⓢ" tvg-logo="https://i.imgur.com/TVuu0DH.png" tvg-id="RDSSocialTV.it" group-title="Italy",RDS Social TV Ⓢ
+#EXTINF:-1 tvg-name="RDS Social TV Ⓢ" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" group-title="Italy",RDS Social TV Ⓢ
 https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-name="Radio ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" tvg-id="RadioZetaTV.it" group-title="Italy",Radio ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
@@ -841,6 +841,8 @@ https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
 http://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-logo="https://i.imgur.com/3rVi4kD.png" tvg-id="GoldTV.it" group-title="Italy",Gold Tv
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+#EXTINF:-1 tvg-name="GO-TV Channel" tvg-logo="https://i.imgur.com/xgjrAAn.png" tvg-id="GOTVCanale163.it" group-title="Italy",GO-TV Channel
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="HUB Tv" tvg-logo="https://i.imgur.com/46GTBEW.png" group-title="Italy",HUB Tv
 https://5c483b9d1019c.streamlock.net/8004/8004/playlist.m3u8
 #EXTINF:-1 tvg-name="Icaro Tv Rimini" tvg-logo="https://i.imgur.com/z05VSSN.png" group-title="Italy",Icaro Tv Rimini
@@ -1329,6 +1331,12 @@ https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 https://80.211.72.5/hls/yviitv.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Italy",Zerouno Tv News
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky TG24 Ⓨ" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="SkyTG24.it" group-title="Italy",Sky TG24 Ⓨ
+https://www.youtube.com/channel/UCz6E3lF72mb6uoJ-mOlNo2A/live
+#EXTINF:-1 tvg-name="Pop Economy Ⓨ" tvg-logo="https://i.imgur.com/dEJvmHW.png" tvg-id="PopEconomy.it" group-title="Italy",Pop Economy Ⓨ
+https://www.youtube.com/channel/UCJ2axqt5MDDsrmUNUhvlqcg/live
+#EXTINF:-1 tvg-name="TRM h24 Ⓨ" tvg-logo="https://i.imgur.com/d47CdYU.png" tvg-id="TRMh24.it" group-title="Italy",TRM h24 Ⓨ
+https://www.youtube.com/user/trmh24/live
 #EXTINF:-1 tvg-name="Telenova Ⓨ" tvg-logo="https://i.imgur.com/x41IkJK.png" tvg-id="Telenova.it" group-title="Italy",Telenova Ⓨ
 https://www.youtube.com/user/TelenovaMSP/live
 #EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News Ⓨ
