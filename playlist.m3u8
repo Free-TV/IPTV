@@ -653,7 +653,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-id="RaiScuola.it" group-title="Italy",Rai Scuola Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=16
-#EXTINF:-1 tvg-name="Rai Sport + Ⓖ" tvg-logo="https://i.imgur.com/vD0CDEp.png" tvg-id="RaiSportPlus.it" group-title="Italy",Rai Sport + Ⓖ
+#EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" group-title="Italy",Rai Sport Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16
 #EXTINF:-1 tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia.it" group-title="Italy",Sportitalia Plus
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
@@ -789,6 +789,8 @@ https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
 http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Cilento Channel" tvg-logo="https://i.imgur.com/4k9Su8j.png" group-title="Italy",Cilento Channel
 https://streaming.dimind.it/live/cilentocnn/index.m3u8
+#EXTINF:-1 tvg-name="Company Tv" tvg-logo="https://i.imgur.com/IbabUDd.png" group-title="Italy",Company Tv
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Cremona 1" tvg-logo="https://i.imgur.com/a5d0F01.jpg" group-title="Italy",Cremona 1
 https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cusano Italia Tv" tvg-logo="https://i.imgur.com/9F1sVjZ.png" group-title="Italy",Cusano Italia Tv
@@ -1257,8 +1259,6 @@ https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 https://flash2.xdevel.com/radiotouring10496/radiotouring10496_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="Trentino Tv" tvg-logo="https://i.imgur.com/ROKOCR2.png" group-title="Italy",Trentino Tv
 https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Trm H24" tvg-logo="https://i.imgur.com/eWV9yII.png" group-title="Italy",Trm H24
-http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Tsn Lecco" tvg-logo="https://i.imgur.com/vlyaN3U.jpg" group-title="Italy",Tsn Lecco
 http://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/playlist.m3u8
 #EXTINF:-1 tvg-name="Tsn Tele Sondrio News" tvg-logo="https://i.imgur.com/24Anl5o.png" group-title="Italy",Tsn Tele Sondrio News
