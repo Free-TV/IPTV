@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 | #    | Channel        | Link  | Logo | EPG id |
 |:----:|:--------------:|:-----:|:----:|:------:|
 | 1    | CCTV-1 综合    | [>](https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8) | <img height="20" src="https://i.imgur.com/uHU6Vc0.png"/> | CCTV1.cn |
-| 2    | CCTV-2 财经    | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv2_1/index.m3u8) | <img height="20" src="https://i.imgur.com/6C9JEYt.png"/> | CCTV2.cn |
+| 2    | CCTV-2 财经    | [>](https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv2_2/index.m3u8) | <img height="20" src="https://i.imgur.com/6C9JEYt.png"/> | CCTV2.cn |
 | 3    | CCTV-3 综艺    | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv3_1/index.m3u8) | <img height="20" src="https://i.imgur.com/Mh1N35D.png"/> | CCTV3.cn |
 | 4    | CCTV-4 中文国际（亚） | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv4_1/index.m3u8) | <img height="20" src="https://i.imgur.com/ovUSVEQ.png"/> | CCTV4Asia.cn |
 | 5    | CCTV-4 中文国际（欧） | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctveurope_1/index.m3u8) | <img height="20" src="https://i.imgur.com/kx8metk.png"/> | CCTV4Europe.cn |
