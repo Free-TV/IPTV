@@ -21,8 +21,8 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 | 13   | CCTV-10 科教   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv10_1/index.m3u8) | <img height="20" src="https://i.imgur.com/W8JNs1s.png"/> | CCTV10.cn |
 | 14   | CCTV-11 戏曲   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv11_1/index.m3u8) | <img height="20" src="https://i.imgur.com/0MeegZK.png"/> | CCTV11.cn |
 | 15   | CCTV-12 社会与法 | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv12_1/index.m3u8) | <img height="20" src="https://i.imgur.com/gZNwF1a.png"/> | CCTV12.cn |
-| 16   | CCTV-13 新闻   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv13_1/index.m3u8) | <img height="20" src="https://i.imgur.com/pPO8uJN.png"/> | CCTV13.cn |
-| 17   | CCTV-14 少儿   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv14_1/index.m3u8) | <img height="20" src="https://i.imgur.com/SORrhtE.png"/> | CCTV14.cn |
+| 16   | CCTV-13 新闻   | [>](https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8) | <img height="20" src="https://i.imgur.com/pPO8uJN.png"/> | CCTV13.cn |
+| 17   | CCTV-14 少儿   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbnd/cdrmjzcctv14_1/index.m3u8) | <img height="20" src="https://i.imgur.com/SORrhtE.png"/> | CCTV14.cn |
 | 18   | CCTV-15 音乐   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv15_1/index.m3u8) | <img height="20" src="https://i.imgur.com/V9I1ZyB.png"/> | CCTV15.cn |
 | 19   | CCTV-16 奥林匹克 | [x](https://cctv5wbcdtxyhw.liveplay.myqcloud.com/cctv5wbcd/cdrmjzcctv16_1/index.m3u8) | <img height="20" src="https://i.imgur.com/gaA4Cjy.png"/> | CCTV16.cn |
 | 20   | CCTV-17 农业农村 | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv17_1/index.m3u8) | <img height="20" src="https://i.imgur.com/XMsoHut.png"/> | CCTV17.cn |
