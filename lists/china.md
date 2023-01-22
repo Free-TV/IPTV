@@ -6,12 +6,12 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 
 | #    | Channel        | Link  | Logo | EPG id |
 |:----:|:--------------:|:-----:|:----:|:------:|
-| 1    | CCTV-1 综合    | [>](https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8) | <img height="20" src="https://i.imgur.com/uHU6Vc0.png"/> | CCTV1.cn |
-| 2    | CCTV-2 财经    | [>](https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv2_2/index.m3u8) | <img height="20" src="https://i.imgur.com/6C9JEYt.png"/> | CCTV2.cn |
+| 1    | CCTV-1 综合 Ⓢ   | [>](https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8) | <img height="20" src="https://i.imgur.com/uHU6Vc0.png"/> | CCTV1.cn |
+| 2    | CCTV-2 财经 Ⓢ   | [>](https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv2_2/index.m3u8) | <img height="20" src="https://i.imgur.com/6C9JEYt.png"/> | CCTV2.cn |
 | 3    | CCTV-3 综艺    | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv3_1/index.m3u8) | <img height="20" src="https://i.imgur.com/Mh1N35D.png"/> | CCTV3.cn |
-| 4    | CCTV-4 中文国际（亚） | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv4_1/index.m3u8) | <img height="20" src="https://i.imgur.com/ovUSVEQ.png"/> | CCTV4Asia.cn |
+| 4    | CCTV-4 中文国际（亚） Ⓨ | [>](https://www.youtube.com/watch?v=QTz6avPD4Ns) | <img height="20" src="https://i.imgur.com/ovUSVEQ.png"/> | CCTV4Asia.cn |
 | 5    | CCTV-4 中文国际（欧） | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctveurope_1/index.m3u8) | <img height="20" src="https://i.imgur.com/kx8metk.png"/> | CCTV4Europe.cn |
-| 6    | CCTV-4 中文国际（美） | [>](https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8) | <img height="20" src="https://i.imgur.com/1TPiRqR.png"/> | CCTV4America.cn |
+| 6    | CCTV-4 中文国际（美） Ⓢ | [>](https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8) | <img height="20" src="https://i.imgur.com/1TPiRqR.png"/> | CCTV4America.cn |
 | 7    | CCTV-5 体育    | [x](https://cctv5wbcdtxyhw.liveplay.myqcloud.com/cctv5wbcd/cdrmjzcctv5_1/index.m3u8) | <img height="20" src="https://i.imgur.com/Mut2omN.png"/> | CCTV5.cn |
 | 8    | CCTV-5+ 体育赛事 | [x](https://cctv5wbcdtxyhw.liveplay.myqcloud.com/cctv5wbcd/cdrmjzcctv5plus_1/index.m3u8) | <img height="20" src="https://i.imgur.com/UNjmQVS.png"/> | CCTV5Plus.cn |
 | 9    | CCTV-6 电影    | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv6_1/index.m3u8) | <img height="20" src="https://i.imgur.com/SsPN5I3.png"/> | CCTV6.cn |
@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 | 13   | CCTV-10 科教   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv10_1/index.m3u8) | <img height="20" src="https://i.imgur.com/W8JNs1s.png"/> | CCTV10.cn |
 | 14   | CCTV-11 戏曲   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv11_1/index.m3u8) | <img height="20" src="https://i.imgur.com/0MeegZK.png"/> | CCTV11.cn |
 | 15   | CCTV-12 社会与法 | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv12_1/index.m3u8) | <img height="20" src="https://i.imgur.com/gZNwF1a.png"/> | CCTV12.cn |
-| 16   | CCTV-13 新闻   | [>](https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8) | <img height="20" src="https://i.imgur.com/pPO8uJN.png"/> | CCTV13.cn |
+| 16   | CCTV-13 新闻 Ⓢ  | [>](https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8) | <img height="20" src="https://i.imgur.com/pPO8uJN.png"/> | CCTV13.cn |
 | 17   | CCTV-14 少儿   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbnd/cdrmjzcctv14_1/index.m3u8) | <img height="20" src="https://i.imgur.com/SORrhtE.png"/> | CCTV14.cn |
 | 18   | CCTV-15 音乐   | [x](https://cctvwbcdtxyhw.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv15_1/index.m3u8) | <img height="20" src="https://i.imgur.com/V9I1ZyB.png"/> | CCTV15.cn |
 | 19   | CCTV-16 奥林匹克 | [x](https://cctv5wbcdtxyhw.liveplay.myqcloud.com/cctv5wbcd/cdrmjzcctv16_1/index.m3u8) | <img height="20" src="https://i.imgur.com/gaA4Cjy.png"/> | CCTV16.cn |
