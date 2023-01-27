@@ -346,7 +346,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | TeleRomaUno | [>](https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/3t7JWrf.png"/> |
 | 0   | TeleRomaDue | [>](https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8) | <img height="20" src="https://i.imgur.com/78hA7ma.png"/> |
 | 0   | Telesud Trapani | [>](https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tpZvU1P.png"/> |
-| 0   | Teleuniverso | [>](https://media.velcom.it:19360/teleuniverso/teleuniverso.m3u8) | <img height="20" src="https://i.imgur.com/u8E9wBb.png"/> |
+| 0   | Teleuniverso | [>](https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8) | <img height="20" src="https://i.imgur.com/u8E9wBb.png"/> |
 | 0   | Televallo Trapani | [>](https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P6zuiRH.png"/> |
 | 0   | Tevere Tv | [>](https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ghBX2Hn.png"/> |
 | 0   | TG Norba 24 | [>](https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/9MhrrJK.png"/> | TGNorba24.it |
