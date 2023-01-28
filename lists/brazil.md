@@ -16,3 +16,4 @@
 | 12  | Rede Brasil | [>](https://59f2354c05961.streamlock.net:1443/rbtv/rbtv/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png"/> | RedeBrasil.br |
 | 13  | TV Câmara | [>](https://stream3.camara.gov.br/tv1/manifest.m3u8) | <img height="20" src="https://i.imgur.com/UpV2PRk.png"/> | TVCamara.br |
 | 14  | TVE RS | [>](http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png"/> |
+| 15  | Fora Tedio TV | [>](http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8) | <img height="20" src="https://play.foratedio.com/img/foratedio-watermark.png"/> |
