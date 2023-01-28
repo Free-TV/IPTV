@@ -623,6 +623,8 @@ https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(c5)/
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="Italy",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="Italy",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1 tvg-name="20 Mediaset Ⓖ" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-id="20.it" group-title="Italy",20 Mediaset Ⓖ
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-name="Rai 4 Ⓖ" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-id="Rai4.it" group-title="Italy",Rai 4 Ⓖ
@@ -635,6 +637,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
 #EXTINF:-1 tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-id="RaiPremium.it" group-title="Italy",Rai Premium Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
+#EXTINF:-1 tvg-name="Cielo TV" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="CieloTV.it" group-title="Italy",Cielo TV
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1 tvg-name="27 Twentyseven Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="27Twentyseven.it" group-title="Italy",27 Twentyseven Ⓢ Ⓖ
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" group-title="Italy",TV 2000
@@ -667,6 +671,8 @@ https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
 #EXTINF:-1 tvg-name="Italia 2 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-id="Italia2.it" group-title="Italy",Italia 2 Ⓢ Ⓖ
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1 tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="SkyTG24.it" group-title="Italy",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1 tvg-name="TGCOM 24 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom24.it" group-title="Italy",TGCOM 24 Ⓢ Ⓖ
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 #EXTINF:-1 tvg-name="Rai Storia Ⓖ" tvg-logo="https://i.imgur.com/K8y5q8x.png" tvg-id="RaiStoria.it" group-title="Italy",Rai Storia Ⓖ
@@ -1353,8 +1359,6 @@ https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 https://80.211.72.5/hls/yviitv.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Italy",Zerouno Tv News
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky TG24 Ⓨ" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="SkyTG24.it" group-title="Italy",Sky TG24 Ⓨ
-https://www.youtube.com/channel/UCz6E3lF72mb6uoJ-mOlNo2A/live
 #EXTINF:-1 tvg-name="Pop Economy Ⓨ" tvg-logo="https://i.imgur.com/dEJvmHW.png" tvg-id="PopEconomy.it" group-title="Italy",Pop Economy Ⓨ
 https://www.youtube.com/channel/UCJ2axqt5MDDsrmUNUhvlqcg/live
 #EXTINF:-1 tvg-name="TRM h24 Ⓨ" tvg-logo="https://i.imgur.com/d47CdYU.png" tvg-id="TRMh24.it" group-title="Italy",TRM h24 Ⓨ
