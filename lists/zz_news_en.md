@@ -2,7 +2,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Euronews Live | [>](https://euronews.alteox.app/hls/en_stream.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsEnglish.fr |
+| 1   | Euronews Live Ⓨ | [>](https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | [www.euronews.com](https://www.euronews.com) |
 | 2   | Africanews Live Ⓨ | [>](https://www.youtube.com/c/africanews/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
 | 3   | France 24 English Ⓨ | [>](https://www.youtube.com/c/FRANCE24English/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
 | 4   | DW English  | [>](https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> | DWEnglish.de |
