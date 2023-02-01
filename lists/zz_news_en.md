@@ -2,7 +2,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | SkyNews English Ⓨ    | [>](https://www.youtube.com/watch?v=9Auq9mYxFEE) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png"/> | SkyNewsInternational.uk |
+| 1   | SkyNews English    | [>](https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png"/> | SkyNewsInternational.uk |
 | 2   | Euronews English | [>](https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsEnglish.fr |
 | 3   | Africanews English Ⓨ | [>](https://www.youtube.com/c/africanews/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
 | 4   | France 24 English Ⓨ | [>](https://www.youtube.com/c/FRANCE24English/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
