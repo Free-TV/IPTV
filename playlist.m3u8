@@ -476,11 +476,11 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m
 #EXTINF:-1 tvg-name="Euronews Greek Ⓨ" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsGreek.fr" group-title="Greece",Euronews Greek Ⓨ
 https://www.youtube.com/c/euronewsGreek/live
 #EXTINF:-1 tvg-name="M1" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1
-https://sktv-forwarders.7m.pl/get.php?x=M1
+https://hls42.sweet.tv/stream/ufsaa3u7ypvfu3zwvqmkhy8brezg7szwb5xsxsq7qf3k7thkwhgq45erdn2ki26ka4dfgtk9x4hkqbtn35mpchag8pg5b9wnmcgunyx55pte6sg33i3su9y6qbr2jyisqu8n59p74en5jsbs.m3u8
 #EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" group-title="Hungary",M2 / Petőfi TV
-https://sktv-forwarders.7m.pl/get.php?x=M2
+https://hls42.sweet.tv/stream/zbfvsxhmj53i9htvbh9ytxgmit2vahjqv5k3vphfh5pyxgtdja2rgcib42p23t8cjpcbht8njy5e7vreve2d9kwyzfjpxs64r58mze468d57ed6ka7h3s7gr47uay9ykchgteyggw4f7qap9.m3u8
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
-http://c202-node61-cdn.connectmedia.hu/110104/657ed1d307300865a03a222af3d19249/638bd144/index.m3u8
+https://hls2eu.sweet.tv/stream/w3u6zfcwnjjkyw3ewnfei6pwxweu5ynsfj9hthvwn9dkn8whaxi8rt5b9dkebm7c3bsiirh56tq9d8fav7aqb5zacamp7mzfwi5r5q99ucenuwvvby64q9srk84trs5h8h752tmhj66bw===.m3u8
 #EXTINF:-1 tvg-name="M4+ Sport" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m4-sport-plus-hu.png" tvg-id="M4SportPlus.hu" group-title="Hungary",M4+ Sport
 https://sktv-forwarders.7m.pl/get.php?x=M4Plus
 #EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" tvg-id="M5.hu" group-title="Hungary",M5 Hungary
