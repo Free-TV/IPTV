@@ -1525,9 +1525,9 @@ https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:-1 tvg-name="TVR 1 Ⓖ" tvg-logo="https://i.imgur.com/CKQ7mpB.png" tvg-id="TVR1.ro" group-title="Romania",TVR 1 Ⓖ
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVR 2 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TVR_2_%282004%29.svg/512px-TVR_2_%282004%29.svg.png" tvg-id="TVR2.ro" group-title="Romania",TVR 2 Ⓖ
+#EXTINF:-1 tvg-name="TVR 2 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" tvg-id="TVR2.ro" group-title="Romania",TVR 2 Ⓖ
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVR 3 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TVR3_logo_2019.svg/512px-TVR3_logo_2019.svg.png" tvg-id="TVR3.ro" group-title="Romania",TVR 3 Ⓖ
+#EXTINF:-1 tvg-name="TVR 3 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVR3_2022.png" tvg-id="TVR3.ro" group-title="Romania",TVR 3 Ⓖ
 https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Info Ⓖ" tvg-logo="https://i.imgur.com/7oE7ThR.png" tvg-id="TVRInfo.ro" group-title="Romania",TVR Info Ⓖ
 https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/playlist.m3u8
@@ -1541,6 +1541,8 @@ https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" tvg-id="Telestar1.ro" group-title="Romania",Telestar1
 http://89.47.97.15/telestar/telestar.m3u8
+#EXTINF:-1 tvg-name="Euronews România Ⓨ" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsRomania.ro" group-title="Romania",Euronews România Ⓨ
+https://www.youtube.com/euronewsro/live
 #EXTINF:-1 tvg-name="TVR Cluj Ⓖ" tvg-logo="https://i.imgur.com/8DqsGHO.png" tvg-id="TVRCluj.ro" group-title="Romania",TVR Cluj Ⓖ
 https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
 #EXTINF:-1 tvg-name="TVR Craiova Ⓖ" tvg-logo="https://i.imgur.com/vxWbQiy.png" tvg-id="TVRCraiova.ro" group-title="Romania",TVR Craiova Ⓖ
