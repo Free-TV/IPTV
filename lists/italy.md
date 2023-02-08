@@ -50,14 +50,15 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 64  | SuperTennis    | [>](https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8) | <img height="20" src="https://i.imgur.com/GzsPlbX.png"/> | SuperTennis.it |
 | 65  | Alma TV        | [>](https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Y8JiDwN.png"/> | AlmaTV.it |
 | 66  | Radio 105 TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8) | <img height="20" src="https://i.imgur.com/3NiLKvj.png"/> | Radio105TV.it |
-| 67  | R101 TV Ⓢ Ⓖ    | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8) | <img height="20" src="https://i.imgur.com/xstH1d2.png"/> | R101TV.it |
+| 67  | R101 TV Ⓢ Ⓖ    | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8) | <img height="20" src="https://i.imgur.com/mWeEa9T.png"/> | R101TV.it |
 | 69  | Deejay TV      | [>](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rlaKH6k.png"/> | DeejayTV.it |
 | 70  | RadioItaliaTV   | [>](https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8) | <img height="20" src="https://i.imgur.com/4VCEJuJ.png"/> | RadioItaliaTV.it |
-| 158 | Radio KISS KISS TV | [>](https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qxu8Fkh.png"/> | KissKissTV.it |
+| 101 | Rai 4K Ⓖ       | [>](https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5gkt9DD.png"/> | Rai4K.it |
+| 158 | Radio KISS KISS TV | [>](https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UTStxDW.png"/> | KissKissTV.it |
 | 167 | VH1            | [>](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> | VH1Italia.it |
 | 202 | Rai Radio 2 Visual Radio | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=16) | <img height="20" src="https://i.imgur.com/nVBet0h.png"/> | RaiRadio2Visual.it |
 | 233 | RTL 102.5 News | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8) | <img height="20" src="https://i.imgur.com/vAtzwXK.png"/> | RTL1025News.it |
-| 258 | RadioFreccia   | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8) | <img height="20" src="https://i.imgur.com/M5YYJv8.png"/> | RadioFrecciaTV.it |
+| 258 | RadioFreccia   | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8) | <img height="20" src="https://i.imgur.com/J5N9F7Z.png"/> | RadioFrecciaTV.it |
 | 265 | RDS Social TV Ⓢ | [>](https://stream.rdstv.radio/index.m3u8) | <img height="20" src="https://i.imgur.com/TY6FhqI.png"/> | RDSSocialTV.it |
 | 266 | Radio ZETA     | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> | RadioZetaTV.it |
 
@@ -73,7 +74,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 68  | Virgin Radio TV Ⓢ Ⓖ | [>](https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> | VirginRadioTV.it |
 | 89  | Senato TV      | [>](https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FoQoNZW.png"/> | SenatoTV.it |
 | 90  | Camera dei Deputati Ⓢ | [>](https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fqGn1k9.png"/> | CameradeiDeputati.it |
-| 210 | Rai 4K Ⓖ       | [>](https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5gkt9DD.png"/> | Rai4K.it |
 | 507 | Class CNBC | [>](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | ClassCNBC.it |
 | 511 | BFC            | [>](https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> | BFCForbes.it |
 | 701 | UniNettuno University TV Ⓖ | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BOGMeio.png"/> | UniNettunoUniversityTV.it |
