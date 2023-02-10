@@ -54,3 +54,4 @@
 | 1   | APTN              | [x]() | <img height="20" src="https://i.imgur.com/S213Hyb.png"/> |
 | 2   | Omni Television   | [x]() | <img height="20" src=""/> |
 | 3   | ICI Montreal    | [>](https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8) | <img height="20" src="https://i.imgur.com/Z1b2TJD.png"/> | CBFTDT.ca |
+| 4   | Toronto 360 TV   | [>](http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PkWndsv.png"/> | Toronto360.tv |
