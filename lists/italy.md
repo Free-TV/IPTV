@@ -108,12 +108,12 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | CampioneSport | [>](https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6Z7a1Gs.png"/> |
 | 0   | Canale 10 | [>](http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KuQcjYV.png"/> |
 | 0   | Canale 2 | [>](https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ETqDkS1.png"/> |
-| 0   | Canale 21 | [>](https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mU6Cq89.png"/> | Canale21.it |
-| 0   | Canale 21 Extra | [>](https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cDAsrBl.png"/> | Canale21Extra.it |
+| 0   | Canale 21 | [>](https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mU6Cq89.png"/> | Canale21.it |
+| 0   | Canale 21 Extra | [>](https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cDAsrBl.png"/> | Canale21Extra.it |
 | 0   | Canale 58 | [>](https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8) | <img height="20" src="https://i.imgur.com/RlFc74C.png"/> |
 | 0   | Canale 7 | [>](http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9cuOLCn.png"/> |
 | 0   | Canale 74 Sicilia | [>](http://stream.ets-sistemi.it:1935/live.canale74/canale74tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/18JIVgu.png"/> |
-| 0   | Canale 8 | [>](https://59d8c0cee6f3d.streamlock.net/canale8/canale8/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ElAS2WC.png"/> |
+| 0   | Canale 8 | [>](https://cdn3.streamshow.it/cloud-canale8/canale8/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ElAS2WC.png"/> |
 | 0   | Canale Italia  | [>](https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/QlwLRyh.png"/> | CanaleItalia.it |
 | 0   | Canale Uno Tivù | [>](https://eu1.servers10.com:8081/8096/index.m3u8) | <img height="20" src="https://i.imgur.com/hfqNw92.png"/> |
 | 0   | Carina Tv | [>](https://stream7.zivoli.it/carinatv/carinatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FMGcm6I.jpg"/> |
@@ -263,7 +263,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tcf Tv | [>](http://live.sloode.com:1935/tcf_live/telecineforum/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fiylFs2.jpg"/> |
 | 0   | Tci | [>](https://player-api.new.livestream.com/accounts/27460990/events/8287184/broadcasts/223071659.secure.m3u8) | <img height="20" src="https://i.imgur.com/lCZTaKs.jpg"/> |
 | 0   | Teatro Tv | [>](https://m.iostream.it/hls/teatrotv/teatrotv.m3u8) | <img height="20" src="https://i.imgur.com/UsvffQL.png"/> |
-| 0   | Tele A | [>](http://82.62.190.94/hls/telea/video.m3u8) | <img height="20" src="https://i.imgur.com/l7Za9KH.jpg"/> |
+| 0   | Tele A | [>](https://lostream.it/hls/telea/video.m3u8) | <img height="20" src="https://i.imgur.com/l7Za9KH.jpg"/> |
 | 0   | Tele Abruzzo Tv | [>](http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/koB8J4b.jpg"/> |
 | 0   | Tele Acras | [>](https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/90Lsv8q.png"/> |
 | 0   | Tele Arena | [>](https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9hsoWMO.png"/> |
