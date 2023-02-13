@@ -1605,13 +1605,13 @@ https://euronews.alteox.app/hls/ru_stream.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-name="San Marino Rtv Sport" tvg-logo="https://i.imgur.com/PGm944g.png" tvg-id="SanMarinoRTVSport.sm" group-title="San Marino",San Marino Rtv Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
-#EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="RTVS1.sk" group-title="Slovakia",Jednotka
+#EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="Slovakia",Jednotka
 https://sktv-forwarders.7m.pl/get.php?x=STV1
-#EXTINF:-1 tvg-name="Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="RTVS2.sk" group-title="Slovakia",Dvojka
+#EXTINF:-1 tvg-name="Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="Slovakia",Dvojka
 https://sktv-forwarders.7m.pl/get.php?x=STV2
-#EXTINF:-1 tvg-name="24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="RTVS24.sk" group-title="Slovakia",24
+#EXTINF:-1 tvg-name="24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" group-title="Slovakia",24
 https://sktv-forwarders.7m.pl/get.php?x=STV24
-#EXTINF:-1 tvg-name="RTVS Šport" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="RTVSSport.sk" group-title="Slovakia",RTVS Šport
+#EXTINF:-1 tvg-name="RTVS Šport" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="Sport.sk" group-title="Slovakia",RTVS Šport
 https://sktv-forwarders.7m.pl/get.php?x=SPORT
 #EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",:O
 https://sktv-forwarders.7m.pl/get.php?x=STV-O
@@ -1621,13 +1621,13 @@ https://sktv-forwarders.7m.pl/get.php?x=RTVS
 https://sktv-forwarders.7m.pl/get.php?x=NR_SR
 #EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" tvg-id="TVJOJ.sk" group-title="Slovakia",JOJ
 https://st01-1.iptv.joj.sk/101-tv-pc.m3u8
-#EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://i.imgur.com/fKPliTj.png" tvg-id="JojPlus.sk" group-title="Slovakia",JOJ Plus
+#EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://i.imgur.com/fKPliTj.png" tvg-id="JOJPlus.sk" group-title="Slovakia",JOJ Plus
 https://st01-1.iptv.joj.sk/102-tv-pc.m3u8
-#EXTINF:-1 tvg-name="WAU" tvg-logo="https://i.imgur.com/wO5ifff.png" tvg-id="TVWAU.sk" group-title="Slovakia",WAU
+#EXTINF:-1 tvg-name="WAU" tvg-logo="https://i.imgur.com/wO5ifff.png" tvg-id="JOJWAU.sk" group-title="Slovakia",WAU
 https://st01-1.iptv.joj.sk/103-tv-pc.m3u8
 #EXTINF:-1 tvg-name="JOJ 24" tvg-logo="https://i.imgur.com/owEVXRE.png" tvg-id="JOJ24.sk" group-title="Slovakia",JOJ 24
 https://st01-1.iptv.joj.sk/111-tv-pc.m3u8
-#EXTINF:-1 tvg-name="JOJ Šport" tvg-logo="https://i.imgur.com/QWEY2a5.png" tvg-id="JojSport.sk" group-title="Slovakia",JOJ Šport
+#EXTINF:-1 tvg-name="JOJ Šport" tvg-logo="https://i.imgur.com/QWEY2a5.png" tvg-id="JOJSport.sk" group-title="Slovakia",JOJ Šport
 https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
 #EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" group-title="Slovakia",Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
