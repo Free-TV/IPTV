@@ -4,7 +4,7 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | Šlágr Originál Ⓢ    | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://i.imgur.com/fQcx9S2.png"/> | SlagrOriginal.cz |
 | 2   | Šlágr Muzika Ⓢ    | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://i.imgur.com/J9YHDVS.png"/> | SlagrMuzika.cz |
-| 3   | Šlágr Premium Ⓢ    | [>](https://arenasportslovakia.ddns.net/hls/slager.m3u8) | <img height="20" src="https://i.imgur.com/Lp0IqDx.png"/> | SlagrPremium.cz |
+| 3   | Šlágr Premium Ⓢ    | [>](https://stream-15.mazana.tv/slagrpremium.m3u) | <img height="20" src="https://i.imgur.com/Lp0IqDx.png"/> | SlagrPremium.cz |
 | 4   | Prima Ⓢ Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/0aHT2Nj.png"> | Prima.cz |
 | 5   | CNN Prima News Ⓢ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/Il7t0bU.png"> | CNNPrimaNews.cz |
 | 6   | Prima Zoom Ⓢ Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hq.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/zuzBucZ.png"> | PrimaZoom.cz |
