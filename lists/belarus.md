@@ -11,5 +11,5 @@
 | 7   | Hawe TV Vitebsk Ⓢ | [>](http://95.46.208.8:26259/nashe) | <img height="20" src="https://i.imgur.com/HOb5m5f.jpg"/> | NasheTV.by |
 | 9   | Pervyy Muzykal'nyy BY Ⓢ | [>](http://rtmp.one.by:1200) | <img height="20" src="https://i.imgur.com/7tFiG6S.jpg"/> | FirstMusicChannel.by |
 | 10   | Planeta RTR Ⓢ | [>](https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8) | <img height="20" src="https://i.imgur.com/yqRuEJd.png"/> | RTRBelarus.by |
-| 11   | Radio HIT Orsk | [>](http://hithd.camsh.orsk.ru/hls/hithd.m3u8) | <img height="20" src="https://i.imgur.com/e2RyN4r.jpg"/> |
+| 11   | Radio HIT Orsk | [>](http://hithd.camsh.orsk.ru/hls/hithd.m3u8) | <img height="20" src="https://i.imgur.com/e2RyN4r.jpg"/> | RadioHit.ru |
 | 12   | Vitebsk Telekanal | [>](https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/FXAqELU.jpg"/> | Vitebsk.by |
