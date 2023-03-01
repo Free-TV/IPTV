@@ -243,6 +243,20 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.qa" group-title="Croatia",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-name="ČT1 Ⓖ" tvg-logo="https://i.imgur.com/qBlEbN3.png" tvg-id="CT1.cz" group-title="Czech Republic",ČT1 Ⓖ
+https://sktv-forwarders.7m.pl/get.php?x=CT1
+#EXTINF:-1 tvg-name="ČT2 Ⓖ" tvg-logo="https://i.imgur.com/HpnGC6A.png" tvg-id="CT2.cz" group-title="Czech Republic",ČT2 Ⓖ
+https://sktv-forwarders.7m.pl/get.php?x=CT2
+#EXTINF:-1 tvg-name="ČT24" tvg-logo="https://i.imgur.com/pUMRFs1.png" tvg-id="CT24.cz" group-title="Czech Republic",ČT24
+https://sktv-forwarders.7m.pl/get.php?x=CT24
+#EXTINF:-1 tvg-name="ČT sport Ⓖ" tvg-logo="https://i.imgur.com/I2dltZW.png" tvg-id="CTSport.cz" group-title="Czech Republic",ČT sport Ⓖ
+https://sktv-forwarders.7m.pl/get.php?x=CTsport
+#EXTINF:-1 tvg-name="ČT :D" tvg-logo="https://i.imgur.com/Pa5rLpA.png" tvg-id="CTDecko.cz" group-title="Czech Republic",ČT :D
+https://sktv-forwarders.7m.pl/get.php?x=CT_D
+#EXTINF:-1 tvg-name="ČT art" tvg-logo="https://i.imgur.com/u8mfETB.png" tvg-id="CTart.cz" group-title="Czech Republic",ČT art
+https://sktv-forwarders.7m.pl/get.php?x=CTart
+#EXTINF:-1 tvg-name="ČT sport Plus Ⓖ" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="" group-title="Czech Republic",ČT sport Plus Ⓖ
+https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus
 #EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" tvg-id="JojFamily.sk" group-title="Czech Republic",JOJ Family Ⓢ
 https://live.cdn.joj.sk/live/hls/family-540.m3u8
 #EXTINF:-1 tvg-name="Šlágr Originál Ⓢ" tvg-logo="https://i.imgur.com/fQcx9S2.png" tvg-id="SlagrOriginal.cz" group-title="Czech Republic",Šlágr Originál Ⓢ
