@@ -6,14 +6,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | M1             | [>](https://hls42.sweet.tv/stream/ufsaa3u7ypvfu3zwvqmkhy8brezg7szwb5xsxsq7qf3k7thkwhgq45erdn2ki26ka4dfgtk9x4hkqbtn35mpchag8pg5b9wnmcgunyx55pte6sg33i3su9y6qbr2jyisqu8n59p74en5jsbs.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
-| 2   | M2 / Petőfi TV | [>](https://hls42.sweet.tv/stream/zbfvsxhmj53i9htvbh9ytxgmit2vahjqv5k3vphfh5pyxgtdja2rgcib42p23t8cjpcbht8njy5e7vreve2d9kwyzfjpxs64r58mze468d57ed6ka7h3s7gr47uay9ykchgteyggw4f7qap9.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
-| 3   | M3             | [x](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
-| 4   | M4 Sport       | [>](https://hls2eu.sweet.tv/stream/w3u6zfcwnjjkyw3ewnfei6pwxweu5ynsfj9hthvwn9dkn8whaxi8rt5b9dkebm7c3bsiirh56tq9d8fav7aqb5zacamp7mzfwi5r5q99ucenuwvvby64q9srk84trs5h8h752tmhj66bw===.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
-| 5   | M4+ Sport      | [>](https://sktv-forwarders.7m.pl/get.php?x=M4Plus) | <img height="20" src="https://www.lyngsat.com/logo/tv/mm/m4-sport-plus-hu.png" /> | M4SportPlus.hu |
-| 6   | M5 Hungary     | [>](https://sktv-forwarders.7m.pl/get.php?x=M5) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
-| 7   | Duna TV        | [>](https://sktv-forwarders.7m.pl/get.php?x=Duna) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
-| 8   | Duna World     | [>](https://sktv-forwarders.7m.pl/get.php?x=Duna_World) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
+| 1   | M1 Ⓨ           | [>](https://www.youtube.com/channel/UCHJ8gW2vKH5R3VohymtBCrQ/live) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
 
 <h2>Commercial</h2>
 
@@ -87,3 +80,10 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 1   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
 | 2   | DikhTv         | [x](https://onlinestream.live/play.xspf?id=6424&ch=1&ext=.xspf) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> | DikhTV.hu |
 | 3   | Spektrum Home  | [x](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> | SpektrumHome.hu |
+| 4   | M2 / Petőfi TV | [x](https://hls42.sweet.tv/stream/zbfvsxhmj53i9htvbh9ytxgmit2vahjqv5k3vphfh5pyxgtdja2rgcib42p23t8cjpcbht8njy5e7vreve2d9kwyzfjpxs64r58mze468d57ed6ka7h3s7gr47uay9ykchgteyggw4f7qap9.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
+| 5   | M3             | [x](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
+| 6   | M4 Sport       | [x](https://hls2eu.sweet.tv/stream/w3u6zfcwnjjkyw3ewnfei6pwxweu5ynsfj9hthvwn9dkn8whaxi8rt5b9dkebm7c3bsiirh56tq9d8fav7aqb5zacamp7mzfwi5r5q99ucenuwvvby64q9srk84trs5h8h752tmhj66bw===.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
+| 7   | M4+ Sport      | [x](https://sktv-forwarders.7m.pl/get.php?x=M4Plus) | <img height="20" src="https://www.lyngsat.com/logo/tv/mm/m4-sport-plus-hu.png" /> | M4SportPlus.hu |
+| 8   | M5 Hungary     | [x](https://sktv-forwarders.7m.pl/get.php?x=M5) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
+| 9   | Duna TV        | [x](https://sktv-forwarders.7m.pl/get.php?x=Duna) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
+| 10  | Duna World     | [x](https://sktv-forwarders.7m.pl/get.php?x=Duna_World) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
