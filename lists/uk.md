@@ -53,7 +53,7 @@
 | 20  | Ideal World | [x]() | <img height="20" src="https://i.imgur.com/NoQUyze.png"/> |
 | 22  | Yesterday   | [x]() | <img height="20" src="https://i.imgur.com/2JR7Sic.png"/> |
 | 23  | ITV Be      | [x]() | <img height="20" src="https://i.imgur.com/81H2Zqs.png"/> |
-| 24  | 4 Music     | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fboxhits%2F&spotxc1=195996&spotxc2=190878) | <img height="20" src="https://i.imgur.com/rkKaYZx.png"/> |
+| 24  | 4 Music Ⓢ Ⓖ| [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fboxhits%2F&spotxc1=195996&spotxc2=190878) | <img height="20" src="https://i.imgur.com/rkKaYZx.png"/> |
 | 25  | 5 Star      | [x]() | <img height="20" src="https://i.imgur.com/80SsGZx.png"/> |
 | 26  | Paramount Network | [x]() | <img height="20" src="https://i.imgur.com/ovuJylZ.png"/> |
 | 27  | Sony Movies | [x]() | <img height="20" src="https://i.imgur.com/GyhI165.png"/> |
