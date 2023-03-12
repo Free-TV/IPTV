@@ -2064,7 +2064,7 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-name="BBC World Service" tvg-logo="https://i.imgur.com/RYgSSHl.png" group-title="UK",BBC World Service
 http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
-#EXTINF:-1 tvg-name="4 Music" tvg-logo="https://i.imgur.com/rkKaYZx.png" group-title="UK",4 Music
+#EXTINF:-1 tvg-name="4 Music Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/rkKaYZx.png" group-title="UK",4 Music Ⓢ Ⓖ
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fboxhits%2F&spotxc1=195996&spotxc2=190878
 #EXTINF:-1 tvg-name="1 Odessa Ⓢ" tvg-logo="https://i.imgur.com/9z2LnBg.png" group-title="Ukraine",1 Odessa Ⓢ
 http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
