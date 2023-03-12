@@ -2,12 +2,12 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Yle TV1   Ⓖ | [>](https://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/index_4096_av-p.m3u8?sd=6&dw=14400&set-segment-duration=quality&rebase=on) | <img height="20" src="https://i.imgur.com/Hkljcl8.png"/> | YleTV1.fi |
-| 2   | Yle TV2  Ⓖ | [>](https://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/index_4096_av-p.m3u8?sd=6&dw=14400&set-segment-duration=quality&rebase=on) | <img height="20" src="https://i.imgur.com/nNElsFg.png"/> | YleTV2.fi |
+| 1   | Yle TV1   Ⓖ | [>](https://yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8) | <img height="20" src="https://i.imgur.com/Hkljcl8.png"/> | YleTV1.fi |
+| 2   | Yle TV2  Ⓖ | [>](https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8) | <img height="20" src="https://i.imgur.com/nNElsFg.png"/> | YleTV2.fi |
 | 3   | MTV3   | [>](https://live-fi.tvkaista.net/mtv3/live.m3u8) | <img height="20" src="https://i.imgur.com/kNbmc8n.png"/> | MTV3.fi |
 | 5   | Yle Teema Fem  Ⓖ | [>](https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8) | <img height="20" src="https://i.imgur.com/iDljufz.png"/> | YleTeemaFem.fi |
 | 6   | MTV Sub  | [>](https://live-fi.tvkaista.net/sub/live.m3u8) | <img height="20" src="https://i.imgur.com/VRCuxQt.png"/> | Sub.fi |
-| 7   | TV5   | [>](https://live-fi.tvkaista.net/tv5/live.m3u8) | <img height="20" src="https://i.imgur.com/vB7jrDX.png"/> | TV5.fi |
+| 7   | TV5   | [>](https://live-fi.tvkaista.net/tv5/live.m3u8) | <img height="20" src="https://i.imgur.com/MoukyGs.png"/> | TV5.fi |
 | 10   | Kutonen   | [>](https://live-fi.tvkaista.net/kutonen/live.m3u8) | <img height="20" src="https://i.imgur.com/4giVyxb.png"/> | Kutonen.fi |
 | 11   | TLC   | [>](https://live-fi.tvkaista.net/tlc/live.m3u8) | <img height="20" src="https://i.imgur.com/0d5hP3A.png"/> | TLC.fi |
 | 13   | MTV Ava  | [>](https://live-fi.tvkaista.net/ava/live.m3u8) | <img height="20" src="https://i.imgur.com/rtyJVgB.png"/> | Ava.fi |
