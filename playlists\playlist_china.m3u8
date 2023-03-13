@@ -1,0 +1,18 @@
+#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="CCTV-1 综合 Ⓢ" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合 Ⓢ
+https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-2 财经 Ⓢ" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CCTV2.cn" group-title="China",CCTV-2 财经 Ⓢ
+https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv2_2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（亚） Ⓨ" tvg-logo="https://i.imgur.com/ovUSVEQ.png" tvg-id="CCTV4Asia.cn" group-title="China",CCTV-4 中文国际（亚） Ⓨ
+https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（美） Ⓢ" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" group-title="China",CCTV-4 中文国际（美） Ⓢ
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-name="CCTV-13 新闻 Ⓢ" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" group-title="China",CCTV-13 新闻 Ⓢ
+https://cctvwbndtxyhw.liveplay.myqcloud.com/cctvwbnd/jzcctv13_2/index.m3u8
+#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://i.imgur.com/AMcIAOV.png" tvg-id="CETV1.cn" group-title="China",CETV-1
+http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://i.imgur.com/a9mvoeP.png" tvg-id="CETV2.cn" group-title="China",CETV-2
+http://txycsbl.centv.cn/zb/0822cetv2.m3u8
+#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://i.imgur.com/t8o5ZKt.png" tvg-id="CETV3.cn" group-title="China",CETV-3
+http://txycsbl.centv.cn/zb/0822cetv3.m3u8
+#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://i.imgur.com/BRe0ybV.png" tvg-id="CETV4.cn" group-title="China",CETV-4
+http://txycsbl.centv.cn/zb/0822cetv4.m3u8
