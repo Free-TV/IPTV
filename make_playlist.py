@@ -40,7 +40,7 @@ def main():
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
             with open(filename, encoding='utf-8') as markup_file:
-                file_country = "../" + dir_playlists + "\playlist_" + filename[:-3:] + ".m3u8"
+                file_country = os.path.join(dir_playlists, "\playlist_" + filename[:-3:] + ".m3u8")
                 playlist_country = open(file_country, "w", encoding='utf-8')
                 playlist_country.write(head_playlist)
                 group = filename.replace(".md", "").title()
