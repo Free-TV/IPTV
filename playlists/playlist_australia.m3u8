@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" group-title="Australia",ABC
+https://c.mjh.nz/101002210221/
+#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" tvg-id="TVSN.au" group-title="Australia",TVSN
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+#EXTINF:-1 tvg-name="ABC Me" tvg-logo="https://i.imgur.com/gBh54wY.png" tvg-id="ABCMe.au" group-title="Australia",ABC Me
+https://c.mjh.nz/101002210224/
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" tvg-id="ABCNews.au" group-title="Australia",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" tvg-id="Racingcom.au" group-title="Australia",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8

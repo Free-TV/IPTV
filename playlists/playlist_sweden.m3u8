@@ -1,0 +1,12 @@
+#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="SVT 1    Ⓖ" tvg-logo="https://i.imgur.com/ZoBXmOO.png" tvg-id="SVT1.se" group-title="Sweden",SVT 1    Ⓖ
+https://ed2.cdn.svt.se/ed7/d1/c/se/svt1/manifest.mpd?defaultSubLang=1
+#EXTINF:-1 tvg-name="SVT 2   Ⓖ" tvg-logo="https://i.imgur.com/iB3veGx.png" tvg-id="SVT2.se" group-title="Sweden",SVT 2   Ⓖ
+https://ed2.cdn.svt.se/ed7/d1/c/se/svt2/manifest.mpd?defaultSubLang=1
+#EXTINF:-1 tvg-name="SVT 24   Ⓖ" tvg-logo="https://i.imgur.com/o9M7Tiq.png" tvg-id="SVT24.se" group-title="Sweden",SVT 24   Ⓖ
+https://ed2.cdn.svt.se/ed7/d1/c/se/svtb/manifest.mpd?defaultSubLang=1
+#EXTINF:-1 tvg-name="Expressen TV" tvg-logo="https://i.imgur.com/8EjMSr7.png" tvg-id="ExpressenTV.se" group-title="Sweden",Expressen TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 tvg-name="Kunskapskanalen   Ⓖ" tvg-logo="https://i.imgur.com/9YBxoGc.png" tvg-id="Kunskapskanalen.se" group-title="Sweden",Kunskapskanalen   Ⓖ
+https://ed2.cdn.svt.se/ed7/d1/c/se/svtk/manifest.mpd?defaultSubLang=1
+#EXTINF:-1 tvg-name="Kanal 10" tvg-logo="https://i.imgur.com/vlh699v.png" tvg-id="Kanal10.se" group-title="Sweden",Kanal 10
+https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8

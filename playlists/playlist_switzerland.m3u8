@@ -1,0 +1,14 @@
+#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" tvg-id="SRF1.ch" group-title="Switzerland",SRF 1
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
+#EXTINF:-1 tvg-name="TVO" tvg-logo="https://i.imgur.com/5QFZ05B.png" tvg-id="TVO.ch" group-title="Switzerland",TVO
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-name="RTS Un" tvg-logo="https://i.imgur.com/gWuuBZc.png" tvg-id="RTS1.ch" group-title="Switzerland",RTS Un
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/67585
+#EXTINF:-1 tvg-name="TVM 3" tvg-logo="https://i.imgur.com/3v6iZE6.png" tvg-id="TVM3.ch" group-title="Switzerland",TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-name="RSI La 1" tvg-logo="https://i.imgur.com/j8ogbli.png" tvg-id="RSILa1.ch" group-title="Switzerland",RSI La 1
+http://190.2.155.162/RSI1/index.m3u8
+#EXTINF:-1 tvg-name="RSI La 2" tvg-logo="https://i.imgur.com/vm62h3t.png" tvg-id="RSILa2.ch" group-title="Switzerland",RSI La 2
+http://190.2.155.162/RSI2/index.m3u8
+#EXTINF:-1 tvg-name="Teleticino" tvg-logo="https://i.imgur.com/zm2ruqz.png" tvg-id="TeleTicino.ch" group-title="Switzerland",Teleticino
+https://livestream.gruppocdt.ch/hls/teleticino.m3u8

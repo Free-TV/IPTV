@@ -1,0 +1,34 @@
+#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" tvg-id="ERT1.gr" group-title="Greece",ERT 1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
+#EXTINF:-1 tvg-name="ERT 2" tvg-logo="https://i.imgur.com/pcusPFl.png" tvg-id="ERT2.gr" group-title="Greece",ERT 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
+#EXTINF:-1 tvg-name="ERT 3" tvg-logo="https://i.imgur.com/KyhzDRm.png" tvg-id="ERT3.gr" group-title="Greece",ERT 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
+#EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/np0s1FN.png" tvg-id="ANT1.gr" group-title="Greece",ANT1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
+#EXTINF:-1 tvg-name="Star Ⓖ" tvg-logo="https://i.imgur.com/CJOtJlL.png" tvg-id="StarChannel.gr" group-title="Greece",Star Ⓖ
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:-1 tvg-name="AlphaTV" tvg-logo="https://i.imgur.com/bAVGX0l.png" tvg-id="AlphaTV.gr" group-title="Greece",AlphaTV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+#EXTINF:-1 tvg-name="Skai TV" tvg-logo="https://i.imgur.com/TSg7B8X.png" tvg-id="SkaiTV.gr" group-title="Greece",Skai TV
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-name="Open TV" tvg-logo="https://i.imgur.com/T99OSnk.png" tvg-id="OpenTV.gr" group-title="Greece",Open TV
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Kontra" tvg-logo="https://i.imgur.com/zMgczHY.png" tvg-id="KontraChannel.gr" group-title="Greece",Kontra
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 tvg-name="ERT World" tvg-logo="https://i.imgur.com/RwrQKns.png" tvg-id="ERTWorld.gr" group-title="Greece",ERT World
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+#EXTINF:-1 tvg-name="ERT Sports 1" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports1.gr" group-title="Greece",ERT Sports 1
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 tvg-name="ERT Sports 2" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports2.gr" group-title="Greece",ERT Sports 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 tvg-name="ERT Sports 3" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports3.gr" group-title="Greece",ERT Sports 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
+#EXTINF:-1 tvg-name="ERT Sports 4" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="Greece",ERT Sports 4
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_4/ert_sports_4medium.m3u8
+#EXTINF:-1 tvg-name="ERT Sports 5" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="Greece",ERT Sports 5
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m3u8
+#EXTINF:-1 tvg-name="ERT Sports 6" tvg-logo="https://i.imgur.com/gebWmAB.png" group-title="Greece",ERT Sports 6
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m3u8
+#EXTINF:-1 tvg-name="Euronews Greek Ⓨ" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsGreek.fr" group-title="Greece",Euronews Greek Ⓨ
+https://www.youtube.com/c/euronewsGreek/live
