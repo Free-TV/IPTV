@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ONE TV" tvg-logo="https://i.imgur.com/Ym1L7No.png" tvg-id="One.mt" group-title="Malta",ONE TV
+https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Smash TV" tvg-logo="https://i.imgur.com/ZKF0fG3.png" tvg-id="SmashTV.mt" group-title="Malta",Smash TV
+http://a3.smashmalta.com/hls/smash/smash.m3u8

@@ -1,0 +1,40 @@
+#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News Ⓨ
+https://www.youtube.com/user/ANNnewsCH/live
+#EXTINF:-1 tvg-name="NHK General TV Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" tvg-id="NHKGeneralTV.jp" group-title="Japan",NHK General TV Ⓢ
+https://nhk3.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan",NHK World-Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-name="日テレ Ⓢ" tvg-logo="https://i.imgur.com/IGu52nM.png" tvg-id="NipponTV.jp" group-title="Japan",日テレ Ⓢ
+https://ntv3.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" tvg-id="NTVNews24.jp" group-title="Japan",日テレNEWS24 Ⓢ
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-name="フジテレビ Ⓢ" tvg-logo="https://i.imgur.com/CjoqJXh.png" tvg-id="FujiTV.jp" group-title="Japan",フジテレビ Ⓢ
+https://fujitv3.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="TBS Ⓢ" tvg-logo="https://i.imgur.com/SzWJscr.png" group-title="Japan",TBS Ⓢ
+https://tbs2.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-name="TBS News Ⓨ" tvg-logo="https://i.imgur.com/hk0oZab.png" tvg-id="TBSNews.jp" group-title="Japan",TBS News Ⓨ
+https://www.youtube.com/c/tbsnews/live
+#EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/g1pTQIm.png" tvg-id="BSTBS.jp" group-title="Japan",BS-TBS
+http://cdnv148.cloudrsst.com:1935/jptv/bstbs_720/playlist.m3u8
+#EXTINF:-1 tvg-name="BSテレ東" tvg-logo="https://i.imgur.com/yJfA6ak.png" tvg-id="BSTVTokyo.jp" group-title="Japan",BSテレ東
+http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/BMXZjA1.png" group-title="Japan",TV Tokyo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/ghRFrKj.png" tvg-id="TokyoMX1.jp" group-title="Japan",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX2" tvg-logo="https://i.imgur.com/ghRFrKj.png" tvg-id="TokyoMX2.jp" group-title="Japan",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-name="TV Asahi" tvg-logo="https://i.imgur.com/rls8NVc.png" tvg-id="TVAsahi.jp" group-title="Japan",TV Asahi
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 tvg-name="HTB Ⓨ" tvg-logo="https://i.imgur.com/A0Wj0Ys.png" group-title="Japan",HTB Ⓨ
+https://www.youtube.com/c/htbnews/live
+#EXTINF:-1 tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Fik3Nm9.png" tvg-id="GunmaTV.jp" group-title="Japan",Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-name="Weathernews" tvg-logo="https://i.imgur.com/7YLRtla.png" tvg-id="Weathernews.jp" group-title="Japan",Weathernews
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/0wds9n8.png" tvg-id="GSTV.jp" group-title="Japan",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="QVC Ⓢ" tvg-logo="https://i.imgur.com/B74hZKd.png" tvg-id="QVCJapan.jp" group-title="Japan",QVC Ⓢ
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/rkdKa5a.png" tvg-id="ShopChannel.jp" group-title="Japan",Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
