@@ -33,8 +33,9 @@ def main():
     if not (os.path.isdir(dir_playlists)):
         os.mkdir(dir_playlists)
     with open("playlist.m3u8", "w", encoding='utf-8') as playlist:
-        head_playlist = f'#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace({chr(92)} + "n","")}"'
-        print(f'#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"', file=playlist)
+        processed_epg_list = ",".join(EPG_LIST).replace('\n', ' ')
+        head_playlist = f'#EXTM3U x-tvg-url="{processed_epg_list}"'
+        print(f'#EXTM3U x-tvg-url="{processed_epg_list}"', file=playlist)
         os.chdir("lists")
         for filename in sorted(os.listdir(".")):
             if filename == "README.md" or not filename.endswith(".md"):
