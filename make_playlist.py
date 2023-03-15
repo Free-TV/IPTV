@@ -33,7 +33,7 @@ def main():
     if not (os.path.isdir(dir_playlists)):
         os.mkdir(dir_playlists)
     with open("playlist.m3u8", "w", encoding='utf-8') as playlist:
-        head_playlist = '#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"'
+        head_playlist = '#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("\n","")}"'
         print(f'#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"', file=playlist)
         os.chdir("lists")
         for filename in sorted(os.listdir(".")):
