@@ -510,9 +510,9 @@ https://www.youtube.com/c/euronewsGreek/live
 #EXTINF:-1 tvg-name="M1" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1
 https://c401-node62-cdn.connectmedia.hu/110101/cfd822e29d3b79ee978055664818152b/6411763c/index.m3u8
 #EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="RTLKlub.hu" group-title="Hungary",RTL Klub
-https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+https://cdn.mediaklikk.org:443/rtl/00wMyEjM5UTM
 #EXTINF:-1 tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" tvg-id="TV2.hu" group-title="Hungary",TV2
-https://onlinestream.live/play.xspf?id=6143&ch=1&ext=.xspf
+https://cdn.mediaklikk.org:443/tv2/00wMyEjM4UTM
 #EXTINF:-1 tvg-name="ATV" tvg-logo="https://onlinestream.live/logos/4739.png" tvg-id="ATV.hu" group-title="Hungary",ATV
 http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-name="Hír TV" tvg-logo="https://onlinestream.live/logos/4740.png" tvg-id="HirTV.hu" group-title="Hungary",Hír TV
@@ -533,6 +533,8 @@ http://s02.diazol.hu:10192/stream.m3u8
 http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-name="Euronews Hungarian Ⓨ" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-id="EuronewsHungarian.fr" group-title="Hungary",Euronews Hungarian Ⓨ
 https://ythls.onrender.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
+#EXTINF:-1 tvg-name="Parlamenti közvetítés" tvg-logo="" group-title="Hungary",Parlamenti közvetítés
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" tvg-id="BalatonTV.hu" group-title="Hungary",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-name="Budakalász" tvg-logo="https://i.imgur.com/MGkvVQg.png" group-title="Hungary",Budakalász
