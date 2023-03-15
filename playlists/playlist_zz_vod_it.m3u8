@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia24.it" group-title="VOD Italy",Sportitalia LIVE24
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia24.it" group-title="VOD Italy",Sportitalia LIVE24
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport2U" tvg-logo="https://i.imgur.com/WW0lNk1.png" group-title="VOD Italy",Sport2U
 https://stream9.xdevel.com/video0s976916-1685/stream/playlist_dvr.m3u8

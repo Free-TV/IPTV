@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="CNC3" tvg-logo="https://i.imgur.com/1E73l2j.png" tvg-id="CNC3.tt" group-title="Trinidad",CNC3
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="CNC3" tvg-logo="https://i.imgur.com/1E73l2j.png" tvg-id="CNC3.tt" group-title="Trinidad",CNC3
 https://sktv-forwarders.7m.pl/get.php?x=CNC3
 #EXTINF:-1 tvg-name="gayelle" tvg-logo="https://i.imgur.com/GhWdqLq.jpg" tvg-id="" group-title="Trinidad",gayelle
 https://sktv-forwarders.7m.pl/get.php?x=gayelle

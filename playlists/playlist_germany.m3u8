@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8

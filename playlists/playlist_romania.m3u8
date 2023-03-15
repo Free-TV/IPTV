@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="TVR 1 Ⓖ" tvg-logo="https://i.imgur.com/CKQ7mpB.png" tvg-id="TVR1.ro" group-title="Romania",TVR 1 Ⓖ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="TVR 1 Ⓖ" tvg-logo="https://i.imgur.com/CKQ7mpB.png" tvg-id="TVR1.ro" group-title="Romania",TVR 1 Ⓖ
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR 2 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" tvg-id="TVR2.ro" group-title="Romania",TVR 2 Ⓖ
 https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8

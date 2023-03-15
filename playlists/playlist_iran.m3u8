@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Al-Alam News Network Ⓢ" tvg-logo="https://i.imgur.com/UbD0Ndr.png" tvg-id="AlalamNewsChannel.ir" group-title="Iran",Al-Alam News Network Ⓢ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Al-Alam News Network Ⓢ" tvg-logo="https://i.imgur.com/UbD0Ndr.png" tvg-id="AlalamNewsChannel.ir" group-title="Iran",Al-Alam News Network Ⓢ
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="Iran",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8

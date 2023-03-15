@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1 Ⓨ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1 Ⓨ
 https://www.youtube.com/channel/UCHJ8gW2vKH5R3VohymtBCrQ/live
 #EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="RTLKlub.hu" group-title="Hungary",RTL Klub
 https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8

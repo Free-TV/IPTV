@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ITV Ⓢ" tvg-logo="https://i.imgur.com/ABwq10G.png" group-title="UK",ITV Ⓢ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="ITV Ⓢ" tvg-logo="https://i.imgur.com/ABwq10G.png" group-title="UK",ITV Ⓢ
 http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="ITV 2 Ⓢ" tvg-logo="https://i.imgur.com/Ji65OXG.png" group-title="UK",ITV 2 Ⓢ
 http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8

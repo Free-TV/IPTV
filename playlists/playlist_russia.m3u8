@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Первый канал Ⓢ" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-id="ChannelOne.ru" group-title="Russia",Первый канал Ⓢ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Первый канал Ⓢ" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-id="ChannelOne.ru" group-title="Russia",Первый канал Ⓢ
 http://iptv.ktkru.ru:8001/index.m3u8
 #EXTINF:-1 tvg-name="Россия 1 Ⓢ" tvg-logo="https://i.imgur.com/WI6hKez.png" tvg-id="Russia1.ru" group-title="Russia",Россия 1 Ⓢ
 http://iptv.ktkru.ru:8002/index.m3u8

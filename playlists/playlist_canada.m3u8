@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://i.imgur.com/H5yEbxf.png" tvg-id="CBCTDT.ca" group-title="Canada",CBC Toronto
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://i.imgur.com/H5yEbxf.png" tvg-id="CBCTDT.ca" group-title="Canada",CBC Toronto
 https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
 #EXTINF:-1 tvg-name="Citytv" tvg-logo="https://i.imgur.com/BlFNlHz.png" group-title="Canada",Citytv
 https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8

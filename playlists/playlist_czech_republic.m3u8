@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ČT1 Ⓖ" tvg-logo="https://i.imgur.com/qBlEbN3.png" tvg-id="CT1.cz" group-title="Czech Republic",ČT1 Ⓖ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="ČT1 Ⓖ" tvg-logo="https://i.imgur.com/qBlEbN3.png" tvg-id="CT1.cz" group-title="Czech Republic",ČT1 Ⓖ
 https://sktv-forwarders.7m.pl/get.php?x=CT1
 #EXTINF:-1 tvg-name="ČT2 Ⓖ" tvg-logo="https://i.imgur.com/HpnGC6A.png" tvg-id="CT2.cz" group-title="Czech Republic",ČT2 Ⓖ
 https://sktv-forwarders.7m.pl/get.php?x=CT2

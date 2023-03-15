@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News Ⓨ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News Ⓨ
 https://www.youtube.com/user/ANNnewsCH/live
 #EXTINF:-1 tvg-name="NHK General TV Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" tvg-id="NHKGeneralTV.jp" group-title="Japan",NHK General TV Ⓢ
 https://nhk3.mov3.co/hls/nhk.m3u8

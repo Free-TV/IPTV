@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="RTV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" tvg-id="TVSlovenija1.si" group-title="Slovenia",RTV SLO 1
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="RTV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" tvg-id="TVSlovenija1.si" group-title="Slovenia",RTV SLO 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" tvg-id="TVSlovenija2.si" group-title="Slovenia",RTV SLO 2
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8

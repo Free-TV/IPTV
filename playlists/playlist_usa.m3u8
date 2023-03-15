@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Buzzr" tvg-logo="https://i.imgur.com/VihFt5p.png" tvg-id="Buzzr.us" group-title="USA",Buzzr
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Buzzr" tvg-logo="https://i.imgur.com/VihFt5p.png" tvg-id="Buzzr.us" group-title="USA",Buzzr
 https://buzzrota-web.amagi.tv/playlist480.m3u8
 #EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" tvg-id="RetroTVEast.us" group-title="USA",Retro TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8

@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Porto Canal Ⓢ" tvg-logo="https://i.imgur.com/wsyvP2H.png" tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal Ⓢ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Porto Canal Ⓢ" tvg-logo="https://i.imgur.com/wsyvP2H.png" tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal Ⓢ
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-name="ADtv Ⓢ" tvg-logo="https://i.imgur.com/FvlcU3z.png" group-title="Portugal",ADtv Ⓢ
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8

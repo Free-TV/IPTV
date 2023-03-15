@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png" tvg-id="FilmRiseFreeMovies.us" group-title="VOD Movies (EN)",FilmRise Movies
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="FilmRise Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png" tvg-id="FilmRiseFreeMovies.us" group-title="VOD Movies (EN)",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/FcN1OKo.png" tvg-id="FilmRiseSciFi.us" group-title="VOD Movies (EN)",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8

@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="KBS1TV.kr" group-title="Korea",KBS 1TV
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="KBS1TV.kr" group-title="Korea",KBS 1TV
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 #EXTINF:-1 tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="KBS2TV.kr" group-title="Korea",KBS 2TV
 http://ye23.vip/z7z8/2021/kbs2020.php?id=2

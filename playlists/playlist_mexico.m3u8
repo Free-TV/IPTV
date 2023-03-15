@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" tvg-id="AlcarriaTV.es" group-title="Mexico",Alcarria TV
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" tvg-id="AlcarriaTV.es" group-title="Mexico",Alcarria TV
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-name="Hipodromo de las Americas" tvg-logo="https://i.imgur.com/wc8MlGw.png" tvg-id="HipodromodelasAmericas.mx" group-title="Mexico",Hipodromo de las Americas
 http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
