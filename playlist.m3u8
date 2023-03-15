@@ -507,8 +507,8 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m3u8
 #EXTINF:-1 tvg-name="Euronews Greek Ⓨ" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsGreek.fr" group-title="Greece",Euronews Greek Ⓨ
 https://www.youtube.com/c/euronewsGreek/live
-#EXTINF:-1 tvg-name="M1 Ⓨ" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1 Ⓨ
-https://www.youtube.com/channel/UCHJ8gW2vKH5R3VohymtBCrQ/live
+#EXTINF:-1 tvg-name="M1" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1
+https://c401-node62-cdn.connectmedia.hu/110101/cfd822e29d3b79ee978055664818152b/6411763c/index.m3u8
 #EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="RTLKlub.hu" group-title="Hungary",RTL Klub
 https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1 tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" tvg-id="TV2.hu" group-title="Hungary",TV2
@@ -587,6 +587,16 @@ http://stream.tveger.hu:8010/live.m3u8
 http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
 #EXTINF:-1 tvg-name="Miskolc TV" tvg-logo="https://i.imgur.com/IoiNus2.png" tvg-id="MiskolcTV.hu" group-title="Hungary",Miskolc TV
 https://video.mhzrt.hu/live/mitv/playlist.m3u8
+#EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" group-title="Hungary",M2 / Petőfi TV
+https://c201-node61-cdn.connectmedia.hu/110102/7184521041cf54cee9c6548e8d0ba377/64117799/index.m3u8
+#EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
+https://c401-node62-cdn.connectmedia.hu/110110/5dd8dc6d853c9b7f94db85646ed44326/641177e3/index.m3u8
+#EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" tvg-id="M5.hu" group-title="Hungary",M5 Hungary
+http://152.66.115.226:33390/bysid/201
+#EXTINF:-1 tvg-name="Duna TV" tvg-logo="https://i.imgur.com/b4RXacY.png" tvg-id="DunaTV.hu" group-title="Hungary",Duna TV
+http://152.66.115.226:33391/bysid/102
+#EXTINF:-1 tvg-name="Duna World / M4+ Sport" tvg-logo="https://i.imgur.com/DciAdFF.png" tvg-id="DunaWorld.hu" group-title="Hungary",Duna World / M4+ Sport
+http://152.66.115.226:33391/bysid/103
 #EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-name="ABP News" tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-id="ABPNews.in" group-title="India",ABP News
