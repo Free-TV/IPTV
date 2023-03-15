@@ -75,6 +75,6 @@ https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 #EXTINF:-1 tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" tvg-id="TVEger.hu" group-title="Hungary",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:-1 tvg-name="Putnok Városi TV" tvg-logo="https://i.imgur.com/eKXPBFb.png" tvg-id="PVTV.hu" group-title="Hungary",Putnok Városi TV
-http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=nul
+http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
 #EXTINF:-1 tvg-name="Miskolc TV" tvg-logo="https://i.imgur.com/IoiNus2.png" tvg-id="MiskolcTV.hu" group-title="Hungary",Miskolc TV
-[>]https://video.mhzrt.hu/live/mitv/playlist.m3u8
+https://video.mhzrt.hu/live/mitv/playlist.m3u8
