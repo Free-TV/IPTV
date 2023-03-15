@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" tvg-id="ERT1.gr" group-title="Greece",ERT 1
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" tvg-id="ERT1.gr" group-title="Greece",ERT 1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-name="ERT 2" tvg-logo="https://i.imgur.com/pcusPFl.png" tvg-id="ERT2.gr" group-title="Greece",ERT 2
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8

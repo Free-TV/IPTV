@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" group-title="Croatia",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-name="RTL2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" group-title="Croatia",RTL2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8

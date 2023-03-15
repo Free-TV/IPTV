@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="SVT 1    Ⓖ" tvg-logo="https://i.imgur.com/ZoBXmOO.png" tvg-id="SVT1.se" group-title="Sweden",SVT 1    Ⓖ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="SVT 1    Ⓖ" tvg-logo="https://i.imgur.com/ZoBXmOO.png" tvg-id="SVT1.se" group-title="Sweden",SVT 1    Ⓖ
 https://ed2.cdn.svt.se/ed7/d1/c/se/svt1/manifest.mpd?defaultSubLang=1
 #EXTINF:-1 tvg-name="SVT 2   Ⓖ" tvg-logo="https://i.imgur.com/iB3veGx.png" tvg-id="SVT2.se" group-title="Sweden",SVT 2   Ⓖ
 https://ed2.cdn.svt.se/ed7/d1/c/se/svt2/manifest.mpd?defaultSubLang=1

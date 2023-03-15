@@ -1,1 +1,2 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"

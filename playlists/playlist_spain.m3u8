@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="Spain",La 1
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="Spain",La 1
 https://rtvelivestreamv3.akamaized.net/segments/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" group-title="Spain",La 2
 https://rtvelivestreamv3.akamaized.net/segments/la2/la2_main_1080.m3u8

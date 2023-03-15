@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-id="FirstMusicChannel.by" group-title="Belarus",1Mus
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-id="FirstMusicChannel.by" group-title="Belarus",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-name="8 Kanal Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" tvg-id="8kanal.by" group-title="Belarus",8 Kanal Vitebsk Ⓢ
 http://95.46.208.8:24433/art

@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="Brazil",ALL Sports Brasil
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="ALL Sports Brasil" tvg-logo="https://i.imgur.com/wULpnYR.png" tvg-id="AllSports.br" group-title="Brazil",ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" tvg-id="COMBrasil.br" group-title="Brazil",COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8

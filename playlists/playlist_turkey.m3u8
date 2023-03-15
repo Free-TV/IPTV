@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" group-title="Turkey",TRT 1
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" group-title="Turkey",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2 Ⓖ" tvg-logo="https://i.imgur.com/lNWrOE2.png" tvg-id="TRT2.tr" group-title="Turkey",TRT 2 Ⓖ
 https://tv-trt2.medya.trt.com.tr/master.m3u8

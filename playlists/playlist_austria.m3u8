@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ORF 1 Ⓖ" tvg-logo="https://i.imgur.com/ft2LuRl.jpg" tvg-id="ORF1.at" group-title="Austria",ORF 1 Ⓖ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="ORF 1 Ⓖ" tvg-logo="https://i.imgur.com/ft2LuRl.jpg" tvg-id="ORF1.at" group-title="Austria",ORF 1 Ⓖ
 https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
 #EXTINF:-1 tvg-name="ORF 2  Ⓖ" tvg-logo="https://i.imgur.com/yPVDaXv.png" tvg-id="ORF2.at" group-title="Austria",ORF 2  Ⓖ
 https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8

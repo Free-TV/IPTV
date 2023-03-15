@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="NPO 1 Ⓖ" tvg-logo="https://i.imgur.com/pUBy4Pb.png" tvg-id="NPO1.nl" group-title="Netherlands",NPO 1 Ⓖ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="NPO 1 Ⓖ" tvg-logo="https://i.imgur.com/pUBy4Pb.png" tvg-id="NPO1.nl" group-title="Netherlands",NPO 1 Ⓖ
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
 #EXTINF:-1 tvg-name="NPO 2 Ⓖ" tvg-logo="https://i.imgur.com/Vl2G1H3.png" tvg-id="NPO2.nl" group-title="Netherlands",NPO 2 Ⓖ
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8

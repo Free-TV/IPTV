@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="Slovakia",Jednotka
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="Slovakia",Jednotka
 https://sktv-forwarders.7m.pl/get.php?x=STV1
 #EXTINF:-1 tvg-name="Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="Slovakia",Dvojka
 https://sktv-forwarders.7m.pl/get.php?x=STV2

@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="1 Odessa Ⓢ" tvg-logo="https://i.imgur.com/9z2LnBg.png" group-title="Ukraine",1 Odessa Ⓢ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="1 Odessa Ⓢ" tvg-logo="https://i.imgur.com/9z2LnBg.png" group-title="Ukraine",1 Odessa Ⓢ
 http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="34 Kanal Ⓢ" tvg-logo="https://i.imgur.com/0buhFKQ.png" tvg-id="34Telekanal.ua" group-title="Ukraine",34 Kanal Ⓢ
 https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8

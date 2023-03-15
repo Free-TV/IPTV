@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" tvg-id="Unicanal.py" group-title="Paraguay",Unicanal
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" tvg-id="Unicanal.py" group-title="Paraguay",Unicanal
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-name="Trece" tvg-logo="https://i.imgur.com/9kcYqk2.png" tvg-id="Trece.py" group-title="Paraguay",Trece
 https://stream.rpc.com.py/live/trece_src.m3u8

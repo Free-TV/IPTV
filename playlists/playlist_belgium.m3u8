@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="RTL-Be" tvg-logo="https://i.imgur.com/xMhSvax.png" tvg-id="BelRTL.be" group-title="Belgium",RTL-Be
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="RTL-Be" tvg-logo="https://i.imgur.com/xMhSvax.png" tvg-id="BelRTL.be" group-title="Belgium",RTL-Be
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
 #EXTINF:-1 tvg-name="La Une" tvg-logo="https://i.imgur.com/hJodwJt.png" tvg-id="LaUne.be" group-title="Belgium",La Une
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8

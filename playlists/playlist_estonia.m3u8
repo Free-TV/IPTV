@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/SAOGSmL.png" tvg-id="ETV.ee" group-title="Estonia",ETV Ⓖ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/SAOGSmL.png" tvg-id="ETV.ee" group-title="Estonia",ETV Ⓖ
 http://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-name="ETV2 Ⓖ" tvg-logo="https://i.imgur.com/wY6Pz37.png" tvg-id="ETV2.ee" group-title="Estonia",ETV2 Ⓖ
 http://sb.err.ee/live/etv2.m3u8

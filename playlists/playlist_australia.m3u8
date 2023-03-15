@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" group-title="Australia",ABC
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" group-title="Australia",ABC
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" tvg-id="TVSN.au" group-title="Australia",TVSN
 https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8

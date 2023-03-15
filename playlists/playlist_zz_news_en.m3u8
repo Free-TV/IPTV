@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="SkyNews English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsInternational.uk" group-title="News (EN)",SkyNews English
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="SkyNews English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsInternational.uk" group-title="News (EN)",SkyNews English
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsEnglish.fr" group-title="News (EN)",Euronews English
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8

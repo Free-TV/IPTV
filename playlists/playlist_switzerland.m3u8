@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" tvg-id="SRF1.ch" group-title="Switzerland",SRF 1
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" tvg-id="SRF1.ch" group-title="Switzerland",SRF 1
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
 #EXTINF:-1 tvg-name="TVO" tvg-logo="https://i.imgur.com/5QFZ05B.png" tvg-id="TVO.ch" group-title="Switzerland",TVO
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8

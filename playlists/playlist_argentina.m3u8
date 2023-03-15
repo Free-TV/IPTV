@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="{",".join(EPG_LIST)}"#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" group-title="Argentina",Encuentro Ⓨ Ⓖ
+#EXTM3U x-tvg-url="{",".join(EPG_LIST).replace("
+","")}"#EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" group-title="Argentina",Encuentro Ⓨ Ⓖ
 https://www.youtube.com/user/encuentro/live
 #EXTINF:-1 tvg-name="Pakapaka Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" tvg-id="Pakapaka.ar" group-title="Argentina",Pakapaka Ⓨ Ⓖ
 https://www.youtube.com/user/CanalPakapaka/live
