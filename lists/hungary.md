@@ -23,7 +23,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | EWTN TV        | [>](https://stream.y5.hu/stream/stream_bonum/stream.m3u8) | <img height="20" src="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" /> | BonumTV.hu |
-| 2   | Apostol TV     | [>](https://live.apostoltv.hu/online/smil:gazdagret.smil/HasBahCa.m3u8) | <img height="20" src="https://www.apostoltv.hu/images/header-logo.png" /> | ApostolTV.hu |
+| 2   | Apostol TV     | [>](https://live.apostoltv.hu/live/playlist.m3u8) | <img height="20" src="https://www.apostoltv.hu/images/header-logo.png" /> | ApostolTV.hu |
 
 <h2>Music</h2>
 
@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | Euronews Hungarian Ⓨ  | [>](https://www.youtube.com/c/euronewsHungarian/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" /> | EuronewsHungarian.fr |
+| 1   | Euronews Hungarian Ⓨ  | [>](https://ythls.onrender.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8) | <img height="20" src="https://i.imgur.com/8t9mdg9.png" /> | EuronewsHungarian.fr |
 
 <h2>Regional</h2>
 
@@ -52,25 +52,30 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 1   | Balaton TV     | [>](https://stream.iptvservice.eu/hls/balatontv.m3u8) | <img height="20" src="https://i.imgur.com/ip8L5Vt.jpg" /> | BalatonTV.hu |
 | 2   | Budakalász     | [>](https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MGkvVQg.png" /> |
 | 3   | Hatoscsatorna  | [>](rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
-| 4   | Komlos TV      | [>](https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MDYb5yz.png" /> |
-| 5   | Ozdi Városi TV | [>](https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8) | <img height="20" src="https://i.imgur.com/5cOpdRp.jpg" /> |
+| 4   | Komlos TV      | [>](https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MDYb5yz.png" /> | KomlosTV.hu |
+| 5   | Ózdi Városi TV | [>](https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8) | <img height="20" src="https://i.imgur.com/5cOpdRp.jpg" /> | OzdiVarosiTV.hu |
 | 6   | Pannon RTV     | [>](https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
 | 7   | TV7 Bekescsaba | [>](https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8) | <img height="20" src="https://i.imgur.com/G9Ib5K3.png" /> |
-| 8   | VTV Füzesabony | [>](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> |
+| 8   | VTV Füzesabony | [>](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
 | 9   | Hegyvidék TV   | [>](https://tv.hegyvidek.hu/hvtv/hvstream.m3u8) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" /> | HegyvidekTV.hu |
 | 10  | 16TV           | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8) | <img height="20" src="http://www.16tv.hu/images/xlogo-green.png.pagespeed.ic.79XBdS6JYn.png" /> |
 | 11  | CityTV (Belváros Lipótváros) | [>](https://citytv.hu/media/live/stream.m3u8) | <img height="20" src="https://www.citytv.hu/images/logo.png" /> |
 | 12  | FehérvárTV     | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2) | <img height="20" src="https://www.fehervartv.hu/css/img/icon-1-2.png" /> |
 | 13  | AlföldTV       | [>](https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8) | <img height="20" src="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" /> |
-| 14  | Gyöngyös TV    | [>](https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP) | <img height="20" src="https://gyongyostv.hu/wp-content/uploads/2018/11/gytv-logo-hd.jpg" /> |
+| 14  | Gyöngyös TV    | [>](https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP) | <img height="20" src="https://i.imgur.com/RHgaPCk.png" /> | GyongyosiTV.hu |
 | 15  | Halom TV       | [>](rtmp://212.92.13.108/live/livestream1) | <img height="20" src="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" /> |
 | 16  | Kapos TV       | [>](https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8) | <img height="20" src="http://kapos.hu/static/keptar/13/b/9490.jpg" /> | KaposTV.hu |
-| 17  | Kecskemét TV   | [>](https://eurobioinvest.hu:444/live/ktv.m3u8) | <img height="20" src="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" /> |
+| 17  | Kecskemét TV   | [>](https://eurobioinvest.hu:444/live/ktv.m3u8) | <img height="20" src="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" /> | KecskemetiTV.hu |
 | 19  | Lóverseny közvetítés | [>](https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8) | <img height="20" src="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" /> |
 | 20  | Zalaegerszeg TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8) | <img height="20" src="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" /> | ZalaegerszegiTV.hu |
 | 21  | Zugló TV       | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8) | <img height="20" src="http://zuglotv.hu/wp-content/themes/ztv/uploads/ztv_logo1.jpg" /> |
 | 22  | Tisza TV       | [>](https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
-| 23  | DTV            | [>](http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8) | <img height="20" src="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/debrecen_televizio_wide.png?itok=Mi4_Ac8L" /> |
+| 23  | DTV            | [>](http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8) | <img height="20" src="https://i.imgur.com/YSpqmSO.png" /> | DTV.hu |
+| 24  | Bajai TV       | [>](https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cyReGWh.png" /> | BajaiTV.hu |
+| 25  | Vásárhelyi Televízió | [>](https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8) | <img height="20" src="https://i.imgur.com/WOEqdmx.png" /> | VasarhelyiTelevizio.hu |
+| 26  | TV Eger        | [>](http://stream.tveger.hu:8010/live.m3u8) | <img height="20" src="https://i.imgur.com/GUVW073.png" /> | TVEger.hu |
+| 27  | Putnok Városi TV | [>](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
+| 28  | Miskolc TV     | [>]https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
 
 <h2>Invalid</h2>
 
