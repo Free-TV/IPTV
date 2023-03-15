@@ -74,8 +74,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 24  | Bajai TV       | [>](https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cyReGWh.png" /> | BajaiTV.hu |
 | 25  | Vásárhelyi Televízió | [>](https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8) | <img height="20" src="https://i.imgur.com/WOEqdmx.png" /> | VasarhelyiTelevizio.hu |
 | 26  | TV Eger        | [>](http://stream.tveger.hu:8010/live.m3u8) | <img height="20" src="https://i.imgur.com/GUVW073.png" /> | TVEger.hu |
-| 27  | Putnok Városi TV | [>](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
-| 28  | Miskolc TV     | [>]https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
+| 27  | Putnok Városi TV | [>](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
+| 28  | Miskolc TV     | [>](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
 
 <h2>Invalid</h2>
 
