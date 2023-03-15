@@ -12,8 +12,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | RTL Klub       | [>](https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> | RTLKlub.hu |
-| 2   | TV2            | [>](https://onlinestream.live/play.xspf?id=6143&ch=1&ext=.xspf) | <img height="20" src="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" /> | TV2.hu |
+| 1   | RTL Klub       | [>](https://cdn.mediaklikk.org:443/rtl/00wMyEjM5UTM) | <img height="20" src="https://onlinestream.live/logos/6141.png" /> | RTLKlub.hu |
+| 2   | TV2            | [>](https://cdn.mediaklikk.org:443/tv2/00wMyEjM4UTM) | <img height="20" src="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" /> | TV2.hu |
 | 3   | ATV            | [>](http://streamservers.atv.hu:80/atvlive/atvstream_2_aac/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/4739.png" /> | ATV.hu |
 | 4   | Hír TV         | [>](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> | HirTV.hu |
 | 5   | Fix TV         | [>](https://fixhd.tv:8082/fix/1080i/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
@@ -44,6 +44,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | Euronews Hungarian Ⓨ  | [>](https://ythls.onrender.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8) | <img height="20" src="https://i.imgur.com/8t9mdg9.png" /> | EuronewsHungarian.fr |
+| 2   | Parlamenti közvetítés | [>](http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8)|
 
 <h2>Regional</h2>
 
