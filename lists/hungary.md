@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | M1 Ⓨ           | [>](https://www.youtube.com/channel/UCHJ8gW2vKH5R3VohymtBCrQ/live) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
+| 1   | M1             | [>](https://c401-node62-cdn.connectmedia.hu/110101/cfd822e29d3b79ee978055664818152b/6411763c/index.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
 
 <h2>Commercial</h2>
 
@@ -85,10 +85,10 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 1   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
 | 2   | DikhTv         | [x](https://onlinestream.live/play.xspf?id=6424&ch=1&ext=.xspf) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> | DikhTV.hu |
 | 3   | Spektrum Home  | [x](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> | SpektrumHome.hu |
-| 4   | M2 / Petőfi TV | [x](https://hls42.sweet.tv/stream/zbfvsxhmj53i9htvbh9ytxgmit2vahjqv5k3vphfh5pyxgtdja2rgcib42p23t8cjpcbht8njy5e7vreve2d9kwyzfjpxs64r58mze468d57ed6ka7h3s7gr47uay9ykchgteyggw4f7qap9.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
+| 4   | M2 / Petőfi TV | [>](https://c201-node61-cdn.connectmedia.hu/110102/7184521041cf54cee9c6548e8d0ba377/64117799/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
 | 5   | M3             | [x](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
-| 6   | M4 Sport       | [x](https://hls2eu.sweet.tv/stream/w3u6zfcwnjjkyw3ewnfei6pwxweu5ynsfj9hthvwn9dkn8whaxi8rt5b9dkebm7c3bsiirh56tq9d8fav7aqb5zacamp7mzfwi5r5q99ucenuwvvby64q9srk84trs5h8h752tmhj66bw===.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
-| 7   | M4+ Sport      | [x](https://sktv-forwarders.7m.pl/get.php?x=M4Plus) | <img height="20" src="https://www.lyngsat.com/logo/tv/mm/m4-sport-plus-hu.png" /> | M4SportPlus.hu |
-| 8   | M5 Hungary     | [x](https://sktv-forwarders.7m.pl/get.php?x=M5) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
-| 9   | Duna TV        | [x](https://sktv-forwarders.7m.pl/get.php?x=Duna) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
-| 10  | Duna World     | [x](https://sktv-forwarders.7m.pl/get.php?x=Duna_World) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
+| 6   | M4 Sport       | [>](https://c401-node62-cdn.connectmedia.hu/110110/5dd8dc6d853c9b7f94db85646ed44326/641177e3/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
+| 7   | M5 Hungary     | [>](http://152.66.115.226:33390/bysid/201) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
+| 8   | Duna TV        | [>](http://152.66.115.226:33391/bysid/102) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
+| 9  | Duna World / M4+ Sport | [>](http://152.66.115.226:33391/bysid/103) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
+
