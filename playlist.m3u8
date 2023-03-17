@@ -1559,6 +1559,22 @@ http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-name="L1 Ⓢ" tvg-logo="https://i.imgur.com/Jyhn1iP.png" tvg-id="L1TV.nl" group-title="Netherlands",L1 Ⓢ
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-name="NRK1    Ⓖ" tvg-logo="https://i.imgur.com/9tj8ds7.png" tvg-id="NRK1.no" group-title="Norway",NRK1    Ⓖ
+https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
+#EXTINF:-1 tvg-name="NRK2    Ⓖ" tvg-logo="https://i.imgur.com/SiAdoK9.png" tvg-id="NRK2.no" group-title="Norway",NRK2    Ⓖ
+https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/playlist.m3u8
+#EXTINF:-1 tvg-name="NRK3    Ⓖ" tvg-logo="https://i.imgur.com/9tj8ds7.png" tvg-id="NRK3.no" group-title="Norway",NRK3    Ⓖ
+https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8
+#EXTINF:-1 tvg-name="NRK Super    Ⓖ" tvg-logo="https://i.imgur.com/xIATe2T.png" tvg-id="NRKSuper.no" group-title="Norway",NRK Super    Ⓖ
+https://nrk-nrksuper.akamaized.net/23/0/hls/nrk_super/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 2 Sport 1" tvg-logo="https://i.imgur.com/asKHqNZ.png" tvg-id="TV2Sport1.no" group-title="Norway",TV 2 Sport 1
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 tvg-name="TV 2 Nyheter" tvg-logo="https://i.imgur.com/kkKoY6s.png" tvg-id="TV2Nyhetskanalen.no" group-title="Norway",TV 2 Nyheter
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+#EXTINF:-1 tvg-name="Frikanalen" tvg-logo="https://i.imgur.com/rY3Owxl.png" tvg-id="Frikanalen.no" group-title="Norway",Frikanalen
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:-1 tvg-name="Kanal 10 Norge" tvg-logo="https://i.imgur.com/2fOcZfK.png" tvg-id="Kanal10Norway.no" group-title="Norway",Kanal 10 Norge
+https://player-api.new.livestream.com/accounts/29308686/events/10787545/broadcasts/235454817.secure.m3u8
 #EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" tvg-id="Unicanal.py" group-title="Paraguay",Unicanal
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-name="Trece" tvg-logo="https://i.imgur.com/9kcYqk2.png" tvg-id="Trece.py" group-title="Paraguay",Trece
