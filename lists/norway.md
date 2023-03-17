@@ -9,3 +9,4 @@
 | 12   | TV 2 Sport 1     | [>](https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8) | <img height="20" src="https://i.imgur.com/asKHqNZ.png"/> | TV2Sport1.no |
 | 22   | TV 2 Nyheter     | [>](https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8) | <img height="20" src="https://i.imgur.com/kkKoY6s.png"/> | TV2Nyhetskanalen.no |
 | 50   | Frikanalen     | [>](https://frikanalen.no/stream/index.m3u8) | <img height="20" src="https://i.imgur.com/rY3Owxl.png"/> | Frikanalen.no |
+| 109   | Kanal 10 Norge | [>](https://player-api.new.livestream.com/accounts/29308686/events/10787545/broadcasts/235454817.secure.m3u8) | <img height="20" src="https://i.imgur.com/2fOcZfK.png"/> | Kanal10Norway.no |
