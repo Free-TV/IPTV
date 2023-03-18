@@ -43,7 +43,7 @@ def main():
             with open(filename, encoding='utf-8') as markup_file:
                 file_country = os.path.join("..", dir_playlists, "playlist_" + filename[:-3:] + ".m3u8")
                 playlist_country = open(file_country, "w", encoding='utf-8')
-                playlist_country.write(head_playlist)
+                playlist_country.write(head_playlist + "\n")
                 group = filename.replace(".md", "").title()
                 print(f"Generating {group}")
                 for line in markup_file:
