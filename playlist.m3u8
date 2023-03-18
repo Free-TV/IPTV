@@ -293,11 +293,11 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TN Live" tvg-logo="https://i.imgur.com/9P7ZyFu.png" tvg-id="" group-title="Czech Republic",TN Live
 https://sktv-forwarders.7m.pl/get.php?x=NovaTNLive
-#EXTINF:-1 tvg-name="DR1" tvg-logo="https://i.imgur.com/wEq8UnG.png" tvg-id="DR1.dk" group-title="Denmark",DR1
+#EXTINF:-1 tvg-name="DR1    Ⓖ" tvg-logo="https://i.imgur.com/wEq8UnG.png" tvg-id="DR1.dk" group-title="Denmark",DR1    Ⓖ
 https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
-#EXTINF:-1 tvg-name="DR2" tvg-logo="https://i.imgur.com/b79UKYN.png" tvg-id="DR2.dk" group-title="Denmark",DR2
+#EXTINF:-1 tvg-name="DR2      Ⓖ" tvg-logo="https://i.imgur.com/b79UKYN.png" tvg-id="DR2.dk" group-title="Denmark",DR2      Ⓖ
 https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
-#EXTINF:-1 tvg-name="DR Ramasjang" tvg-logo="https://i.imgur.com/YD0z2mN.png" tvg-id="DRRamasjang.dk" group-title="Denmark",DR Ramasjang
+#EXTINF:-1 tvg-name="DR Ramasjang  Ⓖ" tvg-logo="https://i.imgur.com/YD0z2mN.png" tvg-id="DRRamasjang.dk" group-title="Denmark",DR Ramasjang  Ⓖ
 https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
 #EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/SAOGSmL.png" tvg-id="ETV.ee" group-title="Estonia",ETV Ⓖ
 http://sb.err.ee/live/etv.m3u8
