@@ -299,6 +299,8 @@ https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
 https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
 #EXTINF:-1 tvg-name="DR Ramasjang  Ⓖ" tvg-logo="https://i.imgur.com/YD0z2mN.png" tvg-id="DRRamasjang.dk" group-title="Denmark",DR Ramasjang  Ⓖ
 https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
+#EXTINF:-1 tvg-name="Folketinget TV  Ⓖ" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-id="TVfromtheDanishParliament.dk" group-title="Denmark",Folketinget TV  Ⓖ
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/SAOGSmL.png" tvg-id="ETV.ee" group-title="Estonia",ETV Ⓖ
 http://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-name="ETV2 Ⓖ" tvg-logo="https://i.imgur.com/wY6Pz37.png" tvg-id="ETV2.ee" group-title="Estonia",ETV2 Ⓖ
