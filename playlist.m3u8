@@ -601,6 +601,12 @@ http://152.66.115.226:33390/bysid/201
 http://152.66.115.226:33391/bysid/102
 #EXTINF:-1 tvg-name="Duna World / M4+ Sport" tvg-logo="https://i.imgur.com/DciAdFF.png" tvg-id="DunaWorld.hu" group-title="Hungary",Duna World / M4+ Sport
 http://152.66.115.226:33391/bysid/103
+#EXTINF:-1 tvg-name="RÚV" tvg-logo="https://i.imgur.com/vxaSn1K.png" tvg-id="RUV.is" group-title="Iceland",RÚV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-name="RÚV 2" tvg-logo="https://i.imgur.com/yDKRuXQ.png" tvg-id="RUV2.is" group-title="Iceland",RÚV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 tvg-name="Alþingi" tvg-logo="https://i.imgur.com/n170HMm.png" tvg-id="Althingi.is" group-title="Iceland",Alþingi
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
 #EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.imgur.com/QjJYohG.png" tvg-id="NDTVIndia.in" group-title="India",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-name="ABP News" tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-id="ABPNews.in" group-title="India",ABP News
