@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | M1             | [>](https://c401-node62-cdn.connectmedia.hu/110101/cfd822e29d3b79ee978055664818152b/6411763c/index.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
+| 1   | M1 Hiradó   Ⓨ  | [>](https://www.youtube.com/watch?v=DbP9rmGifYs) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
 
 <h2>Commercial</h2>
 
