@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 | 22   | CETV-2         | [>](http://txycsbl.centv.cn/zb/0822cetv2.m3u8) | <img height="20" src="https://i.imgur.com/a9mvoeP.png"/> | CETV2.cn |
 | 23   | CETV-3         | [>](http://txycsbl.centv.cn/zb/0822cetv3.m3u8) | <img height="20" src="https://i.imgur.com/t8o5ZKt.png"/> | CETV3.cn |
 | 24   | CETV-4         | [>](http://txycsbl.centv.cn/zb/0822cetv4.m3u8) | <img height="20" src="https://i.imgur.com/BRe0ybV.png"/> | CETV4.cn |
-| 25   | FZTV-1 News 新闻综合频道 | [x](http://live.zohi.tv/video/s10001-fztv-1/index.m3u8) | <img height="20" src="[https://i.imgur.com/XMsoHut.png](https://www.tvchinese.net/uploads/tv/fztv1.jpg)"/> | FZTV1.cn |
+| 25   | FZTV-1 News 新闻综合频道 | [x](http://live.zohi.tv/video/s10001-fztv-1/index.m3u8) | <img height="20" src="https://www.tvchinese.net/uploads/tv/fztv1.jpg"/> | FZTV1.cn |
 | 26   | FZTV-2 Movie & Drama Channel 影视频道 | [x](http://live.zohi.tv/video/s10001-fztv-2/index.m3u8) | <img height="20" src="https://www.tvchinese.net/uploads/tv/fztv2.jpg"/> | FZTV2.cn |
 | 27   | FZTV-3 Lifestyle Channel 生活频道 | [x](http://live.zohi.tv/video/s10001-fztv-3/index.m3u8) | <img height="20" src="https://www.tvchinese.net/uploads/tv/fztv3.jpg"/> | FZTV3.cn |
 | 28  | FZTV-4 Children 少儿频道  | [x](http://live.zohi.tv/video/s10001-fztv-4/index.m3u8) | <img height="20" src="https://www.tvchinese.net/uploads/tv/fztv4.jpg"/> | FZTVkids.cn |
