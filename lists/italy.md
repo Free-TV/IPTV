@@ -65,6 +65,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
+| 1  | RAI Italia Asia   | [>](http://210.210.155.37/x6bnqe/s/s63/index2.m3u8) | <img height="20" src="https://www.tvdream.net/img/rai-italia-bg.jpg"/> | RaiItaliaAsia.it |
 | 55  | Gold TV Sat    | [>](https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTVSat.it |
 | 58  | Sportitalia SOLOCALCIO | [>](https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
 | 59  | Euronews Italian | [>](https://euronews.alteox.app/hls/it_stream.m3u8) | <img height="20" src="https://i.imgur.com/F3MkfJN.png"/> | EuronewsItalian.fr |
