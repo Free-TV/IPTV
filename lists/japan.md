@@ -22,3 +22,5 @@
 | 18  | GSTV            | [>](https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/0wds9n8.png"/> | GSTV.jp |
 | 19  | QVC Ⓢ          | [>](http://cdn-live1.qvc.jp/iPhone/800/800.m3u8) | <img height="20" src="https://i.imgur.com/B74hZKd.png"/> | QVCJapan.jp |
 | 20  | Shop Channel    | [>](http://stream1.shopch.jp/HLS/out1/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/rkdKa5a.png"/> | ShopChannel.jp |
+| 20  | Animax   | [>](http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png"/> | Animax.jp |
+| 20  | Disney Channel Japan    | [>](http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/220px-2019_Disney_Channel_logo.svg.png"/> | DisneyChannelJapan.jp |
