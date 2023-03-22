@@ -27,3 +27,4 @@
 | 23  | Óčko Expres Ⓢ    | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8) | <img height="20" src="https://i.imgur.com/e731JNS.png"/> | OckoExpres.cz |
 | 24  | Retro Music Television Ⓢ    | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a6S2Yo4.png"/> | RetroMusicTV.cz |
 | 25  | TN Live      | [>](https://sktv-forwarders.7m.pl/get.php?x=NovaTNLive) | <img height="20" src="https://i.imgur.com/9P7ZyFu.png"/> | |
+| 26  | Praha TV      | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://www.praga2018.cz/wp-content/uploads/logo-prahatv.png"/> | PrahaTV.cz |
