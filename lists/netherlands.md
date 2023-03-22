@@ -20,12 +20,20 @@
 | 2   | RTV Noord          | [>](https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8) | <img height="20" src="https://i.imgur.com/pO5Mexa.png"/> | RTVNoord.nl |
 | 3   | RTV Drenthe        | [>](https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/GaGqM4z.png"/> | RTVDrenthe.nl |
 | 4   | RTV Oost Ⓢ         | [>](https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8) | <img height="20" src="https://i.imgur.com/8ropV29.png"/> | RTVOost.nl |
-| 5   | Omroep Gelderland Ⓢ| [>](http://web.omroepgelderland.nl/live/livetv.m3u8) | <img height="20" src="https://i.imgur.com/TPlyvUQ.png"/> | OmroepGelderlandTV.nl |
-| 6   | RTV Utrecht        | [>](http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8) | <img height="20" src="https://i.imgur.com/c0I24N6.png"/> | RTVUtrecht.nl |
-| 7   | Omroep Flevoland Ⓢ | [>](https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/d1CmTcI.png"/> | OmroepFlevolandTV.nl |
-| 8   | NH Nieuws          | [>](https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8) | <img height="20" src="https://i.imgur.com/SQPVOwn.png"/> |
-| 9   | RTV Rijnmond       | [>](http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8) | <img height="20" src="https://i.imgur.com/TNhUVEm.png"/> | RTVRijnmond.nl |
-| 10   | Omroep West        | [>](http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/aax1HPH.png"/> | OmroepWestTV.nl |
-| 11  | Omroep Zeeland     | [>](http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/8aLDyUI.png"/> | OmroepZeelandTV.nl |
-| 12  | Omroep Brabant     | [>](http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/Jv7IjHJ.png"/> | OmroepBrabantTV.nl |
+| 5   | RTV Utrecht        | [>](http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8) | <img height="20" src="https://i.imgur.com/c0I24N6.png"/> | RTVUtrecht.nl |
+| 6   | RTV Rijnmond       | [>](http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8) | <img height="20" src="https://i.imgur.com/TNhUVEm.png"/> | RTVRijnmond.nl |
+| 7   | Omroep Gelderland Ⓢ| [>](http://web.omroepgelderland.nl/live/livetv.m3u8) | <img height="20" src="https://i.imgur.com/TPlyvUQ.png"/> | OmroepGelderlandTV.nl |
+| 8   | Omroep Flevoland Ⓢ | [>](https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/d1CmTcI.png"/> | OmroepFlevolandTV.nl |
+| 9   | Omroep West        | [>](http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/aax1HPH.png"/> | OmroepWestTV.nl |
+| 10  | Omroep Zeeland     | [>](http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/8aLDyUI.png"/> | OmroepZeelandTV.nl |
+| 11  | Omroep Brabant     | [>](http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/Jv7IjHJ.png"/> | OmroepBrabantTV.nl |
+| 12  | NH Nieuws          | [>](https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8) | <img height="20" src="https://i.imgur.com/SQPVOwn.png"/> |
 | 13  | L1 Ⓢ               | [>](http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/Jyhn1iP.png"/> | L1TV.nl |
+| 14  | Regio90 TV             | [>](https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8) | <img height="20" src="https://regio90.nl/wp-content/uploads/2021/06/beeldmerk-90tv-fm-trans.png"/> | Regio90TV.nl |
+| 15  | Siris TV           | [>](https://cdn.streammy.events/siris/playout/playlist.m3u8) | <img height="20" src="https://siris.nl/siris_nl/images/logo.svg"/> | SirisTV.nl |
+| 16  | Open Rotterdam TV          | [>](http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8) | <img height="20" src="https://openrotterdam.nl/wp-content/uploads/2021/09/logo_OR_zw@2x.png"/> | OPENRotterdamTV.nl |
+| 17 | Den Haag TV         | [>](http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8) | <img height="20" src="https://www.denhaagfm.nl/_ipx/s_400x400/img/logo_denhaagfm_dark.jpg"/> | DenHaagTV.nl |
+| 18  | DTV Den Bosch   | [>](https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live) | <img height="20" src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/b5/7f/c2/b57fc222-d173-4f5a-12ab-0d693b8b4335/source/512x512bb.jpg"/> | DTVDenBosch.nl |
+| 19  | DTV Maashorst  | [>](https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live) | <img height="20" src="![image](https://user-images.githubusercontent.com/128420938/226982618-64c8d6e4-d6d7-4aa9-ace0-ee6be6d61a86.png)
+"/> | DTVMaashorst.nl |
+| 20  | DTV Oss & Bernheze | [>](https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live) | <img height="20" src="https://user-images.githubusercontent.com/128420938/226982661-f4cfdd9c-b92e-4fa8-b05c-b8c7819af10f.png"/> | DTVOssBernheze.nl |
