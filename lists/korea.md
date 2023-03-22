@@ -36,3 +36,4 @@ https://en.wikipedia.org/wiki/Television_in_South_Korea
 | 30  | All the K-Pop Ⓨ | [>](https://www.youtube.com/c/ALLTHEKPOP/live) | <img height="20" src="https://i.imgur.com/tBbTTAx.png"/> | AlltheKPop.kr |
 | 31  | Shinsegae TV Shopping | [>](https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8) | <img height="20" src="https://tvtolive.com/wp-content/uploads/Shinsegae-TV-Shopping-tvtolive.com_.jpg"/> | ShinsegaeTVShopping.kr |
 | 32 | Lotte Home Shopping | [>](https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8) | <img height="20" src="https://tvtolive.com/wp-content/uploads/Lotte-Homeshopping-tvtolive.com_.jpg"/> | LotteHomeShopping.kr |
+| 33 | KShopping  | [>](https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8) | <img height="20" src="https://img.hankyung.com/photo/202205/AKR20220526045000003_01_i_P4.jpg"/> | KShopping.kr |
