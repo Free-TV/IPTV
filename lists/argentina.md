@@ -6,6 +6,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 
 | #    | Channel        | Link  | Logo | EPG id |
 |:----:|:--------------:|:-----:|:----:|:------:|
+| 3 | TN Todo Noticias  | [>](https://live-01-01-tn.vodgc.net/TN24/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png"/> | TodoNoticias.ar |
 | 22.1 | Encuentro Ⓨ Ⓖ  | [>](https://www.youtube.com/user/encuentro/live) | <img height="20" src="https://i.imgur.com/IyP2UIx.png"/> | Encuentro.ar |
 | 22.2 | Pakapaka Ⓨ Ⓖ   | [>](https://www.youtube.com/user/CanalPakapaka/live) | <img height="20" src="https://i.imgur.com/Q4zaCuM.png"/> | Pakapaka.ar |
 | 22.3 | Mirador TV     | [>](https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KjD1uJS.png"/> | Mirador.ar |
