@@ -49,3 +49,5 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TN Live" tvg-logo="https://i.imgur.com/9P7ZyFu.png" tvg-id="" group-title="Czech Republic",TN Live
 https://sktv-forwarders.7m.pl/get.php?x=NovaTNLive
+#EXTINF:-1 tvg-name="Praha TV" tvg-logo="https://www.praga2018.cz/wp-content/uploads/logo-prahatv.png" tvg-id="PrahaTV.cz" group-title="Czech Republic",Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8

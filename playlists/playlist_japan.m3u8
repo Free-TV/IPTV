@@ -39,3 +39,7 @@ https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-name="Shop Channel" tvg-logo="https://i.imgur.com/rkdKa5a.png" tvg-id="ShopChannel.jp" group-title="Japan",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png" tvg-id="Animax.jp" group-title="Japan",Animax
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/220px-2019_Disney_Channel_logo.svg.png" tvg-id="DisneyChannelJapan.jp" group-title="Japan",Disney Channel Japan
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
