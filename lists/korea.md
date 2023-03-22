@@ -34,3 +34,4 @@ https://en.wikipedia.org/wiki/Television_in_South_Korea
 | 28  | KBS World      | [>](http://ye23.vip/z7z8/2021/kbs2020.php?id=3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png"/> | KBSWorld.kr |
 | 29  | KBS Korea Ⓨ    | [>](https://www.youtube.com/c/kbsworldtv/live) | <img height="20" src="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png"/> | KBSKorea.kr |
 | 30  | All the K-Pop Ⓨ | [>](https://www.youtube.com/c/ALLTHEKPOP/live) | <img height="20" src="https://i.imgur.com/tBbTTAx.png"/> | AlltheKPop.kr |
+| 31  | Shinsegae TV Shopping | [>](https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8) | <img height="20" src="https://company.shinsegaeliveshopping.com:446/main.do"/> | ShinsegaeTVShopping.kr |
