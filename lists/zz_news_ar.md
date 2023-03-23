@@ -7,3 +7,4 @@
 | 3   | DW العربية | [>](https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> | DWArabic.de |
 | 4   | CGTN العربية | [>](https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNArabic.cn |
 | 5   | Sky News العربية | [>](https://stream.skynewsarabia.com/hls/sna.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png"/> | SkyNewsArabia.ae |
+| 6   | BBC Arabic بي بي سي عربي | [>](https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_BBC_Arabic.png/220px-Logo_BBC_Arabic.png"/> | BBCArabic.uk |
