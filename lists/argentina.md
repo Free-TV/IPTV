@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 | 32.1 | TV Universidad | [>](https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8) | <img height="20" src="https://i.imgur.com/tvLHiAT.png"/> | TVUniversidad.ar |
 | 32.2 | Canal 4 San Juan| [>](http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8) | <img height="20" src="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"/> | Canal4SanJuan.ar |
 | 33.1 | El Trece       | [>](https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8) | <img height="20" src="https://i.imgur.com/ZK7AQFg.png"/> | ElTrece.ar |
-| 34.1 | Canal 34 San Juan     | [>](http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8) | <img height="20" src="https://latinartv.com/sites/default/files/logos/82536410_1298596117000777_4339975353511444480_o_0.png"/> | Canal34SanJuan.ar |
+| 34.2 | Canal 34 San Juan     | [>](http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8) | <img height="20" src="https://latinartv.com/sites/default/files/logos/82536410_1298596117000777_4339975353511444480_o_0.png"/> | Canal34SanJuan.ar |
 | 35.1 | El Nueve       | [>](https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/EtcVSm4.png"/> | ElNueve.ar |
 | 36.1 | América Ⓨ      | [>](https://www.youtube.com/c/americaenvivo/live) | <img height="20" src="https://i.imgur.com/Jt7dOQm.png"/> | AmericaTV.ar |
 | 36.2 | Canal 7 Jujuy   | [>](https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8) | <img height="20" src="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"/> | Canal7Jujuy.ar |
