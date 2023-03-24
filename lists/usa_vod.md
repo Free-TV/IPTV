@@ -1,6 +1,6 @@
 <h1>Usa VOD</h1>
 
-<h2>Misc</h2>
+<h2>Bumblebee TV</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
