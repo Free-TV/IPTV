@@ -34,3 +34,6 @@ https://en.wikipedia.org/wiki/Television_in_South_Korea
 | 28  | KBS World      | [>](http://ye23.vip/z7z8/2021/kbs2020.php?id=3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png"/> | KBSWorld.kr |
 | 29  | KBS Korea Ⓨ    | [>](https://www.youtube.com/c/kbsworldtv/live) | <img height="20" src="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png"/> | KBSKorea.kr |
 | 30  | All the K-Pop Ⓨ | [>](https://www.youtube.com/c/ALLTHEKPOP/live) | <img height="20" src="https://i.imgur.com/tBbTTAx.png"/> | AlltheKPop.kr |
+| 31  | Shinsegae Shopping TV| [>](https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8) | <img height="20" src="https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_204255_16463712794964755.jpg"/> | ShinsegaeTVShopping.kr |
+| 32  | Lotte Home Shopping | [>](https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8) | <img height="20" src="http://www.lottehomeshopping.com/resources/user/images/sub/wci_logo1.png"/> | LotteHomeShopping.kr |
+| 33  | K Shopping | [>](https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8) | <img height="20" src="http://www.sbiztoday.kr/news/photo/202205/12218_16927_4325.jpg"/> | KShopping.kr |
