@@ -2035,8 +2035,6 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/FcN1OKo.png" tvg-id="FilmRiseSciFi.us" group-title="VOD Movies (EN)",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
-#EXTINF:-1 tvg-name="Pluto TV 007" tvg-logo="https://i.imgur.com/qKqEqUC.png" group-title="VOD Movies (EN)",Pluto TV 007
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4db961034718b2f52f9e52/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5d4db961034718b2f52f9e52&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="VOD Movies (EN)",Pluto TV Spotlight
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="VOD Movies (EN)",Pluto TV Action
