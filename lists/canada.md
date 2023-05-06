@@ -21,17 +21,17 @@
 | 16  | Star TV         | [>](http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u) | <img height="20" src="https://i.imgur.com/Ap54LCC.png"/> |
 | 17  | CBC News        | [>](https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8) | <img height="20" src="https://i.imgur.com/1EqQGKS.png"/> | CBCNewsNetwork.ca |
 | 18  | CTV News        | [>](https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8) | <img height="20" src="https://i.imgur.com/T3oBeiX.png"/> | CTVNewsChannel.ca |
-| 19  | Global News     | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/National/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
-| 20  | Global News BC  | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/BC/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CHANDT.ca |
-| 21  | Global News Calgary      | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Calgary/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CICTDT.ca |
-| 22  | Global News Halifax      | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Halifax/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
-| 23  | Global News Kingston     | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Kingston/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CKWSDT.ca |
-| 24  | Global News Montreal     | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Montreal/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
-| 25  | Global News Peterborough | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Peterborough/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CHEXDT.ca |
-| 26  | Global News Regina       | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Regina/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CFREDT.ca |
-| 27  | Global News Saskatoon    | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Saskatoon/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CFSKDT.ca |
-| 28  | Global News Vancouver    | [>](https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
-| 29  | Global News Winnipeg     | [>](https://siloh.pluto.tv/lilo/production/GlobalNews/Winnipeg/CAN/master.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CKNDDT.ca |
+| 19  | Global News     | [>](https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
+| 20  | Global News BC  | [>](https://i.mjh.nz/PlutoTV/62cbf063257170000724590c-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CHANDT.ca |
+| 21  | Global News Calgary      | [>](https://i.mjh.nz/PlutoTV/62cbf23dcfb48300077f8348-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CICTDT.ca |
+| 22  | Global News Halifax      | [>](https://i.mjh.nz/PlutoTV/62cbf398b8e02600071deda5-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
+| 23  | Global News Kingston     | [>](https://i.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CKWSDT.ca |
+| 24  | Global News Montreal     | [>](https://i.mjh.nz/PlutoTV/62cbfbd6ad95670007f567af-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
+| 25  | Global News Peterborough | [>](https://i.mjh.nz/PlutoTV/62cbfcd8c2db990007861e43-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CHEXDT.ca |
+| 26  | Global News Regina       | [>](https://i.mjh.nz/PlutoTV/62cbff53ca8f2200080253b5-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CFREDT.ca |
+| 27  | Global News Saskatoon    | [>](https://i.mjh.nz/PlutoTV/62cc00359cb58900088dc840-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CFSKDT.ca |
+| 28  | Global News Vancouver    | [x](https://d8i9f8op7jmyk.cloudfront.net/out/v1/89a3f0453e134472a2101f6264d055ae/index.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
+| 29  | Global News Winnipeg     | [>](https://i.mjh.nz/PlutoTV/62cc0120880c890007191016-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CKNDDT.ca |
 | 30  | CPAC (EN)       | [>](https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/AbdFD0S.png"/> | CPACEnglish.ca |
 
 <h2>French</h2>
