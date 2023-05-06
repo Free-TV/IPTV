@@ -317,7 +317,7 @@ https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
 https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
 #EXTINF:-1 tvg-name="DR Ramasjang  Ⓖ" tvg-logo="https://i.imgur.com/YD0z2mN.png" tvg-id="DRRamasjang.dk" group-title="Denmark",DR Ramasjang  Ⓖ
 https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
-#EXTINF:-1 tvg-name="Folketinget TV  Ⓖ" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-id="TVfromtheDanishParliament.dk" group-title="Denmark",Folketinget TV  Ⓖ
+#EXTINF:-1 tvg-name="Folketinget TV" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-id="TVfromtheDanishParliament.dk" group-title="Denmark",Folketinget TV
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="Canal RTVD 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png" tvg-id="Canal4RD.do" group-title="Dominican Republic",Canal RTVD 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
