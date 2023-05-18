@@ -5,6 +5,7 @@
 | 1   | Yle TV1   Ⓖ | [>](https://yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8) | <img height="20" src="https://i.imgur.com/6yXZwUL.png"/> | YleTV1.fi |
 | 2   | Yle TV2  Ⓖ | [>](https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8) | <img height="20" src="https://i.imgur.com/4xkc6PL.png"/> | YleTV2.fi |
 | 3   | MTV3   | [>](https://live-fi.tvkaista.net/mtv3/live.m3u8) | <img height="20" src="https://i.imgur.com/kNbmc8n.png"/> | MTV3.fi |
+| 4   | Nelonen   | [>](https://live-fi.tvkaista.net/nelonen/live.m3u8) | <img height="20" src="https://i.imgur.com/BFbCyfY.png"/> | Nelonen.fi |
 | 5   | Yle Teema Fem  Ⓖ | [>](https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8) | <img height="20" src="https://i.imgur.com/iDljufz.png"/> | YleTeemaFem.fi |
 | 6   | MTV Sub  | [>](https://live-fi.tvkaista.net/sub/live.m3u8) | <img height="20" src="https://i.imgur.com/VRCuxQt.png"/> | Sub.fi |
 | 7   | TV5  | [>](https://live-fi.tvkaista.net/tv5/live.m3u8) | <img height="20" src="https://i.imgur.com/MoukyGs.png"/> | TV5.fi |
