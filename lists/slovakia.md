@@ -8,7 +8,7 @@
 | 4   | RTVS Šport    | [>](https://sktv-forwarders.7m.pl/get.php?x=SPORT) | <img height="20" src="https://i.imgur.com/YzHipRF.png"/> | Sport.sk |
 | 5   | :O    | [>](https://sktv-forwarders.7m.pl/get.php?x=STV-O) | <img height="20" src="https://i.imgur.com/Nf5gEDc.png"/> |
 | 6   | RTVS    | [>](https://sktv-forwarders.7m.pl/get.php?x=RTVS) | <img height="20" src="https://i.imgur.com/Nf5gEDc.png"/> |
-| 7   | NR SR    | [>](https://sktv-forwarders.7m.pl/get.php?x=NR_SR) | <img height="20" src="https://i.imgur.com/sPDiS5q.png"/> |
+| 7   | NR SR    | [>](https://sktv-forwarders.7m.pl/get.php?x=NR_SR) | <img height="20" src="https://i.imgur.com/sPDiS5q.png"/> | TVNRSR.sk |
 | 8   | JOJ    | [>](https://st01-1.iptv.joj.sk/101-tv-pc.m3u8) | <img height="20" src="https://i.imgur.com/5BAWD0z.png"/> | TVJOJ.sk |
 | 9   | JOJ Plus    | [>](https://st01-1.iptv.joj.sk/102-tv-pc.m3u8) | <img height="20" src="https://i.imgur.com/fKPliTj.png"/> | JOJPlus.sk |
 | 10  | WAU    | [>](https://st01-1.iptv.joj.sk/103-tv-pc.m3u8) | <img height="20" src="https://i.imgur.com/wO5ifff.png"/> | JOJWAU.sk |
