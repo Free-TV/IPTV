@@ -9,6 +9,7 @@
 | 101 | BTV Ⓢ | [>](http://88.216.83.245/btv/index.m3u8) | <img height="20" src="https://i.imgur.com/AeplGsP.png"/> | BTV.lt |
 | 102 | Info TV Ⓢ | [>](http://88.216.83.245/info/index.m3u8) | <img height="20" src="https://i.imgur.com/EjQtIpM.png"/> | InfoTV.lt |
 | 103 | Lietuvos Rytas TV Ⓢ | [>](http://88.216.83.245/lrytas/index.m3u8) | <img height="20" src="https://i.imgur.com/5wpxVI0.png"/> | LietuvosRytasTV.lt |
+| 103 | Delfi TV Ⓢ | [>](http://88.216.83.245/delfi/index.m3u8) | <img height="20" src="https://i.imgur.com/IFoHP5M.png"/> | DelfiTV.lt |
 | 1   | TV1 Ⓢ | [>](http://88.216.83.245/tv1/index.m3u8) | <img height="20" src="https://i.imgur.com/KLWDcFy.png"/> | TV1.lt |
 | 3   | TV3 Ⓢ | [>](http://88.216.83.245/tv3/index.m3u8) | <img height="20" src="https://i.imgur.com/7nipq0y.png"/> | TV3Lithuania.lt |
 | 6   | TV6 Ⓢ | [>](http://88.216.83.245/tv6/index.m3u8) | <img height="20" src="https://i.imgur.com/oC0jiFW.png"/> | TV6Lithuania.lt |
