@@ -13,3 +13,4 @@
 | 9   | Pos TV | [>](https://live.postv.media/stream/index.m3u8) | <img height="20" src="https://i.imgur.com/UOiXFEW.png"/> | PosTV.ge |
 | 10   | Adjara TV | [x]() | <img height="20" src="https://i.imgur.com/UOiXFEW.png"/> | AjaraTV.ge |
 | 11   | Maestro TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Maestro_tv.png"/> | Maestro.ge |
+| 11   | Obieqtivi | [x]() | <img height="20" src="https://i.imgur.com/Kqc8H8X.png"/> | ObieqtiviTV.ge |
