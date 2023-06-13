@@ -1731,7 +1731,7 @@ https://sktv-forwarders.7m.pl/get.php?x=SPORT
 https://sktv-forwarders.7m.pl/get.php?x=STV-O
 #EXTINF:-1 tvg-name="RTVS" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",RTVS
 https://sktv-forwarders.7m.pl/get.php?x=RTVS
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" group-title="Slovakia",NR SR
+#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Slovakia",NR SR
 https://sktv-forwarders.7m.pl/get.php?x=NR_SR
 #EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" tvg-id="TVJOJ.sk" group-title="Slovakia",JOJ
 https://st01-1.iptv.joj.sk/101-tv-pc.m3u8
