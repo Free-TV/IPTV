@@ -14,3 +14,4 @@
 | 10   | Adjara TV | [x]() | <img height="20" src="https://i.imgur.com/UOiXFEW.png"/> | AjaraTV.ge |
 | 11   | Maestro TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Maestro_tv.png"/> | Maestro.ge |
 | 11   | Obieqtivi | [x]() | <img height="20" src="https://i.imgur.com/Kqc8H8X.png"/> | ObieqtiviTV.ge |
+| 999  | Euronews Georgia | [>](https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VNJ4soR.png"/> | EuroNewsGeorgia.ge |
