@@ -22,7 +22,7 @@
 | 9   | Kanal 9 | [x]() | <img height="20" src="https://i.imgur.com/H48HSkq.png"/> | Kanal9.se |
 | 11  | Kanal 11 | [x]() | <img height="20" src="https://i.imgur.com/X0tNUMH.png"/> | Kanal11.se |
 | 12  | TV12 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Tv_12_logga.png"/> | TV12.se |
-| 18   | ATG Live | [>](https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8) | <img height="20" src="https://i.imgur.com/bPWFXkL.png"/> | ATGLive.se |
+| 18   | ATG Live Ⓢ | [>](https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8) | <img height="20" src="https://i.imgur.com/bPWFXkL.png"/> | ATGLive.se |
 | 43   | Expressen TV | [>](https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8EjMSr7.png"/> | ExpressenTV.se |
 | 49  | Kanal 10 | [>](https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8) | <img height="20" src="https://i.imgur.com/vlh699v.png"/> | Kanal10.se |
 | 121  | Di TV | [>](https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/zApTDWn.png"/> | DiTV.se |
