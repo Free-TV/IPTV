@@ -36,3 +36,4 @@
 | 1003  | Öppna Kanalen Malmö Ⓢ | [>](https://edg01-prd-de-ixn.solidtango.com/edge/_8ynhbua3_/8ynhbua3/manifest.m3u8) | <img height="20" src="https://i.imgur.com/sjw8dsM.jpg"/> | TVMalmo.se |
 | 1006  | Västmanlands TV | [>](https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EXBaQ88.jpg"/> | VastmanlandsTV.se |
 | 1009  | Sundskanalen | [>](https://stream.sundskanalen.se/live/view/index.m3u8) | <img height="20" src="https://imgur.com/8uT0p3q.jpg"/> | Sundskanalen.se |
+| 1036  | Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ | [>](https://www.youtube.com/@LtvuSeTube/live) | <img height="20" src="https://i.imgur.com/cnLkbOT.png"/> | LTVU.se |
