@@ -32,5 +32,6 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1001  | Öppna Kanalen Stockholm Ⓢ | [>](https://edg03-prd-se-ixn.solidtango.com/edge/451iw2h/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GWlstv5.png"/> | OppnaKanalenStockholm.se |
-| 1002  | Öppna Kanalen Göteborg Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/s0Ync7t.jpg"/> | OppnaKanalenGoteborg.se |
+| 1002  | Öppna Kanalen Göteborg | [x]() | <img height="20" src="https://i.imgur.com/s0Ync7t.jpg"/> | OppnaKanalenGoteborg.se |
 | 1003  | Öppna Kanalen Malmö Ⓢ | [>](https://edg01-prd-de-ixn.solidtango.com/edge/_8ynhbua3_/8ynhbua3/manifest.m3u8) | <img height="20" src="https://i.imgur.com/sjw8dsM.jpg"/> | TVMalmo.se |
+| 1009  | Sundskanalen | [>](https://stream.sundskanalen.se/live/view/index.m3u8) | <img height="20" src="https://imgur.com/8uT0p3q.jpg"/> | Sundskanalen.se |
