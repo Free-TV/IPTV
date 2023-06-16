@@ -1577,6 +1577,14 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" group-title="Mexico",Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCG 1" tvg-logo="https://i.imgur.com/QORHrXu.png" tvg-id="TVCG1.me" group-title="Montenegro",TVCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCG 2" tvg-logo="https://i.imgur.com/WECmUKH.png" tvg-id="TVCG2.me" group-title="Montenegro",TVCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCG 3" tvg-logo="https://i.imgur.com/XC7zVog.png" tvg-id="Parlamentarnikanal.me" group-title="Montenegro",TVCG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCG MNE" tvg-logo="https://i.imgur.com/pf8VEwf.png" tvg-id="TVCGMNE.me" group-title="Montenegro",TVCG MNE
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NPO 1 Ⓖ" tvg-logo="https://i.imgur.com/pUBy4Pb.png" tvg-id="NPO1.nl" group-title="Netherlands",NPO 1 Ⓖ
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
 #EXTINF:-1 tvg-name="NPO 2 Ⓖ" tvg-logo="https://i.imgur.com/Vl2G1H3.png" tvg-id="NPO2.nl" group-title="Netherlands",NPO 2 Ⓖ
