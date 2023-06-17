@@ -11,5 +11,5 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | RTV 1 | [>](rtsp://212.200.255.151/rtv1) | <img height="20" src="https://i.imgur.com/ECdm4TR.png"/> | RTS1.rs |
-| 2   | RTV 2 | [>](rtsp://212.200.255.151/rtv2) | <img height="20" src="https://i.imgur.com/jltAf5h.png"/> | RTS2.rs |
+| 1   | RTV 1 | [>](rtsp://212.200.255.151/rtv1) | <img height="20" src="https://i.imgur.com/ECdm4TR.png"/> | RTV1.rs |
+| 2   | RTV 2 | [>](rtsp://212.200.255.151/rtv2) | <img height="20" src="https://i.imgur.com/jltAf5h.png"/> | RTV2.rs |
