@@ -7,15 +7,15 @@ https://en.wikipedia.org/wiki/Television_in_Spain#Digital_terrestrial_television
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | La 1           | [>](https://rtvelivestreamv3.akamaized.net/segments/la1/la1_main_720.m3u8) | <img height="20" src="https://i.imgur.com/NbesiPn.png"/> | La1.es |
-| 2   | La 2           | [>](https://rtvelivestreamv3.akamaized.net/segments/la2/la2_main_1080.m3u8) | <img height="20" src="https://i.imgur.com/DmuTwDw.png"/> | La2.es |
+| 1   | La 1           | [>](https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8) | <img height="20" src="https://i.imgur.com/NbesiPn.png"/> | La1.es |
+| 2   | La 2           | [>](https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8) | <img height="20" src="https://i.imgur.com/DmuTwDw.png"/> | La2.es |
 | 3   | Antena 3       | [x]() | <img height="20" src="https://i.imgur.com/j3SP4BS.png"/> | Antena3.es |
 | 4   | Cuatro         | [x]() | <img height="20" src="https://i.imgur.com/zROxNap.png"/> | Cuatro.es |
 | 5   | Telecinco      | [x]() | <img height="20" src="https://i.imgur.com/JECsKdk.png"/> | Telecinco.es |
 | 6   | La Sexta       | [x]() | <img height="20" src="https://i.imgur.com/b59MxgM.png"/> | LaSexta.es |
-| 7   | 24h            | [>](https://rtvelivestreamv3.akamaized.net/segments/24h/24h_main_720.m3u8) | <img height="20" src="https://i.imgur.com/ZKR2jKr.png"/> | 24h.es |
-| 8   | tdp            | [>](https://rtvelivestreamv3.akamaized.net/segments/tdp/tdp_main_1080.m3u8) | <img height="20" src="https://i.imgur.com/HliegRJ.png"/> | tdp.es |
-| 9   | clan           | [>](https://rtvelivestreamv3.akamaized.net/segments/clan/clan_main_720.m3u8) | <img height="20" src="https://i.imgur.com/38xIfQ3.png"/> | clan.es |
+| 7   | 24h            | [>](https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8) | <img height="20" src="https://i.imgur.com/ZKR2jKr.png"/> | 24h.es |
+| 8   | tdp            | [>](https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8) | <img height="20" src="https://i.imgur.com/HliegRJ.png"/> | tdp.es |
+| 9   | clan           | [>](https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8) | <img height="20" src="https://i.imgur.com/38xIfQ3.png"/> | clan.es |
 
 <h3>Regional</h3>
 
