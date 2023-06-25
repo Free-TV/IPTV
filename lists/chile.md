@@ -14,8 +14,11 @@
 | 10 | T13 en vivo | [>](https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3CEijac.png"/> | T13.cl |
 | 11 | 13 Entretención Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Entretencion) | <img height="20" src="https://i.imgur.com/1vTno0m.png"/> | 13E.cl |
 | 12 | 13 Cultura Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Cultura) | <img height="20" src="https://i.imgur.com/49QkKWv.png"/> |  |
-| 12 | 13 Prime Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Prime) | <img height="20" src="https://i.imgur.com/YwDFNxs.png"/> | 13P.cl |
-
-
-
-do not use yet
+| 13 | 13 Prime Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Prime) | <img height="20" src="https://i.imgur.com/YwDFNxs.png"/> | 13P.cl |
+| 14 | 13 Kids Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Kids) | <img height="20" src="https://i.imgur.com/m6y9AMe.png"/> |  |
+| 15 | 13 Realities Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Realities) | <img height="20" src="https://i.imgur.com/p1Qpljw.png"/> |  |
+| 16 | 13 Teleseries Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Teleseries) | <img height="20" src="https://i.imgur.com/aJMBnse.png"/> | 13T.cl |
+| 17 | El Pingüino TV Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=ElPinguinoTV) | <img height="20" src="https://i.imgur.com/ohXs2NV.png"/> | ElPinguinoTV.cl |
+| 18 | Canal País Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=CanalPais) | <img height="20" src="https://i.imgur.com/PuwWoer.png"/> |  |
+| 19 | UCL Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=Ucl) | <img height="20" src="https://i.imgur.com/JxqVHPX.png"/> |  |
+| 20 | Deportes13 Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=Deportes13) | <img height="20" src="https://i.imgur.com/GRpxoPf.png"/> | D13.cl |
