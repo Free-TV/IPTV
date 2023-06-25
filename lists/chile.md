@@ -19,5 +19,5 @@
 | 15 | 13 Realities Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Realities) | <img height="20" src="https://i.imgur.com/p1Qpljw.png"/> |  |
 | 16 | 13 Teleseries Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=13Teleseries) | <img height="20" src="https://i.imgur.com/aJMBnse.png"/> | 13T.cl |
 | 17 | El Pingüino TV Ⓖ | [>](https://sktv-forwarders.7m.pl/get.php?x=ElPinguinoTV) | <img height="20" src="https://i.imgur.com/ohXs2NV.png"/> | ElPinguinoTV.cl |
-| 18 | UCL Ⓖ | [>](https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JxqVHPX.png"/> |  |
-| 19 | Deportes13 Ⓖ | [>](https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GRpxoPf.png"/> | D13.cl |
+| 18 | UCL | [>](https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JxqVHPX.png"/> |  |
+| 19 | Deportes13 | [>](https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GRpxoPf.png"/> | D13.cl |
