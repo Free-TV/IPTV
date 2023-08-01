@@ -37,7 +37,7 @@ def main():
         # head_playlist = f'#EXTM3U x-tvg-url="{processed_epg_list}"'
         # print(f'#EXTM3U x-tvg-url="{processed_epg_list}"', file=playlist)
         head_playlist = '#EXTM3U'
-        print('#EXTM3U')
+        print('#EXTM3U', file=playlist)
         os.chdir("lists")
         for filename in sorted(os.listdir(".")):
             if filename == "README.md" or not filename.endswith(".md"):
