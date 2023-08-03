@@ -9,13 +9,13 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 |  1 |   Первый канал Ⓢ   | [>](https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |     Россия 1     | [>](https://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8) | <img height="20" src="https://i.imgur.com/WI6hKez.png"/> | Russia1.ru |
 |  3 |     Матч ТВ      | [>](https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
-|  4 |       НТВ Ⓢ        | [>](http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
+|  4 |       НТВ Ⓢ        | [>](https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал Ⓢ    | [>](https://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8) | <img height="20" src="https://i.imgur.com/u8Q69D9.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура Ⓢ  | [>](https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
 |  7 |    Россия-24 Ⓢ     | [>](https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
-|  8 |     Карусель Ⓢ     | [>](http://flu.ttk.mx:9090/Karusel/index.m3u8?token=orh6o) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
-|  9 |       ОТР Ⓢ        | [>](http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
-| 10 |     ТВ Центр Ⓢ     | [>](http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
+|  8 |     Карусель Ⓢ     | [>](https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
+|  9 |       ОТР Ⓢ        | [>](https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
+| 10 |     ТВ Центр Ⓢ     | [>](http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
 | 11 |      Рен ТВ Ⓢ      | [>](https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8) | <img height="20" src="https://i.imgur.com/18TAzYV.png"/> | RENTV.ru |
 | 12 |       Спас Ⓢ       | [>](https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8) | <img height="20" src="https://i.imgur.com/A6Cqsom.jpeg"/> | TelekanalSpas.ru |
 | 13 |       СТС Ⓢ        | [>](https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8) | <img height="20" src="https://i.imgur.com/y9bpqUD.png"/> | STS.ru |
