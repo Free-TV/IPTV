@@ -15,7 +15,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 |  7 |    Россия-24 Ⓢ     | [>](https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
 |  8 |     Карусель Ⓢ     | [>](https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
 |  9 |       ОТР Ⓢ        | [>](https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
-| 10 |     ТВ Центр Ⓢ     | [>](http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
+| 10 |     ТВ Центр Ⓢ     | [>](https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
 | 11 |      Рен ТВ Ⓢ      | [>](https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/480p.m3u8) | <img height="20" src="https://i.imgur.com/18TAzYV.png"/> | RENTV.ru |
 | 12 |       Спас Ⓢ       | [>](https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8) | <img height="20" src="https://i.imgur.com/A6Cqsom.jpeg"/> | TelekanalSpas.ru |
 | 13 |       СТС Ⓢ        | [>](https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/480p.m3u8) | <img height="20" src="https://i.imgur.com/y9bpqUD.png"/> | STS.ru |
