@@ -4,5 +4,5 @@
 
 | #   | Channel         | Link  | Logo | EPG id |
 |:---:|:---------------:|:-----:|:----:|:------:|
-| 1   | TVB   			|[x]()  |<img height="20" src="https://imgur.com/a/nat7vBm"/> |
-| 1   | J2   			|[x]()  |<img height="20" src="https://imgur.com/eiOeceO"/> |
+| 1   | TVB   			|[x]()  |<img height="20" src="https://imgur.com/a/nat7vBm"/> | |
+| 1   | J2   			|[x]()  |<img height="20" src="https://imgur.com/eiOeceO"/> | |
