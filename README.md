@@ -53,8 +53,6 @@ Feed sources
 It can be quite hard to find up to date URLs, here's a list of sources:
 
 - https://github.com/iptv-org/iptv/tree/master/streams
-- https://github.com/iptv-restream/iptv-channels/tree/master/channels
-- https://github.com/Onemars/iptv-1/tree/master/channels
 - Youtube: As long as the channel is live and its URL doesn't change (check the age of the stream, the number of viewers..)
 - Dailymotion: Same criteria as for youtube
 
