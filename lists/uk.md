@@ -13,7 +13,7 @@
 | 3   | ITV 1 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png"/> | ITV1.uk |
 | 4   | Channel 4 Ⓢ| [>](https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png"/> | Channel4.uk |
 | 5   | Channel 5 | [>](https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png"/> | Channel5.uk |
-| 6   | ITV 2 | [>](http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png"/> | ITV2.uk |
+| 6   | ITV 2 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png"/> | ITV2.uk |
 | 9   | BBC Four Ⓢ | [>](https://helpfulpost.net/bbcfour/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png"/> | BBCFour.uk |
 | 10  | ITV 3 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png"/> | ITV3.uk |
 | 13  | E4 Ⓢ       | [>](https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png"/> | E4.uk |
@@ -47,6 +47,11 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 250 | SportyStuff TV | [>](https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8) | <img height="20" src="https://i.imgur.com/uIgxHSY.png"/> | SportyStuffTV.uk |
+| 501 | 4Music | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png"/> | 4Music.uk |
+| 502 | The Box | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/) | <img height="20" src="https://i.imgur.com/e1Cf4Li.png"/> | TheBoxUK.uk |
+| 503 | KISS | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/) | <img height="20" src="https://i.imgur.com/47ZkVhO.png"/> | KissTVUK.uk |
+| 504 | Magic | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878) | <img height="20" src="https://i.imgur.com/e1Cf4Li.png"/> | Magic.uk |
+| 505 | Kerrang! | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/) | <img height="20" src="https://i.imgur.com/3mwf8Uq.png"/> | Kerrang.uk |
 | 801 | QVC Beauty  | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/ZBHtqk1.png"/> | QVCBeautyUK.uk |
 | 801 | QVC Extra  | [>](https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/TIe5T9Z.png"/> | QVCExtraUK.uk |
 | 803 | QVC Style   | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/6HZlLL3.png"/> | QVCStyleUK.uk |
