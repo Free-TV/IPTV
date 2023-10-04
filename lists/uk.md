@@ -2,31 +2,36 @@
 
 <h2>Freeview</h2>
 
+https://en.wikipedia.org/wiki/List_of_television_channels_in_the_United_Kingdom
+https://www.freeview.co.uk/tv-guide
+
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | BBC One Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/72knNcb.png"/> | BBCOne.uk |
 | 2   | BBC Two Ⓢ  | [x]() | <img height="20" src="https://i.imgur.com/Bn29Mmo.png"/> | BBCTwo.uk |
-| 3   | ITV Ⓢ      | [>](http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8) | <img height="20" src="https://i.imgur.com/ABwq10G.png"/> |
+| 3   | ITV 1 Ⓢ    | [>](http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png"/> | ITV1.uk |
 | 4   | Channel 4 Ⓢ| [x]() | <img height="20" src="https://i.imgur.com/LfvwZfy.png"/> |
 | 5   | Channel 5 Ⓢ| [x]() | <img height="20" src="https://i.imgur.com/MlQrMU8.png"/> |
-| 6   | ITV 2 Ⓢ    | [>](http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Ji65OXG.png"/> |
-| 8   | BBC Four Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/HMw8GBx.png"/> |
-| 9   | ITV 3 Ⓢ    | [>](http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8) | <img height="20" src="https://i.imgur.com/vYNyYGx.png"/> |
-| 12  | E4 Ⓢ       | [x]() | <img height="20" src="https://i.imgur.com/wqFHeA0.png"/> |
-| 13  | Film4 Ⓢ    | [x]() | <img height="20" src="https://i.imgur.com/bSJb8sy.png"/> |
-| 14  | QVC         | [>](https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/1Zp2uo5.png"/> |
-| 16  | More4 Ⓢ    | [x]() | <img height="20" src="https://i.imgur.com/ZzmxmK2.png"/> |
-| 17  | Dave Ⓢ     | [x]() | <img height="20" src="https://i.imgur.com/lImahrB.png"/> |
-| 21  | ITV 4 Ⓢ    | [>](http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8) | <img height="20" src="https://i.imgur.com/J9B1gvC.png"/> |
+| 6   | ITV 2 Ⓢ    | [>](http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png"/> | ITV2.uk |
+| 9   | BBC Four Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/HMw8GBx.png"/> |
+| 10  | ITV 3 Ⓢ    | [>](http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png"/> | ITV3.uk |
+| 13  | E4 Ⓢ       | [x]() | <img height="20" src="https://i.imgur.com/wqFHeA0.png"/> |
+| 14  | Film4 Ⓢ    | [x]() | <img height="20" src="https://i.imgur.com/bSJb8sy.png"/> |
+| 16  | QVC         | [>](https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/1Zp2uo5.png"/> |
+| 18  | More4 Ⓢ    | [x]() | <img height="20" src="https://i.imgur.com/ZzmxmK2.png"/> |
+| 19  | Dave Ⓢ     | [x]() | <img height="20" src="https://i.imgur.com/lImahrB.png"/> |
+| 26  | ITV 4 Ⓢ    | [>](http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png"/> | ITV4.uk |
 | 29  | QVC Beauty  | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/1Zp2uo5.png"/> |
 | 30  | QVC Style   | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/xfEoWFA.png"/> |
-| 37  | GemsTV Ⓢ   | [>](http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8) | <img height="20" src="https://i.imgur.com/IR2sTag.png"/> |
-| 51  | Jewlery Maker | [>](https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/azSptPw.png"/> |
+| 45  | GemsTV Ⓢ   | [>](http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8) | <img height="20" src="https://i.imgur.com/IR2sTag.png"/> |
+| 72  | Jewlery Maker | [>](https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/azSptPw.png"/> |
 | 53  | Now 80s    | [>](https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8paz37m.png"/> |
-| 63  | BBC News Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/xBLLYyx.png"/> |
-| 65  | CBeebies Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/CE8mgnW.png"/> |
-| 72  | Sky News  | [>](https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
-| 91  | PBS America   | [>](https://pbs-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J4zE5z9.jpg"/> |
+| 84  | PBS America   | [>](https://pbs-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J4zE5z9.jpg"/> |
+| 202 | CBeebies Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/CE8mgnW.png"/> |
+| 231 | BBC News Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/xBLLYyx.png"/> |
+| 233 | Sky News  | [>](https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
+| 236 | GB News | [>](https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png"/> | GBNews.uk |
+| 237 | TalkTV | [>](https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png"/> | TalkTV.uk |
 
 <h2>DVB-S</h2>
 
