@@ -33,7 +33,7 @@
 | 85  | Create & Craft | [>](https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/n65sk4L.png"/> | CreateandCraft.uk |
 | 202 | CBeebies Ⓢ | [x]() | <img height="20" src="https://i.imgur.com/CE8mgnW.png"/> |
 | 208 | Pop Max Ⓢ | [>](https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Pop_Max_logo_2017.svg/640px-Pop_Max_logo_2017.svg.png"/> | PopMax.uk |
-| 231 | BBC News Ⓢ | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png"/> |
+| 231 | BBC News | [>](https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png"/> |
 | 233 | Sky News  | [>](https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
 | 236 | GB News | [>](https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png"/> | GBNews.uk |
 | 237 | TalkTV | [>](https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png"/> | TalkTV.uk |
