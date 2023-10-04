@@ -23,8 +23,8 @@
 | 19  | Dave Ⓢ     | [x]() | <img height="20" src="https://i.imgur.com/lImahrB.png"/> |
 | 26  | ITV 4 Ⓢ    | [>](http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png"/> | ITV4.uk |
 | 28  | ITVBe | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png"/> | ITVBe.uk |
-| 29  | QVC Beauty  | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/1Zp2uo5.png"/> |
-| 30  | QVC Style   | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/xfEoWFA.png"/> |
+| 29  | QVC Beauty  | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/ZBHtqk1.png"/> |
+| 30  | QVC Style   | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/6HZlLL3.png"/> |
 | 45  | GemsTV Ⓢ   | [>](http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8) | <img height="20" src="https://i.imgur.com/IR2sTag.png"/> |
 | 72  | Jewlery Maker | [>](https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/azSptPw.png"/> |
 | 53  | Now 80s    | [>](https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8paz37m.png"/> |
