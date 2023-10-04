@@ -81,7 +81,6 @@
 | 19  | 5 USA       | [x]() | <img height="20" src="https://i.imgur.com/G2oua3x.png"/> |
 | 20  | Ideal World | [x]() | <img height="20" src="https://i.imgur.com/NoQUyze.png"/> |
 | 22  | Yesterday   | [x]() | <img height="20" src="https://i.imgur.com/2JR7Sic.png"/> |
-| 24  | 4 Music Ⓢ Ⓖ| [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fboxhits%2F&spotxc1=195996&spotxc2=190878) | <img height="20" src="https://i.imgur.com/rkKaYZx.png"/> |
 | 25  | 5 Star      | [x]() | <img height="20" src="https://i.imgur.com/80SsGZx.png"/> |
 | 26  | Paramount Network | [x]() | <img height="20" src="https://i.imgur.com/ovuJylZ.png"/> |
 | 27  | Sony Movies | [x]() | <img height="20" src="https://i.imgur.com/GyhI165.png"/> |
@@ -107,7 +106,6 @@
 | 50  | Horror Channel | [x]() | <img height="20" src="https://i.imgur.com/NZpDDER.png"/> |
 | 55  | Talking Pictures TV | [x]() | <img height="20" src="https://i.imgur.com/t0tHdqL.png"/> |
 | 56  | Together TV | [x]() | <img height="20" src="https://i.imgur.com/dfnKViW.png"/> |
-| 57  | PBS America | [x]() | <img height="20" src="https://i.imgur.com/RIJLELd.png"/> |
 | 58  | Craft Store TV | [x]() | <img height="20" src="https://i.imgur.com/QKcj9gS.png"/> |
 | 59  | Court TV    | [x]() | <img height="20" src="https://i.imgur.com/gKj0ABu.png"/> |
 | 60  | Ideal Extra | [x]() | <img height="20" src="https://i.imgur.com/ewFQPc0.png"/> |
