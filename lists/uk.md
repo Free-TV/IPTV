@@ -39,6 +39,12 @@
 | 237 | TalkTV | [>](https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png"/> | TalkTV.uk |
 | 262 | Arise News | [>](https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8) | <img height="20" src="https://i.imgur.com/B5IXKIb.png"/> | AriseNews.uk |
 
+<h2>Freesat</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 250 | SportyStuff TV  | [>](https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8imgu) | <img height="20" src="https://i.imgur.com/uIgxHSY.png"/> | SportyStuffTV.uk |
+
 <h2>DVB-S</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
