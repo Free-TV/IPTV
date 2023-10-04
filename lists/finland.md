@@ -8,7 +8,7 @@
 | 4   | Nelonen   | [>](https://live-fi.tvkaista.net/nelonen/live.m3u8) | <img height="20" src="https://i.imgur.com/BFbCyfY.png"/> | Nelonen.fi |
 | 5   | Yle Teema Fem Ⓖ | [>](https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8) | <img height="20" src="https://i.imgur.com/iDljufz.png"/> | YleTeemaFem.fi |
 | 6   | MTV Sub  | [>](https://live-fi.tvkaista.net/sub/live.m3u8) | <img height="20" src="https://i.imgur.com/VRCuxQt.png"/> | Sub.fi |
-| 7   | TV5  | [>](https://live-fi.tvkaista.net/tv5/live.m3u8) | <img height="20" src="https://i.imgur.com/MoukyGs.png"/> | TV5.fi |
+| 7   | TV5 Finland  | [>](https://live-fi.tvkaista.net/tv5/live.m3u8) | <img height="20" src="https://i.imgur.com/MoukyGs.png"/> | TV5.fi |
 | 8   | Liv  | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png"/> | Liv.fi |
 | 9   | Jim  | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Jim_color_RGB.png"/> | Jim.fi |
 | 10   | Kutonen   | [>](https://live-fi.tvkaista.net/kutonen/live.m3u8) | <img height="20" src="https://i.imgur.com/4giVyxb.png"/> | Kutonen.fi |
