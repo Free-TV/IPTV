@@ -27,7 +27,7 @@
 | 28  | ITVBe | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png"/> | ITVBe.uk |
 | 45  | GemsTV Ⓢ   | [>](http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8) | <img height="20" src="https://i.imgur.com/IR2sTag.png"/> |
 | 51  | Ideal World Ⓨ | [>](https://www.youtube.com/@IdealWorldTV/live) | <img height="20" src="https://i.imgur.com/su6GH7i.png"/> | IdealWorldTV.uk |
-| 72  | Jewlery Maker | [>](https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/O7SdkBh.png"/> | JewelleryMaker.uk |
+| 72  | Jewellery Maker | [>](https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/O7SdkBh.png"/> | JewelleryMaker.uk |
 | 73  | Hobby Maker | [>](https://lo2-1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VWHp5Tl.png"/> | HobbyMaker.uk |
 | 84  | PBS America   | [>](https://pbs-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J4zE5z9.jpg"/> |
 | 85  | Create & Craft | [>](https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/n65sk4L.png"/> | CreateandCraft.uk |
