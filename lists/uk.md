@@ -46,7 +46,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 250 | SportyStuff TV | [>](https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8imgu) | <img height="20" src="https://i.imgur.com/uIgxHSY.png"/> | SportyStuffTV.uk |
+| 250 | SportyStuff TV | [>](https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8) | <img height="20" src="https://i.imgur.com/uIgxHSY.png"/> | SportyStuffTV.uk |
 | 801 | QVC Beauty  | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/ZBHtqk1.png"/> | QVCBeautyUK.uk |
 | 801 | QVC Extra  | [>](https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/TIe5T9Z.png"/> | QVCExtraUK.uk |
 | 803 | QVC Style   | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/6HZlLL3.png"/> | QVCStyleUK.uk |
