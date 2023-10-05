@@ -21,9 +21,9 @@
 | 9   | BBC Scotland | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png"/> | BBCScotland.uk |
 | 10  | ITV 3 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png"/> | ITV3.uk |
 | 13  | E4 Ⓢ       | [>](https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png"/> | E4.uk |
-| 14  | Film4 Ⓢ    | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/805px-Film4_logo_2018.svg.png"/> | Film4.uk |
+| 14  | Film4 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/805px-Film4_logo_2018.svg.png"/> | Film4.uk |
 | 16  | QVC UK | [>](https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/6TWUVrh.png"/> | QVCUK.uk |
-| 18  | More4 Ⓢ    | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1023px-More4_logo_2018.svg.png"/> | More4.uk |
+| 18  | More4 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1023px-More4_logo_2018.svg.png"/> | More4.uk |
 | 19  | Dave Ⓢ     | [>](https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/1024px-Dave_2022.svg.png"/> | Dave.uk |
 | 22  | TJC | [>](https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8) | <img height="20" src="https://i.imgur.com/fk5rEje.png"/> | TJC.uk |
 | 23  | BBC Three  | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png"/> | BBCThree.uk |
