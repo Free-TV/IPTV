@@ -36,3 +36,11 @@
 | 1009  | Sundskanalen | [>](https://stream.sundskanalen.se/live/view/index.m3u8) | <img height="20" src="https://imgur.com/8uT0p3q.jpg"/> | Sundskanalen.se |
 | 1031  | Öppna Kanalen Skövde | [>](https://edg01-prd-de-ixn.solidtango.com/edge/_c6697zkv_/c6697zkv/manifest.m3u8) | <img height="20" src="https://i.imgur.com/1LkYbaQ.png"/> | OppnaKanalenSkovde.se |
 | 1036  | Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ | [>](https://www.youtube.com/@LtvuSeTube/live) | <img height="20" src="https://i.imgur.com/cnLkbOT.png"/> | LTVU.se |
+
+<h2>DVB-S</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | Aryen TV | [>](https://aryen.tv/live/tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qUg7edz.png"/> | AryenTV.se |
+| 2   | Suryoyo Sat | [>](https://player-api.new.livestream.com/accounts/10187302/events/6785118/broadcasts/237816618.secure.m3u8) | <img height="20" src="https://i.imgur.com/naCNjaB.png"/> | SuryoyoSat.se |
+| 3   | TV Vision Sverige | [x]() | <img height="20" src="https://i.imgur.com/R5j0oKD.png"/> | TVVisionSweden.se |
