@@ -7,12 +7,12 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 |  # |      Channel       | Link  | Logo | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
 |  1 |   Первый канал Ⓢ   | [>](http://iptv.ktkru.ru:8001/index.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
-|  2 |     Россия 1 Ⓢ     | [>](http://iptv.ktkru.ru:8002/index.m3u8) | <img height="20" src="https://i.imgur.com/WI6hKez.png"/> | Russia1.ru |
+|  2 |     Россия 1     | [>](https://player.smotrim.ru/iframe/stream/live_id/2961) | <img height="20" src="https://i.imgur.com/WI6hKez.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ      | [>](http://iptv.ktkru.ru:8003/index.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](http://iptv.ktkru.ru:8004/index.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал Ⓢ    | [>](http://iptv.ktkru.ru:8005/index.m3u8) | <img height="20" src="https://i.imgur.com/u8Q69D9.png"/> | 5Kanal.ru |
-|  6 | Россия-Культура Ⓢ  | [>](http://iptv.ktkru.ru:8006/index.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
-|  7 |    Россия-24 Ⓢ     | [>](http://iptv.ktkru.ru:8007/index.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
+|  6 | Россия-Культура Ⓢ  | [>](https://player.smotrim.ru/iframe/stream/live_id/19201) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
+|  7 |    Россия-24 Ⓢ     | [>](https://player.smotrim.ru/iframe/stream/live_id/21) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
 |  8 |     Карусель Ⓢ     | [>](http://iptv.ktkru.ru:8008/index.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
 |  9 |       ОТР Ⓢ        | [>](http://iptv.ktkru.ru:8009/index.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
 | 10 |     ТВ Центр Ⓢ     | [>](http://iptv.ktkru.ru:8010/index.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
@@ -30,6 +30,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 | 22 |     RT Д Русский   | [>](https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
 | 23 |    CGTN Pусский    | [>](https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
 | 24 | Euronews по-русски | [>](https://euronews.alteox.app/hls/ru_stream.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsRussian.fr |
+| 25 | РТР-Планета Ⓢ | [>](https://player.smotrim.ru/iframe/stream/live_id/63251) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"/> | RTRPlaneta.ru |
 
 <h2>Invalid</h2>
 
