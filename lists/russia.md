@@ -6,7 +6,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 
 |  # |      Channel       | Link  | Logo | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
-|  1 |   Первый канал Ⓢ   | [>](http://iptv.ktkru.ru:8001/index.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
+|  1 |   Первый канал   | [>]([http://iptv.ktkru.ru:8001/index.m3u8](https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd)) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |     Россия 1     | [>](https://player.smotrim.ru/iframe/stream/live_id/2961) | <img height="20" src="https://i.imgur.com/WI6hKez.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ      | [>](http://iptv.ktkru.ru:8003/index.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](http://iptv.ktkru.ru:8004/index.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
