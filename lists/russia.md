@@ -24,7 +24,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 | 16 |     Пятница! Ⓢ     | [>](http://iptv.ktkru.ru:8016/index.m3u8) | <img height="20" src="https://i.imgur.com/rS11zVB.png"/> | Pyatnitsa.ru |
 | 17 |      Звезда      | [>](https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
 | 18 |        Мир         | [>](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
-| 19 |       ТНТ Ⓢ        | [>](http://iptv.ktkru.ru:8019/index.m3u8) | <img height="20" src="https://i.imgur.com/1WqIPOB.png"/> | TNT.ru |
+| 19 |       ТНТ Ⓢ        | [>](http://ott-cdn.ucom.am/s19/index.m3u8) | <img height="20" src="https://i.imgur.com/1WqIPOB.png"/> | TNT.ru |
 | 20 |      Муз-ТВ Ⓢ      | [>](http://iptv.ktkru.ru:8020/index.m3u8) | <img height="20" src="https://i.imgur.com/Ml3qqOF.png"/> | MuzTV.ru |
 | 21 |        РБК         | [>](http://92.50.128.180/utv/1358/index.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |     RT Д Русский Ⓖ   | [>](https://hls.rt.com/hls/rtdru.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
