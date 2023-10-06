@@ -40,9 +40,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 | 36.2 | A24 Ⓨ          | [>](https://www.youtube.com/c/A24com/live) | <img height="20" src="https://i.imgur.com/OdhF7ym.png"/> | A24.ar |
 <h2>Invalid</h2>
 
-| #    | Channel        | Link  | Logo | EPG id |
-|:----:|:--------------:|:-----:|:----:|:------:|
-| 34.1 | Telefe Ⓨ       | [x](https://www.youtube.com/telefe/live) | <img height="20" src="https://i.imgur.com/wrZfMXn.png"/> | Telefe.ar |
+
 
 | #    | Channel        | Link  | Logo | EPG id |
 |:----:|:--------------:|:-----:|:----:|:------:|
