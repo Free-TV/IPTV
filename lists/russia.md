@@ -10,18 +10,18 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 |  2 |     Россия 1     | [>](https://player.smotrim.ru/iframe/stream/live_id/2961) | <img height="20" src="https://i.imgur.com/WI6hKez.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ      | [>](https://streaming.televizor-24-tochka.ru/live/6.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](http://ott-cdn.ucom.am/s17/index.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
-|  5 |   Пятый канал Ⓢ    | [>](http://iptv.ktkru.ru:8005/index.m3u8) | <img height="20" src="https://i.imgur.com/u8Q69D9.png"/> | 5Kanal.ru |
+|  5 |   Пятый канал Ⓢ    | [>](https://streaming.televizor-24-tochka.ru/live/8.m3u8) | <img height="20" src="https://i.imgur.com/u8Q69D9.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура Ⓢ  | [>](https://player.smotrim.ru/iframe/stream/live_id/19201) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
 |  7 |    Россия-24 Ⓢ     | [>](https://player.smotrim.ru/iframe/stream/live_id/21) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
 |  8 |     Карусель Ⓢ     | [>](https://streaming102.interskytech.com/live/232.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
-|  9 |       ОТР Ⓢ        | [>](http://iptv.ktkru.ru:8009/index.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
+|  9 |       ОТР Ⓢ        | [>](https://streaming.televizor-24-tochka.ru/live/12.m3u8) | <img height="20" src="https://i.imgur.com/QyZvT3e.png"/> | OTR.ru |
 | 10 |     ТВ Центр Ⓢ     | [>](http://ott-cdn.ucom.am/s54/index.m3u8) | <img height="20" src="https://i.imgur.com/ZP0D6Rd.png"/> | TVCentr.ru |
 | 11 |      Рен ТВ Ⓢ      | [>](https://streaming.televizor-24-tochka.ru/live/14.m3u8) | <img height="20" src="https://i.imgur.com/18TAzYV.png"/> | RENTV.ru |
 | 12 |       Спас Ⓢ       | [>](https://spas.mediacdn.ru/cdn/spas/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A6Cqsom.jpeg"/> | TelekanalSpas.ru |
 | 13 |       СТС Ⓢ        | [>](http://ott-cdn.ucom.am/s52/04.m3u8) | <img height="20" src="https://i.imgur.com/y9bpqUD.png"/> | STS.ru |
 | 14 |     Домашний Ⓢ     | [>](http://ott-cdn.ucom.am/s88/index.m3u8) | <img height="20" src="https://i.imgur.com/e8wlMIt.png"/> | Domashniy.ru |
-| 15 |       ТВ-3 Ⓢ       | [>](http://iptv.ktkru.ru:8015/index.m3u8) | <img height="20" src="https://i.imgur.com/kjaxZms.png"/> | TV3.ru |
-| 16 |     Пятница! Ⓢ     | [>](http://iptv.ktkru.ru:8016/index.m3u8) | <img height="20" src="https://i.imgur.com/rS11zVB.png"/> | Pyatnitsa.ru |
+| 15 |       ТВ-3 Ⓢ       | [>](https://streaming.televizor-24-tochka.ru/live/18.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/556px-%D0%A2V3_logo_2023.svg.png"/> | TV3.ru |
+| 16 |     Пятница! Ⓢ     | [>](https://streaming.televizor-24-tochka.ru/live/19.m3u8) | <img height="20" src="https://i.imgur.com/rS11zVB.png"/> | Pyatnitsa.ru |
 | 17 |      Звезда      | [>](https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
 | 18 |        Мир         | [>](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 19 |       ТНТ Ⓢ        | [>](http://ott-cdn.ucom.am/s19/index.m3u8) | <img height="20" src="https://i.imgur.com/1WqIPOB.png"/> | TNT.ru |
