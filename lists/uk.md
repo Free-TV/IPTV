@@ -7,8 +7,8 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | BBC One Ⓢ  | [>](https://helpfulpost.net/bbcone/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png"/> | BBCOne.uk |
-| 2   | BBC Two | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
+| 1   | BBC One Ⓖ | [>](https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png"/> | BBCOne.uk |
+| 2   | BBC Two | [>](https://helpfulpost.net/bbctwo/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
 | 3   | ITV 1 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png"/> | ITV1.uk |
 | 3   | STV Ⓖ | [>](https://csm-e-ces1aeuw1live102-083090b15a93b4fdd.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/631px-STV_logo_2014.png"/> | STV.uk |
 | 3   | UTV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/640px-UTV_2016.svg.png"/> | UTV.uk |
@@ -16,9 +16,9 @@
 | 4   | S4C Ⓖ | [>](https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8) | <img height="20" src="https://i.imgur.com/vrcbnBv.png"/> | S4C.uk |
 | 5   | Channel 5 Ⓖ | [>](https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png"/> | Channel5.uk |
 | 6   | ITV 2 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png"/> | ITV2.uk |
-| 7   | BBC Alba | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png"/> | BBCAlba.uk |
+| 7   | BBC Alba Ⓢ Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png"/> | BBCAlba.uk |
 | 9   | BBC Four Ⓢ | [>](https://helpfulpost.net/bbcfour/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png"/> | BBCFour.uk |
-| 9   | BBC Scotland | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png"/> | BBCScotland.uk |
+| 9   | BBC Scotland Ⓢ Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png"/> | BBCScotland.uk |
 | 10  | ITV 3 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png"/> | ITV3.uk |
 | 13  | E4 Ⓢ | [>](https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png"/> | E4.uk |
 | 14  | Film4 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/805px-Film4_logo_2018.svg.png"/> | Film4.uk |
@@ -26,7 +26,7 @@
 | 18  | More4 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1023px-More4_logo_2018.svg.png"/> | More4.uk |
 | 19  | Dave Ⓢ     | [>](https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dave_2022.svg/1024px-Dave_2022.svg.png"/> | Dave.uk |
 | 22  | TJC | [>](https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8) | <img height="20" src="https://i.imgur.com/fk5rEje.png"/> | TJC.uk |
-| 23  | BBC Three  | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png"/> | BBCThree.uk |
+| 23  | BBC Three Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png"/> | BBCThree.uk |
 | 26  | ITV 4 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png"/> | ITV4.uk |
 | 28  | ITVBe | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/640px-ITVBe_logo_%282022%29.svg.png"/> | ITVBe.uk |
 | 45  | GemsTV Ⓢ   | [>](http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8) | <img height="20" src="https://i.imgur.com/IR2sTag.png"/> |
@@ -35,11 +35,11 @@
 | 73  | Hobby Maker | [>](https://lo2-1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VWHp5Tl.png"/> | HobbyMaker.uk |
 | 84  | PBS America | [>](https://pbs-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J4zE5z9.jpg"/> | PBSAmerica.uk |
 | 85  | Create & Craft | [>](https://live-hochanda.simplestreamcdn.com/live2/hochanda/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/n65sk4L.png"/> | CreateandCraft.uk |
-| 64  | CBBC     | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/640px-CBBC_%282023%29.svg.png"/> | CBBC.uk |
-| 202 | CBeebies | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/640px-CBeebies_2023.svg.png"/> | CBeebies.uk |
+| 64  | CBBC Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/640px-CBBC_%282023%29.svg.png"/> | CBBC.uk |
+| 202 | CBeebies Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/640px-CBeebies_2023.svg.png"/> | CBeebies.uk |
 | 208 | Pop Max Ⓢ | [>](https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Pop_Max_logo_2017.svg/640px-Pop_Max_logo_2017.svg.png"/> | PopMax.uk |
 | 231 | BBC News Ⓖ | [>](https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png"/> |
-| 232 | BBC Parliament | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/640px-BBC_Parliament_2022.svg.png"/> | BBCParliament.uk |
+| 232 | BBC Parliament Ⓢ Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/640px-BBC_Parliament_2022.svg.png"/> | BBCParliament.uk |
 | 233 | Sky News  | [>](https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8) | <img height="20" src="https://i.imgur.com/wNbxgqe.png"/> |
 | 236 | GB News | [>](https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png"/> | GBNews.uk |
 | 237 | TalkTV | [>](https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png"/> | TalkTV.uk |
@@ -82,7 +82,6 @@
 | 66  | CITV        | [x]() | <img height="20" src="https://i.imgur.com/EhscUNY.png"/> |
 | 67  | Pop         | [x]() | <img height="20" src="https://i.imgur.com/DbQ9u1z.png"/> |
 | 68  | TinyPop     | [x]() | <img height="20" src="https://i.imgur.com/lWdTYbr.png"/> |
-| 71  | BBC Parliament | [x]() | <img height="20" src="https://i.imgur.com/BSIH6V2.png"/> |
 | 52  | Shopping Quarter | [x]() | <img height="20" src=""/> |
 | 54  | TCC        | [x]() | <img height="20" src=""/> |
 | 69  | KetchupTV   | [x]() | <img height="20" src=""/> |
