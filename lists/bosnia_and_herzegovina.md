@@ -5,3 +5,4 @@
 | 1  | BHT 1 Ⓢ | [>](https://webtvstream.bhtelecom.ba/hls15/bhrtportal.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" /> | BHT1.ba |
 | 2  | Federalna televizija (FTV) Ⓢ | [>](http://94.250.2.6:7374/play/a02s/index.m3u8) | <img height="20" src="https://i.imgur.com/Jpvs4u3.png" /> | FederalnaTV.ba |
 | 3  | Televizija Republike Srpske (RTRS) Ⓢ | [>](https://uzivo.rtrs.tv/tv/live/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" /> | RTRSTV.ba |
+| 4  | N1 Bosna i Hercegovina | [>](https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info) | <img height="20" src="https://i.imgur.com/72oMSWz.png"/> | N1BosniaHerzegovina.ba |
