@@ -427,6 +427,22 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Europe" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeEurope.fr" group-title="France",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 tvg-name="First Channel (1TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/512px-Pirveli_Arkhi_Logo_2022.svg.png" tvg-id="1TV.ge" group-title="Georgia",First Channel (1TV)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-name="First Channel - Education (2TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/ka/c/c9/2_Tv_Logo.jpg" tvg-id="2TV.ge" group-title="Georgia",First Channel - Education (2TV)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-name="Imedi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Imlogo_2020.png" tvg-id="ImediTV.ge" group-title="Georgia",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-name="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" tvg-id="Rustavi2.ge" group-title="Georgia",Rustavi 2
+https://sktv-forwarders.7m.pl/get.php?x=Rustavi2
+#EXTINF:-1 tvg-name="Mtavari Arkhi" tvg-logo="https://i.imgur.com/tLtGnJW.png" tvg-id="MtavariArkhi.ge" group-title="Georgia",Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:-1 tvg-name="Formula" tvg-logo="https://i.imgur.com/fsqBn8G.png" tvg-id="Formula.ge" group-title="Georgia",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-name="Pos TV" tvg-logo="https://i.imgur.com/UOiXFEW.png" tvg-id="PosTV.ge" group-title="Georgia",Pos TV
+https://live.postv.media/stream/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Georgia Ⓖ" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" group-title="Georgia",Euronews Georgia Ⓖ
+https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 #EXTINF:-1 tvg-name="Das Erste Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png" tvg-id="DasErste.de" group-title="Germany",Das Erste Ⓖ
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" group-title="Germany",ZDF Ⓖ
