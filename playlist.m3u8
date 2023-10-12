@@ -1933,20 +1933,38 @@ https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master
 https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
 #EXTINF:-1 tvg-name="HQM Spanish" tvg-logo="https://hqm.es/wp-content/uploads/spanish-hqm-logo.png" tvg-id="HQMSpanish.es" group-title="Spain VOD",HQM Spanish
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1 tvg-name="SVT 1    Ⓖ" tvg-logo="https://i.imgur.com/ZoBXmOO.png" tvg-id="SVT1.se" group-title="Sweden",SVT 1    Ⓖ
+#EXTINF:-1 tvg-name="SVT 1 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SVT1_logo_2016.svg/800px-SVT1_logo_2016.svg.png" tvg-id="SVT1.se" group-title="Sweden",SVT 1 Ⓖ
 https://ed2.cdn.svt.se/ed7/d1/c/se/svt1/manifest.mpd?defaultSubLang=1
-#EXTINF:-1 tvg-name="SVT 2   Ⓖ" tvg-logo="https://i.imgur.com/iB3veGx.png" tvg-id="SVT2.se" group-title="Sweden",SVT 2   Ⓖ
+#EXTINF:-1 tvg-name="SVT 2 Ⓖ" tvg-logo="https://i.imgur.com/iB3veGx.png" tvg-id="SVT2.se" group-title="Sweden",SVT 2 Ⓖ
 https://ed2.cdn.svt.se/ed7/d1/c/se/svt2/manifest.mpd?defaultSubLang=1
-#EXTINF:-1 tvg-name="ATG Live" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-id="ATGLive.se" group-title="Sweden",ATG Live
+#EXTINF:-1 tvg-name="ATG Live Ⓢ" tvg-logo="https://i.imgur.com/bPWFXkL.png" tvg-id="ATGLive.se" group-title="Sweden",ATG Live Ⓢ
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-name="SVT 24   Ⓖ" tvg-logo="https://i.imgur.com/o9M7Tiq.png" tvg-id="SVT24.se" group-title="Sweden",SVT 24   Ⓖ
-https://ed2.cdn.svt.se/ed7/d1/c/se/svtb/manifest.mpd?defaultSubLang=1
 #EXTINF:-1 tvg-name="Expressen TV" tvg-logo="https://i.imgur.com/8EjMSr7.png" tvg-id="ExpressenTV.se" group-title="Sweden",Expressen TV
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1 tvg-name="Kunskapskanalen   Ⓖ" tvg-logo="https://i.imgur.com/9YBxoGc.png" tvg-id="Kunskapskanalen.se" group-title="Sweden",Kunskapskanalen   Ⓖ
-https://ed2.cdn.svt.se/ed7/d1/c/se/svtk/manifest.mpd?defaultSubLang=1
 #EXTINF:-1 tvg-name="Kanal 10" tvg-logo="https://i.imgur.com/vlh699v.png" tvg-id="Kanal10.se" group-title="Sweden",Kanal 10
 https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-name="SVT 24 Ⓖ" tvg-logo="https://i.imgur.com/o9M7Tiq.png" tvg-id="SVT24.se" group-title="Sweden",SVT 24 Ⓖ
+https://ed2.cdn.svt.se/ed7/d1/c/se/svtb/manifest.mpd?defaultSubLang=1
+#EXTINF:-1 tvg-name="Kunskapskanalen Ⓖ" tvg-logo="https://i.imgur.com/9YBxoGc.png" tvg-id="Kunskapskanalen.se" group-title="Sweden",Kunskapskanalen Ⓖ
+https://ed2.cdn.svt.se/ed7/d1/c/se/svtk/manifest.mpd?defaultSubLang=1
+#EXTINF:-1 tvg-name="Di TV" tvg-logo="https://i.imgur.com/zApTDWn.png" tvg-id="DiTV.se" group-title="Sweden",Di TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 tvg-name="Öppna Kanalen Stockholm Ⓢ" tvg-logo="https://i.imgur.com/GWlstv5.png" tvg-id="OppnaKanalenStockholm.se" group-title="Sweden",Öppna Kanalen Stockholm Ⓢ
+https://edg03-prd-se-ixn.solidtango.com/edge/451iw2h/playlist.m3u8
+#EXTINF:-1 tvg-name="Öppna Kanalen Malmö Ⓢ" tvg-logo="https://i.imgur.com/sjw8dsM.jpg" tvg-id="TVMalmo.se" group-title="Sweden",Öppna Kanalen Malmö Ⓢ
+https://edg01-prd-de-ixn.solidtango.com/edge/_8ynhbua3_/8ynhbua3/manifest.m3u8
+#EXTINF:-1 tvg-name="Västmanlands TV" tvg-logo="https://i.imgur.com/EXBaQ88.jpg" tvg-id="VastmanlandsTV.se" group-title="Sweden",Västmanlands TV
+https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8
+#EXTINF:-1 tvg-name="Sundskanalen" tvg-logo="https://imgur.com/8uT0p3q.jpg" tvg-id="Sundskanalen.se" group-title="Sweden",Sundskanalen
+https://stream.sundskanalen.se/live/view/index.m3u8
+#EXTINF:-1 tvg-name="Öppna Kanalen Skövde" tvg-logo="https://i.imgur.com/1LkYbaQ.png" tvg-id="OppnaKanalenSkovde.se" group-title="Sweden",Öppna Kanalen Skövde
+https://edg01-prd-de-ixn.solidtango.com/edge/_c6697zkv_/c6697zkv/manifest.m3u8
+#EXTINF:-1 tvg-name="Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ" tvg-logo="https://i.imgur.com/cnLkbOT.png" tvg-id="LTVU.se" group-title="Sweden",Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ
+https://www.youtube.com/@LtvuSeTube/live
+#EXTINF:-1 tvg-name="Aryen TV" tvg-logo="https://i.imgur.com/qUg7edz.png" tvg-id="AryenTV.se" group-title="Sweden",Aryen TV
+https://aryen.tv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Suryoyo Sat" tvg-logo="https://i.imgur.com/naCNjaB.png" tvg-id="SuryoyoSat.se" group-title="Sweden",Suryoyo Sat
+https://player-api.new.livestream.com/accounts/10187302/events/6785118/broadcasts/237816618.secure.m3u8
 #EXTINF:-1 tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" tvg-id="SRF1.ch" group-title="Switzerland",SRF 1
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
 #EXTINF:-1 tvg-name="TVO" tvg-logo="https://i.imgur.com/5QFZ05B.png" tvg-id="TVO.ch" group-title="Switzerland",TVO
