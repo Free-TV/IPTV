@@ -679,6 +679,20 @@ https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/playlist.m3u
 https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
 #EXTINF:-1 tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/UjIuIQX.png" tvg-id="ZagrosTV.iq" group-title="Iraq",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="9 канал Ⓨ" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
+https://www.youtube.com/@israel9tv/live
+#EXTINF:-1 tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/640px-Kan11Logo.svg.png" tvg-id="Kan11.il" group-title="Israel",כאן 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 tvg-name="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png" tvg-id="Channel13.il" group-title="Israel",ערוץ 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-name="ערוץ 14" tvg-logo="https://i.imgur.com/Iq2Kb69.png" tvg-id="Now14.il" group-title="Israel",ערוץ 14
+https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
+#EXTINF:-1 tvg-name="The Shopping Channel" tvg-logo="https://i.imgur.com/PEdXHSE.png" tvg-id="TheShoppingChannel.il" group-title="Israel",The Shopping Channel
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+#EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" tvg-id="Makan33.il" group-title="Israel",مكان 33
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-name="Knesset" tvg-logo="https://i.imgur.com/PEdXHSE.png" tvg-id="Knesset.il" group-title="Israel",Knesset
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="Italy",Rai 1 Ⓖ
