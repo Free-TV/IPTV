@@ -1625,12 +1625,46 @@ http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-name="L1 Ⓢ" tvg-logo="https://i.imgur.com/Jyhn1iP.png" tvg-id="L1TV.nl" group-title="Netherlands",L1 Ⓢ
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-name="MRT1 Ⓢ" tvg-logo="https://i.imgur.com/EkkyAE0.png" tvg-id="MRT1.mk" group-title="North Macedonia",MRT1 Ⓢ
-https://s1.teve.mk/tvstanici/6/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 5 Ⓢ" tvg-logo="https://i.imgur.com/Qw7N3S2.png" tvg-id="Kanal5.mk" group-title="North Macedonia",Kanal 5 Ⓢ
-https://s2.teve.mk/tvstanici/2/playlist.m3u8
-#EXTINF:-1 tvg-name="Alfa TV Ⓢ" tvg-logo="https://i.imgur.com/5BSyXfr.png" tvg-id="AlfaTV.mk" group-title="North Macedonia",Alfa TV Ⓢ
-https://s2.teve.mk/tvstanici/4/playlist.m3u8
+#EXTINF:-1 tvg-name="MRT1 Ⓖ" tvg-logo="https://i.imgur.com/EkkyAE0.png" tvg-id="MRT1.mk" group-title="North Macedonia",MRT1 Ⓖ
+https://www.tvkaista.net/stream-forwarder/get.php?x=MRT1
+#EXTINF:-1 tvg-name="MRT2 Ⓖ" tvg-logo="https://i.imgur.com/YvOrUnN.png" tvg-id="MRT2.mk" group-title="North Macedonia",MRT2 Ⓖ
+https://www.tvkaista.net/stream-forwarder/get.php?x=MRT2
+#EXTINF:-1 tvg-name="MRT Sobraniski kanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_of_MRT_Assembly_Channel_%282012-%29.svg/634px-Logo_of_MRT_Assembly_Channel_%282012-%29.svg.png" tvg-id="MRTSobraniskikanal.mk" group-title="North Macedonia",MRT Sobraniski kanal
+https://www.tvkaista.net/stream-forwarder/get.php?x=SobraniskiKanal
+#EXTINF:-1 tvg-name="MRT3 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_3_%282020-%29.svg/640px-Logo_of_MRT_3_%282020-%29.svg.png" tvg-id="MRT3.mk" group-title="North Macedonia",MRT3 Ⓖ
+https://www.tvkaista.net/stream-forwarder/get.php?x=MRT3
+#EXTINF:-1 tvg-name="MRT4 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_of_MRT_4_%282020-%29.svg/640px-Logo_of_MRT_4_%282020-%29.svg.png" tvg-id="MRT4.mk" group-title="North Macedonia",MRT4 Ⓖ
+https://www.tvkaista.net/stream-forwarder/get.php?x=MRT4
+#EXTINF:-1 tvg-name="MRT5 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_of_MRT_5_%282020-%29.svg/640px-Logo_of_MRT_5_%282020-%29.svg.png" tvg-id="MRT5.mk" group-title="North Macedonia",MRT5 Ⓖ
+https://www.tvkaista.net/stream-forwarder/get.php?x=MRT5
+#EXTINF:-1 tvg-name="Kanal 5 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/Qw7N3S2.png" tvg-id="Kanal5.mk" group-title="North Macedonia",Kanal 5 Ⓢ Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8
+#EXTINF:-1 tvg-name="Alfa TV Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/5BSyXfr.png" tvg-id="AlfaTV.mk" group-title="North Macedonia",Alfa TV Ⓢ Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+#EXTINF:-1 tvg-name="Alsat M Ⓢ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png" tvg-id="Alsat.mk" group-title="North Macedonia",Alsat M Ⓢ Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 tvg-name="Sitel Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/pdobwKt.png" tvg-id="Sitel.mk" group-title="North Macedonia",Sitel Ⓢ Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1 tvg-name="Telma Ⓢ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_of_Telma_%282016-%29.svg/497px-Logo_of_Telma_%282016-%29.svg.png" tvg-id="TelmaTV.mk" group-title="North Macedonia",Telma Ⓢ Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1 tvg-name="MRT Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_of_MRT_SAT_%282012-%29.svg/640px-Logo_of_MRT_SAT_%282012-%29.svg.png" tvg-id="MRT1Sat.mk" group-title="North Macedonia",MRT Sat
+https://www.tvkaista.net/stream-forwarder/get.php?x=MRT1Sat
+#EXTINF:-1 tvg-name="MRT 2 Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_of_MRT_2_SAT_%282012-%29.svg/640px-Logo_of_MRT_2_SAT_%282012-%29.svg.png" tvg-id="MRT2Sat.mk" group-title="North Macedonia",MRT 2 Sat
+https://www.tvkaista.net/stream-forwarder/get.php?x=MRT2Sat
+#EXTINF:-1 tvg-name="TV 21 Ⓢ Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_TV21_Macedonia.svg/640px-Logo_of_TV21_Macedonia.svg.png" tvg-id="TV21.mk" group-title="North Macedonia",TV 21 Ⓢ Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 tvg-name="Naša TV" tvg-logo="https://i.imgur.com/EOLrXvB.png" tvg-id="NasaTV.mk" group-title="North Macedonia",Naša TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-name="Cool TV" tvg-logo="https://i.imgur.com/2tFrjUz.png" tvg-id="CoolTV.mk" group-title="North Macedonia",Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-name="Folk TV" tvg-logo="https://i.imgur.com/4b9aZ9P.png" tvg-id="FolkTV.mk" group-title="North Macedonia",Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/4b9aZ9P.png" tvg-id="JazzTV.mk" group-title="North Macedonia",Jazz TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-name="Love TV" tvg-logo="https://i.imgur.com/B8iaejQ.png" tvg-id="LoveTV.mk" group-title="North Macedonia",Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" tvg-id="RockTV.mk" group-title="North Macedonia",Rock TV
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:-1 tvg-name="NRK1    Ⓖ" tvg-logo="https://i.imgur.com/9tj8ds7.png" tvg-id="NRK1.no" group-title="Norway",NRK1    Ⓖ
 https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
 #EXTINF:-1 tvg-name="NRK2    Ⓖ" tvg-logo="https://i.imgur.com/SiAdoK9.png" tvg-id="NRK2.no" group-title="Norway",NRK2    Ⓖ
