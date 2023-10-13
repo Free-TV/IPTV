@@ -12,7 +12,7 @@
 | 3   | 1+1 | [>](http://149.5.17.34:20041/play/a06d) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/640px-1%2B1_logo.svg.png"/> | 1Plus1.ua |
 | 4   | Suspilne Kultura Ⓢ | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png"/> | SuspilneKultura.ua |
 | 5   | ICTV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ICTV_2017_horizontal.svg/640px-ICTV_2017_horizontal.svg.png"/> | ICTV.ua |
-| 6   | STB | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/868px-STB_logo.svg.png"/> | STB.ua |
+| 6   | STB | [>](http://cdnua03.hls.tv/133/hls/37a7d70ef2fcf08bcd712e4397c7d5c9/4592/stream.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/868px-STB_logo.svg.png"/> | STB.ua |
 | 7   | Inter | [>](http://149.5.17.34:20041/play/a05g) | <img height="20" src="https://i.imgur.com/R06gbuT.png"/> | Inter.ua |
 | 8   | UNIAN TV | [>](http://149.5.17.34:20041/play/a06s) | <img height="20" src="https://i.imgur.com/Alu78zn.png"/> | UNIANTV.ua |
 | 9   | Bigudi | [>](http://149.5.17.34:20041/play/a06h) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bigudi_%28Ukraine%29_%281-st_logo%29.svg/627px-Bigudi_%28Ukraine%29_%281-st_logo%29.svg.png"/> | Bigudi.ua |
