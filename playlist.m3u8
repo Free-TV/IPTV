@@ -259,6 +259,28 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.qa" group-title="Croatia",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-name="RIK 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/640px-Logo_RIK_1_2017.svg.png" tvg-id="RIK1.cy" group-title="Cyprus",RIK 1 Ⓢ
+http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
+#EXTINF:-1 tvg-name="RIK 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/640px-Logo_RIK_2_2017.svg.png" tvg-id="RIK2.cy" group-title="Cyprus",RIK 2 Ⓢ
+http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
+#EXTINF:-1 tvg-name="RIK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/el/7/7d/RIKHD2.png" tvg-id="RIKHD.cy" group-title="Cyprus",RIK HD
+http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
+#EXTINF:-1 tvg-name="RIK Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/640px-Logo_RIK_Sat_2017.svg.png" tvg-id="RIKSat.cy" group-title="Cyprus",RIK Sat
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-name="BRT 1" tvg-logo="https://i.imgur.com/gOPAi2c.png" tvg-id="BRT1.cy" group-title="Cyprus",BRT 1
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="BRT 2" tvg-logo="https://i.imgur.com/t5kbIuj.png" tvg-id="BRT2.cy" group-title="Cyprus",BRT 2
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ada TV Ⓢ" tvg-logo="https://i.imgur.com/LPQfdz2.png" tvg-id="AdaTV.cy" group-title="Cyprus",Ada TV Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kıbrıs Genç TV Ⓢ" tvg-logo="https://i.imgur.com/eBdQn9h.png" tvg-id="KibrisGencTV.cy" group-title="Cyprus",Kıbrıs Genç TV Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal T Ⓢ" tvg-logo="https://i.imgur.com/4bA4pXT.png" tvg-id="KibrisKanalT.cy" group-title="Cyprus",Kanal T Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kıbrıs TV Ⓢ" tvg-logo="https://i.imgur.com/5MJZPTo.png" tvg-id="KibrisTV.cy" group-title="Cyprus",Kıbrıs TV Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 2020 Ⓢ" tvg-logo="https://i.imgur.com/rtfsNdd.png" tvg-id="TV2020.cy" group-title="Cyprus",TV 2020 Ⓢ
+https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 #EXTINF:-1 tvg-name="ČT1 Ⓖ" tvg-logo="https://i.imgur.com/qBlEbN3.png" tvg-id="CT1.cz" group-title="Czech Republic",ČT1 Ⓖ
 https://sktv-forwarders.7m.pl/get.php?x=CT1
 #EXTINF:-1 tvg-name="ČT2 Ⓖ" tvg-logo="https://i.imgur.com/HpnGC6A.png" tvg-id="CT2.cz" group-title="Czech Republic",ČT2 Ⓖ
