@@ -29,7 +29,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 | 21 |        РБК         | [>](http://92.50.128.180/utv/1358/index.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 22 |     RT Д Русский Ⓖ   | [>](https://hls.rt.com/hls/rtdru.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
 | 23 |    CGTN Pусский    | [>](https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
-| 24 | Euronews по-русски | [>](https://euronews.alteox.app/hls/ru_stream.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsRussian.fr |
+| 24 | Euronews по-русски | [>](https://euronews.alteox.app/hls/ru_stream.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsRussian.fr |
 | 25 | РТР-Планета Ⓢ | [>](https://player.smotrim.ru/iframe/stream/live_id/63251) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"/> | RTRPlaneta.ru |
 
 <h2>Invalid</h2>

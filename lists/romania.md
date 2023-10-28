@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Romania
 | 7   | Prima TV          | [>](https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/512px-Prima_TV_%28Rumaenien%29_Logo.svg.png"/> | PrimaTV.ro |
 | 8   | România TV Ⓖ      | [>](https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZIfEp5I.png"/> | RomaniaTV.ro |
 | 9   | Telestar1         | [>](http://89.47.97.15/telestar/telestar.m3u8) | <img height="20" src="https://i.imgur.com/UZQjEsd.png"/> | Telestar1.ro |
-| 10  | Euronews România Ⓨ | [>](https://www.youtube.com/euronewsro/live) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsRomania.ro |
+| 10  | Euronews România Ⓨ | [>](https://www.youtube.com/euronewsro/live) | <img height="20" src="https://i.imgur.com/jUOVUXt.png"/> | EuronewsRomania.ro |
 
 <h2>Local</h2>
 

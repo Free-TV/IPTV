@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | M1 Hiradó   Ⓨ  | [>](https://www.youtube.com/live/DbP9rmGifYs) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
+| 1   | M1 Hiradó Ⓨ  | [>](https://www.youtube.com/live/DbP9rmGifYs) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
 
 <h2>Commercial</h2>
 
@@ -43,8 +43,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | Euronews Hungarian Ⓨ  | [>](https://ythls.onrender.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8) | <img height="20" src="https://i.imgur.com/8t9mdg9.png" /> | EuronewsHungarian.fr |
-| 2   | Parlamenti közvetítés | [>](http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8)|
+| 1   | Euronews Hungarian Ⓨ  | [>](https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" /> | EuronewsHungarian.fr |
+| 2   | Parlamenti közvetítés | [>](http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8) |
 
 <h2>Regional</h2>
 
@@ -65,7 +65,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 13  | AlföldTV       | [>](https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8) | <img height="20" src="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" /> |
 | 14  | Gyöngyös TV    | [>](https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP) | <img height="20" src="https://i.imgur.com/RHgaPCk.png" /> | GyongyosiTV.hu |
 | 15  | Halom TV       | [>](rtmp://212.92.13.108/live/livestream1) | <img height="20" src="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" /> |
-| 16  | Kapos TV       | [>](https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8) | <img height="20" src="http://kapos.hu/static/keptar/13/b/9490.jpg" /> | KaposTV.hu |
+| 16  | Kapos TV       | [>](https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8) | <img height="20" src="https://kapos.hu/static/keptar/13/b/9490.jpg" /> | KaposTV.hu |
 | 17  | Kecskemét TV   | [>](https://eurobioinvest.hu:444/live/ktv.m3u8) | <img height="20" src="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" /> | KecskemetiTV.hu |
 | 19  | Lóverseny közvetítés | [>](https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8) | <img height="20" src="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" /> |
 | 20  | Zalaegerszeg TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8) | <img height="20" src="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" /> | ZalaegerszegiTV.hu |
