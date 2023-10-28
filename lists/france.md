@@ -12,7 +12,7 @@
 | 16  | CNews Ⓓ    | [>](https://www.dailymotion.com/embed/video/x3b68jn) | <img height="20" src="https://i.imgur.com/UMRGAHx.png"/> | CNews.fr |
 | 27  | franceinfo: Ⓨ | [>](https://www.youtube.com/c/franceinfo/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/85px-Franceinfo.svg.png"/> | Franceinfo.fr |
 | 28  | France 24 Ⓨ   | [>](https://www.youtube.com/c/FRANCE24/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24French.fr |
-| 31  | Euronews Ⓨ    | [x](https://www.youtube.com/c/euronewsfr/live) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
+| 31  | Euronews Français Ⓨ    | [x](https://www.youtube.com/c/euronewsfr/live) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
 | 33  | Africanews Ⓨ | [>](https://www.youtube.com/c/Africanewsfr/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
 | 21  | L'Équipe ⒹⒼ    | [>](https://www.dailymotion.com/embed/video/x2lefik) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/79px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
 | 32  | France Inter Ⓨ | [>](https://www.youtube.com/c/FranceInter/live) | <img height="20" src="https://i.imgur.com/d9Ncl8m.png"/> | FranceInter.fr |
@@ -43,9 +43,8 @@
 | 24  | RMC Découverte | [>](https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> | RMCDecouverte.fr |
 | 25  | Chérie 25  | [>](https://s13.tntendirect.com/cherie25/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png"/> | Cherie25.fr |
 | 26  | LCI          | [>](https://sv0.data-stream.top/hls/lci.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
-| 31  | Euronews     | [x](https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
-| 31  | Euronews     | [>](https://euronews.alteox.app/hls/fr_stream.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
-
+| 31  | Euronews Français | [x](https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
+| 31  | Euronews Français | [>](https://euronews.alteox.app/hls/fr_stream.m3u8) | <img height="20" src="https://i.imgur.com/3Lr5iAj.png"/> | EuronewsFrench.fr |
 
 <h2>DVB-S</h2>
 
