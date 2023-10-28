@@ -15,7 +15,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/JN6Kd0q.png" tvg-id="DeluxeLoungeHD.de" group-title="Germany",Deluxe Lounge HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
-#EXTINF:-1 tvg-name="Euronews Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch
+#EXTINF:-1 tvg-name="Euronews Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch
 https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png" tvg-id="KIKA.de" group-title="Germany",KiKa Ⓖ
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8

@@ -113,7 +113,7 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="SportitaliaSolocalcio.it" group-title="Italy",Sportitalia SOLOCALCIO
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://i.imgur.com/F3MkfJN.png" tvg-id="EuronewsItalian.fr" group-title="Italy",Euronews Italian
+#EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsItalian.fr" group-title="Italy",Euronews Italian
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-name="BIKE" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-id="Bike.it" group-title="Italy",BIKE
 https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8
