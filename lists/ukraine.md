@@ -40,6 +40,12 @@
 | 32   | TAK TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/%D0%A2%D0%90%D0%9A_TV.png"/> | TakTV.ua |
 | 33   | Сонце Ⓢ | [>](http://149.5.17.34:20041/play/a015) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SonceUA_logo.svg/739px-SonceUA_logo.svg.png"/> | Sonce.ua |
 
+<h2>Luhansk</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | Луганск 24 | [>](https://tv.gtrklnr.ru/hls/Lugansk24.m3u8) | <img height="20" src="https://i.imgur.com/YnLFQnt.png"/> | Lugansk24.ua |
+
 <h2>Other</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
