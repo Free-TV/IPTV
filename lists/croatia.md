@@ -37,7 +37,7 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 | 62 | Trend TV | [>](http://185.62.75.22:1935/trend/myStream/playlist.m3u8)   | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/2/22/TrendTV.jpg"/> | TrendTV.hr |
 | 64 | TV Šibenik | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/8/80/Tv-sibenik-logo.png"/> | TVS.hr |
 | 98 | Televizija Zapad | [>](http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png"/> | TVZapad.hr |
-| 99 | Al Jazeera Balkans | [>](https://live-hls-web-ajb.getaj.net/AJB/index.m3u8) | <img height="20" src="https://i.imgur.com/Z1FB6wl.png"/> | AlJazeeraBalkans.qa |
+| 99 | Al Jazeera Balkans | [>](https://live-hls-web-ajb.getaj.net/AJB/index.m3u8) | <img height="20" src="https://i.imgur.com/Z1FB6wl.png"/> | AlJazeeraBalkans.ba |
 
 <h2>DVB-S</h2>
 
