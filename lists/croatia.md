@@ -43,4 +43,11 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | HRT International | [x]() | <img height="20" src="https://i.imgur.com/useLwHV.png"/> | HRTInternational.hr |
+| 0   | Aurora TV | [x]() | <img height="20" src="https://tvaurora.tv/wp-content/uploads/2023/03/cropped-AURORA-LOGO-2023.png"/> | AuroraTV.hr |
+| 0   | HRT International | [x]() | <img height="20" src="https://i.imgur.com/useLwHV.png"/> | HRTInternational.hr |
+
+<h2>Web</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 0   | N1 Hrvatska | [x]() | <img height="20" src="https://i.imgur.com/qcD1OOZ.png"/> | N1Croatia.hr |
