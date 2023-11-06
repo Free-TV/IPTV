@@ -10,13 +10,13 @@
 | 1   | Pershyi Ⓢ | [>](http://149.5.17.34:20041/play/a068) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pershyi_%282022%29.svg/640px-Pershyi_%282022%29.svg.png"/> | UAFirst.ua |
 | 2   | Rada TV Ⓢ | [>](http://149.5.17.34:20041/play/a07b) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/512px-Rada_TV_%282021%29.svg.png"/> | RadaTV.ua |
 | 3   | 1+1 | [>](http://149.5.17.34:20041/play/a06d) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1%2B1_logo.svg/640px-1%2B1_logo.svg.png"/> | 1Plus1.ua |
-| 4   | Suspilne Kultura Ⓢ | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png"/> | SuspilneKultura.ua |
-| 5   | ICTV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ICTV_2017_horizontal.svg/640px-ICTV_2017_horizontal.svg.png"/> | ICTV.ua |
+| 4   | Suspilne Kultura | [>](https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png"/> | SuspilneKultura.ua |
+| 5   | ICTV Ⓢ | [>](http://91.210.251.166:4504/udp/239.0.2.21:4000) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ICTV_2017_horizontal.svg/640px-ICTV_2017_horizontal.svg.png"/> | ICTV.ua |
 | 6   | STB | [>](http://cdnua03.hls.tv/133/hls/37a7d70ef2fcf08bcd712e4397c7d5c9/4592/stream.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/868px-STB_logo.svg.png"/> | STB.ua |
 | 7   | Inter | [>](http://149.5.17.34:20041/play/a05g) | <img height="20" src="https://i.imgur.com/R06gbuT.png"/> | Inter.ua |
 | 8   | UNIAN TV | [>](http://149.5.17.34:20041/play/a06s) | <img height="20" src="https://i.imgur.com/Alu78zn.png"/> | UNIANTV.ua |
 | 9   | Bigudi | [>](http://149.5.17.34:20041/play/a06h) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bigudi_%28Ukraine%29_%281-st_logo%29.svg/627px-Bigudi_%28Ukraine%29_%281-st_logo%29.svg.png"/> | Bigudi.ua |
-| 10  | Армія ТБ | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ArmyTV_logo_%282023%29.svg/640px-ArmyTV_logo_%282023%29.svg.png"/> | ArmyTV.ua |
+| 10  | Армія ТБ | [>](http://91.210.251.166:4535/udp/239.0.2.74:4000) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ArmyTV_logo_%282023%29.svg/640px-ArmyTV_logo_%282023%29.svg.png"/> | ArmyTV.ua |
 | 11  | Novyi Kanal Ⓢ | [>](rtmp://93.189.60.202//935) | <img height="20" src="https://i.imgur.com/4JhqpPM.png"/> | NovyKanal.ua |
 | 12  | TET Ⓢ | [>](http://149.5.17.34:20041/play/a06f) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/640px-TET_logo.svg.png"/> | TET.ua |
 | 13  | 2+2 Ⓢ | [>](http://185.235.187.10:8888/play/2plus2/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/640px-2%2B2_logo_2017.svg.png"/> | 2Plus2.ua |
@@ -26,25 +26,41 @@
 | 17   | ПлюсПлюс Ⓢ | [>](http://185.235.187.11:8888/play/a00t/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/640px-PLUSPLUSUA.svg.png"/> | PlusPlus.ua |
 | 18   | Ми — Україна Ⓢ | [>](http://149.5.17.34:20041/play/a06x) | <img height="20" src="https://i.imgur.com/nkatL7Q.png"/> | MyUkrainaTV.ua |
 | 19   | 1+1 Україна Ⓢ | [>](http://149.5.17.34:20041/play/a00s) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1%2B1_Ukraina_%282022%29.svg/640px-1%2B1_Ukraina_%282022%29.svg.png"/> | 1Plus1Ukraine.ua |
-| 20   | ICTV2 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/640px-ICTV_2_%282022%29.svg.png"/> | ICTV2.ua |
+| 20   | ICTV2 | [>](http://46.18.107.105:9999/channel/n5ef91f61/index.mpeg?q=34f3e508660e39f2f68068dd1c8f4604) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ICTV_2_%282022%29.svg/640px-ICTV_2_%282022%29.svg.png"/> | ICTV2.ua |
 | 21   | ОЦЕ ТБ Ⓢ | [>](http://185.235.187.11:8888/play/a039/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/OCE_logo_%282017%29.svg/640px-OCE_logo_%282017%29.svg.png"/> | Oce.ua |
 | 22   | K1 | [>](http://149.5.17.34:20041/play/a05m) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/655px-K1_Logo_2014.svg.png"/> | K1.ua |
 | 23   | K2 | [>](http://149.5.17.34:20041/play/a05o) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/K2_logo_%282016%29.svg/640px-K2_logo_%282016%29.svg.png"/> | K2.ua |
 | 24   | Zoom | [>](http://149.5.17.34:20041/play/a05q) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ZoomUA_logo_%282015%29.svg/640px-ZoomUA_logo_%282015%29.svg.png"/> | Zoom.ua |
 | 25   | Priamyi Ⓢ | [>](http://149.5.17.34:20041/play/a061) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pryamiy_2020.svg/624px-Pryamiy_2020.svg.png"/> | Pryamyy.ua |
 | 26   | Espreso TV Ⓢ | [>](http://149.5.17.34:20041/play/a066) | <img height="20" src="https://i.imgur.com/xNatV8K.png"/> | EspresoTV.ua |
-| 27   | XSport | [x]() | <img height="20" src="https://i.imgur.com/CHDcfrT.png"/> | XSport.ua |
+| 27   | XSport Ⓢ | [>](http://91.210.251.166:4858/udp/239.0.2.89:4000) | <img height="20" src="https://i.imgur.com/CHDcfrT.png"/> | XSport.ua |
 | 28   | Enter-Film | [>](http://149.5.17.34:20041/play/a078) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/819px-Enter-FilmUA_%282013%29.png"/> | EnterFilm.ua |
 | 29   | Piksel TV | [>](https://ext.cdn.nashnet.tv/228.0.0.8/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/PixelUalogo.svg/640px-PixelUalogo.svg.png"/> | PikselTV.ua |
 | 31   | 5 Kanal | [>](http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/480px-Logo_5_Channel.svg.png"/> | 5Kanal.ua |
 | 32   | TAK TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/%D0%A2%D0%90%D0%9A_TV.png"/> | TakTV.ua |
 | 33   | Сонце Ⓢ | [>](http://149.5.17.34:20041/play/a015) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SonceUA_logo.svg/739px-SonceUA_logo.svg.png"/> | Sonce.ua |
 
-<h2>Luhansk</h2>
+<h2>1+1 Video</h2>
+
+* https://1plus1.video/tvguide/uafirst/online
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Луганск 24 | [>](https://tv.gtrklnr.ru/hls/Lugansk24.m3u8) | <img height="20" src="https://i.imgur.com/YnLFQnt.png"/> | Lugansk24.ua |
+| 5   | Comedy Central Ukraine Ⓢ | [>](http://91.210.251.166:4550/udp/239.0.2.30:4000) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1024px-Comedy_Central_2018.svg.png"/> | ComedyCentralUkraine.ua |
+| 7   | Kvartal TV Ⓢ | [>](rtmp://93.189.60.202//932) | <img height="20" src="https://i.imgur.com/6ZYWizP.png"/> | KvartalTV.ua |
+| 14  | Суспільне Новини Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=SuspilneNovyny) | <img height="20" src="https://i.imgur.com/6ZTGMli.png"/> | SuspilneNovyny.ua |
+| 15  | Суспільне Крим Ⓢ | [>](https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8) | <img height="20" src="https://i.imgur.com/m7znCes.png"/> | SuspilneKrym.ua |
+
+<h2>Kyivstar TV</h2>
+
+* https://tv.kyivstar.ua/ua/live-channels/55efdb72e4b0781039bc0340-pershij-hd
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 0   | 24 канал | [>](http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/768px-24_Kanal_logo.svg.png"/> | Channel24.ua |
+| 0   | Рибалка | [>](http://91.210.251.166:4582/udp/239.0.2.104:4000) | <img height="20" src="https://i.imgur.com/NafW0xT.png"/> | Rybalka.ua |
+| 0   | Київ 24 | [>](rtmp://93.189.60.202//1040) | <img height="20" src="https://i.imgur.com/TVuCY4N.png"/> | Kyiv.ua |
+| 0   | FREEДОМ Ⓢ | [>](http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6) | <img height="20" src="https://i.imgur.com/38UPLa9.png"/> | Freedom.ua |
 
 <h2>Other</h2>
 
