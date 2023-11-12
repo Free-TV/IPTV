@@ -80,6 +80,12 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 0   | Соловьёв Live | [>](https://player.smotrim.ru/iframe/stream/live_id/63338) | <img height="20" src="https://i.imgur.com/v0OYe1d.png"/> | SolovyovLive.ru |
 | 0   | Ю Ⓢ | [>](https://strm.yandex.ru/kal/utv/utv0.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/ru/a/ac/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%AE%C2%BB_%28%D1%81_3_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0%29.png"/> | U.ru |
 
+<h2>DVB-S</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 0   | Матч! Планета Ⓢ | [>](http://212.0.211.102:9999/play/a00b/index.m3u8) | <img height="20" src="https://i.imgur.com/vhyMb9D.png"/> | MatchPlaneta.ru |
+
 <h2>Invalid</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
