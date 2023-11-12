@@ -59,8 +59,16 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | 24 канал | [>](http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/24_Kanal_logo.svg/768px-24_Kanal_logo.svg.png"/> | Channel24.ua |
 | 0   | Рибалка | [>](http://91.210.251.166:4582/udp/239.0.2.104:4000) | <img height="20" src="https://i.imgur.com/NafW0xT.png"/> | Rybalka.ua |
-| 0   | Київ 24 | [>](rtmp://93.189.60.202//1040) | <img height="20" src="https://i.imgur.com/TVuCY4N.png"/> | Kyiv.ua |
+| 0   | Київ Ⓢ | [>](rtmp://93.189.60.202//1040) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kyiv_TV_%282023%29.svg/1024px-Kyiv_TV_%282023%29.svg.png"/> | Kyiv.ua |
 | 0   | FREEДОМ Ⓢ | [>](http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6) | <img height="20" src="https://i.imgur.com/38UPLa9.png"/> | Freedom.ua |
+
+<h2>Regional (Suspilne)</h2>
+
+* [https://uk.wikipedia.org/wiki/Цифрове_наземне_телебачення_в_УкраїніMX-5_(DVB-T2)_(регіональні,_канали_мовлення_залежать_від_регіону)[12]](https://uk.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B5_%D0%BD%D0%B0%D0%B7%D0%B5%D0%BC%D0%BD%D0%B5_%D1%82%D0%B5%D0%BB%D0%B5%D0%B1%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96#MX-5_(DVB-T2)_(%D1%80%D0%B5%D0%B3%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%96,_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8_%D0%BC%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%B0%D1%82%D1%8C_%D0%B2%D1%96%D0%B4_%D1%80%D0%B5%D0%B3%D1%96%D0%BE%D0%BD%D1%83)[12])
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | Суспільне Київ | [>](http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/640px-Suspilne_Kyiv_%282022%29.svg.png"/> | SuspilneKyiv.ua |
 
 <h2>Other</h2>
 
