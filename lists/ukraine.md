@@ -48,7 +48,7 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 5   | Comedy Central Ukraine Ⓢ | [>](http://91.210.251.166:4550/udp/239.0.2.30:4000) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1024px-Comedy_Central_2018.svg.png"/> | ComedyCentralUkraine.ua |
 | 7   | Kvartal TV Ⓢ | [>](rtmp://93.189.60.202//932) | <img height="20" src="https://i.imgur.com/6ZYWizP.png"/> | KvartalTV.ua |
-| 14  | Суспільне Новини Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=SuspilneNovyny) | <img height="20" src="https://i.imgur.com/6ZTGMli.png"/> | SuspilneNovyny.ua |
+| 14  | Суспільне Новини Ⓢ | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=SuspilneNovyny) | <img height="20" src="https://i.imgur.com/6ZTGMli.png"/> | SuspilneNovyny.ua |
 | 15  | Суспільне Крим Ⓢ | [>](https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8) | <img height="20" src="https://i.imgur.com/m7znCes.png"/> | SuspilneKrym.ua |
 
 <h2>Kyivstar TV</h2>
