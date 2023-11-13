@@ -37,5 +37,6 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Xəzər TV Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=Xezer) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png"/> | XezerTV.az |
 | 0   | Səhiyyə TV | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/thumb/c/cd/S%C9%99hiyy%C9%99_TV.png/640px-S%C9%99hiyy%C9%99_TV.png"/> | SehiyyeTV.az |
+| 0   | MCJ TV SHOP | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MCJTVShop) | <img height="20" src="https://tvtolive.com/wp-content/uploads/MCJ-TV-Shop-tvtolive.com_.jpg"/> |
 | 0   | VIP HD | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP) | <img height="20" src="https://tvtolive.com/wp-content/uploads/VIP-TV-tvtolive.com_.jpg"/> |
 | 0   | MTV Azerbaijan Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png"/> | MTVAzerbaijan.az |
