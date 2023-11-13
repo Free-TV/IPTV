@@ -31,7 +31,7 @@
 
 <h2>myvideo.az</h2>
 
-* http://myvideo.az/channels.aspx?channel=aztv.m3u8
+* http://myvideo.az/channels.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
