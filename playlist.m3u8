@@ -1931,7 +1931,7 @@ https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist_b60960
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-name="Bălți TV" tvg-logo="https://i.imgur.com/S1vEqZp.png" tvg-id="BaltiTV.md" group-title="Moldova",Bălți TV
 https://hls.btv.md/hls/live2.m3u8
-#EXTINF:-1 tvg-name="TV Monaco" tvg-logo=" height="20" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/320px-TVMonaco_2023.svg.png" tvg-id="TVMonaco.mc" group-title="Monaco",TV Monaco
+#EXTINF:-1 tvg-name="TV Monaco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/320px-TVMonaco_2023.svg.png" tvg-id="TVMonaco.mc" group-title="Monaco",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2027/media.m3u8
 #EXTINF:-1 tvg-name="MonacoInfo" tvg-logo="https://www.lyngsat.com/logo/tv/mm/monaco_info.png" tvg-id="MonacoInfo.mc" group-title="Monaco",MonacoInfo
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
@@ -2123,8 +2123,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTP3.pt" group-title="Portugal",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" tvg-id="RTPMemoria.pt" group-title="Portugal",RTP Memória
-
 #EXTINF:-1 tvg-name="Porto Canal Ⓢ" tvg-logo="https://i.imgur.com/wsyvP2H.png" tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal Ⓢ
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-name="ADtv Ⓢ" tvg-logo="https://i.imgur.com/FvlcU3z.png" group-title="Portugal",ADtv Ⓢ
