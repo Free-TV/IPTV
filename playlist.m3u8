@@ -1765,6 +1765,26 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" group-title="Mexico",Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Moldova 1" tvg-logo="https://i.imgur.com/ZbQY56v.png" tvg-id="Moldova1.md" group-title="Moldova",Moldova 1
+https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova1
+#EXTINF:-1 tvg-name="Moldova 2" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" tvg-id="Moldova2.md" group-title="Moldova",Moldova 2
+https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova2
+#EXTINF:-1 tvg-name="Publika TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Publika_logo_%282017%29.png" tvg-id="PublikaTV.md" group-title="Moldova",Publika TV
+https://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-name="Vocea Basarabiei" tvg-logo="https://i.imgur.com/irP8QLs.png" tvg-id="VoceaBasarabieiTV.md" group-title="Moldova",Vocea Basarabiei
+https://storage.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF:-1 tvg-name="Canal 2 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/7/7f/Logo_Canal_2.png" tvg-id="Canal2.md" group-title="Moldova",Canal 2 Ⓖ
+https://livebeta.publika.md/LIVE/2/index.m3u8
+#EXTINF:-1 tvg-name="Canal 3 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Canal_3.svg/640px-Canal_3.svg.png" tvg-id="Canal3.md" group-title="Moldova",Canal 3 Ⓖ
+https://livebeta.publika.md/LIVE/3/index.m3u8
+#EXTINF:-1 tvg-name="Prime Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Prime.png" tvg-id="Prime.md" group-title="Moldova",Prime Ⓖ
+https://livebeta.publika.md/LIVE/1/600.m3u8
+#EXTINF:-1 tvg-name="TVR Moldova Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVR_Moldova_Logo_2022.svg/640px-TVR_Moldova_Logo_2022.svg.png" tvg-id="TVRMoldova.md" group-title="Moldova",TVR Moldova Ⓖ
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist_b6096000.m3u8
+#EXTINF:-1 tvg-name="Sor TV" tvg-logo="https://i.imgur.com/BcfZgD8.png" tvg-id="SorTV.md" group-title="Moldova",Sor TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:-1 tvg-name="Bălți TV" tvg-logo="https://i.imgur.com/S1vEqZp.png" tvg-id="BaltiTV.md" group-title="Moldova",Bălți TV
+https://hls.btv.md/hls/live2.m3u8
 #EXTINF:-1 tvg-name="TV Monaco" tvg-logo=" height="20" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/320px-TVMonaco_2023.svg.png" tvg-id="TVMonaco.mc" group-title="Monaco",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2027/media.m3u8
 #EXTINF:-1 tvg-name="MonacoInfo" tvg-logo="https://www.lyngsat.com/logo/tv/mm/monaco_info.png" tvg-id="MonacoInfo.mc" group-title="Monaco",MonacoInfo
