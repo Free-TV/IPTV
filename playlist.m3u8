@@ -2215,6 +2215,22 @@ https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
 https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-name="MMC TV" tvg-logo="https://i.imgur.com/yzETQJ4.png" tvg-id="MMC.si" group-title="Slovenia",MMC TV
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-name="Dacwa TV Ⓢ" tvg-logo="https://i.imgur.com/rMqrLzV.png" tvg-id="DacwaTV.so" group-title="Somalia",Dacwa TV Ⓢ
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1 tvg-name="MM Somali TV Ⓢ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mm-somali-tv-so.png" tvg-id="MMSomaliTV.uk" group-title="Somalia",MM Somali TV Ⓢ
+https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8
+#EXTINF:-1 tvg-name="Puntland TV Ⓢ" tvg-logo="https://i.imgur.com/C8EvQUo.png" tvg-id="PuntlandTV.so" group-title="Somalia",Puntland TV Ⓢ
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Saab TV Ⓢ" tvg-logo="https://i.imgur.com/JEC1J89.png" tvg-id="SaabTV.so" group-title="Somalia",Saab TV Ⓢ
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-name="SBC Ⓢ" tvg-logo="https://i.imgur.com/VLhgTIA.png" tvg-id="SBCTV.so" group-title="Somalia",SBC Ⓢ
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SNTV Daljir Ⓢ" tvg-logo="https://i.imgur.com/Re3ur88.png" tvg-id="SNTVDaljir.so" group-title="Somalia",SNTV Daljir Ⓢ
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-name="Somali Cable TV Ⓢ" tvg-logo="https://i.imgur.com/iPkaCts.png" tvg-id="SomaliCableTV.uk" group-title="Somalia",Somali Cable TV Ⓢ
+https://ap02.iqplay.tv:8082/iqb8002/somc131/playlist.m3u8
+#EXTINF:-1 tvg-name="Somali National TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" tvg-id="SomaliNationalTV.so" group-title="Somalia",Somali National TV Ⓢ
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-id="La1.es" group-title="Spain",La 1
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-id="La2.es" group-title="Spain",La 2
