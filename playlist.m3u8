@@ -2213,18 +2213,22 @@ https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Slovakia",TA3 Ⓢ
 https://sktv-forwarders.7m.pl/get.php?x=TA3
-#EXTINF:-1 tvg-name="RTV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" tvg-id="TVSlovenija1.si" group-title="Slovenia",RTV SLO 1
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" tvg-id="TVSlovenija2.si" group-title="Slovenia",RTV SLO 2
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV SLO 3" tvg-logo="https://i.imgur.com/WGUyj7r.png" tvg-id="TVSlovenija3.si" group-title="Slovenia",RTV SLO 3
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Koper" tvg-logo="https://i.imgur.com/NQvOJNh.png" tvg-id="TVKoperCapodistria.si" group-title="Slovenia",TV Koper
-https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-name="TV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" tvg-id="TVSlovenija1.si" group-title="Slovenia",TV SLO 1
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1
+#EXTINF:-1 tvg-name="TV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" tvg-id="TVSlovenija2.si" group-title="Slovenia",TV SLO 2
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO2
+#EXTINF:-1 tvg-name="TV SLO 3" tvg-logo="https://i.imgur.com/WGUyj7r.png" tvg-id="TVSlovenija3.si" group-title="Slovenia",TV SLO 3
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO3
+#EXTINF:-1 tvg-name="TV Koper/Capodistria" tvg-logo="https://i.imgur.com/NQvOJNh.png" tvg-id="TVKoperCapodistria.si" group-title="Slovenia",TV Koper/Capodistria
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVKC
 #EXTINF:-1 tvg-name="TV Maribor" tvg-logo="https://i.imgur.com/tWf3dgf.png" tvg-id="TVMaribor.si" group-title="Slovenia",TV Maribor
-https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVMaribor
 #EXTINF:-1 tvg-name="MMC TV" tvg-logo="https://i.imgur.com/yzETQJ4.png" tvg-id="MMC.si" group-title="Slovenia",MMC TV
-https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
+https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV
+#EXTINF:-1 tvg-name="Nova 24 TV Ⓨ" tvg-logo="https://i.imgur.com/M2207Vh.png" tvg-id="Nova24TV.si" group-title="Slovenia",Nova 24 TV Ⓨ
+https://www.youtube.com/@Nova24TVSlovenija/live
+#EXTINF:-1 tvg-name="Folx Slovenija" tvg-logo="https://i.imgur.com/RK1IASU.png" tvg-id="FolxSlovenija.si" group-title="Slovenia",Folx Slovenija
+https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
 #EXTINF:-1 tvg-name="Dacwa TV Ⓢ" tvg-logo="https://i.imgur.com/rMqrLzV.png" tvg-id="DacwaTV.so" group-title="Somalia",Dacwa TV Ⓢ
 https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 #EXTINF:-1 tvg-name="MM Somali TV Ⓢ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mm-somali-tv-so.png" tvg-id="MMSomaliTV.uk" group-title="Somalia",MM Somali TV Ⓢ
