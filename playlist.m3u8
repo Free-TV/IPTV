@@ -813,6 +813,10 @@ https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/playlist.m3u
 https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8
 #EXTINF:-1 tvg-name="Zagros TV" tvg-logo="https://i.imgur.com/UjIuIQX.png" tvg-id="ZagrosTV.iq" group-title="Iraq",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" group-title="Ireland",TG4
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-id="OireachtasTV.ie" group-title="Ireland",Houses of the Oireachtas Channel
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-name="9 канал Ⓨ" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
 https://www.youtube.com/@israel9tv/live
 #EXTINF:-1 tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/640px-Kan11Logo.svg.png" tvg-id="Kan11.il" group-title="Israel",כאן 11
