@@ -503,6 +503,10 @@ https://lifetv.bitflip.ee/live/stream2.m3u8
 https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-name="TBN Baltia" tvg-logo="https://i.imgur.com/rKBaK56.png" tvg-id="TBNBaltia.ee" group-title="Estonia",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 tvg-name="KVF Sjónvarp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KVF_logo_2019.svg/640px-KVF_logo_2019.svg.png" tvg-id="KVFSjonvarp.fo" group-title="Faroe Islands",KVF Sjónvarp
+https://w1.kringvarp.fo/uttanlands/smil:uttanlands.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Tingvarp" tvg-logo=" height="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_-_L%C3%B8gting.png" tvg-id="Tingvarp.fo" group-title="Faroe Islands",Tingvarp
+https://play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8
 #EXTINF:-1 tvg-name="Yle TV1 Ⓖ" tvg-logo="https://i.imgur.com/6yXZwUL.png" tvg-id="YleTV1.fi" group-title="Finland",Yle TV1 Ⓖ
 https://yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8
 #EXTINF:-1 tvg-name="Yle TV2 Ⓖ" tvg-logo="https://i.imgur.com/4xkc6PL.png" tvg-id="YleTV2.fi" group-title="Finland",Yle TV2 Ⓖ
