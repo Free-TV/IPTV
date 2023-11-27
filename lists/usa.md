@@ -4,12 +4,12 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Buzzr          | [>](https://buzzrota-web.amagi.tv/playlist480.m3u8) | <img height="20" src="https://i.imgur.com/VihFt5p.png"/> | Buzzr.us |
-| 2   | Retro TV       | [>](https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="20" src="https://imgur.com/PNTYOgg.png" /> | RetroTVEast.us |
-| 3   | Stadium        | [>](https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8) | <img height="30" src="https://imgur.com/6ae9E8d.png"/> | Stadium.us |
+| 1   | Buzzr Ⓖ        | [>](https://buzzrota-web.amagi.tv/playlist480.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png"/> | Buzzr.us |
+| 2   | Retro TV       | [>](https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/PNTYOgg.png" /> | RetroTVEast.us |
+| 3   | Stadium        | [>](https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8) | <img height="30" src="https://i.imgur.com/6ae9E8d.png"/> | Stadium.us |
 | 4   | Biz TV         | [>](https://thegateway.app/BizTV/BizTV-Tones/chunks.m3u8?nimblesessionid=94690008) | <img height="20" src="https://i.imgur.com/cbGvXyF.jpg"/> | BizTV.us |
-| 5   | Heartland      | [>](https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8) |  <img height="30" src="https://imgur.com/a67bbag.png" /> | HeartlandEastern.us |
-| 6   | Rev'n          | [>](https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="30" src="https://imgur.com/VUhqVgG.png" /> | RevnTV.us |
+| 5   | Heartland      | [>](https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8) |  <img height="30" src="https://i.imgur.com/a67bbag.png" /> | HeartlandEastern.us |
+| 6   | Rev'n          | [>](https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="30" src="https://i.imgur.com/VUhqVgG.png" /> | RevnTV.us |
 
 <h2>DVB-S</h2>
 
@@ -38,4 +38,3 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 |1    | Docurama       | [>](https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/bNg8mze.png"/> | Docurama.us |
 |2    | Drybar Comedy  | [>](https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EldlmTp.png"/> | DryBarComedy.us |
-

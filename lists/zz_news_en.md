@@ -3,7 +3,7 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | SkyNews English    | [>](https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png"/> | SkyNewsInternational.uk |
-| 2   | Euronews English | [>](https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsEnglish.fr |
+| 2   | Euronews English | [>](https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsEnglish.fr |
 | 3   | Africanews English Ⓨ | [>](https://www.youtube.com/c/africanews/live) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
 | 4   | France 24 English Ⓨ | [>](https://www.youtube.com/c/FRANCE24English/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
 | 5   | DW English  | [>](https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> | DWEnglish.de |
