@@ -81,6 +81,8 @@ http://stream.tveger.hu:8010/live.m3u8
 http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
 #EXTINF:-1 tvg-name="Miskolc TV" tvg-logo="https://i.imgur.com/IoiNus2.png" tvg-id="MiskolcTV.hu" group-title="Hungary",Miskolc TV
 https://video.mhzrt.hu/live/mitv/playlist.m3u8
+#EXTINF:-1 tvg-name="Oroszlány városi televízió" tvg-logo="https://onlinestream.live/logos/6638.png" tvg-id="" group-title="Hungary",Oroszlány városi televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" group-title="Hungary",M2 / Petőfi TV
 https://c201-node61-cdn.connectmedia.hu/110102/7184521041cf54cee9c6548e8d0ba377/64117799/index.m3u8
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
