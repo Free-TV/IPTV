@@ -713,6 +713,16 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_5/ert_sports_5medium.m
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_6/ert_sports_6medium.m3u8
 #EXTINF:-1 tvg-name="Euronews Greek Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsGreek.fr" group-title="Greece",Euronews Greek Ⓨ
 https://www.youtube.com/c/euronewsGreek/live
+#EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" group-title="Hong Kong",RTHK TV 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="RTHK TV 32" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="RTHKTV32.hk" group-title="Hong Kong",RTHK TV 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-name="HOY TV Ⓖ" tvg-logo="https://i.imgur.com/NfVZPTT.png" tvg-id="HKIBC.hk" group-title="Hong Kong",HOY TV Ⓖ
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-name="TVB News Channel" tvg-logo="https://i.imgur.com/Gwij0Fj.png" tvg-id="TVBNewsChannel.hk" group-title="Hong Kong",TVB News Channel
+https://tvp22.sky4k.top/index1.php
+#EXTINF:-1 tvg-name="TVB Finance, Sports & Information Channel" tvg-logo="https://i.imgur.com/Fkkp7x7.png" tvg-id="TVBFinanceSportsInformationChannel.hk" group-title="Hong Kong",TVB Finance, Sports & Information Channel
+https://tvp22.sky4k.top/index2.php
 #EXTINF:-1 tvg-name="M1 Hiradó Ⓨ" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1 Hiradó Ⓨ
 https://www.youtube.com/live/DbP9rmGifYs
 #EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="RTLKlub.hu" group-title="Hungary",RTL Klub
