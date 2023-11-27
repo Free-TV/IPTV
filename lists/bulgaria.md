@@ -9,6 +9,8 @@
 | 7   | BNT2 | [x]() | <img height="20" src="https://i.imgur.com/FyTUr9Q.png"/> | BNT2.bg |
 | 64  | BNT3 | [x]() | <img height="20" src="https://i.imgur.com/pPpSJ4u.png"/> | BNT3.bg |
 | 0   | Nova News | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nova_News_Bulgaria_logo.png"/> | NovaNews.bg |
+| 8   | City TV Ⓢ | [>](https://tv.city.bg/play/tshls/citytv/index.m3u8) | <img height="20" src="https://i.imgur.com/BjRTbrU.png"/> | City.bg |
+
 
 <h2>DVB-S</h2>
 
