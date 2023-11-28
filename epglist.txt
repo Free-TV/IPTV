@@ -9,6 +9,7 @@ https://xmltv.tvkaista.net/guides/artonline.tv.xml
 https://xmltv.tvkaista.net/guides/astro.com.my.xml
 https://xmltv.tvkaista.net/guides/bein.com.xml
 https://xmltv.tvkaista.net/guides/beinsports.com.xml
+https://xmltv.tvkaista.net/guides/cablego.com.pe.xml
 https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml
 https://xmltv.tvkaista.net/guides/canalplus.com.xml
 https://xmltv.tvkaista.net/guides/cgates.lt.xml
@@ -35,6 +36,7 @@ https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml
 https://xmltv.tvkaista.net/guides/horizon.tv.xml
 https://xmltv.tvkaista.net/guides/i.mjh.nz.xml
 https://xmltv.tvkaista.net/guides/i24news.tv.xml
+https://xmltv.tvkaista.net/guides/iltalehti.fi.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
 https://xmltv.tvkaista.net/guides/ipko.com.xml
 https://xmltv.tvkaista.net/guides/kvf.fo.xml
@@ -66,6 +68,7 @@ https://xmltv.tvkaista.net/guides/novacyprus.com.xml
 https://xmltv.tvkaista.net/guides/novasports.gr.xml
 https://xmltv.tvkaista.net/guides/nzxmltv.com.xml
 https://xmltv.tvkaista.net/guides/ontvtonight.com.xml
+https://xmltv.tvkaista.net/guides/osn.com.xml
 https://xmltv.tvkaista.net/guides/pbsguam.org.xml
 https://xmltv.tvkaista.net/guides/plex.tv.xml
 https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml
@@ -87,15 +90,14 @@ https://xmltv.tvkaista.net/guides/sjonvarp.is.xml
 https://xmltv.tvkaista.net/guides/sky.co.nz.xml
 https://xmltv.tvkaista.net/guides/sky.com.xml
 https://xmltv.tvkaista.net/guides/sky.de.xml
-https://xmltv.tvkaista.net/guides/sportsnet.ca.xml
 https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 https://xmltv.tvkaista.net/guides/startimestv.com.xml
 https://xmltv.tvkaista.net/guides/streamingtvguides.com.xml
 https://xmltv.tvkaista.net/guides/superguidatv.it.xml
+https://xmltv.tvkaista.net/guides/taiwanplus.com.xml
 https://xmltv.tvkaista.net/guides/tapdmv.com.xml
 https://xmltv.tvkaista.net/guides/telenet.tv.xml
 https://xmltv.tvkaista.net/guides/teliatv.ee.xml
-https://xmltv.tvkaista.net/guides/telkku.com.xml
 https://xmltv.tvkaista.net/guides/telkussa.fi.xml
 https://xmltv.tvkaista.net/guides/telsu.fi.xml
 https://xmltv.tvkaista.net/guides/tivu.tv.xml
