@@ -17,3 +17,5 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=InfoTV
 https://www.tvkaista.net/stream-forwarder/get.php?x=TV1
 #EXTINF:-1 tvg-name="Lietuvos Rytas TV Ⓢ" tvg-logo="https://i.imgur.com/5wpxVI0.png" tvg-id="LietuvosRytasTV.lt" group-title="Lithuania",Lietuvos Rytas TV Ⓢ
 http://lr-live.cdn.balt.net/live/smil:lrytas.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVP Wilno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVP_Wilno_%282019%29.svg/640px-TVP_Wilno_%282019%29.svg.png" tvg-id="TVPWilno.pl" group-title="Lithuania",TVP Wilno
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPWilno

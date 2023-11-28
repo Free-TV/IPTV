@@ -11,7 +11,7 @@
 | 7 | Info TV | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=InfoTV) | <img height="20" src="https://i.imgur.com/EjQtIpM.png"/> | InfoTV.lt |
 | 8 | TV1 | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=TV1) | <img height="20" src="https://i.imgur.com/KLWDcFy.png"/> | TV1.lt |
 | 9 | Lietuvos Rytas TV Ⓢ | [>](http://lr-live.cdn.balt.net/live/smil:lrytas.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5wpxVI0.png"/> | LietuvosRytasTV.lt |
-
+| 10 | TVP Wilno | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=TVPWilno) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVP_Wilno_%282019%29.svg/640px-TVP_Wilno_%282019%29.svg.png"/> | TVPWilno.pl |
 
 <h2>Invalid</h2>
 
