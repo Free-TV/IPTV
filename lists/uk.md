@@ -8,7 +8,7 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | BBC One Ⓖ | [>](https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png"/> | BBCOne.uk |
-| 2   | BBC Two | [>](https://helpfulpost.net/bbctwo/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
+| 2   | BBC Two | [>](https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
 | 3   | ITV 1 | [>](http://92.114.85.81:8000/play/a00y/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png"/> | ITV1.uk |
 | 3   | STV Ⓖ | [>](https://csm-e-ces1aeuw1live102-083090b15a93b4fdd.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/631px-STV_logo_2014.png"/> | STV.uk |
 | 3   | UTV | [>](http://92.114.85.81:8000/play/a04s/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/640px-UTV_2016.svg.png"/> | UTV.uk |
@@ -17,7 +17,7 @@
 | 5   | Channel 5 Ⓖ | [>](http://92.114.85.81:8000/play/a01g/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png"/> | Channel5.uk |
 | 6   | ITV 2 | [>](http://92.114.85.77:8000/play/a041) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png"/> | ITV2.uk |
 | 7   | BBC Alba Ⓢ Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png"/> | BBCAlba.uk |
-| 9   | BBC Four Ⓢ | [>](https://helpfulpost.net/bbcfour/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png"/> | BBCFour.uk |
+| 9   | BBC Four Ⓢ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png"/> | BBCFour.uk |
 | 9   | BBC Scotland Ⓢ Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png"/> | BBCScotland.uk |
 | 10  | ITV 3 | [>](http://92.114.85.77:8000/play/a04z) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png"/> | ITV3.uk |
 | 11  | Sky Arts Ⓢ | [>](http://92.114.85.62:8000/play/a00a) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png"/> | SkyArts.uk |
