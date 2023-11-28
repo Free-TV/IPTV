@@ -9,6 +9,7 @@ https://xmltv.tvkaista.net/guides/artonline.tv.xml
 https://xmltv.tvkaista.net/guides/astro.com.my.xml
 https://xmltv.tvkaista.net/guides/bein.com.xml
 https://xmltv.tvkaista.net/guides/beinsports.com.xml
+https://xmltv.tvkaista.net/guides/berrymedia.co.kr.xml
 https://xmltv.tvkaista.net/guides/cablego.com.pe.xml
 https://xmltv.tvkaista.net/guides/cableplus.com.uy.xml
 https://xmltv.tvkaista.net/guides/canalplus.com.xml
@@ -48,6 +49,7 @@ https://xmltv.tvkaista.net/guides/magticom.ge.xml
 https://xmltv.tvkaista.net/guides/mako.co.il.xml
 https://xmltv.tvkaista.net/guides/maxtv.hrvatskitelekom.hr.xml
 https://xmltv.tvkaista.net/guides/maxtvgo.mk.xml
+https://xmltv.tvkaista.net/guides/mediagenie.co.kr.xml
 https://xmltv.tvkaista.net/guides/mediaklikk.hu.xml
 https://xmltv.tvkaista.net/guides/mediasetinfinity.mediaset.it.xml
 https://xmltv.tvkaista.net/guides/melita.com.xml
