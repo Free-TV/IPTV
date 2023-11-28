@@ -47,15 +47,15 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | Наша ТВ | [>](https://stream.nasatv.com.mk/hls/nasatv_live.m3u8) | <img height="20" src="https://i.imgur.com/EOLrXvB.png"/> | NasaTV.mk |
-| 2   | Cool TV | [>](https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8) | <img height="20" src="https://i.imgur.com/rtjCP5a.png"/> | CoolTV.mk |
-| 3   | Folk TV | [>](https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8) | <img height="20" src="https://i.imgur.com/4b9aZ9P.png"/> | FolkTV.mk |
-| 4   | Jazz TV | [>](https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8) | <img height="20" src="https://i.imgur.com/4b9aZ9P.png"/> | JazzTV.mk |
-| 5   | Love TV | [>](https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8) | <img height="20" src="https://i.imgur.com/B8iaejQ.png"/> | LoveTV.mk |
-| 6   | Rock TV | [>](https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8) | <img height="20" src="https://i.imgur.com/Y9miDQo.png"/> | RockTV.mk |
+| 2   | Cool TV | [>](https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8) | <img height="20" src="https://i.imgur.com/rtjCP5a.png"/> | nasatv.com.mk/cool-tv |
+| 3   | Folk TV | [>](https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8) | <img height="20" src="https://i.imgur.com/4b9aZ9P.png"/> | nasatv.com.mk/folk-tv |
+| 4   | Jazz TV | [>](https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8) | <img height="20" src="https://i.imgur.com/4b9aZ9P.png"/> | nasatv.com.mk/jazz-tv |
+| 5   | Love TV | [>](https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8) | <img height="20" src="https://i.imgur.com/B8iaejQ.png"/> | nasatv.com.mk/love-tv |
+| 6   | Rock TV | [>](https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8) | <img height="20" src="https://i.imgur.com/Y9miDQo.png"/> | nasatv.com.mk/love-tv |
 | 7 | Стар Фолк | [>](https://live.muzickatv.mk/live/StarMusic.m3u8) | <img height="20" src="https://i.imgur.com/7RstQYI.png"/> | starfolk.net |
 | 8 | Sky Folk | [>](https://skyfolk.mk/live.m3u8) | <img height="20" src="https://i.imgur.com/xRw4Hmu.png"/> | skyfolk.mk |
 | 9 | Хуго 2 | [>](http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8) | <img height="20" src="https://i.imgur.com/yb3xjOZ.png"/> | hugo-2 |
 | 10 | Folk Club TV| [>](http://tv1.intv.mk:1935/live2/folkklub/index.m3u8) | <img height="20" src="https://i.imgur.com/vkGFSl8.png"/> | folkclubtv.com |
-| 1 | INTV | [>](http://tv1.intv.mk:1935/live/intv/index.m3u8) | <img height="20" src="https://i.imgur.com/K7BSjqY.png"/> | intvaustralia.com |
-| 1 | Macedonian Documentary Channel | [>](https://giganet.mk/hls/macdoc.m3u8) | <img height="20" src="https://i.imgur.com/uYyG2oA.png"/> | MDC |
-| 1 | Вистел| [>](https://live.vtv.mk/live/vtv/chunks.m3u8) | <img height="20" src="https://i.imgur.com/MbM0E6L.png"/> | vtv.mk |
+| 11 | INTV | [>](http://tv1.intv.mk:1935/live/intv/index.m3u8) | <img height="20" src="https://i.imgur.com/K7BSjqY.png"/> | intvaustralia.com |
+| 12 | Macedonian Documentary Channel | [>](https://giganet.mk/hls/macdoc.m3u8) | <img height="20" src="https://i.imgur.com/uYyG2oA.png"/> | MDC |
+| 13 | Вистел| [>](https://live.vtv.mk/live/vtv/chunks.m3u8) | <img height="20" src="https://i.imgur.com/MbM0E6L.png"/> | vtv.mk |
