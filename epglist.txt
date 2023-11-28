@@ -21,13 +21,16 @@ https://xmltv.tvkaista.net/guides/cubmu.com.xml
 https://xmltv.tvkaista.net/guides/dens.tv.xml
 https://xmltv.tvkaista.net/guides/digiturk.com.tr.xml
 https://xmltv.tvkaista.net/guides/dishtv.in.xml
+https://xmltv.tvkaista.net/guides/disneystar.com.xml
 https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml
 https://xmltv.tvkaista.net/guides/dstv.com.xml
 https://xmltv.tvkaista.net/guides/elcinema.com.xml
 https://xmltv.tvkaista.net/guides/ena.skylifetv.co.kr.xml
 https://xmltv.tvkaista.net/guides/entertainment.ie.xml
+https://xmltv.tvkaista.net/guides/firstmedia.com.xml
 https://xmltv.tvkaista.net/guides/flixed.io.xml
 https://xmltv.tvkaista.net/guides/foxsports.com.au.xml
+https://xmltv.tvkaista.net/guides/foxtel.com.au.xml
 https://xmltv.tvkaista.net/guides/frikanalen.no.xml
 https://xmltv.tvkaista.net/guides/gatotv.com.xml
 https://xmltv.tvkaista.net/guides/getafteritmedia.com.xml
@@ -39,6 +42,7 @@ https://xmltv.tvkaista.net/guides/i24news.tv.xml
 https://xmltv.tvkaista.net/guides/iltalehti.fi.xml
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
 https://xmltv.tvkaista.net/guides/ipko.com.xml
+https://xmltv.tvkaista.net/guides/knr.gl.xml
 https://xmltv.tvkaista.net/guides/kvf.fo.xml
 https://xmltv.tvkaista.net/guides/magticom.ge.xml
 https://xmltv.tvkaista.net/guides/mako.co.il.xml
@@ -66,6 +70,7 @@ https://xmltv.tvkaista.net/guides/nhk.or.jp.xml
 https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml
 https://xmltv.tvkaista.net/guides/novacyprus.com.xml
 https://xmltv.tvkaista.net/guides/novasports.gr.xml
+https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml
 https://xmltv.tvkaista.net/guides/nzxmltv.com.xml
 https://xmltv.tvkaista.net/guides/ontvtonight.com.xml
 https://xmltv.tvkaista.net/guides/osn.com.xml
@@ -85,6 +90,7 @@ https://xmltv.tvkaista.net/guides/rtp.pt.xml
 https://xmltv.tvkaista.net/guides/ruv.is.xml
 https://xmltv.tvkaista.net/guides/sat.tv.xml
 https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml
+https://xmltv.tvkaista.net/guides/siba.com.co.xml
 https://xmltv.tvkaista.net/guides/singtel.com.xml
 https://xmltv.tvkaista.net/guides/sjonvarp.is.xml
 https://xmltv.tvkaista.net/guides/sky.co.nz.xml
@@ -103,6 +109,7 @@ https://xmltv.tvkaista.net/guides/telsu.fi.xml
 https://xmltv.tvkaista.net/guides/tivu.tv.xml
 https://xmltv.tvkaista.net/guides/toonamiaftermath.com.xml
 https://xmltv.tvkaista.net/guides/turksatkablo.com.tr.xml
+https://xmltv.tvkaista.net/guides/tv-programme.telecablesat.fr.xml
 https://xmltv.tvkaista.net/guides/tv.blue.ch.xml
 https://xmltv.tvkaista.net/guides/tv.cctv.com.xml
 https://xmltv.tvkaista.net/guides/tv.dir.bg.xml
@@ -121,6 +128,7 @@ https://xmltv.tvkaista.net/guides/tvcubana.icrt.cu.xml
 https://xmltv.tvkaista.net/guides/tvgids.nl.xml
 https://xmltv.tvkaista.net/guides/tvguide.com.xml
 https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml
+https://xmltv.tvkaista.net/guides/tvhebdo.com.xml
 https://xmltv.tvkaista.net/guides/tvheute.at.xml
 https://xmltv.tvkaista.net/guides/tvim.tv.xml
 https://xmltv.tvkaista.net/guides/tving.com.xml
@@ -129,12 +137,15 @@ https://xmltv.tvkaista.net/guides/tvmi.mt.xml
 https://xmltv.tvkaista.net/guides/tvmusor.hu.xml
 https://xmltv.tvkaista.net/guides/tvpassport.com.xml
 https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml
+https://xmltv.tvkaista.net/guides/tvprofil.com.xml
 https://xmltv.tvkaista.net/guides/tvtv.us.xml
+https://xmltv.tvkaista.net/guides/vidio.com.xml
 https://xmltv.tvkaista.net/guides/virginmedia.com.xml
 https://xmltv.tvkaista.net/guides/virginmediatelevision.ie.xml
 https://xmltv.tvkaista.net/guides/visionplus.id.xml
 https://xmltv.tvkaista.net/guides/vtm.be.xml
 https://xmltv.tvkaista.net/guides/walesi.com.fj.xml
+https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml
 https://xmltv.tvkaista.net/guides/watchyour.tv.xml
 https://xmltv.tvkaista.net/guides/web.magentatv.de.xml
 https://xmltv.tvkaista.net/guides/webtv.delta.nl.xml
