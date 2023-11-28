@@ -47,7 +47,7 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | Наша ТВ | [>](https://stream.nasatv.com.mk/hls/nasatv_live.m3u8) | <img height="20" src="https://i.imgur.com/EOLrXvB.png"/> | NasaTV.mk |
-| 2   | Cool TV | [>](https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8) | <img height="20" src="https://i.imgur.com/2tFrjUz.png"/> | CoolTV.mk |
+| 2   | Cool TV | [>](https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8) | <img height="20" src="https://i.imgur.com/rtjCP5a.png"/> | CoolTV.mk |
 | 3   | Folk TV | [>](https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8) | <img height="20" src="https://i.imgur.com/4b9aZ9P.png"/> | FolkTV.mk |
 | 4   | Jazz TV | [>](https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8) | <img height="20" src="https://i.imgur.com/4b9aZ9P.png"/> | JazzTV.mk |
 | 5   | Love TV | [>](https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8) | <img height="20" src="https://i.imgur.com/B8iaejQ.png"/> | LoveTV.mk |
