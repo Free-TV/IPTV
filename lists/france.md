@@ -31,7 +31,7 @@
 | 5   | France 5 | [>](http://livetv.ktv.zone/107/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
 | 10  | TMC | [>](http://livetv.ktv.zone/12/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
 | 11  | TFX | [>](http://livetv.ktv.zone/13/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
-| 20   | TF1 Séries Films | [>](http://livetv.ktv.zone/22/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
+| 20  | TF1 Séries Films | [>](http://livetv.ktv.zone/22/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
 | 29  | TV5 Monde Info | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
 | 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
 | 31  | TV5 Monde Europe | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeEurope.fr |
