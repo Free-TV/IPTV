@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: "16.x"
+          node-version: "20.10.x"
 
       - name: Install m3u-linter and check the playlist
         run: |

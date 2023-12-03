@@ -24,9 +24,13 @@ https://en.wikipedia.org/wiki/Television_in_Turkey
 | 15  | TRT EBA Ortaokul | [>](https://tv-e-okul01.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/yfPTvRx.png"/> |
 | 16  | TRT EBA Lise     | [>](https://tv-e-okul02.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/IebUZx1.png"/> |
 
+<h2>Other</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 0   | TMB TV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TMBTV) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png"/> | TMB.tr |
+
 <h2>Invalid</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-
-
