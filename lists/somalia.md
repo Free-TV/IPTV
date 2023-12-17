@@ -20,7 +20,7 @@
 | 0   | Rejo TV | [x]() | <img height="20" src="https://www.lyngsat.com/logo/tv/rr/rejo-tv-so.png"/> |
 | 0   | Saab TV Ⓢ | [>](https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JEC1J89.png"/> | SaabTV.so |
 | 0   | Sahan TV | [x]() | <img height="20" src="https://i.imgur.com/fOvHhX2.png"/> | SahanTV.so |
-| 0   | SBC Ⓢ | [>](http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VLhgTIA.png"/> | SBCTV.so |
+| 0   | SBC Somalia Ⓢ | [>](http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VLhgTIA.png"/> | SBCTV.so |
 | 0   | Shabelle TV | [x]() | <img height="20" src="https://www.lyngsat.com/logo/tv/ss/shabelle-tv-so.png"/> |
 | 0   | SNTV Daljir Ⓢ | [>](https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Re3ur88.png"/> | SNTVDaljir.so |
 | 0   | Somali Cable TV Ⓢ | [>](https://ap02.iqplay.tv:8082/iqb8002/somc131/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iPkaCts.png"/> | SomaliCableTV.uk |
