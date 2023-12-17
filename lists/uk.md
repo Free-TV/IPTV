@@ -7,17 +7,17 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | BBC One Ⓖ | [>](https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png"/> | BBCOne.uk |
-| 2   | BBC Two | [>](https://helpfulpost.net/bbctwo/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
+| 1   | BBC One | [>](http://92.114.85.81:8000/play/a001/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png"/> | BBCOne.uk |
+| 2   | BBC Two | [>](http://92.114.85.81:8000/play/a011/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
 | 3   | ITV 1 | [>](http://92.114.85.81:8000/play/a00y/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png"/> | ITV1.uk |
 | 3   | STV Ⓖ | [>](https://csm-e-ces1aeuw1live102-083090b15a93b4fdd.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/631px-STV_logo_2014.png"/> | STV.uk |
 | 3   | UTV | [>](http://92.114.85.81:8000/play/a04s/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/640px-UTV_2016.svg.png"/> | UTV.uk |
 | 4   | Channel 4 | [>](http://92.114.85.77:8000/play/a0b9) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png"/> | Channel4.uk |
 | 4   | S4C Ⓖ | [>](https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8) | <img height="20" src="https://i.imgur.com/vrcbnBv.png"/> | S4C.uk |
-| 5   | Channel 5 Ⓖ | [>](http://92.114.85.81:8000/play/a01g/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png"/> | Channel5.uk |
+| 5   | Channel 5 | [>](http://92.114.85.81:8000/play/a01g/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png"/> | Channel5.uk |
 | 6   | ITV 2 | [>](http://92.114.85.77:8000/play/a041) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/640px-ITV2_logo_2022.svg.png"/> | ITV2.uk |
-| 7   | BBC Alba Ⓢ Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png"/> | BBCAlba.uk |
-| 9   | BBC Four Ⓢ | [>](https://helpfulpost.net/bbcfour/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png"/> | BBCFour.uk |
+| 7   | BBC Alba | [>](http://92.114.85.81:8000/play/a04i/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/640px-BBC_Alba_2021.svg.png"/> | BBCAlba.uk |
+| 9   | BBC Four | [>](http://92.114.85.81:8000/play/a007/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png"/> | BBCFour.uk |
 | 9   | BBC Scotland Ⓢ Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png"/> | BBCScotland.uk |
 | 10  | ITV 3 | [>](http://92.114.85.77:8000/play/a04z) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png"/> | ITV3.uk |
 | 11  | Sky Arts Ⓢ | [>](http://92.114.85.62:8000/play/a00a) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png"/> | SkyArts.uk |
@@ -31,7 +31,7 @@
 | 20  | Drama Ⓢ | [>](http://92.114.85.81:8000/play/a03z/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Drama_logo_2013.svg/786px-Drama_logo_2013.svg.png"/> | Drama.uk |
 | 21  | 5USA Ⓢ | [>](http://92.114.85.81:8000/play/a01a/index.m3u8) | <img height="20" src="https://i.imgur.com/Pi7so2l.png"/> | 5USA.uk |
 | 22  | TJC | [>](https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8) | <img height="20" src="https://i.imgur.com/fk5rEje.png"/> | TJC.uk |
-| 23  | BBC Three Ⓖ | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png"/> | BBCThree.uk |
+| 23  | BBC Three | [>](http://92.114.85.81:8000/play/a017/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/640px-BBC_Three_2022.svg.png"/> | BBCThree.uk |
 | 25  | W Ⓢ | [>](http://92.114.85.81:8000/play/a03x/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/W_%28UKTV%29_2022.svg/640px-W_%28UKTV%29_2022.svg.png"/> | W.uk |
 | 26  | ITV 4 | [>](http://92.114.85.77:8000/play/a05z) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/640px-ITV4_logo_%282022%29.svg.png"/> | ITV4.uk |
 | 27  | Yesterday Ⓢ | [>](http://92.114.85.81:8000/play/a03v/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/620px-Yesterday_logo_2012.svg.png"/> | Yesterday.uk |
@@ -88,6 +88,12 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 177 | Court TV UK Ⓢ | [>](http://92.114.85.79:8000/play/a0bb) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png"/> | CourtTVUK.uk |
+| 205 | France 24 | [>](http://92.114.85.80:8000/play/a03l) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
+| 208 | Bloomberg TV | [>](http://92.114.85.80:8000/play/a03o) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png"/> | BloombergTVEurope.uk |
+| 209 | NHK World Japan | [>](https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/> | NHKWorldJapan.jp |
+| 210 | CNBC HD | [>](http://92.114.85.77:8000/play/a0b6) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"/> | CNBCEurope.uk |
+| 214 | Arirang World | [>](http://92.114.85.80:8000/play/a01e) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png"/> | ArirangWorld.kr |
+| 215 | TRT World | [>](https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/> | TRTWorld.tr |
 | 250 | SportyStuff TV | [>](https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8) | <img height="20" src="https://i.imgur.com/uIgxHSY.png"/> | SportyStuffTV.uk |
 | 501 | 4Music Ⓖ | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png"/> | 4Music.uk |
 | 502 | The Box Ⓖ | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/) | <img height="20" src="https://i.imgur.com/e1Cf4Li.png"/> | TheBoxUK.uk |
@@ -122,7 +128,17 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-|1    | BBC World Service | [>](http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls) | <img height="20" src="https://i.imgur.com/RYgSSHl.png"/> |
+| 1   | BBC Radio 1 | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png"/> | BBCRadio1.uk |
+| 2   | BBC Radio 2 | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd2-epg.png"/> | BBCRadio2.uk |
+| 3   | BBC Radio 3 | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd3-epg.png"/> | BBCRadio3.uk |
+| 4   | BBC Radio 4 | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4-epg.png"/> | BBCRadio4FM.uk |
+| 5   | BBC Radio 5 Live | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png"/> | BBCRadio5Live.uk |
+| 6   | BBC Radio 6 Music | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png"/> | BBCRadio6Music.uk |
+| 7   | BBC Radio 1Xtra   | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1x-epg.png"/> | BBCRadio1Xtra.uk |
+| 8   | BBC Radio 4 Extra | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4x-epg.png"/> | BBCRadio4Extra.uk |
+| 9   | BBC Radio 5 Sports Extra | [>](http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png"/> | BBCRadio5SportsExtra.uk |
+| 10  | BBC Asian Network | [>](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png"/> | BBCRadioAsianNetwork.uk |
+| 11  | BBC World Service | [>](http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8) | <img height="20" src="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png"/> | BBCRadioWorldService.uk |
 
 <h2>Invalid</h2>
 
