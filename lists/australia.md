@@ -17,6 +17,7 @@ https://www.freeview.com.au
 | 3   | ABC Kids        | [x]() | <img height="20" src="https://i.imgur.com/GWDRR1t.png"/> | ABCKids.au |
 | 4   | ABC Me          | [>](https://c.mjh.nz/101002210224/) | <img height="20" src="https://i.imgur.com/gBh54wY.png"/> | ABCMe.au |
 | 5   | ABC News        | [>](https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png"/> | ABCNews.au |
+| 8   | M4TV      | [>](https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HZohlNk.png"/> | M4TV.au |
 | 5   | SBS Viceland    | [x]() | <img height="20" src="https://i.imgur.com/WMKCkD0.png"/> | SBSViceland.au |
 | 5   | SBS World Movies| [x]() | <img height="20" src="https://i.imgur.com/V6hhtCx.png"/> | SBSWorldMovies.au |
 | 5   | SBS Food        | [x]() | <img height="20" src="https://i.imgur.com/qN9p4h0.png"/> | SBSFood.au |
