@@ -2037,19 +2037,19 @@ https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 #EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" tvg-id="RockTV.mk" group-title="North Macedonia",Rock TV
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:-1 tvg-name="Стар Фолк" tvg-logo="https://i.imgur.com/7RstQYI.png" tvg-id="starfolk.net" group-title="North Macedonia",Стар Фолк
+#EXTINF:-1 tvg-name="Стар Фолк" tvg-logo="https://i.imgur.com/7RstQYI.png" tvg-id="StarFolkTV.mk" group-title="North Macedonia",Стар Фолк
 https://live.muzickatv.mk/live/StarMusic.m3u8
-#EXTINF:-1 tvg-name="Sky Folk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" tvg-id="skyfolk.mk" group-title="North Macedonia",Sky Folk
+#EXTINF:-1 tvg-name="Sky Folk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" tvg-id="SkyFolkTV.mk" group-title="North Macedonia",Sky Folk
 https://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" tvg-id="hugo-2" group-title="North Macedonia",Хуго 2
+#EXTINF:-1 tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" tvg-id="Hugo2.mk" group-title="North Macedonia",Хуго 2
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
-#EXTINF:-1 tvg-name="Folk Club TV" tvg-logo="https://i.imgur.com/vkGFSl8.png" tvg-id="folkclubtv.com" group-title="North Macedonia",Folk Club TV
+#EXTINF:-1 tvg-name="Folk Club TV" tvg-logo="https://i.imgur.com/vkGFSl8.png" tvg-id="FolkClubTV.mk" group-title="North Macedonia",Folk Club TV
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 tvg-name="INTV" tvg-logo="https://i.imgur.com/K7BSjqY.png" tvg-id="intvaustralia.com" group-title="North Macedonia",INTV
+#EXTINF:-1 tvg-name="INTV" tvg-logo="https://i.imgur.com/K7BSjqY.png" tvg-id="" group-title="North Macedonia",INTV
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 tvg-name="Macedonian Documentary Channel" tvg-logo="https://i.imgur.com/uYyG2oA.png" tvg-id="MDC" group-title="North Macedonia",Macedonian Documentary Channel
+#EXTINF:-1 tvg-name="Macedonian Documentary Channel" tvg-logo="https://i.imgur.com/uYyG2oA.png" tvg-id="" group-title="North Macedonia",Macedonian Documentary Channel
 https://giganet.mk/hls/macdoc.m3u8
-#EXTINF:-1 tvg-name="Вистел" tvg-logo="https://i.imgur.com/MbM0E6L.png" tvg-id="vtv.mk" group-title="North Macedonia",Вистел
+#EXTINF:-1 tvg-name="Вистел" tvg-logo="https://i.imgur.com/MbM0E6L.png" tvg-id="" group-title="North Macedonia",Вистел
 https://live.vtv.mk/live/vtv/chunks.m3u8
 #EXTINF:-1 tvg-name="NRK1 Ⓖ" tvg-logo="https://i.imgur.com/9tj8ds7.png" tvg-id="NRK1.no" group-title="Norway",NRK1 Ⓖ
 https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
