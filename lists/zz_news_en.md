@@ -45,5 +45,5 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 101  | Cheddar News         | [>](https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tuP9GW8.png"/> | CheddarNews.us |
 | 102  | Bloomberg TV+        | [>](https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8) | <img height="20" src="https://i.imgur.com/xGlToly.png"/> | BloombergTVPlus.us |
-| 103  | CNBC HD              | [?](http://92.114.85.77:8000/play/a0b6) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"/> | CNBCEurope.uk |
+| 103  | CNBC                 | [>](https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"/> | CNBCEurope.uk |
 | 104  | Yahoo! Finance       | [>](https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8) | <img height="20" src="https://i.imgur.com/43oHsHL.png"/> | YahooFinance.us |
