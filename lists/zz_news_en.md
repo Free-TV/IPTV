@@ -37,6 +37,7 @@
 | 33  | Global News          | [>](https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/xk1QOhW.png"/> | GlobalNews.ca |
 | 34  | Russia Today         | [>](https://rt-glb.rttv.com/live/rtnews/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/> | RT.ru |
 | 35  | Pluto TV News        | [>](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=) | <img height="20" src="https://i.imgur.com/JdqA4r9.png"/> | PlutoTVNews.us |
+| 36  | CNN                  | [>](https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/> | CNN.us |
 
 <h1>Business</h1>
 
