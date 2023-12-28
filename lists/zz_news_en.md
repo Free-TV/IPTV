@@ -5,11 +5,11 @@
 | 1   | Sky News (UK)  | [>](https://i.mjh.nz/PlutoTV/155b285cd2665de274553d66f-alt.m3u8) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"/> | SkyNewsInternational.uk |
 | 2   | Euronews | [>](https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsEnglish.fr |
 | 3   | Africanews | [>](https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
-| 4   | France 24 | [>](http://92.114.85.80:8000/play/a03l) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
+| 4   | France 24 | [>](https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
 | 5   | DW  | [>](https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> | DWEnglish.de |
 | 6   | Al Jazeera   | [>](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) | <img height="20" src="https://i.imgur.com/BB93NQP.png"/> | AlJazeeraEnglish.qa |
 | 7   | CGTN          | [>](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTN.cn |
-| 8   | BBC News             | [>](http://92.114.85.81:8000/play/a00a/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"/> | BBCNews.uk |
+| 8   | BBC News Ⓖ          | [>](https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"/> | BBCNews.uk |
 | 9   | NBC News NOW         | [>](https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png"/> | NBCNewsNOW.us |
 | 10  | Reuters              | [>](https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8) | <img height="20" src="https://i.imgur.com/6eQ2nCJ.png"/> | ReutersTV.us |
 | 11  | The Guardian         | [>](https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8) | <img height="20" src="https://i.imgur.com/o9AYq9V.png"/> | TheGuardian.uk |
@@ -44,5 +44,5 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 101  | Cheddar News         | [>](https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tuP9GW8.png"/> | CheddarNews.us |
 | 102  | Bloomberg TV+        | [>](https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8) | <img height="20" src="https://i.imgur.com/xGlToly.png"/> | BloombergTVPlus.us |
-| 103  | CNBC HD              | [>](http://92.114.85.77:8000/play/a0b6) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"/> | CNBCEurope.uk |
+| 103  | CNBC HD              | [?](http://92.114.85.77:8000/play/a0b6) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"/> | CNBCEurope.uk |
 | 104  | Yahoo! Finance       | [>](https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8) | <img height="20" src="https://i.imgur.com/43oHsHL.png"/> | YahooFinance.us |
