@@ -27,7 +27,7 @@ https://www.freeview.com.au
 | 5   | 7flix           | [x]() | <img height="20" src="https://i.imgur.com/6iIYCyC.png"/> | 7flix.au |
 | 5   | Racing.com      | [>](https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8) | <img height="20" src="https://i.imgur.com/pma0OCf.png"/> | Racingcom.au |
 | 5   | 9Gem            | [x]() | <img height="20" src="https://i.imgur.com/sWmE1kq.png"/> | 9Gem.au |
-| 5   | 9Go!            | [x]() | <img height="20" src="https://i.imgur.com/1CFGu5O.png"/> | 9Go.au |
-| 5   | 9Life           | [x]() | <img height="20" src="https://i.imgur.com/ZCUiqlL.png"/> | 9Life.au |
-| 5   | 9Rush           | [x]() | <img height="20" src="https://i.imgur.com/krGjoHU.png"/> | 9Rush.au |
+| 5   | 9Go! Ⓖ | [>](https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8) | <img height="20" src="https://i.imgur.com/1CFGu5O.png"/> | 9Go.au |
+| 5   | 9Life Ⓖ | [>](https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8) | <img height="20" src="https://i.imgur.com/ZCUiqlL.png"/> | 9Life.au |
+| 5   | 9Rush Ⓖ | [>](https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"/> | 9Rush.au |
 | 5   | C31 Melbourne   | [x]() | <img height="20" src="https://i.imgur.com/dXwkFei.png"/> | C31Melbourne.au |
