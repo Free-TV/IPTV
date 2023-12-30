@@ -4,9 +4,9 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | MRT1 Ⓖ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT1) | <img height="20" src="https://i.imgur.com/EkkyAE0.png"/> | MRT1.mk |
-| 2   | MRT2 Ⓖ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT2) | <img height="20" src="https://i.imgur.com/YvOrUnN.png"/> | MRT2.mk |
-| 3   | MRT Sobraniski kanal | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=SobraniskiKanal) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_of_MRT_Assembly_Channel_%282012-%29.svg/634px-Logo_of_MRT_Assembly_Channel_%282012-%29.svg.png"/> | MRTSobraniskikanal.mk |
+| 1   | MRT1 Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8) | <img height="20" src="https://i.imgur.com/EkkyAE0.png"/> | MRT1.mk |
+| 2   | MRT2 Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8) | <img height="20" src="https://i.imgur.com/YvOrUnN.png"/> | MRT2.mk |
+| 3   | MRT Sobraniski kanal Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_of_MRT_Assembly_Channel_%282012-%29.svg/634px-Logo_of_MRT_Assembly_Channel_%282012-%29.svg.png"/> | MRTSobraniskikanal.mk |
 | 3   | MRT3 Ⓖ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_3_%282020-%29.svg/640px-Logo_of_MRT_3_%282020-%29.svg.png"/> | MRT3.mk |
 | 4   | MRT4 Ⓖ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_of_MRT_4_%282020-%29.svg/640px-Logo_of_MRT_4_%282020-%29.svg.png"/> | MRT4.mk |
 | 4   | MRT5 Ⓖ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT5) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_of_MRT_5_%282020-%29.svg/640px-Logo_of_MRT_5_%282020-%29.svg.png"/> | MRT5.mk |
@@ -40,6 +40,7 @@
 | 10 | MTM 1 Скопска Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8) | <img height="20" src="https://i.imgur.com/w6Uy2Zd.png"/> | mtm.mk |
 | 11 | TV 24 Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8) | <img height="20" src="https://i.imgur.com/MFKeNZx.png"/> | 24.mk |
 | 12 | B1 Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8) | <img height="20" src="https://i.imgur.com/UgUpZ2M.png"/> | b1 |
+| 13 | M»Net Kids | [>](http://ares.mnet.mk/hls/mnet-kids.m3u8) | <img height="20" src="https://i.imgur.com/XZwtu7Q.png"/> | kids.mnet.mk |
 
 <h2>Web</h2>
 
@@ -48,7 +49,7 @@
 | 1   | Наша ТВ | [>](https://stream.nasatv.com.mk/hls/nasatv_live.m3u8) | <img height="20" src="https://i.imgur.com/EOLrXvB.png"/> | NasaTV.mk |
 | 2   | Cool TV | [>](https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8) | <img height="20" src="https://i.imgur.com/2tFrjUz.png"/> | CoolTV.mk |
 | 3   | Folk TV | [>](https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8) | <img height="20" src="https://i.imgur.com/4b9aZ9P.png"/> | FolkTV.mk |
-| 4   | Jazz TV | [>](https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8) | <img height="20" src="https://i.imgur.com/4b9aZ9P.png"/> | JazzTV.mk |
+| 4   | Jazz TV | [>](https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8) | <img height="20" src="https://i.imgur.com/4U6Ju5G.png"/> | JazzTV.mk |
 | 5   | Love TV | [>](https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8) | <img height="20" src="https://i.imgur.com/B8iaejQ.png"/> | LoveTV.mk |
 | 6   | Rock TV | [>](https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8) | <img height="20" src="https://i.imgur.com/Y9miDQo.png"/> | RockTV.mk |
 | 7 | Стар Фолк | [>](https://live.muzickatv.mk/live/StarMusic.m3u8) | <img height="20" src="https://i.imgur.com/7RstQYI.png"/> | StarFolkTV.mk |
