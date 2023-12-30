@@ -1,15 +1,15 @@
-<h1>News (EN)</h1>
+<h1>News</h1>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Sky News   | [>](https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png"/> | SkyNewsInternational.uk |
+| 1   | Sky News (UK)  | [>](https://i.mjh.nz/PlutoTV/155b285cd2665de274553d66f-alt.m3u8) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"/> | SkyNewsInternational.uk |
 | 2   | Euronews | [>](https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsEnglish.fr |
 | 3   | Africanews | [>](https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8) | <img height="20" src="https://i.imgur.com/xocvePC.png"/> | Africanews.cg |
-| 4   | France 24 | [>](http://92.114.85.80:8000/play/a03l) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
+| 4   | France 24 | [>](https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24English.fr |
 | 5   | DW  | [>](https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8) | <img height="20" src="https://i.imgur.com/A1xzjOI.png"/> | DWEnglish.de |
 | 6   | Al Jazeera   | [>](https://live-hls-web-aje.getaj.net/AJE/index.m3u8) | <img height="20" src="https://i.imgur.com/BB93NQP.png"/> | AlJazeeraEnglish.qa |
 | 7   | CGTN          | [>](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTN.cn |
-| 8   | BBC News             | [>](http://92.114.85.81:8000/play/a00a/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"/> | BBCNews.uk |
+| 8   | BBC News Ⓖ          | [>](https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"/> | BBCNews.uk |
 | 9   | NBC News NOW         | [>](https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png"/> | NBCNewsNOW.us |
 | 10  | Reuters              | [>](https://i.mjh.nz/SamsungTVPlus/GBBA33000219V.m3u8) | <img height="20" src="https://i.imgur.com/6eQ2nCJ.png"/> | ReutersTV.us |
 | 11  | The Guardian         | [>](https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8) | <img height="20" src="https://i.imgur.com/o9AYq9V.png"/> | TheGuardian.uk |
@@ -31,6 +31,19 @@
 | 27  | i24 News             | [>](https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"/> | i24NEWSEnglishWorld.il |
 | 28  | Scripps News         | [>](https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8) | <img height="20" src="https://i.imgur.com/UfN6aAi.png"/> | ScrippsNews.us |
 | 29  | USA Today            | [>](https://lnc-usa-today.tubi.video/playlist.m3u8) | <img height="20" src="https://i.imgur.com/37K0AZX.png"/> | USATODAY.us |
+| 30  | TVC News             | [>](https://ythls.armelin.one/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8) | <img height="20" src="https://i.imgur.com/jaSq18B.png"/> | TVCNews.ng |
+| 31  | Channels 24          | [>](https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg"/> | Channels24.ng |
+| 32  | Sky News Now (AU)    | [>](https://i.mjh.nz/sky-news-now.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png"/> | SkyNewsAustralia.au |
+| 33  | Global News          | [>](https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/xk1QOhW.png"/> | GlobalNews.ca |
+| 34  | Russia Today         | [>](https://rt-glb.rttv.com/live/rtnews/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"/> | RT.ru |
+| 35  | Pluto TV News        | [>](https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=) | <img height="20" src="https://i.imgur.com/JdqA4r9.png"/> | PlutoTVNews.us |
+| 36  | CNN                  | [>](https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/> | CNN.us |
+
+<h1>Business</h1>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
 | 101  | Cheddar News         | [>](https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tuP9GW8.png"/> | CheddarNews.us |
 | 102  | Bloomberg TV+        | [>](https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8) | <img height="20" src="https://i.imgur.com/xGlToly.png"/> | BloombergTVPlus.us |
-| 103  | CNBC HD              | [>](http://92.114.85.77:8000/play/a0b6) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"/> | CNBCEurope.uk |
+| 103  | CNBC                 | [>](https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8) | <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png"/> | CNBCEurope.uk |
+| 104  | Yahoo! Finance       | [>](https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8) | <img height="20" src="https://i.imgur.com/43oHsHL.png"/> | YahooFinance.us |
