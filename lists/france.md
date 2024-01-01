@@ -27,7 +27,7 @@
 | 1   | TF1 | [>](http://livetv.ktv.zone/3/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png"/> | TF1.fr |
 | 2   | France 2 | [>](http://livetv.ktv.zone/4/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/886px-France_2_2018.svg.png"/> | France2.fr |
 | 3   | France 3 | [>](http://livetv.ktv.zone/5/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3.fr |
-| 4   | Canal+ | [>](http://livetv.ktv.zone/6/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/60px-Logo_Canal%2B_1995.svg.png"/> | CanalPlus.fr |
+| 4   | Canal+ | [>](http://livetv.ktv.zone/6/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/200px-Logo_Canal%2B_1995.svg.png"/> | CanalPlus.fr |
 | 5   | France 5 | [>](http://livetv.ktv.zone/7/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
 | 6   | M6         | [>](http://livetv.ktv.zone/8/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png"/> | M6.fr |
 | 9   | W9         | [>](http://livetv.ktv.zone/11/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png"/> | W9.fr |
