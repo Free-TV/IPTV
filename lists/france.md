@@ -42,7 +42,7 @@
 | 23  | RMC Story | [>](http://livetv.ktv.zone/25/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/langfr-150px-RMC_Story_logo_2018.svg.png"/> | RMCStory.fr |
 | 24  | RMC Découverte | [>](http://livetv.ktv.zone/26/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> | RMCDecouverte.fr |
 | 25  | Chérie 25  | [>](http://livetv.ktv.zone/27/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png"/> | Cherie25.fr |
-| 26  | LCI          | [x](http://livetv.ktv.zone/28/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
+| 26  | LCI Ⓢ        | [>](http://livetv.ktv.zone/28/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
 | 29  | TV5 Monde Info | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
 | 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
 
