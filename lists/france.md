@@ -10,7 +10,7 @@
 | 8   | C8 Ⓓ | [>](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
 | 12  | NRJ 12 | [>](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png"/> | NRJ12.fr |
 | 13  | LCP          | [>](https://lcp.fr/le-live-lcp-tnt-5433) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> | LCP.fr |
-| 14  | Public Sénat | [>](https://www.publicsenat.fr/direct) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | PublicSenat.fr |
+| 13  | Public Sénat | [>](https://www.publicsenat.fr/direct) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | PublicSenat.fr |
 | 16  | CNews Ⓓ    | [>](https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/UMRGAHx.png"/> | CNews.fr |
 | 27  | franceinfo: Ⓨ | [>](https://www.youtube.com/c/franceinfo/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png"/> | Franceinfo.fr |
 | 28  | France 24 Ⓨ   | [>](https://www.youtube.com/c/FRANCE24/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24French.fr |
