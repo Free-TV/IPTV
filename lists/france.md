@@ -35,7 +35,7 @@
 | 11  | TFX | [>](http://livetv.ktv.zone/13/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
 | 14   | France 4 | [>](http://livetv.ktv.zone/16/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
 | 15  | BFM TV     | [>](http://livetv.ktv.zone/17/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
-| 17  | CStar      | [>](http://livetv.ktv.zone/19/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> | CStar.fr |
+| 17  | CStar      | [>](http://livetv.ktv.zone/19/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_CStar_2016.svg/langfr-200px-Logo_CStar_2016.svg.png"/> | CStar.fr |
 | 18  | Gulli      | [>](http://livetv.ktv.zone/20/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> | Gulli.fr |
 | 20  | TF1 Séries Films | [>](http://livetv.ktv.zone/22/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
 | 22  | 6ter       | [>](http://livetv.ktv.zone/24/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> | 6ter.fr |
