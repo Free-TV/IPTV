@@ -50,6 +50,7 @@ https://xmltv.tvkaista.net/guides/indihometv.com.xml
 https://xmltv.tvkaista.net/guides/ipko.com.xml
 https://xmltv.tvkaista.net/guides/knr.gl.xml
 https://xmltv.tvkaista.net/guides/kvf.fo.xml
+https://xmltv.tvkaista.net/guides/m.tv.sms.cz.xml
 https://xmltv.tvkaista.net/guides/m.tving.com.xml
 https://xmltv.tvkaista.net/guides/magticom.ge.xml
 https://xmltv.tvkaista.net/guides/mako.co.il.xml
@@ -78,6 +79,7 @@ https://xmltv.tvkaista.net/guides/nhkworldpremium.com.xml
 https://xmltv.tvkaista.net/guides/nostv.pt.xml
 https://xmltv.tvkaista.net/guides/novacyprus.com.xml
 https://xmltv.tvkaista.net/guides/novasports.gr.xml
+https://xmltv.tvkaista.net/guides/nowplayer.now.com.xml
 https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml
 https://xmltv.tvkaista.net/guides/nzxmltv.com.xml
 https://xmltv.tvkaista.net/guides/ontvtonight.com.xml
