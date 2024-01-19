@@ -61,7 +61,6 @@ https://xmltv.tvkaista.net/guides/directv.com.uy.xml
 https://xmltv.tvkaista.net/guides/dishtv.in.xml
 https://xmltv.tvkaista.net/guides/disneystar.com.xml
 https://xmltv.tvkaista.net/guides/dsmart.com.tr.xml
-https://xmltv.tvkaista.net/guides/dstv.com.xml
 https://xmltv.tvkaista.net/guides/dstv.com_ao.xml
 https://xmltv.tvkaista.net/guides/dstv.com_bf.xml
 https://xmltv.tvkaista.net/guides/dstv.com_bi.xml
