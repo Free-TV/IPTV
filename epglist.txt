@@ -191,7 +191,6 @@ https://xmltv.tvkaista.net/guides/ontvtonight.com_ca.xml
 https://xmltv.tvkaista.net/guides/ontvtonight.com_us.xml
 https://xmltv.tvkaista.net/guides/osn.com.xml
 https://xmltv.tvkaista.net/guides/pbsguam.org.xml
-https://xmltv.tvkaista.net/guides/pickx.be.xml
 https://xmltv.tvkaista.net/guides/player.ee.co.uk.xml
 https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml
 https://xmltv.tvkaista.net/guides/plex.tv.xml
