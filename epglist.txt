@@ -184,6 +184,7 @@ https://xmltv.tvkaista.net/guides/nowplayer.now.com_zh.xml
 https://xmltv.tvkaista.net/guides/nuevosiglo.com.uy.xml
 https://xmltv.tvkaista.net/guides/nzxmltv.com_freeview.xml
 https://xmltv.tvkaista.net/guides/nzxmltv.com_pluto.xml
+https://xmltv.tvkaista.net/guides/nzxmltv.com_redbull.xml
 https://xmltv.tvkaista.net/guides/nzxmltv.com_sky.xml
 https://xmltv.tvkaista.net/guides/ontvtonight.com_au.xml
 https://xmltv.tvkaista.net/guides/ontvtonight.com_ca.xml
@@ -207,7 +208,8 @@ https://xmltv.tvkaista.net/guides/rthk.hk.xml
 https://xmltv.tvkaista.net/guides/rtmklik.rtm.gov.my.xml
 https://xmltv.tvkaista.net/guides/rtp.pt.xml
 https://xmltv.tvkaista.net/guides/ruv.is.xml
-https://xmltv.tvkaista.net/guides/sat.tv.xml
+https://xmltv.tvkaista.net/guides/sat.tv_ar.xml
+https://xmltv.tvkaista.net/guides/sat.tv_en.xml
 https://xmltv.tvkaista.net/guides/shahid.mbc.net.xml
 https://xmltv.tvkaista.net/guides/siba.com.co.xml
 https://xmltv.tvkaista.net/guides/singtel.com.xml
