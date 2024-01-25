@@ -19,7 +19,7 @@
 | 9   |      BBC Four Ⓖ       | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png"/> |      BBCFour.uk      |
 | 9   |   BBC Scotland Ⓢ Ⓖ    | [>](https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/640px-BBC_Scotland_2021_%28channel%29.svg.png"/> |    BBCScotland.uk    |
 | 10  |         ITV 3         | [>](http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=30531) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png"/> |       ITV3.uk        |
-| 16  |       QVC UK Ⓢ        | [>](https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8) | <img height="20" src="https://i.imgur.com/6TWUVrh.png"/> |       QVCUK.uk       |
+| 16  |       QVC UK Ⓢ        | [>](https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8) | <img height="20" src="https://i.imgur.com/6TWUVrh.png"/> |       QVCUK.uk       |
 | 18  |        More4 Ⓢ        | [>](http://45.153.35.210:8000/play/UK_more_4_sd/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1023px-More4_logo_2018.svg.png"/> |       More4.uk       |
 | 21  |        5USA Ⓢ         | [>](http://45.153.35.210:8000/play/UK_5_usa_sd/index.m3u8) | <img height="20" src="https://i.imgur.com/Pi7so2l.png"/> |       5USA.uk        |
 | 22  |          TJC          | [>](https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8) | <img height="20" src="https://i.imgur.com/fk5rEje.png"/> |        TJC.uk        |
@@ -37,7 +37,7 @@
 | 46  |       5Select Ⓢ       | [>](http://45.153.35.210:8000/play/UK_5_select_sd/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/5Select_logo.svg/1024px-5Select_logo.svg.png"/> |      5Select.uk      |
 | 50  |      Great! TV Ⓢ      | [>](http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/640px-Great%21_TV_logo_2021.svg.png"/> |      GreatTV.uk      |
 | 51  |      Ideal World      | [>](https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8) | <img height="20" src="https://i.imgur.com/su6GH7i.png"/> |   IdealWorldTV.uk    |
-| 52  |   Great! Romance Ⓢ    | [>](http://92.114.85.79:8000/play/a06i) | <img height="20" src="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-09/GREAT-Christmas-logo.png"/> |   GreatRomance.uk    |
+| 52  |   Great! Romance Ⓢ    | [>](http://45.153.35.210:8000/play/UK_great_romance_sd/index.m3u8) | <img height="20" src="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-09/GREAT-Christmas-logo.png"/> |   GreatRomance.uk    |
 | 64  |        Blaze Ⓖ        | [>](https://live.blaze.tv/live7/blaze/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/6UcPWP9.png"/> |       Blaze.uk       |
 | 67  |     True Crime Ⓢ      | [>](http://45.153.35.210:8000/play/UK_cbs_reality_sd/index.m3u88) | <img height="20" src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png"/> |     TrueCrime.uk     |
 | 69  |     LegendXtra Ⓢ      | [>](http://45.153.35.210:8000/play/UK_horror_xtra_sd/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/Legend-Xtra.png"/> |    LegendXtra.uk     | 
@@ -77,19 +77,20 @@
 | 503 | KISS Ⓖ | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/) | <img height="20" src="https://i.imgur.com/47ZkVhO.png"/> | KissTVUK.uk |
 | 504 | Magic Ⓖ | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878) | <img height="20" src="https://i.imgur.com/e1Cf4Li.png"/> | Magic.uk |
 | 505 | Kerrang! | [>](https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/) | <img height="20" src="https://i.imgur.com/3mwf8Uq.png"/> | Kerrang.uk |
-| 801 | QVC Beauty  | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/ZBHtqk1.png"/> | QVCBeautyUK.uk |
-| 802 | QVC Extra  | [>](https://live-qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/TIe5T9Z.png"/> | QVCExtraUK.uk |
-| 803 | QVC Style   | [>](http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/6HZlLL3.png"/> | QVCStyleUK.uk |
+| 801 | QVC Beauty Ⓢ | [>](https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8) | <img height="20" src="https://i.imgur.com/ZBHtqk1.png"/> | QVCBeautyUK.uk |
+| 802 | QVC Extra Ⓢ | [>](https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8) | <img height="20" src="https://i.imgur.com/TIe5T9Z.png"/> | QVCExtraUK.uk |
+| 803 | QVC Style Ⓢ  | [>](https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8) | <img height="20" src="https://i.imgur.com/6HZlLL3.png"/> | QVCStyleUK.uk |
 
 <h2>Sky</h2>
 
 * https://en.wikipedia.org/wiki/List_of_free-to-air_channels_at_Astra_28.2°E_(Ireland_and_the_United_Kingdom)
 
-| #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:|
-| 361 | Now 70s | [>](https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qiCCX5X.png"/> | Now70s.uk |
-| 362 | Now 80s | [>](https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8paz37m.png"/> | Now80s.uk |
-| 363 | Now Rock | [>](https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png"/> | NowRock.uk |
+|  #  |     Channel     | Link  | Logo |     EPG id     |
+|:---:|:---------------:|:-----:|:----:|:--------------:|
+| 361 |     Now 70s     | [>](https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qiCCX5X.png"/> |   Now70s.uk    |
+| 362 |     Now 80s     | [>](https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8paz37m.png"/> |   Now80s.uk    |
+| 363 |    Now Rock     | [>](https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png"/> |   NowRock.uk   |
+| 418 | Ginx eSports TV | [>](http://146.59.84.49:1234/stream/ginxsport/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GINX.TV_Logo_Black.png"/> | GINXEsportsTV.uk |
 
 <h2>DVB-S</h2>
 
