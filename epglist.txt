@@ -165,3 +165,4 @@ https://xmltv.tvkaista.net/guides/zap.co.ao.xml
 https://xmltv.tvkaista.net/guides/ziggogo.tv.xml
 https://xmltv.tvkaista.net/guides/znbc.co.zm.xml
 https://xmltv.tvkaista.net/guides/zuragt.mn.xml
+https://raw.githubusercontent.com/dp247/Freeview-EPG/master/epg.xml
