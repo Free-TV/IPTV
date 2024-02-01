@@ -73,6 +73,14 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 https://www.youtube.com/c/americaenvivo/live
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
 https://www.youtube.com/c/A24com/live
+#EXTINF:-1 tvg-name="Armenia 1" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-id="Armenia1.am" group-title="Armenia",Armenia 1
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 tvg-name="Kentron TV Ⓢ" tvg-logo="https://i.imgur.com/eCaxBFn.png" tvg-id="KentronTV.am" group-title="Armenia",Kentron TV Ⓢ
+https://gineu9.bozztv.com/gin-36bay2/gin-kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Armenia TV Ⓢ" tvg-logo="https://i.imgur.com/UnoI5uM.png" tvg-id="ArmeniaTV.am" group-title="Armenia",Armenia TV Ⓢ
+https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="5TV Ⓢ" tvg-logo="https://i.imgur.com/jOGZZDo.png" tvg-id="5TV.am" group-title="Armenia",5TV Ⓢ
+https://cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" group-title="Australia",ABC
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" tvg-id="TVSN.au" group-title="Australia",TVSN
