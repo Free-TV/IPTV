@@ -2716,7 +2716,7 @@ http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=1
 #EXTINF:-1 tvg-name="STV Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/631px-STV_logo_2014.png" tvg-id="STV.uk" group-title="UK",STV Ⓖ
 https://csm-e-ces1aeuw1live102-083090b15a93b4fdd.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=
 #EXTINF:-1 tvg-name="Channel 4 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png" tvg-id="Channel4.uk" group-title="UK",Channel 4 Ⓢ
-http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
+http://176.65.146.105:8011/play/a07w/index.m3u8
 #EXTINF:-1 tvg-name="S4C Ⓖ" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk" group-title="UK",S4C Ⓖ
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-name="Channel 5 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/530px-Channel_5_%28UK%29_2016.svg.png" tvg-id="Channel5.uk" group-title="UK",Channel 5 Ⓢ
@@ -2731,6 +2731,10 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-name="ITV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/640px-ITV3_logo_2022.svg.png" tvg-id="ITV3.uk" group-title="UK",ITV 3
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=30531
+#EXTINF:-1 tvg-name="E4 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/552px-E4_logo_2018.svg.png" tvg-id="E4.uk" group-title="UK",E4 Ⓢ
+http://176.65.146.105:8011/play/E4HD/index.m3u8
+#EXTINF:-1 tvg-name="Film4 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/805px-Film4_logo_2018.svg.png" tvg-id="Film4.uk" group-title="UK",Film4 Ⓢ
+http://176.65.146.105:8011/play/FILM4SD/index.m3u8
 #EXTINF:-1 tvg-name="QVC UK Ⓢ" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-id="QVCUK.uk" group-title="UK",QVC UK Ⓢ
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
 #EXTINF:-1 tvg-name="More4 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1023px-More4_logo_2018.svg.png" tvg-id="More4.uk" group-title="UK",More4 Ⓢ
@@ -2763,6 +2767,8 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
 #EXTINF:-1 tvg-name="5Select Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/5Select_logo.svg/1024px-5Select_logo.svg.png" tvg-id="5Select.uk" group-title="UK",5Select Ⓢ
 http://45.153.35.210:8000/play/UK_5_select_sd/index.m3u8
+#EXTINF:-1 tvg-name="4seven Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/568px-4seven_logo_2018.svg.png" tvg-id="4seven.uk" group-title="UK",4seven Ⓢ
+http://176.65.146.170:8013/play/a06p/index.m3u8
 #EXTINF:-1 tvg-name="Great! TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/640px-Great%21_TV_logo_2021.svg.png" tvg-id="GreatTV.uk" group-title="UK",Great! TV Ⓢ
 http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 #EXTINF:-1 tvg-name="Ideal World" tvg-logo="https://i.imgur.com/su6GH7i.png" tvg-id="IdealWorldTV.uk" group-title="UK",Ideal World
