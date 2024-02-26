@@ -35,3 +35,9 @@
 | 0   | När-TV Ⓢ | [>](https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Ht5yePq.png"/> | NarTV.fi |
 | 0   | Sundom TV Ⓨ | [>](https://www.youtube.com/@SundomTV/live) | <img height="20" src="https://i.imgur.com/WgwR7nJ.png"/> | SundomTV.fi |
 | 0   | Wör TV Ⓨ | [>](https://www.youtube.com/@wor-tvr.f.4461/live) | <img height="20" src="https://i.imgur.com/P9O1jo0.png"/> | WorTV.fi |
+
+<h2>Internet</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 0   | YleX Studio Live | [>](https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/450px-YleX.svg.png"/> | YleX.fi |
