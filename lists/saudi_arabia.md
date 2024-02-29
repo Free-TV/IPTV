@@ -1,14 +1,22 @@
 <h1>Saudi Arabia</h1>
 
-| #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Al Saudiya | [>](https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8) | <img height="20" src="https://i.imgur.com/GRQTndk.png"/> | AlSaudiya.sa |
-| 2   | SBC Saudi Arabia | [>](https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8) | <img height="20" src="https://i.imgur.com/9JSQglj.png"/> | SBC.sa |
-| 3   | Thikrayat | [>](https://edge.taghtia.com/sa/3.m3u8) | <img height="20" src="https://i.imgur.com/AKa1X9d.png"/> | ThikrayatTV.sa |
-| 4   | Al Ekhbariya | [>](https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8) | <img height="20" src="https://i.imgur.com/WcRlHQm.png"/> | AlEkhbariya.sa |
-| 5   | Al Saudiya Alaan | [>](https://edge.taghtia.com/sa/17.m3u8) | <img height="20" src="https://i.imgur.com/sEOjApe.png"/> | AlSaudiyaAlaan.sa |
-| 6   | KSA Sports 1 | [>](https://edge.taghtia.com/sa/9.m3u8) | <img height="20" src="https://i.imgur.com/ONKNOAp.png"/> | KSASports1.sa |
-| 7   | KSA Sports 2 | [>](https://edge.taghtia.com/sa/10.m3u8) | <img height="20" src="https://i.imgur.com/v8ULLqg.png"/> | KSASports2.sa |
-| 8   | KSA Sports 3 | [>](https://edge.taghtia.com/sa/16.m3u8) | <img height="20" src="https://i.imgur.com/BXfCvez.png"/> | KSASports3.sa |
-| 9   | Al Quran Al Kareem TV | [>](https://edge.taghtia.com/sa/7.m3u8) | <img height="20" src="https://i.imgur.com/A2fJysM.png"/> | AlQuranAlKareemTV.sa |
-| 10  | Al Sunnah Al Nabawiyah TV | [>](https://edge.taghtia.com/sa/6.m3u8) | <img height="20" src="https://i.imgur.com/S6LcTJv.png"/> | AlSunnahAlNabawiyahTV.sa |
+| #  |          Channel          |                                                   Link                                                    | Logo |          EPG id          |
+|:--:|:-------------------------:|:---------------------------------------------------------------------------------------------------------:|:----:|:------------------------:|
+| 1  |        Al Saudiya         |                                  [>](https://edge.taghtia.com/sa/2.m3u8)                                  | <img height="20" src="https://i.imgur.com/GRQTndk.png"/> |       AlSaudiya.sa       |
+| 2  |     SBC Saudi Arabia      |       [>](https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8)       | <img height="20" src="https://i.imgur.com/9JSQglj.png"/> |          SBC.sa          |
+| 3  |         Thikrayat         |                                  [>](https://edge.taghtia.com/sa/3.m3u8)                                  | <img height="20" src="https://i.imgur.com/AKa1X9d.png"/> |      ThikrayatTV.sa      |
+| 4  |       Al Ekhbariya        |      [>](https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8)      | <img height="20" src="https://i.imgur.com/WcRlHQm.png"/> |      AlEkhbariya.sa      |
+| 5  |     Al Saudiya Alaan      |                                 [>](https://edge.taghtia.com/sa/17.m3u8)                                  | <img height="20" src="https://i.imgur.com/sEOjApe.png"/> |    AlSaudiyaAlaan.sa     |
+| 6  |       KSA Sports 1        |                                  [>](https://edge.taghtia.com/sa/9.m3u8)                                  | <img height="20" src="https://i.imgur.com/ONKNOAp.png"/> |      KSASports1.sa       |
+| 7  |       KSA Sports 2        |                                 [>](https://edge.taghtia.com/sa/10.m3u8)                                  | <img height="20" src="https://i.imgur.com/v8ULLqg.png"/> |      KSASports2.sa       |
+| 8  |       KSA Sports 3        |                                 [>](https://edge.taghtia.com/sa/16.m3u8)                                  | <img height="20" src="https://i.imgur.com/BXfCvez.png"/> |      KSASports3.sa       |
+| 9  |   Al Quran Al Kareem TV   |                                  [>](https://edge.taghtia.com/sa/7.m3u8)                                  | <img height="20" src="https://i.imgur.com/A2fJysM.png"/> |   AlQuranAlKareemTV.sa   |
+| 10 | Al Sunnah Al Nabawiyah TV |                                  [>](https://edge.taghtia.com/sa/6.m3u8)                                  | <img height="20" src="https://i.imgur.com/S6LcTJv.png"/> | AlSunnahAlNabawiyahTV.sa |
+| 10 |     Rotana Cinema KSA     | [>](https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8) | <img height="20" src="https://i.imgur.com/pGgp38I.png"/> |    RotanaCinemaKSA.sa    |
+| 10 |        Rotana Kids        |    [>](https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8)    | <img height="20" src="https://i.imgur.com/YQKf0tq.png"/> |      RotanaKids.sa       |
+| 10 |       Rotana Comedy       |                         [>](https://daiconnect.com/live/hls/rotana/comedy/.m3u8)                          | <img height="20" src="https://i.imgur.com/IlT8U6S.png"/> |     RotanaComedy.sa      |
+| 10 |      Rotana Khalijia      |  [>](https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8)  | <img height="20" src="https://i.imgur.com/6HMluzv.png"/> |    RotanaKhalijia.sa     |
+| 10 |       Rotana Drama        |                          [>](https://daiconnect.com/live/hls/rotana/drama/.m3u8)                          | <img height="20" src="https://i.imgur.com/btnhPjZ.png"/> |      RotanaDrama.sa      |
+| 10 |      Rotana Classic       |  [>](https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8)   | <img height="20" src="https://i.imgur.com/pMMUvkt.png"/> |     RotanaClassic.sa     |
+| 10 |        Rotana Ciip        |                           [>](http://37.122.156.107:4000/play/a0b7/index.m3u8)                            | <img height="20" src="https://i.imgur.com/nhREk0o.png"/> |       RotanaClip.sa       |
+| 10 |       Rotana Music        |                           [>](https://daiconnect.com/live/hls/rotana/music/.m3u8)                            | <img height="20" src="https://i.imgur.com/2zFQbQi.png"/> |       RotanaMusic.sa       |
