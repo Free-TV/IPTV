@@ -38,7 +38,7 @@
 | 8 | M»Net Sport | [>](http://ares.mnet.mk/hls/mnet-sport.m3u8) | <img height="20" src="https://i.imgur.com/q3DV2gP.png"/> | sport.mnet.mk |
 | 9 | M»Net Info | [>](http://ares.mnet.mk/hls/mnet-info.m3u8) | <img height="20" src="https://i.imgur.com/O26HEyC.png"/> | info.mnet.mk |
 | 10 | MTM 1 Скопска Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8) | <img height="20" src="https://i.imgur.com/w6Uy2Zd.png"/> | mtm.mk |
-| 11 | TV 24 Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_24)/index.m3u8) | <img height="20" src="https://i.imgur.com/MFKeNZx.png"/> | 24.mk |
+| 11 | TV 24 Ⓖ | [>](https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MFKeNZx.png"/> | 24.mk |
 | 12 | B1 Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8) | <img height="20" src="https://i.imgur.com/UgUpZ2M.png"/> | b1 |
 | 13 | M»Net Kids | [>](http://ares.mnet.mk/hls/mnet-kids.m3u8) | <img height="20" src="https://i.imgur.com/XZwtu7Q.png"/> | kids.mnet.mk |
 
