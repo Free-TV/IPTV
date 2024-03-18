@@ -3303,8 +3303,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" tvg-id="NBCNewsNOW.us" group-title="News",NBC News NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-id="ReutersTV.us" group-title="News",Reuters
-hhttps://d2irko5f9gt1c5.cloudfront.net/10008/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197&ads.csid=xumo_desktopweb_ReutersNow_ssai&ads._fw_app_bundle=&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=IAB12&ads.xumo_contentName=ReutersNow&ads.xumo_providerName=ReutersNow&ads._fw_content_language=en&ads.assetId=XMYYLNCF99OWVW&ads._fw_content_genre=News&ads.xumo_providerId=3850&ads._fw_content_rating=TV-PG&ads.channelId=99951197&ads.xumo_platform=desktopweb&ads.site_id=26840
 #EXTINF:-1 tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" tvg-id="TheGuardian.uk" group-title="News",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="News",CBS News
