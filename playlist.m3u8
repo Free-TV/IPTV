@@ -3367,7 +3367,7 @@ https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
 https://ythls.armelin.one/channel/UC8yH-uI81UUtEMDsowQyx1g.m3u8
 #EXTINF:-1 tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" tvg-id="CheddarNews.us" group-title="Business",Cheddar News
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.ibb.co/Z8K5HBy/images-3.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="CNBCEurope.uk" group-title="Business",CNBC
 https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8
