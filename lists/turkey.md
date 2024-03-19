@@ -23,6 +23,7 @@ https://en.wikipedia.org/wiki/Television_in_Turkey
 | 14  | TRT EBA Ilkokul  | [>](https://tv-e-okul00.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/wDvZfk8.png"/> |
 | 15  | TRT EBA Ortaokul | [>](https://tv-e-okul01.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/yfPTvRx.png"/> |
 | 16  | TRT EBA Lise     | [>](https://tv-e-okul02.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/IebUZx1.png"/> |
+| 17  | Zarok TV HD      | [>](https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/IpHz0gS.png"/> |
 
 <h2>Other</h2>
 
