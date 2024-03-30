@@ -15,3 +15,4 @@
 | 11  | Iraq Future Ⓢ       | [>](https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Z7woTe5.png"/> | IraqFuture.iq |
 | 12  | Turkmeneli TV       | [>](https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iUhhg4B.png"/> | TurkmeneliTV.iq |
 | 13  | Zagros TV       | [>](https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UjIuIQX.png"/> | ZagrosTV.iq |
+| 14  | Zarok TV Sorani | [>](https://zindisorani.zaroktv.com.tr/hls/stream.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png"/> | ZarokTV.iq |
