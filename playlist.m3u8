@@ -2404,7 +2404,7 @@ https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 tvg-name="Матч! Планета Ⓢ" tvg-logo="https://i.imgur.com/vhyMb9D.png" tvg-id="MatchPlaneta.ru" group-title="Russia",Матч! Планета Ⓢ
 http://212.0.211.102:9999/play/a00b/index.m3u8
 #EXTINF:-1 tvg-name="San Marino Rtv" tvg-logo="https://i.imgur.com/lJpOlLv.png" tvg-id="SanMarinoRTV.sm" group-title="San Marino",San Marino Rtv
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 #EXTINF:-1 tvg-name="San Marino Rtv Sport" tvg-logo="https://i.imgur.com/PGm944g.png" tvg-id="SanMarinoRTVSport.sm" group-title="San Marino",San Marino Rtv Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" group-title="Saudi Arabia",Al Saudiya
