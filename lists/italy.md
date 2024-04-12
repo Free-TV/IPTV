@@ -69,7 +69,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 3  | RAI Italia Asia   | [>](http://210.210.155.37/x6bnqe/s/s63/index2.m3u8) | <img height="20" src="https://www.tvdream.net/img/rai-italia-bg.jpg"/> | RaiItaliaAsia.it |
 | 55  | Gold TV Sat    | [>](https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTVSat.it |
 | 58  | Sportitalia SOLOCALCIO | [>](https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
-| 59  | Euronews Italian | [>](https://www.youtube.com/watch?v=pUcmpyynASM) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsItalian.fr |
+| 59  | Euronews Italian Ⓨ | [>](https://www.youtube.com/user/euronewsit/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsItalian.fr |
 | 61  | BIKE           | [>](https://62becaa5a1e2f.streamlock.net/BIKE/BIKE/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
 | 67  | Radio Montecarlo TV Ⓢ Ⓖ | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> | RadioMonteCarloTV.it |
 | 68  | Virgin Radio TV Ⓢ Ⓖ | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> | VirginRadioTV.it |
