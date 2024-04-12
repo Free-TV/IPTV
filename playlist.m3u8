@@ -1147,8 +1147,6 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="SportitaliaSolocalcio.it" group-title="Italy",Sportitalia SOLOCALCIO
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
-#EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsItalian.fr" group-title="Italy",Euronews Italian
-https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-name="BIKE" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-id="Bike.it" group-title="Italy",BIKE
 https://65f5123e69e3b.streamlock.net/bikechannel/ngrp:bikechannel_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-id="RadioMonteCarloTV.it" group-title="Italy",Radio Montecarlo TV Ⓖ
@@ -1799,6 +1797,8 @@ https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 https://80.211.72.5/hls/yviitv.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Italy",Zerouno Tv News
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews Italian Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsItalian.fr" group-title="Italy",Euronews Italian Ⓨ
+https://www.youtube.com/user/euronewsit/live
 #EXTINF:-1 tvg-name="Pop Economy Ⓨ" tvg-logo="https://i.imgur.com/dEJvmHW.png" tvg-id="PopEconomy.it" group-title="Italy",Pop Economy Ⓨ
 https://www.youtube.com/channel/UCJ2axqt5MDDsrmUNUhvlqcg/live
 #EXTINF:-1 tvg-name="TRM h24 Ⓨ" tvg-logo="https://i.imgur.com/d47CdYU.png" tvg-id="TRMh24.it" group-title="Italy",TRM h24 Ⓨ
