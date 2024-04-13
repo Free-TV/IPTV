@@ -41,3 +41,4 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | YleX Studio Live | [>](https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/450px-YleX.svg.png"/> | YleX.fi |
+| 0   | Järviradio TV | [>](https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8) | <img height="20" src="https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg"/> | JRTVJarviradio.fi |
