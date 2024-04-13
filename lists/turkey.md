@@ -29,6 +29,7 @@ https://en.wikipedia.org/wiki/Television_in_Turkey
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | TMB TV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TMBTV) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png"/> | TMB.tr |
+| 1   | Zarok TV | [x](https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png"/> | ZarokTV.tr |
 
 <h2>Invalid</h2>
 
