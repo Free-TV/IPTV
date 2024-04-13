@@ -357,6 +357,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Telejato | [>](https://telejato.liberotratto.com/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/r3Dqzdj.png"/> |
 | 0   | Teleleonessa | [>](http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8) | <img height="20" src="https://i.imgur.com/jq3etlV.png"/> |
 | 0   | TeleMajg | [>](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9tefonp.jpg"/> |
+| 0   | Telenova | [>](https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x41IkJK.png"/> | Telenova.it |
 | 0   | TeleRegione | [>](https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8) | <img height="20" src="https://i.imgur.com/i5WozUP.png"/> |
 | 0   | TeleRent 7Gold | [>](https://stream2.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> | 7Gold.it |
 | 0   | Telereporter | [>](https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WIo6SPc.png"/> |
@@ -412,9 +413,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 59  | Euronews Italian Ⓨ | [>](https://www.youtube.com/user/euronewsit/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsItalian.fr |
-| 512 | Pop Economy Ⓨ | [>](https://www.youtube.com/channel/UCJ2axqt5MDDsrmUNUhvlqcg/live) | <img height="20" src="https://i.imgur.com/dEJvmHW.png"/> | PopEconomy.it |
+| 512 | Pop Economy Ⓨ | [x](https://www.youtube.com/channel/UCJ2axqt5MDDsrmUNUhvlqcg/live) | <img height="20" src="https://i.imgur.com/dEJvmHW.png"/> | PopEconomy.it |
 | 519 | TRM h24 Ⓨ     | [>](https://www.youtube.com/user/trmh24/live) | <img height="20" src="https://i.imgur.com/d47CdYU.png"/> | TRMh24.it |
-| 0   | Telenova Ⓨ    | [>](https://www.youtube.com/user/TelenovaMSP/live) | <img height="20" src="https://i.imgur.com/x41IkJK.png"/> | Telenova.it |
 
 <h2>Invalid</h2>
 
