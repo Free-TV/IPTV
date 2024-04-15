@@ -208,7 +208,7 @@ http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 74 Sicilia" tvg-logo="https://i.imgur.com/18JIVgu.png" group-title="Italy",Canale 74 Sicilia
 http://stream.ets-sistemi.it:1935/live.canale74/canale74tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale 8" tvg-logo="https://i.imgur.com/ElAS2WC.png" group-title="Italy",Canale 8
-https://cdn3.streamshow.it/cloud-canale8/canale8/playlist.m3u8
+https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/QlwLRyh.png" tvg-id="CanaleItalia.it" group-title="Italy",Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale Uno Tivù" tvg-logo="https://i.imgur.com/hfqNw92.png" group-title="Italy",Canale Uno Tivù
@@ -234,7 +234,7 @@ https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Deluxe 139" tvg-logo="https://i.imgur.com/kRexw3w.png" group-title="Italy",Deluxe 139
 https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 #EXTINF:-1 tvg-name="Di.Tv 80" tvg-logo="https://i.imgur.com/kHxTsJw.png" group-title="Italy",Di.Tv 80
-https://media2021.rtvweb.com/di_tv_80/live/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
 #EXTINF:-1 tvg-name="Di.Tv 92" tvg-logo="https://i.imgur.com/g3SI08H.png" group-title="Italy",Di.Tv 92
 https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Digital Tv7 Benevento" tvg-logo="https://i.imgur.com/NaQkklP.png" group-title="Italy",Digital Tv7 Benevento
@@ -666,7 +666,7 @@ https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Video Agrigento (T.V.A.)" tvg-logo="https://i.imgur.com/AaPr63E.png" group-title="Italy",Tele Video Agrigento (T.V.A.)
 https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleAmbiente" tvg-logo="https://i.imgur.com/jxZcQhU.png" group-title="Italy",TeleAmbiente
-https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleblu" tvg-logo="https://i.imgur.com/bZNxSey.png" group-title="Italy",Teleblu
 https://58d921499d3d3.streamlock.net/Teleblu/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Telecampione" tvg-logo="https://i.imgur.com/LhjwmME.png" group-title="Italy",Telecampione
@@ -779,6 +779,8 @@ https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 https://80.211.72.5/hls/yviitv.m3u8
 #EXTINF:-1 tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" group-title="Italy",Zerouno Tv News
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Colonna Tv Ⓨ" tvg-logo="https://i.imgur.com/EcQvDfq.png" group-title="Italy",Radio Colonna Tv Ⓨ
+https://www.youtube.com/radiocolonna/live
 #EXTINF:-1 tvg-name="Euronews Italian Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsItalian.fr" group-title="Italy",Euronews Italian Ⓨ
 https://www.youtube.com/user/euronewsit/live
 #EXTINF:-1 tvg-name="TRM h24 Ⓨ" tvg-logo="https://i.imgur.com/d47CdYU.png" tvg-id="TRMh24.it" group-title="Italy",TRM h24 Ⓨ
