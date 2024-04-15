@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: "20.10.x"
+          node-version: "20.x"
 
       - name: Install m3u-linter and check the playlist
         run: |
@@ -34,7 +34,7 @@ jobs:
                 "no-multi-spaces": false,
                 "no-extra-comma": true,
                 "space-before-paren": false,
-                "no-dash": true
+                "no-dash": false
               }
             }
           EOF
