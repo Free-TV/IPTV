@@ -90,9 +90,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 0  | Peer TV Suedtirol | [>](https://iptv.peer.biz/live/peertv.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"/> | Peer.TV |
-| 0  | Peer TV Alto Adige | [>](https://iptv.peer.biz/live/peertv-it.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png"/> | Peer.TV |
-| 0  | Peer TV South Tyrol | [>](https://iptv.peer.biz/live/peertv-en.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png"/> | Peer.TV |
 | 0   | 111 Tv | [>](https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4jY8yAI.png"/> |
 | 0   | 12 Tv Parma | [>](https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xnUgx6b.png"/> | 12TVParma.it |
 | 0   | Abc Tv | [>](https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8) | <img height="20" src="https://i.imgur.com/nVmIeTD.png"/> |
@@ -209,6 +206,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Paradise Tv | [>](https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/okIBfIb.jpg"/> |
 | 0   | Parole di Vita  | [>](https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/chunklist_w2067011949.m3u8) | <img height="20" src="https://i.imgur.com/M9mIiZD.png"/> |
 | 0   | Partenope Tv | [>](https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8) | <img height="20" src="https://i.imgur.com/FtuWkj1.png"/> |
+| 0   | Peer Tv Südtirol | [>](https://iptv.peer.biz/live/peertv-it.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png"/> | PeerTV.it |
 | 0   | Pop Tv | [>](https://stream1.aswifi.it/poptelevision/live/index.m3u8) | <img height="20" src="https://i.imgur.com/TeolCu9.png"/> |
 | 0   | Prima Napoli Tv | [>](https://stream1.aswifi.it/primatvnapoli/live/index.m3u8) | <img height="20" src="https://i.imgur.com/yPuQeEy.jpg"/> |
 | 0   | Prima Tivvù | [>](https://01.celinel.com/primativvu/primativvu2021/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oUGS2Nt.png"/> |
