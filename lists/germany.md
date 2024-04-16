@@ -56,5 +56,5 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 34  | DW Deutsch        | [>](https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png"/> | DWDeutsch.de |
 | 35  | DW Deutsch+       | [>](https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png"/> | DWDeutschPlus.de |
 | 36  | NDR International | [>](https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png"/> | NDRFernsehenInternational.de |
-| 37  | Peer TV Südtirol | [>](https://iptv.peer.biz/live/peertv.m3u8) | <img height="20" src="[https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png](https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png)"/> | peer.tv |
+| 37  | Peer TV Südtirol | [>](https://iptv.peer.biz/live/peertv.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"/> | Peer.TV |
 
