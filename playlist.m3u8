@@ -1558,7 +1558,7 @@ http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.
 #EXTINF:-1 tvg-name="Tcf Tv" tvg-logo="https://i.imgur.com/fiylFs2.jpg" group-title="Italy",Tcf Tv
 http://live.sloode.com:1935/tcf_live/telecineforum/playlist.m3u8
 #EXTINF:-1 tvg-name="Tci" tvg-logo="https://i.imgur.com/lCZTaKs.jpg" group-title="Italy",Tci
-https://player-api.new.livestream.com/accounts/27460990/events/8287184/broadcasts/223071659.secure.m3u8
+https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
 #EXTINF:-1 tvg-name="Teatro Tv" tvg-logo="https://i.imgur.com/UsvffQL.png" group-title="Italy",Teatro Tv
 https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
 #EXTINF:-1 tvg-name="Tele A" tvg-logo="https://i.imgur.com/l7Za9KH.jpg" group-title="Italy",Tele A
