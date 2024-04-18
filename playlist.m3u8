@@ -1273,6 +1273,8 @@ https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 https://diretta.arcapuglia.it:8080/live/newmedia/index.m3u8
 #EXTINF:-1 tvg-name="Entella Tv" tvg-logo="https://i.imgur.com/1VPXKrW.png" group-title="Italy",Entella Tv
 https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="EQUtv" tvg-logo="https://i.imgur.com/x9Wdz7h.png" group-title="Italy",EQUtv
+https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 #EXTINF:-1 tvg-name="Equos Tv" tvg-logo="https://i.imgur.com/YwyfNDF.png" group-title="Italy",Equos Tv
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/2824fb123d5e44b797232c7abf8195da/playlist.m3u8
 #EXTINF:-1 tvg-name="Espansione Tv" tvg-logo="https://i.imgur.com/mm9HKpD.png" tvg-id="EspansioneTV.it" group-title="Italy",Espansione Tv
@@ -1355,6 +1357,8 @@ http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
 https://cp1.server89.com:19360/lucaniatv/lucaniatv.m3u8
 #EXTINF:-1 tvg-name="Made in BO" tvg-logo="https://i.imgur.com/WFnrMS0.png" group-title="Italy",Made in BO
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Maria Vision" tvg-logo="https://i.imgur.com/fdx5YXi.png" group-title="Italy",Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-name="Matrix Tv" tvg-logo="https://i.imgur.com/m1HeXrn.png" group-title="Italy",Matrix Tv
 https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8
 #EXTINF:-1 tvg-name="Media Tv" tvg-logo="https://i.imgur.com/WFiRWO9.png" group-title="Italy",Media Tv
@@ -1514,7 +1518,7 @@ http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 tvg-name="ST Europe Channel" tvg-logo="https://i.imgur.com/T7kyY2p.png" group-title="Italy",ST Europe Channel
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="Italy",Sardegna 1
-https://5bb65e9de3fdf.streamlock.net/live/_definst_/Sardegna1/playlist.m3u8
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
 #EXTINF:-1 tvg-name="Set Tv Cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="Italy",Set Tv Cilento
 https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:-1 tvg-name="Sesta Rete" tvg-logo="https://i.imgur.com/0B0S2gI.png" group-title="Italy",Sesta Rete
