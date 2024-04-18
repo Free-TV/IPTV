@@ -135,6 +135,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Cremona 1 | [>](https://59d8c0cee6f3d.streamlock.net/cremona1/cremona1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a5d0F01.jpg"/> |
 | 0   | Cusano Italia Tv | [>](https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9F1sVjZ.png"/> |
 | 0   | Cusano News 7 | [>](https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L49Ie1Q.png"/> |
+| 0   | Delta Tv | [>](http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8) | <img height="20" src="https://i.imgur.com/mfwVXt7.png"/> |
 | 0   | Deluxe 139 | [>](https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kRexw3w.png"/> |
 | 0   | Di.Tv 80 | [>](https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kHxTsJw.png"/> |
 | 0   | Di.Tv 92 | [>](https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/g3SI08H.png"/> |
@@ -392,30 +393,26 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tv Qui Modena | [>](https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4bOYlfg.png"/> |
 | 0   | Tv Uno | [>](http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv) | <img height="20" src="https://i.imgur.com/OtCwYsh.jpg"/> |
 | 0   | Tv Yes | [>](https://stream1.aswifi.it/radioyes/live/index.m3u8) | <img height="20" src="https://i.imgur.com/1wsO8U7.png"/> |
-| 0   | Tv7 Azzurra | [>](https://www.gruppotv7.com:8090/hls/azzurra.m3u8) | <img height="20" src="https://i.imgur.com/xdukioH.png"/> |
-| 0   | Tv7 iReporter | [>](https://www.gruppotv7.com:8090/hls/ireporter.m3u8) | <img height="20" src="https://i.imgur.com/37i2B6m.png"/> |
-| 0   | Tv7 Triveneta | [>](https://www.gruppotv7.com:8090/hls/triveneta.m3u8) | <img height="20" src="https://i.imgur.com/bYiaO7l.png"/> |
 | 0   | Tva Vicenza | [>](http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FtFuPCC.png"/> |
-| 0   | TVR Più TeleRegione | [>](https://dacastmmd.mmdlive.lldns.net/dacastmmd/a14a9d0455b34b02842e05e6a4ad0572/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Wzb5qaT.png"/> |
-| 0   | Tvr Xenon | [>](https://cdn3-ger.azotosolutions.com/cdnedge4/live4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
-| 0   | Tvrs Tv | [>](https://59d7d6f47d7fc.streamlock.net/tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
-| 0   | Umbria Tv  | [>](https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kccGe02.png"/> |
-| 0   | Uno Tv  | [>](https://59d7d6f47d7fc.streamlock.net/unotv/unotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4PNbqqL.png"/> |
+| 0   | Tvr Xenon | [>](https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
+| 0   | Tvrs Tv | [>](https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
+| 0   | Umbria Tv  | [>](https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/XKCVEmK.png"/> |
+| 0   | Uno Tv  | [>](https://stream1.aswifi.it/unotv/live/index.m3u8) | <img height="20" src="https://i.imgur.com/4PNbqqL.png"/> |
 | 0   | Vera Tv | [>](http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/djMvkvN.png"/> |
 | 0   | VB33 | [>](https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ygDuIxU.png"/> |
 | 0   | Video Calabria | [>](https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Bc2AvIm.png"/> | VideoCalabria.it |
-| 0   | Video Mediterraneo | [>](https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S23348473/u5bWX5Bh1fDx/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hJHC3uQ.png"/> |
-| 0   | Video Nola | [>](http://stream1.aswifi.it/videonola/live/index.m3u8) | <img height="20" src="https://i.imgur.com/M5z5UoD.jpg"/> |
+| 0   | Video Mediterraneo | [>](https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hJHC3uQ.png"/> |
+| 0   | Video Nola | [>](https://videonola.aswifi.it/videonolaabr/live.m3u8) | <img height="20" src="https://i.imgur.com/M5z5UoD.jpg"/> |
 | 0   | Video Star Tv Sicilia | [>](https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1ddJVZ7.jpg"/> |
 | 0   | Videolina | [>](http://livestreaming.videolina.it/live/Videolina/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bnDZJwd.gif"/> |
 | 0   | Videonovara | [>](https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NnO7E5I.png"/> |
 | 0   | Vintage Radio Tv | [>](https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n3LtBNT.jpg"/> |
 | 0   | Vuemme Tv | [>](https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x5A0xU6.png"/> |
 | 0   | Webcom Tv | [>](https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8) | <img height="20" src="https://i.imgur.com/KLwj2vj.png"/> |
-| 0   | Well Tv | [>](https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Kqgz4Na.png"/> |
 | 0   | WLTV    | [>](https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/aL8jKtU.png"/> |
-| 0   | Yvii Tv | [>](https://80.211.72.5/hls/yviitv.m3u8) | <img height="20" src="https://i.imgur.com/yP5AvDo.png"/> |
-| 0   | Zerouno Tv News | [>](https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vxRzyjE.png"/> |
+| 0   | Yvii Tv | [>](https://stream.wired-shop.com/hls/yviitv.m3u8) | <img height="20" src="https://i.imgur.com/yP5AvDo.png"/> |
+| 0   | Zerouno Tv Music | [>](https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8) | <img height="20" src="https://i.imgur.com/r74lqW8.png"/> |
+| 0   | Zerouno Tv News | [>](https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vxRzyjE.png"/> |
 
 <h2>YouTube Live</h2>
 
@@ -448,4 +445,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Nord Est | [x](https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TakoSUX.png"/> |
 | 0   | Tele Radio Studio 5 | [x](http://mars.az-streamingserver.com:1935/7444/7444/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lPRjSor.jpg"/> |
 | 0   | Tris Siracusa | [x](https://5db313b643fd8.streamlock.net/Tris/Tris/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dZgKD3j.jpg"/> |
+| 0   | Tv7 Azzurra | [x](https://www.gruppotv7.com:8090/hls/azzurra.m3u8) | <img height="20" src="https://i.imgur.com/xdukioH.png"/> |
+| 0   | Tv7 iReporter | [x](https://www.gruppotv7.com:8090/hls/ireporter.m3u8) | <img height="20" src="https://i.imgur.com/37i2B6m.png"/> |
+| 0   | Tv7 Triveneta | [x](https://www.gruppotv7.com:8090/hls/triveneta.m3u8) | <img height="20" src="https://i.imgur.com/bYiaO7l.png"/> |
+| 0   | TVR Più TeleRegione | [x](https://dacastmmd.mmdlive.lldns.net/dacastmmd/a14a9d0455b34b02842e05e6a4ad0572/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Wzb5qaT.png"/> |
 | 0   | Videostar Tv Lombardia | [x](http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpPFZL.jpg"/> |
+| 0   | Well Tv | [x](https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Kqgz4Na.png"/> |
