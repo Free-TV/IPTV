@@ -15,7 +15,7 @@
 | 9   | Jim | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Jim_color_RGB.png"/> | Jim.fi |
 | 10  | Kutonen | [>](https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/4giVyxb.png"/> | Kutonen.fi |
 | 11  | TLC Finland | [>](https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/0d5hP3A.png"/> | TLCFinland.fi |
-| 12  | Star Channel Finland | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/640px-Star_Channel_2020.svg.png"/> | StarChannel.fi |
+| 12  | Star Channel Finland | [>](https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/640px-Star_Channel_2020.svg.png"/> | StarChannel.fi |
 | 13  | MTV Ava | [>](https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/rtyJVgB.png"/> | AVA.fi |
 | 14  | Hero | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Hero_color_RGB.png"/> | Hero.fi |
 | 15  | Frii | [>](https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/ljKoG9I.png"/> | Frii.fi |
