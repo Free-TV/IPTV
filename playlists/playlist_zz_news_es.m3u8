@@ -9,3 +9,5 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-name="RT Español Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RTenEspanol.ru" group-title="News (ES)",RT Español Ⓖ
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" group-title="News (ES)",RTVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
