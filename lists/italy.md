@@ -331,6 +331,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | TeleAmbiente | [>](https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jxZcQhU.png"/> |
 | 0   | Telecampione | [>](https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LhjwmME.png"/> |
 | 0   | Telecittà Padova | [>](https://tango.wifi4all.it/telecitta/telecitta.m3u8) | <img height="20" src="https://i.imgur.com/xvVgEaA.jpg"/> |
+| 0   | Telecity Lombardia | [>](https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ECvJ3ZD.jpeg"/> |
+| 0   | Telecity Piemonte | [>](https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CrlzHjv.jpeg"/> |
+| 0   | Telecity Valle D'Aosta | [>](https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8) | <img height="20" src="https://i.imgur.com/T9EsAOX.jpeg"/> |
 | 0   | Teleiblea | [>](https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8) | <img height="20" src="https://i.imgur.com/n1THygZ.png"/> |
 | 0   | Teleitalia 41 | [>](https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lTuPSOn.png"/> |
 | 0   | Telejato | [>](https://telejato.liberotratto.com/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/r3Dqzdj.png"/> |
@@ -339,7 +342,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Telenova | [>](https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x41IkJK.png"/> | Telenova.it |
 | 0   | Telerama | [>](https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/enfqUlI.jpg"/> |
 | 0   | TeleRegione | [>](https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8) | <img height="20" src="https://i.imgur.com/i5WozUP.png"/> |
-| 0   | TeleRent 7Gold | [>](https://router.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wjZT8De.png"/> | 7Gold.it |
+| 0   | TeleRent 7Gold | [>](https://router.xdevel.com/video0s86-21/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YZadq0M.png"/> | 7Gold.it |
 | 0   | Telereporter | [>](https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WIo6SPc.png"/> |
 | 0   | Teleromagna | [>](https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4jWadI8.png"/> |
 | 0   | Teleromagna 24 | [>](https://livetr.teleromagna.it/mia/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Bpml478.png"/> |
@@ -359,7 +362,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tv Uno | [>](http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv) | <img height="20" src="https://i.imgur.com/OtCwYsh.jpg"/> |
 | 0   | Tv Yes | [>](https://stream1.aswifi.it/radioyes/live/index.m3u8) | <img height="20" src="https://i.imgur.com/1wsO8U7.png"/> |
 | 0   | Tva Vicenza | [>](http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FtFuPCC.png"/> |
-| 0   | Tvm Gold Sport | [>](https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/0oCNuIY.png"/> |
+| 0   | Tvm Palermo | [>](https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/uqOdAXB.png"/> |
 | 0   | Tvr Xenon | [>](https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
 | 0   | Tvrs Tv | [>](https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
 | 0   | Umbria+ TRT | [>](https://diretta.teleterni.it:8080//show/show.m3u8) | <img height="20" src="https://i.imgur.com/CU6BBgs.png"/> |
