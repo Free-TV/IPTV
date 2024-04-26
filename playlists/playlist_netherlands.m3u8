@@ -5,29 +5,29 @@ http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.i
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
 #EXTINF:-1 tvg-name="NPO 3 Ⓖ" tvg-logo="https://i.imgur.com/dVB4Pqc.png" tvg-id="NPO3.nl" group-title="Netherlands",NPO 3 Ⓖ
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8
-#EXTINF:-1 tvg-name="Omrop Fryslân" tvg-logo="https://i.imgur.com/0VKJLAK.png" tvg-id="OmropFryslanTV.nl" group-title="Netherlands",Omrop Fryslân
+#EXTINF:-1 tvg-name="Omrop Fryslân" tvg-logo="https://i.imgur.com/0VKJLAK.png" tvg-id="omropfryslan.nl" group-title="Netherlands",Omrop Fryslân
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 #EXTINF:-1 tvg-name="RTV Noord" tvg-logo="https://i.imgur.com/pO5Mexa.png" tvg-id="RTVNoord.nl" group-title="Netherlands",RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8
 #EXTINF:-1 tvg-name="RTV Drenthe" tvg-logo="https://i.imgur.com/GaGqM4z.png" tvg-id="RTVDrenthe.nl" group-title="Netherlands",RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8
 #EXTINF:-1 tvg-name="RTV Oost Ⓢ" tvg-logo="https://i.imgur.com/8ropV29.png" tvg-id="RTVOost.nl" group-title="Netherlands",RTV Oost Ⓢ
-https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
-#EXTINF:-1 tvg-name="Omroep Gelderland Ⓢ" tvg-logo="https://i.imgur.com/TPlyvUQ.png" tvg-id="OmroepGelderlandTV.nl" group-title="Netherlands",Omroep Gelderland Ⓢ
-http://web.omroepgelderland.nl/live/livetv.m3u8
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-name="Omroep Gelderland Ⓢ" tvg-logo="https://i.imgur.com/TPlyvUQ.png" tvg-id="gld.nl" group-title="Netherlands",Omroep Gelderland Ⓢ
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
 #EXTINF:-1 tvg-name="RTV Utrecht" tvg-logo="https://i.imgur.com/c0I24N6.png" tvg-id="RTVUtrecht.nl" group-title="Netherlands",RTV Utrecht
 http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:-1 tvg-name="Omroep Flevoland Ⓢ" tvg-logo="https://i.imgur.com/d1CmTcI.png" tvg-id="OmroepFlevolandTV.nl" group-title="Netherlands",Omroep Flevoland Ⓢ
+#EXTINF:-1 tvg-name="Omroep Flevoland Ⓢ" tvg-logo="https://i.imgur.com/d1CmTcI.png" tvg-id="OmroepFlevoland.nl" group-title="Netherlands",Omroep Flevoland Ⓢ
 https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" group-title="Netherlands",NH Nieuws
+#EXTINF:-1 tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" tvg-id="nhnieuws.nl" group-title="Netherlands",NH Nieuws
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-name="RTV Rijnmond" tvg-logo="https://i.imgur.com/TNhUVEm.png" tvg-id="RTVRijnmond.nl" group-title="Netherlands",RTV Rijnmond
-http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
-#EXTINF:-1 tvg-name="Omroep West" tvg-logo="https://i.imgur.com/aax1HPH.png" tvg-id="OmroepWestTV.nl" group-title="Netherlands",Omroep West
+#EXTINF:-1 tvg-name="RTV Rijnmond" tvg-logo="https://i.imgur.com/TNhUVEm.png" tvg-id="Rijnmond.nl" group-title="Netherlands",RTV Rijnmond
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+#EXTINF:-1 tvg-name="Omroep West" tvg-logo="https://i.imgur.com/aax1HPH.png" tvg-id="OmroepWest.nl" group-title="Netherlands",Omroep West
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Omroep Zeeland" tvg-logo="https://i.imgur.com/8aLDyUI.png" tvg-id="OmroepZeelandTV.nl" group-title="Netherlands",Omroep Zeeland
+#EXTINF:-1 tvg-name="Omroep Zeeland" tvg-logo="https://i.imgur.com/8aLDyUI.png" tvg-id="OmroepZeeland.nl" group-title="Netherlands",Omroep Zeeland
 http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:-1 tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" tvg-id="OmroepBrabantTV.nl" group-title="Netherlands",Omroep Brabant
+#EXTINF:-1 tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" tvg-id="OmroepBrabant.nl" group-title="Netherlands",Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 tvg-name="L1 Ⓢ" tvg-logo="https://i.imgur.com/Jyhn1iP.png" tvg-id="L1TV.nl" group-title="Netherlands",L1 Ⓢ
+#EXTINF:-1 tvg-name="L1 Ⓢ" tvg-logo="https://i.imgur.com/Jyhn1iP.png" tvg-id="L1.nl" group-title="Netherlands",L1 Ⓢ
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
