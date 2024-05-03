@@ -404,6 +404,13 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 59  | Euronews Italian Ⓨ | [>](https://www.youtube.com/user/euronewsit/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsItalian.fr |
 | 519 | TRM h24 Ⓨ     | [>](https://www.youtube.com/user/trmh24/live) | <img height="20" src="https://i.imgur.com/d47CdYU.png"/> | TRMh24.it |
 
+<h2>Twitch Live</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+| 0   | Teleroma 56 Ⓣ | [>](https://www.twitch.tv/teleroma_56) | <img height="20" src="https://i.imgur.com/wGfpUj8.png"/> |
+| 0   | TeleRadioStereo Ⓣ | [>](https://www.twitch.tv/teleradiostereo) | <img height="20" src="https://i.imgur.com/eRNgqnA.png"/> |
+
 <h2>Invalid</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
