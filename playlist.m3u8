@@ -741,12 +741,20 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ARTE Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png" tvg-id="ARTEDeutsch.de" group-title="Germany",ARTE Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1 tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",Deluxe Music
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" group-title="Germany",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Schlager Deluxe" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",Schlager Deluxe
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/JN6Kd0q.png" tvg-id="DeluxeLoungeHD.de" group-title="Germany",Deluxe Lounge HD
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" tvg-id="DeluxeMusicDanceByKontor.de" group-title="Germany",DELUXE MUSIC DANCE BY KONTOR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC FLASHBACK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Deluxe_Flashback_Logo_2023.svg/666px-Deluxe_Flashback_Logo_2023.svg.png" tvg-id="DeLuxeMusicFlashback.de" group-title="Germany",DELUXE MUSIC FLASHBACK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC LOUNGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Deluxe_Lounge_Logo_2021.svg/665px-Deluxe_Lounge_Logo_2021.svg.png" tvg-id="DeluxeMusicLounge.de" group-title="Germany",DELUXE MUSIC LOUNGE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" tvg-id="DeLuxeMusicRap.de" group-title="Germany",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC ROCK" tvg-logo="[https://i.imgur.com/JN6Kd0q.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Deluxe_Rock_Logo_2023.svg/666px-Deluxe_Rock_Logo_2023.svg.png)" tvg-id="DeLuxeMusicRock.de" group-title="Germany",DELUXE MUSIC ROCK
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 tvg-name="SCHLAGER DELUXE" tvg-logo="https://i.imgur.com/YPpgUOg.png" tvg-id="SchlagerDeluxe.de" group-title="Germany",SCHLAGER DELUXE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:-1 tvg-name="Euronews Deutsch Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsGerman.fr" group-title="Germany",Euronews Deutsch Ⓨ
 https://www.youtube.com/euronewsde/live
 #EXTINF:-1 tvg-name="KiKa Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png" tvg-id="KIKA.de" group-title="Germany",KiKa Ⓖ
