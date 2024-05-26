@@ -44,7 +44,7 @@ https://en.wikipedia.org/wiki/List_of_IRIB_television_channels
 | 12   | Al-Alam News Network Ⓢ | [>](https://live2.alalam.ir/alalam.m3u8) | <img height="20" src="https://i.imgur.com/UbD0Ndr.png"/> | AlalamNewsChannel.ir |
 | 13   | Press TV        | [>](https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/X3YP2Gg.png"/> | PressTV.ir |
 | 14   | Press TV French | [>](https://live1.presstv.ir/live/presstvfr/index.m3u8) | <img height="20" src="https://i.imgur.com/X3YP2Gg.png"/> | PressTVFrench.ir |
-| 15   | HispanTV Ⓢ      | [>](https://live1.presstv.ir/live/hispan.m3u8) | <img height="20" src="https://i.imgur.com/hnhP9o0.png"/> | HispanTV.ir |
+| 15   | HispanTV Ⓢ      | [x](https://live1.presstv.ir/live/hispan.m3u8) | <img height="20" src="https://i.imgur.com/hnhP9o0.png"/> | HispanTV.ir |
 | 16   | IranPress Ⓢ     | [>](https://live1.presstv.ir/live/iranpress/index.m3u8) | <img height="20" src="https://i.imgur.com/Qrubr3v.png"/> | IranPress.ir |
 
 <h2>Provincial channels</h2>
