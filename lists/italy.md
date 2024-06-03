@@ -107,7 +107,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Aurora Arte | [>](https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BoLZ5wG.png"/> | AuroraArte.it |
 | 0   | Azzurra Tv Vco | [>](https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mSWw8uW.png"/> | AzzurraTV.it |
 | 0   | Basilicata 1 Tv | [>](http://77.68.40.210:8888/hls/basilicata1.m3u8) | <img height="20" src="https://i.imgur.com/VS6CQ88.png"/> |
-| 0   | Bergamo Tv | [>](http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8) | <img height="20" src="https://i.imgur.com/1doR6Vl.png"/> |
+| 0   | Bergamo Tv | [>](https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S88012803/oIxAsgEEA46M/playlist.m3u8?DVR) | <img height="20" src="https://i.imgur.com/1doR6Vl.png"/> |
 | 0   | BOM Channel | [>](https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hISoOK3.png"/> | BomChannel.it |
 | 0   | ByoBlu | [>](https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1xaHGtU.png"/> |
 | 0   | Cafe Tv 24 | [>](https://srvx1.selftv.video/cafe/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KbcbxFw.png"/> |
