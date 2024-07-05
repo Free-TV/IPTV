@@ -1819,13 +1819,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-name="Nippon TV (日テレ) Ⓢ" tvg-logo="https://i.imgur.com/IxD8V5X.png" tvg-id="JOAXDTV.jp" group-title="Japan",Nippon TV (日テレ) Ⓢ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/Wfu61ZU.png" tvg-id="NTVNEWS24.jp" group-title="Japan",日テレNEWS24 Ⓢ
+#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/News24.svg" tvg-id="NTVNEWS24.jp" group-title="Japan",日テレNEWS24 Ⓢ
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-name="TV Asahi Ⓢ" tvg-logo="https://i.imgur.com/rls8NVc.png" tvg-id="JOEXDTV.jp" group-title="Japan",TV Asahi Ⓢ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-1 tvg-name="TBS Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="JORXDTV.jp" group-title="Japan",TBS Ⓢ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-name="TBS News" tvg-logo="https://i.imgur.com/GoNmywa.png" tvg-id="TBSNEWS.jp" group-title="Japan",TBS News
+#EXTINF:-1 tvg-name="TBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TBS_News_2020_logo.png" tvg-id="TBSNEWS.jp" group-title="Japan",TBS News
 https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 #EXTINF:-1 tvg-name="TV Tokyo Ⓢ" tvg-logo="https://i.imgur.com/tDyxk0Y.png" tvg-id="JOTXDTV.jp" group-title="Japan",TV Tokyo Ⓢ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
@@ -1883,13 +1883,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-name="BS Nippon TV (BS日テレ)" tvg-logo="https://i.imgur.com/D8lhZCI.png" tvg-id="BSNipponTV.jp" group-title="Japan",BS Nippon TV (BS日テレ)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://i.imgur.com/huXFL3A.png" tvg-id="BSAsahi.jp" group-title="Japan",BS Asahi
+#EXTINF:-1 tvg-name="BS Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Bs_Asahi_Logo.jpg" tvg-id="BSAsahi.jp" group-title="Japan",BS Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://i.imgur.com/h20eGKq.png" tvg-id="BSTBS.jp" group-title="Japan",BS-TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 #EXTINF:-1 tvg-name="BS TV Tokyo" tvg-logo="https://i.imgur.com/yJfA6ak.png" tvg-id="BSTVTokyo.jp" group-title="Japan",BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-name="BS Fuji TV (BSフジテレビ)" tvg-logo="https://i.imgur.com/aDdwjjc.png" tvg-id="BSFuji.jp" group-title="Japan",BS Fuji TV (BSフジテレビ)
+#EXTINF:-1 tvg-name="BS Fuji TV (BSフジテレビ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/BS_FUJI_Logo.jpg" tvg-id="BSFuji.jp" group-title="Japan",BS Fuji TV (BSフジテレビ)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 #EXTINF:-1 tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="KBS1TV.kr" group-title="Korea",KBS 1TV
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
