@@ -77,13 +77,12 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 55  | Gold TV Sat    | [>](https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTVSat.it |
 | 58  | Sportitalia SOLOCALCIO | [>](https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
-| 61  | BIKE           | [>](https://65f5123e69e3b.streamlock.net/bikechannel/ngrp:bikechannel_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
+| 61  | BIKE           | [>](https://66286fdeb96da.streamlock.net/BikeChannel/Bikechannel/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
 | 67  | Radio Montecarlo TV Ⓖ | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> | RadioMonteCarloTV.it |
 | 68  | Virgin Radio TV Ⓖ | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> | VirginRadioTV.it |
 | 89  | Senato TV      | [>](https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FoQoNZW.png"/> | SenatoTV.it |
 | 90  | Camera dei Deputati Ⓢ | [>](https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fqGn1k9.png"/> | CameradeiDeputati.it |
 | 210 | Rai 4K Ⓖ       | [>](https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5gkt9DD.png"/> | Rai4K.it |
-| 507 | Class CNBC | [>](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S57048752/8raQqCXozN1H/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | ClassCNBC.it |
 | 701 | UniNettuno University TV Ⓖ | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BOGMeio.png"/> | UniNettunoUniversityTV.it |
 
 <h2>Regional DVB-T</h2>
@@ -421,6 +420,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 1  | RAI Italia America   | [x](http://210.210.155.69/s/s63/S4/mnf.m3u8) | <img height="20" src="https://www.tvdream.net/img/rai-italia-bg.jpg"/> | RaiItaliaAmerica.it |
 | 3  | RAI Italia Asia   | [x](http://210.210.155.37/x6bnqe/s/s63/index2.m3u8) | <img height="20" src="https://www.tvdream.net/img/rai-italia-bg.jpg"/> | RaiItaliaAsia.it |
 | 176 | Explorer HD Channel | [x](https://59d7d6f47d7fc.streamlock.net/explorerhdch/explorerhdch/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gFwhIZC.png"/> | ExplorerHDChannel.it |
+| 507 | Class CNBC | [x](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S57048752/8raQqCXozN1H/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | ClassCNBC.it |
 | 511 | BFC            | [x](https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> | BFCForbes.it |
 | 0   | Antenna Sicilia | [x](https://5f22d76e220e1.streamlock.net/antennasicilia/antennasicilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
 | 0   | Antenna Sud Sport | [x](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
