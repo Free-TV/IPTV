@@ -63,14 +63,26 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="Pluto TV News" tvg-logo="https://i.imgur.com/JdqA4r9.png" tvg-id="PlutoTVNews.us" group-title="News",Pluto TV News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" group-title="News",CNN International
+#EXTINF:-1 tvg-name="CNN US" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" group-title="News",CNN US
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" group-title="News",GB News
 https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 #EXTINF:-1 tvg-name="Joy News" tvg-logo="https://i.imgur.com/kGuMNmR.png" tvg-id="JoyNews.gh" group-title="News",Joy News
 https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
+#EXTINF:-1 tvg-name="City News 24/7" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" tvg-id="CityNewsToronto.ca" group-title="News",City News 24/7
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-name="Africa24 English" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-id="Africa24English.fr" group-title="News",Africa24 English
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-name="CNN News 18" tvg-logo="https://i.imgur.com/WrmeIco.png" tvg-id="CNNNews18.in" group-title="News",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="TVP World" tvg-logo="https://i.imgur.com/lB4MgRI.png" tvg-id="TVPWorld.pl" group-title="News",TVP World
+https://rsdt-waw1601-228.tvp.pl/token/video/live/51656539/20240805/1524088651/EPIJv5rXaJspEy_AQqKm1eervMfQqy71Rw8jfe6-PwQOFTYa0jjlL0bPS4wfZW06PFbTtToF7cAdhqQqFzS3UhbeWKIVWMWdpGbgDSK07vCAcUe6pYjCsGEnbSORtXlSM900WhRoCPi-MIl4ZSN_D5Ni2KJnPz-DH8u6vnkdKtmgLJHu2DpnEHjDMN2_SgxF/156/master.m3u8
+#EXTINF:-1 tvg-name="SABC News" tvg-logo="https://i.imgur.com/liLta8j.png" tvg-id="SABCNews.za" group-title="News",SABC News
+http://185.59.221.131:8081/live/sabcnews/playlist.m3u8
+#EXTINF:-1 tvg-name="eNews Channel Africa" tvg-logo="https://i.imgur.com/iE7bNr0.png" tvg-id="eNewsChannelAfrica.za" group-title="News",eNews Channel Africa
+http://185.59.221.131:8081/live/enca/playlist.m3u88
 #EXTINF:-1 tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" tvg-id="CheddarNews.us" group-title="Business",Cheddar News
 https://lnc-cheddar.tubi.video/index.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
