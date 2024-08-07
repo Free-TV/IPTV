@@ -3364,7 +3364,7 @@ http://185.59.221.131:8081/live/sabcnews/playlist.m3u8
 #EXTINF:-1 tvg-name="eNews Channel Africa" tvg-logo="https://i.imgur.com/iE7bNr0.png" tvg-id="eNewsChannelAfrica.za" group-title="News",eNews Channel Africa
 http://185.59.221.131:8081/live/enca/playlist.m3u88
 #EXTINF:-1 tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" tvg-id="CheddarNews.us" group-title="Business",Cheddar News
-https://lnc-cheddar.tubi.video/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-id="YahooFinance.us" group-title="Business",Yahoo! Finance
