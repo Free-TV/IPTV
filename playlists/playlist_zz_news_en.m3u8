@@ -34,7 +34,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="CNAInternational.sg" group-title="News",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="ABC News (AU)" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-id="ABCNews.au" group-title="News",ABC News (AU)
-https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png" tvg-id="NDTV24x7.in" group-title="News",NDTV 24x7
 https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" group-title="News",TRT World
