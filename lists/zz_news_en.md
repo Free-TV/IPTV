@@ -49,7 +49,7 @@
 
 |  #  |    Channel     |                               Link                                |                                                      Logo                                                      |       EPG id       |
 |:---:|:--------------:|:-----------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|:------------------:|
-| 101 |  Cheddar News  |          [>](https://lnc-cheddar.tubi.video/index.m3u8)           |                            <img height="20" src="https://i.imgur.com/tuP9GW8.png"/>                            |   CheddarNews.us   |
+| 101 |  Cheddar News  |          [>](https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8)           |                            <img height="20" src="https://i.imgur.com/tuP9GW8.png"/>                            |   CheddarNews.us   |
 | 102 | Bloomberg TV+  | [>](https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8) |                            <img height="20" src="https://i.imgur.com/xGlToly.png"/>                            | BloombergTVPlus.us |
 | 104 | Yahoo! Finance |     [>](https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8)      |                            <img height="20" src="https://i.imgur.com/43oHsHL.png"/>                            |  YahooFinance.us   |
 | 105 |   CNBC TV18    |       [>](https://ythls.armelin.one/video/P857H4ej-MQ.m3u8)       |           <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png"/>           |    CNBCTV18.in     |
