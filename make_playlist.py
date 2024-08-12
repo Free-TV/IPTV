@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/playlist_12_plus.m3u
 
 import os
 import re
