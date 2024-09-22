@@ -2,13 +2,13 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | ČT1 Ⓖ    | [>](https://sktv-forwarders.7m.pl/get.php?x=CT1) | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> | CT1.cz |
-| 2   | ČT2 Ⓖ    | [>](https://sktv-forwarders.7m.pl/get.php?x=CT2) | <img height="20" src="https://i.imgur.com/HpnGC6A.png"/> | CT2.cz |
-| 3   | ČT24      | [>](https://sktv-forwarders.7m.pl/get.php?x=CT24) | <img height="20" src="https://i.imgur.com/pUMRFs1.png"/> | CT24.cz |
-| 4   | ČT sport Ⓖ    | [>](https://sktv-forwarders.7m.pl/get.php?x=CTsport) | <img height="20" src="https://i.imgur.com/I2dltZW.png"/> | CTSport.cz |
-| 5   | ČT :D      | [>](https://sktv-forwarders.7m.pl/get.php?x=CT_D) | <img height="20" src="https://i.imgur.com/Pa5rLpA.png"/> | CTDecko.cz |
-| 6   | ČT art      | [>](https://sktv-forwarders.7m.pl/get.php?x=CTart) | <img height="20" src="https://i.imgur.com/u8mfETB.png"/> | CTart.cz |
-| 7   | ČT sport Plus Ⓖ    | [>](https://sktv-forwarders.7m.pl/get.php?x=CTsportPlus) | <img height="20" src="https://i.imgur.com/5JiMynW.png"/> | |
+| 1   | ČT1 Ⓖ    | [>](https://sktv.plainrock127.xyz/get.php?x=CT1) | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> | CT1.cz |
+| 2   | ČT2 Ⓖ    | [>](https://sktv.plainrock127.xyz/get.php?x=CT2) | <img height="20" src="https://i.imgur.com/HpnGC6A.png"/> | CT2.cz |
+| 3   | ČT24      | [>](https://sktv.plainrock127.xyz/get.php?x=CT24) | <img height="20" src="https://i.imgur.com/pUMRFs1.png"/> | CT24.cz |
+| 4   | ČT sport Ⓖ    | [>](https://sktv.plainrock127.xyz/get.php?x=CTsport) | <img height="20" src="https://i.imgur.com/I2dltZW.png"/> | CTSport.cz |
+| 5   | ČT :D      | [>](https://sktv.plainrock127.xyz/get.php?x=CT_D) | <img height="20" src="https://i.imgur.com/Pa5rLpA.png"/> | CTDecko.cz |
+| 6   | ČT art      | [>](https://sktv.plainrock127.xyz/get.php?x=CTart) | <img height="20" src="https://i.imgur.com/u8mfETB.png"/> | CTart.cz |
+| 7   | ČT sport Plus Ⓖ    | [>](https://sktv.plainrock127.xyz/get.php?x=CTsportPlus) | <img height="20" src="https://i.imgur.com/5JiMynW.png"/> | |
 | 8   | JOJ Family Ⓢ    | [>](https://live.cdn.joj.sk/live/hls/family-540.m3u8) | <img height="20" src="https://i.imgur.com/IZHIAAj.png"/> | JojFamily.sk |
 | 9   | Šlágr Originál Ⓢ    | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://i.imgur.com/fQcx9S2.png"/> | SlagrOriginal.cz |
 | 10  | Šlágr Muzika Ⓢ    | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://i.imgur.com/J9YHDVS.png"/> | SlagrMuzika.cz |
