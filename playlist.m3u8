@@ -2229,8 +2229,8 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" tvg-id="CNNPortugal.pt" group-title="Portugal",CNN Portugal
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:-1 tvg-name="Euronews em Português" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsPortuguese.fr" group-title="Portugal",Euronews em Português
-https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1 tvg-name="Euronews em Português Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsPortuguese.fr" group-title="Portugal",Euronews em Português Ⓨ
+https://www.youtube.com/euronewspt/live
 #EXTINF:-1 tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevision.qa" group-title="Qatar",Qatar Television
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:-1 tvg-name="Qatar Television 2" tvg-logo="https://i.imgur.com/iWJxDUm.png" tvg-id="QatarTelevision2.qa" group-title="Qatar",Qatar Television 2
@@ -2327,8 +2327,8 @@ http://92.50.128.180/utv/1358/index.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-name="CGTN Pусский" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNRussian.cn" group-title="Russia",CGTN Pусский
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 tvg-name="Euronews по-русски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsRussian.fr" group-title="Russia",Euronews по-русски
-https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1 tvg-name="Euronews по-русски Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsRussian.fr" group-title="Russia",Euronews по-русски Ⓨ
+https://www.youtube.com/euronewsru/live
 #EXTINF:-1 tvg-name="РТР-Планета Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png" tvg-id="RTRPlaneta.ru" group-title="Russia",РТР-Планета Ⓢ
 https://player.smotrim.ru/iframe/stream/live_id/63251
 #EXTINF:-1 tvg-name="Арктика 24 Ⓥ" tvg-logo="https://i.imgur.com/CL0G88u.png" tvg-id="Arktika24.ru" group-title="Russia",Арктика 24 Ⓥ
