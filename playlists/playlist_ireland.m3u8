@@ -3,3 +3,21 @@
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:-1 tvg-name="Houses of the Oireachtas Channel" tvg-logo="https://i.imgur.com/aC4fsCI.png" tvg-id="OireachtasTV.ie" group-title="Ireland",Houses of the Oireachtas Channel
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
+#EXTINF:-1 tvg-name="Today FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg" tvg-id="todayfm.com" group-title="Ireland",Today FM
+https://stream.audioxi.com/TDAAC
+#EXTINF:-1 tvg-name="98FM" tvg-logo=" height="20" tvg-id="98fm.com" group-title="Ireland",98FM
+https://stream.audioxi.com/98
+#EXTINF:-1 tvg-name="FM104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" tvg-id="fm104.ie" group-title="Ireland",FM104
+https://wg.cdn.tibus.net/fm104MP3128
+#EXTINF:-1 tvg-name="Radio Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" tvg-id="www.nova.ie" group-title="Ireland",Radio Nova
+https://stream.audioxi.com/NOVA
+#EXTINF:-1 tvg-name="Spin 103.8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" tvg-id="spin1038.com" group-title="Ireland",Spin 103.8
+https://stream.audioxi.com/SP
+#EXTINF:-1 tvg-name="Newstalk" tvg-logo="" group-title="Ireland",Newstalk
+https://stream.audioxi.com/NT
+#EXTINF:-1 tvg-name="Dublin's Q102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" tvg-id="q102.ie" group-title="Ireland",Dublin's Q102
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1 tvg-name="Classic Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Classichits2023.jpg" tvg-id="classichits.ie" group-title="Ireland",Classic Hits
+https://stream.audioxi.com/CLASSIC
+#EXTINF:-1 tvg-name="Sunshine 106.8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sunshine_106.8_logo.png" tvg-id="sunshineradio.ie" group-title="Ireland",Sunshine 106.8
+https://live-bauerie.sharp-stream.com/SUN
