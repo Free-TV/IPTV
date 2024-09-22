@@ -75,6 +75,7 @@ belarus
 ukraine
 
 # ex-USSR (excl. RU/BY/UA, Baltics and Moldova)
+armenia
 azerbaijan
 georgia
 
