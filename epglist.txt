@@ -121,8 +121,12 @@ https://xmltv.tvkaista.net/guides/guida.tv.xml
 https://xmltv.tvkaista.net/guides/guidatv.sky.it.xml
 https://xmltv.tvkaista.net/guides/horizon.tv.xml
 https://xmltv.tvkaista.net/guides/i.mjh.nz_au.xml
+https://xmltv.tvkaista.net/guides/i.mjh.nz_binge.xml
 https://xmltv.tvkaista.net/guides/i.mjh.nz_dstv.xml
+https://xmltv.tvkaista.net/guides/i.mjh.nz_flash.xml
+https://xmltv.tvkaista.net/guides/i.mjh.nz_foxtel.xml
 https://xmltv.tvkaista.net/guides/i.mjh.nz_hgtvgo.xml
+https://xmltv.tvkaista.net/guides/i.mjh.nz_kayo.xml
 https://xmltv.tvkaista.net/guides/i.mjh.nz_metv.xml
 https://xmltv.tvkaista.net/guides/i.mjh.nz_nz.xml
 https://xmltv.tvkaista.net/guides/i.mjh.nz_optus.xml
