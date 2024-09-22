@@ -43,7 +43,7 @@
 |:---:|:----------:|:-----:|:----:|:------:|
 | 1   | TF1        | [x](https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> | TF1.fr |
 | 4   | France 4   | [x](http://edge9.iptvnetwork.net/live/france4/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> | France4.fr |
-| 15  | BFM TV     | [>](https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
+| 15  | BFM TV     | [>](https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
 | 18  | Gulli      | [x](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> | Gulli.fr |
 | 22  | 6ter       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> | 6ter.fr |
 | 26  | LCI          | [>](https://sv0.data-stream.top/hls/lci.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
