@@ -13,7 +13,7 @@
 | 9   | Anime TV | [>](https://stmv1.srvif.com/animetv/animetv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fuuv2uP.jpg"/> | AnimeTV.br |
 | 10  | Record News Ⓢ | [x](https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png"/> | RecordNews.br |
 | 11  | ISTV | [>](https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png"/> | ISTVHD.br |
-| 12  | Rede Brasil | [>](https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png"/> | RedeBrasil.br |
+| 12  | Rede Brasil | [>](https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png"/> | RedeBrasil.br |
 | 13  | TV Câmara | [>](https://stream3.camara.gov.br/tv1/manifest.m3u8) | <img height="20" src="https://i.imgur.com/UpV2PRk.png"/> | TVCamara.br |
 | 14  | TVE RS | [>](http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png"/> |
 | 15  | Fora Tedio TV | [>](http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8) | <img height="20" src="https://play.foratedio.com/img/foratedio-watermark.png"/> |
