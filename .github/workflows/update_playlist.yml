@@ -2,7 +2,7 @@ name: Update playlist
 
 on:
   push:
-    branches: [ master ]
+    branches: [ teste ]
   workflow_dispatch:
 
 jobs:
@@ -18,4 +18,4 @@ jobs:
           python3 ./make_playlist.py
           git add .
           git commit --quiet -m "Update Playlist (GitHub Actions)"
-          git push -f origin master
+          git push -f origin teste
