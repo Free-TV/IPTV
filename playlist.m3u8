@@ -2472,25 +2472,25 @@ rtsp://212.200.255.151/rtv1
 #EXTINF:-1 tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" tvg-id="RTV2.rs" group-title="Serbia",RTV 2
 rtsp://212.200.255.151/rtv2
 #EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="Slovakia",:Jednotka
-https://sktv.plainrock127.xyz/get.php?x=STV1
+https://www.rtvs.sk/televizia/live-1
 #EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="Slovakia",:Dvojka
-https://sktv.plainrock127.xyz/get.php?x=STV2
+https://www.rtvs.sk/televizia/live-2
 #EXTINF:-1 tvg-name=":24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" group-title="Slovakia",:24
-https://sktv.plainrock127.xyz/get.php?x=STV24
+https://www.rtvs.sk/televizia/live-24
 #EXTINF:-1 tvg-name=":Šport" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="Sport.sk" group-title="Slovakia",:Šport
-https://sktv.plainrock127.xyz/get.php?x=SPORT
+https://www.rtvs.sk/televizia/sport
 #EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",:O
-https://sktv.plainrock127.xyz/get.php?x=STV-O
+https://www.rtvs.sk/televizia/live-o
 #EXTINF:-1 tvg-name="STVR" tvg-logo="https://i.imgur.com/Nf5gEDc.png" group-title="Slovakia",STVR
-https://sktv.plainrock127.xyz/get.php?x=RTVS
+https://www.rtvs.sk/televizia/live-stvr
 #EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" group-title="Slovakia",NR SR
-https://sktv.plainrock127.xyz/get.php?x=NR_SR
+https://www.rtvs.sk/televizia/live-nr-sr
 #EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" tvg-id="TVJOJ.sk" group-title="Slovakia",JOJ
-https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
+https://live.joj.sk/
 #EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://i.imgur.com/fKPliTj.png" tvg-id="JOJPlus.sk" group-title="Slovakia",JOJ Plus
-https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
+https://plus.joj.sk/live
 #EXTINF:-1 tvg-name="WAU" tvg-logo="https://i.imgur.com/wO5ifff.png" tvg-id="JOJWAU.sk" group-title="Slovakia",WAU
-https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
+https://wau.joj.sk/live
 #EXTINF:-1 tvg-name="JOJ 24" tvg-logo="https://i.imgur.com/owEVXRE.png" tvg-id="JOJ24.sk" group-title="Slovakia",JOJ 24
 https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
 #EXTINF:-1 tvg-name="JOJ Šport" tvg-logo="https://i.imgur.com/QWEY2a5.png" tvg-id="JOJSport.sk" group-title="Slovakia",JOJ Šport
@@ -2498,7 +2498,7 @@ https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
 #EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" group-title="Slovakia",Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="Slovakia",TA3 Ⓢ
-https://sktv.plainrock127.xyz/get.php?x=TA3
+https://www.ta3.com/live
 #EXTINF:-1 tvg-name="TV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" tvg-id="TVSlovenija1.si" group-title="Slovenia",TV SLO 1
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1
 #EXTINF:-1 tvg-name="TV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" tvg-id="TVSlovenija2.si" group-title="Slovenia",TV SLO 2
