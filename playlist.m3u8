@@ -1054,11 +1054,11 @@ https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-name="Knesset" tvg-logo="https://i.imgur.com/PEdXHSE.png" tvg-id="Knesset.il" group-title="Israel",Knesset
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="Italy",Rai 1 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai 2 Ⓖ" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="Italy",Rai 2 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai 3 Ⓖ" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-id="Rai3.it" group-title="Italy",Rai 3 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rete 4 Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" group-title="Italy",Rete 4 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Canale 5 Ⓖ" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-id="Canale5.it" group-title="Italy",Canale 5 Ⓖ
@@ -1068,23 +1068,23 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="Italy",La7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="Italy",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11223/tv8web/master.m3u8
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="Italy",Nove
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="20 Mediaset Ⓖ" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-id="20.it" group-title="Italy",20 Mediaset Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Rai 4 Ⓖ" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-id="Rai4.it" group-title="Italy",Rai 4 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Iris Ⓖ" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-id="Iris.it" group-title="Italy",Iris Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Rai 5 Ⓖ" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-id="Rai5.it" group-title="Italy",Rai 5 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai Movie Ⓖ" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-id="RaiMovie.it" group-title="Italy",Rai Movie Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-id="RaiPremium.it" group-title="Italy",Rai Premium Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-name="Cielo TV" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="CieloTV.it" group-title="Italy",Cielo TV
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-id="CieloTV.it" group-title="Italy",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11219/cieloweb/master.m3u8
 #EXTINF:-1 tvg-name="27 Twentyseven Ⓖ" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-id="27Twentyseven.it" group-title="Italy",27 Twentyseven Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-id="TV2000.va" group-title="Italy",TV 2000
@@ -1116,35 +1116,35 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="K2" tvg-logo="https://i.imgur.com/wlLgSiA.png" tvg-id="K2.it" group-title="Italy",K2
 https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Gulp Ⓖ" tvg-logo="https://i.imgur.com/lu1DPVb.png" tvg-id="RaiGulp.it" group-title="Italy",Rai Gulp Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai YoYo Ⓖ" tvg-logo="https://i.imgur.com/DRSa3ys.png" tvg-id="RaiYoyo.it" group-title="Italy",Rai YoYo Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Frisbee" tvg-logo="https://i.imgur.com/9y1zIAe.png" tvg-id="Frisbee.it" group-title="Italy",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Cartoonito Ⓖ" tvg-logo="https://i.imgur.com/zqc0TrY.png" tvg-id="CartoonitoItaly.it" group-title="Italy",Cartoonito Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
-#EXTINF:-1 tvg-name="Super! Ⓢ" tvg-logo="https://i.imgur.com/zDByOwo.png" tvg-id="Super.it" group-title="Italy",Super! Ⓢ
-https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+#EXTINF:-1 tvg-name="Super!" tvg-logo="https://i.imgur.com/zDByOwo.png" tvg-id="Super.it" group-title="Italy",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" group-title="Italy",Rai News 24 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Italia 2 Ⓖ" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-id="Italia2.it" group-title="Italy",Italia 2 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-id="SkyTG24.it" group-title="Italy",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/12221/web/master.m3u8
 #EXTINF:-1 tvg-name="TGCOM 24 Ⓖ" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-id="TGCom24.it" group-title="Italy",TGCOM 24 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-id="DMAXItaly.it" group-title="Italy",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Storia Ⓖ" tvg-logo="https://i.imgur.com/K8y5q8x.png" tvg-id="RaiStoria.it" group-title="Italy",Rai Storia Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Mediaset Extra Ⓖ" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-id="MediasetExtra.it" group-title="Italy",Mediaset Extra Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="HGTV – Home & Garden Tv" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-id="HGTVItaly.it" group-title="Italy",HGTV – Home & Garden Tv
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-id="RaiScuola.it" group-title="Italy",Rai Scuola Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" group-title="Italy",Rai Sport Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" tvg-id="MotorTrend.it" group-title="Italy",Motor Trend
 https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia.it" group-title="Italy",Sportitalia Plus
@@ -1154,7 +1154,7 @@ https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-name="Donna TV Ⓢ" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-id="DonnaTV.it" group-title="Italy",Donna TV Ⓢ
 https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.it" group-title="Italy",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" group-title="Italy",Alma TV
 https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-name="Radio 105 TV Ⓖ" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Italy",Radio 105 TV Ⓖ
@@ -1168,7 +1168,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-id="KissKissTV.it" group-title="Italy",Radio KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" group-title="Italy",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-name="RTL 102.5 News" tvg-logo="https://i.imgur.com/vAtzwXK.png" tvg-id="RTL1025News.it" group-title="Italy",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-name="RadioFreccia" tvg-logo="https://i.imgur.com/J5N9F7Z.png" tvg-id="RadioFrecciaTV.it" group-title="Italy",RadioFreccia
@@ -1183,8 +1183,8 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="SportitaliaSolocalcio.it" group-title="Italy",Sportitalia SOLOCALCIO
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
-#EXTINF:-1 tvg-name="BIKE" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-id="Bike.it" group-title="Italy",BIKE
-https://66286fdeb96da.streamlock.net/BikeChannel/Bikechannel/playlist.m3u8
+#EXTINF:-1 tvg-name="BIKE Channel" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-id="Bike.it" group-title="Italy",BIKE Channel
+https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
 #EXTINF:-1 tvg-name="Radio Montecarlo TV Ⓖ" tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-id="RadioMonteCarloTV.it" group-title="Italy",Radio Montecarlo TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-id="VirginRadioTV.it" group-title="Italy",Virgin Radio TV Ⓖ
@@ -1737,6 +1737,8 @@ https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
 https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="TLT Molise" tvg-logo="https://i.imgur.com/wgwD7gh.png" group-title="Italy",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Calcio 24" tvg-logo="https://i.imgur.com/DnVPKPE.png" group-title="Italy",Top Calcio 24
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8
 #EXTINF:-1 tvg-name="Tremedia Tv" tvg-logo="https://i.imgur.com/dqRV1ff.jpeg" group-title="Italy",Tremedia Tv
 https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Trentino Tv" tvg-logo="https://i.imgur.com/ROKOCR2.png" group-title="Italy",Trentino Tv
