@@ -11,7 +11,7 @@
 | 7   | Record | [x](https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8) | <img height="20" src="https://i.imgur.com/TD6ZJoa.png"/> | RecordTV.br |
 | 8   | RBC | [>](http://rbc.directradios.com:1935/rbc/rbc/live.m3u8) | <img height="20" src="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png"/> |
 | 9   | Anime TV | [>](https://stmv1.srvif.com/animetv/animetv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fuuv2uP.jpg"/> | AnimeTV.br |
-| 10  | Record News Ⓢ | [>](https://5cf4a2c2512a2.streamlock.net:443/8016/8016/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png"/> | RecordNews.br |
+| 10  | Record News | [>](https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png"/> | RecordNews.br |
 | 11  | ISTV | [>](https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png"/> | ISTVHD.br |
 | 12  | Rede Brasil | [>](https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png"/> | RedeBrasil.br |
 | 13  | TV Câmara | [>](https://stream3.camara.gov.br/tv1/manifest.m3u8) | <img height="20" src="https://i.imgur.com/UpV2PRk.png"/> | TVCamara.br |
