@@ -56,7 +56,5 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 
 | #   | Channel           | Link  | Logo | EPG id |
 |:---:|:-----------------:|:-----:|:----:|:------:|
-|  1  | DW Deutsch        | [>](https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png"/> | DWDeutsch.de |
-|  2  | DW Deutsch+       | [>](https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png"/> | DWDeutschPlus.de |
-|  3  | NDR International | [>](https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png"/> | NDRFernsehenInternational.de |
-|  4  | Peer TV Südtirol | [>](https://iptv.peer.biz/live/peertv.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"/> | PeerTV.de |
+|  1  | NDR International | [>](https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png"/> | NDRFernsehenInternational.de |
+|  2  | Peer TV Südtirol | [>](https://iptv.peer.biz/live/peertv.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"/> | PeerTV.de |
