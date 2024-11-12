@@ -785,8 +785,6 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1 tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" group-title="Germany",NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-id="PeerTV.de" group-title="Germany",Peer TV Südtirol
-https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-name="ERT 1" tvg-logo="https://i.imgur.com/WWMe8IY.png" tvg-id="ERT1.gr" group-title="Greece",ERT 1
 http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-name="ERT 2" tvg-logo="https://i.imgur.com/pcusPFl.png" tvg-id="ERT2.gr" group-title="Greece",ERT 2
@@ -1405,6 +1403,8 @@ https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
 https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
 #EXTINF:-1 tvg-name="Peer Tv Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-id="PeerTV.it" group-title="Italy",Peer Tv Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-id="PeerTV.de" group-title="Italy",Peer TV Südtirol
+https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-name="Pop Tv" tvg-logo="https://i.imgur.com/TeolCu9.png" group-title="Italy",Pop Tv
 https://stream1.aswifi.it/poptelevision/live/index.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" group-title="Italy",Prima Tv Napoli

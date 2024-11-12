@@ -69,5 +69,3 @@ https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1 tvg-name="NDR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/578px-Logo_NDR_Fernsehen_2017.svg.png" tvg-id="NDRFernsehenInternational.de" group-title="Germany",NDR International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-id="PeerTV.de" group-title="Germany",Peer TV Südtirol
-https://iptv.peer.biz/live/peertv.m3u8
