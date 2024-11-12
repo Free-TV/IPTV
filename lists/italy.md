@@ -206,6 +206,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Parole di Vita  | [>](https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M9mIiZD.png"/> |
 | 0   | Partenope Tv | [>](https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8) | <img height="20" src="https://i.imgur.com/FtuWkj1.png"/> |
 | 0   | Peer Tv Alto Adige | [>](https://iptv.peer.biz/live/peertv-it.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png"/> | PeerTV.it |
+| 2   | Peer TV Südtirol | [>](https://iptv.peer.biz/live/peertv.m3u8) | <img height="20" src="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"/> | PeerTV.de |
 | 0   | Pop Tv | [>](https://stream1.aswifi.it/poptelevision/live/index.m3u8) | <img height="20" src="https://i.imgur.com/TeolCu9.png"/> |
 | 0   | Prima Tv Napoli | [>](https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8) | <img height="20" src="https://i.imgur.com/yPuQeEy.jpg"/> |
 | 0   | Prima Tv Sicilia | [>](https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/br45JER.png"/> |
