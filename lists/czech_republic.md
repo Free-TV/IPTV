@@ -26,9 +26,8 @@
 | 22  | Óčko Star Ⓢ    | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tGzQFWw.png"/> | OckoStar.cz |
 | 23  | Óčko Expres Ⓢ    | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8) | <img height="20" src="https://i.imgur.com/e731JNS.png"/> | OckoExpres.cz |
 | 24  | Retro Music Television Ⓢ    | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a6S2Yo4.png"/> | RetroMusicTV.cz |
-| 25  | TN Live      | [>](https://sktv-forwarders.7m.pl/get.php?x=NovaTNLive) | <img height="20" src="https://i.imgur.com/9P7ZyFu.png"/> | |
+| 25  | TN Live      | [>](https://sktv.plainrock127.xyz/get.php?x=NovaTNLive) | <img height="20" src="https://i.imgur.com/9P7ZyFu.png"/> | |
 | 26  | Praha TV      | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://www.praga2018.cz/wp-content/uploads/logo-prahatv.png"/> | PrahaTV.cz |
-| 27  | TV Nova Ⓢ    | [>](http://88.212.15.27/live/nova_avc_25p/playlist.m3u8) | <img height="20" src="https://i.imgur.com/77ztmd9.png"/> | tv.nova.cz |
-| 28  | Minimax CZ Ⓢ    | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WWOlm1x.png"/> | minimaxcz.tv |
-| 29  | Východoceská TV      | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4Wwptd3.png"/> | |
-| 30  | UTV (Czech Republic)      | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | <img height="20" src="https://imgur.com/ulfeIwM.png"/> | televizeutv.cz |
+| 27  | TV Nova Ⓢ    | [>](https://sktv.plainrock127.xyz/get.php?x=Nova) | <img height="20" src="https://i.imgur.com/77ztmd9.png"/> | tvnova.cz |
+| 28  | Východoceská TV      | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4Wwptd3.png"/> | V1.cz |
+| 29  | UTV (Czech Republic)      | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | <img height="20" src="https://imgur.com/ulfeIwM.png"/> | utv.cz |
