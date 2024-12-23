@@ -15,6 +15,7 @@
 | 10  | Televizija 5 | [>](https://balkanmedia.dynu.net/hls/tv5web.m3u8) | <img height="20" src="https://i.imgur.com/znpvJys.png"/> | Televizija5.ba |
 | 11  | Kanal 6 | [>](https://restreamer1.tnt.ba/hls/kanal6.m3u8) | <img height="20" src="https://i.imgur.com/GGhvR0l.png"/> | Kanal6.ba |
 | 12  | SuperTV | [>](https://mirtv.club/live/mirtv/index.m3u8) | <img height="20" src="https://i.imgur.com/XYWgd3E.png"/> | SuperTV.ba |
+| 13  | Neon TV | [>](rtsp://185.50.56.16:554/neontelvizija) | <img height="20" src="https://i.imgur.com/thC9NFp.png"/> | ntv.ba |
 
 <h2>Cantonal</h2>
 
