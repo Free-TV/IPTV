@@ -30,8 +30,8 @@ https://en.wikipedia.org/wiki/Television_in_Spain#Digital_terrestrial_television
 | 7  | IB3 Global Ⓨ | [>](https://www.youtube.com/c/ib3/live)|<img height="20" src="https://i.imgur.com/b59MxgM.png"/>| IB3.es |
 | 8  | Canal Extremadura |[>](https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8)|<img height="20" src="https://i.imgur.com/xBeywIA.png"/>| CanalExtremadura.es |
 | 9  | Aragón TV |[>](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8)|<img height="20" src="https://i.imgur.com/8H3Q07b.png"/>| AragonTV.es |
-| 10 |EITB1 |[>](https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8)|<img height="20" src="https://i.imgur.com/VBVu2bu.png"/>| ETB1.es |
-| 11 |EITB2|[>](https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8)|<img height="20" src="https://i.imgur.com/VBVu2bu.png"/>| ETB2.es |
+| 10 |ETB1 |[>](https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8)|<img height="20" src="https://i.imgur.com/VBVu2bu.png"/>| eitb.eus |
+| 11 |ETB2|[>](https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8)|<img height="20" src="https://i.imgur.com/NZx7U6t.png"/>| eitb.eus |
 | 12 |TV3 Cat|[>](https://directes-tv-es.ccma.cat/live-origin/tvc-hls/bitrate_3.m3u8)|<img height="20" src="https://i.imgur.com/rNQYHmx.png"/>| TV3CAT.es |
 | 13 |3/24| [>](https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8)|<img height="20" src="https://i.imgur.com/b59MxgM.png"/>| 324.es |
 | 14 |Bon Dia | [>](https://directes-tv-int.ccma.cat/live-content/bondia-hls/bitrate_3.m3u8)|<img height="20" src="https://i.imgur.com/XaiP3nJ.png"/>| BonDiaTV.es |
