@@ -8,7 +8,7 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 
 | #   | Channel          | Link  | Logo | EPG id |
 |:---:|:----------------:|:-----:|:----:|:------:|
-| 1   | Das Erste Ⓖ     | [>](https://mcdn.daserste.de/daserste/de/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png"/> | DasErste.de |
+| 1   | Das Erste Ⓖ     | [>](https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/640px-Das_Erste_2014.svg.png"/> | DasErste.de |
 | 2   | ZDF Ⓖ           | [>](http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png"/> | ZDF.de |
 | 3   | 3sat Ⓖ          | [>](https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png"/> | 3sat.de |
 | 4   | ARD Alpha Ⓖ     | [>](https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png"/> | ARDalpha.de |
@@ -21,7 +21,7 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 11  | KiKa Ⓖ          | [>](https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png"/> | KIKA.de |
 | 12  | MTV Germany Ⓖ    | [x](https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/640px-MTV-2021.svg.png"/> | MTVGermany.de |
 | 13  | Nick Ⓖ          | [x](https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8) | <img height="20" src="https://i.imgur.com/mhldfsB.png"/> | NickGermany.de |
-| 14  | ONE Ⓖ           | [>](https://mcdn.one.ard.de/ardone/hls/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png"/> | One.de |
+| 14  | ONE Ⓖ           | [>](https://mcdn-one.ard.de/ardone/hls/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png"/> | One.de |
 | 15  | Phoenix Ⓖ       | [>](https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Phoenix-logo-2018.svg/640px-Phoenix-logo-2018.svg.png"/> | Phoenix.de |
 | 16  | Tagesschau24     | [>](https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/640px-Tagesschau24-2012.svg.png"/> | tagesschau24.de |
 | 17  | Welt             | [>](https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/640px-Welt_TV_Logo_2016.svg.png"/> | Welt.de |
