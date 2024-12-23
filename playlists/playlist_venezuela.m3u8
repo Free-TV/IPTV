@@ -11,3 +11,5 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" tvg-id="TeleSUR.ve" group-title="Venezuela",Telesur
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-name="Chivacoatv Internacional" tvg-logo="https://www.chivacoatv.com/" tvg-id="Chivacoatv.ve" group-title="Venezuela",chivacoatv
+https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8
