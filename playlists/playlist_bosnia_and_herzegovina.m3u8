@@ -25,6 +25,8 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 https://restreamer1.tnt.ba/hls/kanal6.m3u8
 #EXTINF:-1 tvg-name="SuperTV" tvg-logo="https://i.imgur.com/XYWgd3E.png" tvg-id="SuperTV.ba" group-title="Bosnia and Herzegovina",SuperTV
 https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-name="Neon TV" tvg-logo="https://i.imgur.com/thC9NFp.png" tvg-id="ntv.ba" group-title="Bosnia and Herzegovina",Neon TV
+rtsp://185.50.56.16:554/neontelvizija
 #EXTINF:-1 tvg-name="RTV ZE Ⓢ" tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-id="RTVZenica.ba" group-title="Bosnia and Herzegovina",RTV ZE Ⓢ
 https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-name="TV BPK Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg" tvg-id="RTVBPK.ba" group-title="Bosnia and Herzegovina",TV BPK Ⓢ
