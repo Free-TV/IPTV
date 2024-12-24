@@ -19,10 +19,10 @@
 | 13  | MTV Ava | [>](https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/rtyJVgB.png"/> | AVA.fi |
 | 14  | Hero | [>](https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Hero_color_RGB.png"/> | Hero.fi |
 | 15  | Frii | [>](https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/ljKoG9I.png"/> | Frii.fi |
-| 16  | IRR-TV | [>](https://irrtv.digitacdn.net/live/_definst_/irrtv/amlst:irrtv.amlst/playlist.m3u8?organizationId=229401409&suiteItemId=230439940) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png"/> | IRRTV.fi |
+| 16  | Alfa Ⓢ | [>](https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png"/> | IRRTV.fi |
 | 17  | TapahtumaTV Eveo | [>](https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/sR8nA8w.png"/> | Eveo.fi |
-| 20  | National Geographic Finland | [>](https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/> | NationalGeographicFinland.fi |
-| 33  | OnniTV | [>](https://kotitv.digitacdn.net/amlst:kotitv.amlst/playlist.m3u8?organizationId=83459409&suiteItemId=83459780) | <img height="20" src="https://i.imgur.com/HzILf2H.png"/> | KotiTV.fi |
+| 20  | National Geographic Finland Ⓖ | [>](https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/> | NationalGeographicFinland.fi |
+| 33  | OnniTV | [>](https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780) | <img height="20" src="https://i.imgur.com/HzILf2H.png"/> | KotiTV.fi |
 | 45  | Taivas TV7 | [>](https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a4iNVXA.png"/> | TaivasTV7.fi |
 | 46  | Himlen TV7 | [>](https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a4iNVXA.png"/> | HimlenTV7.fi |
 | 99  | MTV Uutiset Live | [>](https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IyB6mIb.png"/> | MTVUutiset.fi |
