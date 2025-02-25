@@ -7,9 +7,6 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | BBC One | [>](http://92.114.85.81:8000/play/a001/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png"/> | BBCOne.uk |
-| 2   | BBC Two | [>](http://92.114.85.81:8000/play/a011/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
-| 3   | ITV 1 | [>](http://92.114.85.81:8000/play/a00y/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png"/> | ITV1.uk |
 | 3   | STV Ⓖ | [>](https://csm-e-ces1aeuw1live102-083090b15a93b4fdd.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3&yo.oh=Y3NtLWUtc3R2LWViLnRsczEueW9zcGFjZS5jb20=) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/631px-STV_logo_2014.png"/> | STV.uk |
 | 3   | UTV | [>](http://92.114.85.81:8000/play/a04s/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/640px-UTV_2016.svg.png"/> | UTV.uk |
 | 4   | Channel 4 | [>](http://92.114.85.77:8000/play/a0b9) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png"/> | Channel4.uk |
@@ -144,6 +141,9 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
+| 1   | BBC One | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png"/> | BBCOne.uk |
+| 2   | BBC Two | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png"/> | BBCTwo.uk |
+| 3   | ITV 1 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/640px-ITV1_logo_%282022%29.svg.png"/> | ITV1.uk |
 | 7   | London Live | [x]() | <img height="20" src="https://i.imgur.com/2I8RBhY.png"/> |
 | 66  | CITV        | [x]() | <img height="20" src="https://i.imgur.com/EhscUNY.png"/> |
 | 52  | Shopping Quarter | [x]() | <img height="20" src=""/> |
