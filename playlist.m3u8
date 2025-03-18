@@ -2411,9 +2411,9 @@ https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.
 rtsp://212.200.255.151/rtv1
 #EXTINF:-1 tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" tvg-id="RTV2.rs" group-title="Serbia",RTV 2
 rtsp://212.200.255.151/rtv2
-#EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="Slovakia",:Jednotka
+#EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jednotka_logo.svg/1024px-Jednotka_logo.svg.png" tvg-id="Jednotka.sk" group-title="Slovakia",:Jednotka
 https://sktv.plainrock127.xyz/get.php?x=STV1
-#EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="Slovakia",:Dvojka
+#EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dvojka_logo.svg/1024px-Dvojka_logo.svg.png" tvg-id="Dvojka.sk" group-title="Slovakia",:Dvojka
 https://sktv.plainrock127.xyz/get.php?x=STV2
 #EXTINF:-1 tvg-name=":24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" group-title="Slovakia",:24
 https://sktv.plainrock127.xyz/get.php?x=STV24
