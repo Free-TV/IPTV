@@ -2,8 +2,8 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | :Jednotka    | [>](https://sktv.plainrock127.xyz/get.php?x=STV1) | <img height="20" src="https://i.imgur.com/T7EWAe7.png"/> | Jednotka.sk |
-| 2   | :Dvojka    | [>](https://sktv.plainrock127.xyz/get.php?x=STV2) | <img height="20" src="https://i.imgur.com/Ksi25UD.png"/> | Dvojka.sk |
+| 1   | :Jednotka    | [>](https://sktv.plainrock127.xyz/get.php?x=STV1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jednotka_logo.svg/1024px-Jednotka_logo.svg.png"/> | Jednotka.sk |
+| 2   | :Dvojka    | [>](https://sktv.plainrock127.xyz/get.php?x=STV2) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dvojka_logo.svg/1024px-Dvojka_logo.svg.png"/> | Dvojka.sk |
 | 3   | :24    | [>](https://sktv.plainrock127.xyz/get.php?x=STV24) | <img height="20" src="https://i.imgur.com/sdSsFU0.png"/> | 24.sk |
 | 4   | :Šport    | [>](https://sktv.plainrock127.xyz/get.php?x=SPORT) | <img height="20" src="https://i.imgur.com/YzHipRF.png"/> | Sport.sk |
 | 5   | :O    | [>](https://sktv.plainrock127.xyz/get.php?x=STV-O) | <img height="20" src="https://i.imgur.com/Nf5gEDc.png"/> |
