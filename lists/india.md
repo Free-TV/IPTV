@@ -15,6 +15,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 6   | DD Bharati Ⓨ    | [>](https://www.youtube.com/@ddbharati/live) | <img height="20" src="https://i.imgur.com/4tfUIEo.png" /> | DDBharati.in |
 | 7   | DD Kisan Ⓨ      | [>](https://www.youtube.com/@DDKisan/live) | <img height="20" src="https://i.imgur.com/x56WJEa.png" /> | DDKisan.in |
 | 8   | DD Urdu Ⓨ       | [>](https://www.youtube.com/@DDUrdu/live) | <img height="20" src="https://i.imgur.com/OiQPS34.png" /> | DDUrdu.in |
+| 9   | India Today Ⓨ   | [>](https://www.youtube.com/watch?v=sYZtOFzM78M) | <img height="20" src="https://i.imgur.com/C7KK3Fd.png" /> | IndiaToday.in |
 
 
 <h2>Invalid</h2>
