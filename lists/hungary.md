@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | EWTN TV        | [>](https://stream.y5.hu/stream/stream_bonum/stream.m3u8) | <img height="20" src="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" /> | BonumTV.hu |
+| 1   | EWTN TV        | [>](https://hls.iptvservice.eu/hls/ewtn-hd.m3u8) | <img height="20" src="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" /> | BonumTV.hu |
 | 2   | Apostol TV     | [>](https://live.apostoltv.hu/live/playlist.m3u8) | <img height="20" src="https://www.apostoltv.hu/images/header-logo.png" /> | ApostolTV.hu |
 
 <h2>Music</h2>
