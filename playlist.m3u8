@@ -867,6 +867,8 @@ http://s02.diazol.hu:10192/stream.m3u8
 https://www.youtube.com/watch?v=uH-R3i4vvWI
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" group-title="Hungary",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" group-title="Hungary",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-name="Izaura TV" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="IzauraTV.hu" group-title="Hungary",Izaura TV
 http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-name="Euronews Hungarian Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsHungarian.fr" group-title="Hungary",Euronews Hungarian Ⓨ
