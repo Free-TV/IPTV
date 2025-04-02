@@ -409,6 +409,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
+| 0   | Antenna Sicilia Ⓣ | [>](https://www.twitch.tv/antennasicilia) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
 | 0   | Teleroma 56 Ⓣ | [>](https://www.twitch.tv/teleroma_56) | <img height="20" src="https://i.imgur.com/wGfpUj8.png"/> |
 | 0   | TeleRadioStereo Ⓣ | [>](https://www.twitch.tv/teleradiostereo) | <img height="20" src="https://i.imgur.com/eRNgqnA.png"/> |
 
@@ -424,7 +425,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 176 | Explorer HD Channel | [x](https://59d7d6f47d7fc.streamlock.net/explorerhdch/explorerhdch/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gFwhIZC.png"/> | ExplorerHDChannel.it |
 | 507 | Class CNBC | [x](https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S57048752/8raQqCXozN1H/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | ClassCNBC.it |
 | 511 | BFC            | [x](https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> | BFCForbes.it |
-| 0   | Antenna Sicilia | [x](https://5f22d76e220e1.streamlock.net/antennasicilia/antennasicilia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
 | 0   | Antenna Sud Sport | [x](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | Antenna Sud Sport 2 | [x](https://live.antennasudwebtv.it:9443/hls/vodsport2.m3u8) | <img height="20" src="https://i.imgur.com/dl86FW1.png"/> |
 | 0   | Apulia Web Tv | [x](https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8) | <img height="20" src="https://i.imgur.com/AnU4g2J.png"/> |
