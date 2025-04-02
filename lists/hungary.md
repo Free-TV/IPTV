@@ -60,7 +60,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 8   | VTV Füzesabony | [>](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
 | 9   | Hegyvidék TV   | [>](https://tv.hegyvidek.hu/hvtv/hvstream.m3u8) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" /> | HegyvidekTV.hu |
 | 10  | 16TV           | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8) | <img height="20" src="http://www.16tv.hu/images/xlogo-green.png.pagespeed.ic.79XBdS6JYn.png" /> |
-| 11  | CityTV (Belváros Lipótváros) | [>](https://citytv.hu/media/live/stream.m3u8) | <img height="20" src="https://www.citytv.hu/images/logo.png" /> |
+| 11  | CityTV (Belváros Lipótváros) | [>](https://citytv.hu/playlist.m3u8) | <img height="20" src="https://www.citytv.hu/images/logo.png" /> |
 | 12  | FehérvárTV     | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2) | <img height="20" src="https://www.fehervartv.hu/css/img/icon-1-2.png" /> |
 | 13  | AlföldTV       | [>](https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8) | <img height="20" src="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" /> |
 | 14  | Gyöngyös TV    | [>](https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP) | <img height="20" src="https://i.imgur.com/RHgaPCk.png" /> | GyongyosiTV.hu |
