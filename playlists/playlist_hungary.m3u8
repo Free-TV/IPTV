@@ -41,7 +41,7 @@ https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
 https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
 #EXTINF:-1 tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" group-title="Hungary",Pannon RTV
 https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
-#EXTINF:-1 tvg-name="TV7 Bekescsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="Hungary",TV7 Bekescsaba
+#EXTINF:-1 tvg-name="TV7 Békéscsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" group-title="Hungary",TV7 Békéscsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:-1 tvg-name="VTV Füzesabony" tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" tvg-id="VTVFuzesabony.hu" group-title="Hungary",VTV Füzesabony
 https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
@@ -85,6 +85,16 @@ http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=nu
 https://video.mhzrt.hu/live/mitv/playlist.m3u8
 #EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" tvg-id="OroszlanyiVarosiTelevizio.hu" group-title="Hungary",Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Berente TV" tvg-logo="" tvg-id="" group-title="Hungary",Berente TV
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:-1 tvg-name="Budapest Európa TV" tvg-logo="" tvg-id="" group-title="Hungary",Budapest Európa TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Héviz TV" tvg-logo="" tvg-id="" group-title="Hungary",Héviz TV
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Jászsági Térségi TV" tvg-logo="" tvg-id="" group-title="Hungary",Jászsági Térségi TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanizsa TV" tvg-logo="" tvg-id="" group-title="Hungary",Kanizsa TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" group-title="Hungary",M2 / Petőfi TV
 https://c201-node61-cdn.connectmedia.hu/110102/7184521041cf54cee9c6548e8d0ba377/64117799/index.m3u8
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
