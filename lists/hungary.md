@@ -29,9 +29,9 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | 1Music Hungary | [>](http://1music.hu/1music.m3u8) | <img height="20" src="https://i.imgur.com/rw2C3DY.jpg" /> | MusicChannelHungary.hu |
-| 2   | H!T Music HU   | [>](http://hitmusic.hu/hitmusic.m3u8) | <img height="20" src="https://i.imgur.com/rw2C3DY.jpg" /> | HtMusicChannelHungary.hu |
-| 3   | MUSICPlus      | [>](http://s02.diazol.hu:10192/stream.m3u8) | | MUSICPlus.hu |
+| 1   | MUSICPlus      | [>](http://s02.diazol.hu:10192/stream.m3u8) | | MUSICPlus.hu |
+| 2   | Radio 1 Ⓨ      | [>](https://www.youtube.com/watch?v=uH-R3i4vvWI) | | |
+| 3   | Oxygen Music    | [>](https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8) | | |
 
 <h2>Series</h2>
 
@@ -44,7 +44,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | Euronews Hungarian Ⓨ  | [>](https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" /> | EuronewsHungarian.fr |
-| 2   | Parlamenti közvetítés | [>](http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8) |
+| 2   | Parlamenti közvetítés | [>](https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8) |
+| 3   | Parlamenti TAB közvetítés | [>](https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8) |
 
 <h2>Regional</h2>
 
