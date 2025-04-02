@@ -48,6 +48,7 @@ Either free locally (over the air):
 [<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="24">](lists/russia.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/by.svg" width="24">](lists/belarus.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="24">](lists/ukraine.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/am.svg" width="24">](lists/armenia.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/az.svg" width="24">](lists/azerbaijan.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/ge.svg" width="24">](lists/georgia.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/ba.svg" width="24">](lists/bosnia_and_herzegovina.md)
@@ -81,6 +82,7 @@ Either free locally (over the air):
 [<img src="https://hatscripts.github.io/circle-flags/flags/tt.svg" width="24">](lists/trinidad.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/td.svg" width="24">](lists/chad.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/so.svg" width="24">](lists/somalia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="24">](lists/indonesia.md)
 
 Or free on the Internet:
 

@@ -10,4 +10,5 @@ https://en.wikipedia.org/wiki/List_of_television_networks_in_Venezuela
 | 4   | Televen         | [>](https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG"/> | Televen.ve |
 | 6   | Globovisión     | [>](https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png"/> | Globovision.ve |
 | 7   | Vale TV Ⓢ       | [>](https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png"/> | ValeTV.ve |
-| 9   | Telesur         | [>](https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png"/> | TeleSUR.ve |
+| 8   | Telesur         | [>](https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png"/> | TeleSUR.ve |
+| 9   | Chivacoatv Internacional | [x](https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8) | <img height="20" src="https://i.imgur.com/9rbwZFY.png"/> | Chivacoatv.ve |
