@@ -31,7 +31,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | MUSICPlus      | [>](http://s02.diazol.hu:10192/stream.m3u8) | | MUSICPlus.hu |
 | 2   | Radio 1 Ⓨ      | [>](https://www.youtube.com/watch?v=uH-R3i4vvWI) | | |
-| 3   | Oxygen Music    | [>](https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8) | | |
+| 3   | Oxygen Music   | [>](https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8) | | |
+| 4   | Dance TV       | [>](https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8) | | |
 
 <h2>Series</h2>
 
