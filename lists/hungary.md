@@ -57,7 +57,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 4   | Komlos TV      | [>](https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MDYb5yz.png" /> | KomlosTV.hu |
 | 5   | Ózdi Városi TV | [>](https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8) | <img height="20" src="https://i.imgur.com/5cOpdRp.jpg" /> | OzdiVarosiTV.hu |
 | 6   | Pannon RTV     | [>](https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
-| 7   | TV7 Bekescsaba | [>](https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8) | <img height="20" src="https://i.imgur.com/G9Ib5K3.png" /> |
+| 7   | TV7 Békéscsaba | [>](https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8) | <img height="20" src="https://i.imgur.com/G9Ib5K3.png" /> |
 | 8   | VTV Füzesabony | [>](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
 | 9   | Hegyvidék TV   | [>](https://tv.hegyvidek.hu/hvtv/hvstream.m3u8) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" /> | HegyvidekTV.hu |
 | 10  | 16TV           | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8) | <img height="20" src="http://www.16tv.hu/images/xlogo-green.png.pagespeed.ic.79XBdS6JYn.png" /> |
@@ -79,6 +79,12 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 27  | Putnok Városi TV | [>](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 | 28  | Miskolc TV     | [>](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
 | 29  | Oroszlányi Városi Televízió | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P0fxUH5.png" /> | OroszlanyiVarosiTelevizio.hu |
+| 30  | Berente TV  | [>](https://stream.streaming4u.hu/BerenteTV/index.m3u8) | | |
+| 31  | Budapest Európa TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8) | | |
+| 32  | Héviz TV | [>](https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8) | | |
+| 33  | Jászsági Térségi TV | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8) | | |
+| 34  | Kanizsa TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8) | | |
+
 
 <h2>Invalid</h2>
 
