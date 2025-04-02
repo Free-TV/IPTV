@@ -15,18 +15,20 @@ https://fixhd.tv:8082/fix/1080i/playlist.m3u8
 https://stream.y5.hu/stream/stream_bonum/stream.m3u8
 #EXTINF:-1 tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" tvg-id="ApostolTV.hu" group-title="Hungary",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:-1 tvg-name="1Music Hungary" tvg-logo="https://i.imgur.com/rw2C3DY.jpg" tvg-id="MusicChannelHungary.hu" group-title="Hungary",1Music Hungary
-http://1music.hu/1music.m3u8
-#EXTINF:-1 tvg-name="H!T Music HU" tvg-logo="https://i.imgur.com/rw2C3DY.jpg" tvg-id="HtMusicChannelHungary.hu" group-title="Hungary",H!T Music HU
-http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-name="MUSICPlus" tvg-logo="" tvg-id="MUSICPlus.hu" group-title="Hungary",MUSICPlus
 http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1 tvg-name="Radio 1 Ⓨ" tvg-logo="" tvg-id="" group-title="Hungary",Radio 1 Ⓨ
+https://www.youtube.com/watch?v=uH-R3i4vvWI
+#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" group-title="Hungary",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Izaura TV" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="IzauraTV.hu" group-title="Hungary",Izaura TV
 http://78.109.104.240:8000/play/a0ch/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-name="Euronews Hungarian Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsHungarian.fr" group-title="Hungary",Euronews Hungarian Ⓨ
 https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
 #EXTINF:-1 tvg-name="Parlamenti közvetítés" tvg-logo="" group-title="Hungary",Parlamenti közvetítés
-http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Parlamenti TAB közvetítés" tvg-logo="" group-title="Hungary",Parlamenti TAB közvetítés
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" tvg-id="BalatonTV.hu" group-title="Hungary",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-name="Budakalász" tvg-logo="https://i.imgur.com/MGkvVQg.png" group-title="Hungary",Budakalász
