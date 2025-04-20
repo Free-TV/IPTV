@@ -62,3 +62,4 @@
 | 11 | INTV | [>](http://tv1.intv.mk:1935/live/intv/index.m3u8) | <img height="20" src="https://i.imgur.com/K7BSjqY.png"/> | |
 | 12 | Macedonian Documentary Channel | [>](https://giganet.mk/hls/macdoc.m3u8) | <img height="20" src="https://i.imgur.com/uYyG2oA.png"/> |  |
 | 13 | Вистел| [>](https://live.vtv.mk/live/vtv/chunks.m3u8) | <img height="20" src="https://i.imgur.com/MbM0E6L.png"/> | |
+| 13 | Стар Плус | [>](https://live.muzickatv.mk/live/StarMusic2.m3u8) | <img height="20" src="https://i.imgur.com/01yz22a.png"/> | |
