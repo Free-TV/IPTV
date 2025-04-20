@@ -41,7 +41,8 @@
 | 11 | TV 24 Ⓖ | [>](https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MFKeNZx.png"/> | 24.mk |
 | 12 | B1 Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8) | <img height="20" src="https://i.imgur.com/UgUpZ2M.png"/> | b1 |
 | 13 | M»Net Kids | [x](http://ares.mnet.mk/hls/mnet-kids.m3u8) | <img height="20" src="https://i.imgur.com/XZwtu7Q.png"/> | kids.mnet.mk |
-| 14 | ТВ НОВА 12 | [x](http://151.236.247.171:8080/nova/index.m3u8) | <img height="20" src="https://i.imgur.com/Qo3Hj3t.png"/> | tvnova12.mk|
+| 14 | ТВ НОВА 12 | [>](http://151.236.247.171:8080/nova/index.m3u8) | <img height="20" src="https://i.imgur.com/Qo3Hj3t.png"/> | tvnova12.mk|
+| 15 | Вардар тв | [>](https://streaming.iptv.mk/fcvardar/index.fmp4.m3u8) | <img height="20" src="https://i.imgur.com/c2JHg9R.png"/> | vardar tv|
 
 <h2>Web</h2>
 
