@@ -15,6 +15,12 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 http://ares.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-name="TV 24 Ⓖ" tvg-logo="https://i.imgur.com/MFKeNZx.png" tvg-id="24.mk" group-title="North Macedonia",TV 24 Ⓖ
 https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
+#EXTINF:-1 tvg-name="ТВ НОВА 12" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" tvg-id="tvnova12.mk" group-title="North Macedonia",ТВ НОВА 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-name="Вардар тв" tvg-logo="https://i.imgur.com/c2JHg9R.png" tvg-id="vardar tv" group-title="North Macedonia",Вардар тв
+https://streaming.iptv.mk/fcvardar/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ЗОНА М1 ТВ" tvg-logo="https://i.imgur.com/yTR7A0d.png" tvg-id="zona m1" group-title="North Macedonia",ЗОНА М1 ТВ
+https://zonam1.ddns.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-name="Наша ТВ" tvg-logo="https://i.imgur.com/EOLrXvB.png" tvg-id="NasaTV.mk" group-title="North Macedonia",Наша ТВ
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1 tvg-name="Cool TV" tvg-logo="https://i.imgur.com/2tFrjUz.png" tvg-id="CoolTV.mk" group-title="North Macedonia",Cool TV
@@ -41,3 +47,5 @@ http://tv1.intv.mk:1935/live/intv/index.m3u8
 https://giganet.mk/hls/macdoc.m3u8
 #EXTINF:-1 tvg-name="Вистел" tvg-logo="https://i.imgur.com/MbM0E6L.png" tvg-id="" group-title="North Macedonia",Вистел
 https://live.vtv.mk/live/vtv/chunks.m3u8
+#EXTINF:-1 tvg-name="Стар Плус" tvg-logo="https://i.imgur.com/01yz22a.png" tvg-id="" group-title="North Macedonia",Стар Плус
+https://live.muzickatv.mk/live/StarMusic2.m3u8

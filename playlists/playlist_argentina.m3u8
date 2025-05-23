@@ -45,6 +45,8 @@ https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/Cq4FFLOPxq44Qy0kxjcr_wXuRRw
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-name="El Nueve" tvg-logo="https://i.imgur.com/EtcVSm4.png" tvg-id="ElNueve.ar" group-title="Argentina",El Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="Argentina",Telefe Ⓨ
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-name="América Ⓨ" tvg-logo="https://i.imgur.com/Jt7dOQm.png" tvg-id="AmericaTV.ar" group-title="Argentina",América Ⓨ
 https://www.youtube.com/c/americaenvivo/live
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" group-title="Argentina",A24 Ⓨ
