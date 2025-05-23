@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Television_in_South_Korea
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | KBS 1TV        | [>](http://ye23.vip/z7z8/2021/kbs2020.php?id=1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png"/> | KBS1TV.kr |
+| 1   | KBS 1TV        | [>](http://mytv.dothome.co.kr/ch/public/1.php) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png"/> | KBS1TV.kr |
 | 2   | KBS 2TV        | [>](http://ye23.vip/z7z8/2021/kbs2020.php?id=2) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png"/> | KBS2TV.kr |
 | 3   | KBS News D     | [>](http://ye23.vip/z7z8/2021/kbs2020.php?id=4) | <img height="20" src="https://i.imgur.com/4qKgvHN.png"/> | KBSNewsD.kr |
 | 4   | EBS 1 Ⓢ        | [>](https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png"/> | EBS1TV.kr |
