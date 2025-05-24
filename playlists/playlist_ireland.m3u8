@@ -5,7 +5,7 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-name="Today FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg" tvg-id="todayfm.com" group-title="Ireland",Today FM
 https://stream.audioxi.com/TDAAC
-#EXTINF:-1 tvg-name="98FM" tvg-logo=" height="20" tvg-id="98fm.com" group-title="Ireland",98FM
+#EXTINF:-1 tvg-name="98FM" tvg-logo=""" height="20" tvg-id="98fm.com" group-title="Ireland",98FM
 https://stream.audioxi.com/98
 #EXTINF:-1 tvg-name="FM104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" tvg-id="fm104.ie" group-title="Ireland",FM104
 https://wg.cdn.tibus.net/fm104MP3128
