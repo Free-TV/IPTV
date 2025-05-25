@@ -17,3 +17,4 @@
 | 13  | TV Câmara | [>](https://stream3.camara.gov.br/tv1/manifest.m3u8) | <img height="20" src="https://i.imgur.com/UpV2PRk.png"/> | TVCamara.br |
 | 14  | TVE RS | [>](http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png"/> |
 | 15  | Fora Tedio TV | [x](http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8) | <img height="20" src="https://play.foratedio.com/img/foratedio-watermark.png"/> |
+| 16  | TV Cultura | [>](https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg"/> | TVCultura.br |
