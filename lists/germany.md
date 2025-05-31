@@ -48,7 +48,7 @@ https://wiki.ubuntuusers.de/Internet-TV/Stationen
 | 14  | SR Ⓖ                         | [>](https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/538px-SR_Fernsehen_Logo_2023.svg.png"/> | SRFernsehen.de |
 | 15  | SWR Baden-Württemberg Ⓖ      | [>](https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/640px-SWR_Logo_2023.svg.png"/> | SWRFernsehenBadenWurttemberg.de |
 | 16  | SWR Rheinland-Pfalz Ⓖ        | [>](https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/640px-SWR_Logo_2023.svg.png"/> | SWRFernsehenRheinlandPfalz.de |
-| 17  | WDR Ⓖ                        | [>](https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png"/> | WDR.de |
+| 17  | WDR Ⓖ                        | [>](https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/640px-Wdr_fernsehen_logo_2016.svg.png"/> | WDR.de |
 
 <h3>International</h3>
 
