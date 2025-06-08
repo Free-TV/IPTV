@@ -411,6 +411,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Antenna Sicilia Ⓣ | [>](https://www.twitch.tv/antennasicilia) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
+| 11  | Telecolor Ⓣ |  [>](https://www.twitch.tv/telecolorlive) | <img height="20" src="https://i.imgur.com/rfNg6fw.png"/> |
 | 0   | Teleroma 56 Ⓣ | [>](https://www.twitch.tv/teleroma_56) | <img height="20" src="https://i.imgur.com/wGfpUj8.png"/> |
 | 0   | TeleRadioStereo Ⓣ | [>](https://www.twitch.tv/teleradiostereo) | <img height="20" src="https://i.imgur.com/eRNgqnA.png"/> |
 
