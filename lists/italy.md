@@ -305,20 +305,17 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Occidente | [>](https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3aOiWKa.png"/> |
 | 0   | Tele Oltre | [>](http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8) | <img height="20" src="https://i.imgur.com/PxtJAxs.png"/> |
 | 0   | Tele One | [>](https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9trB6mj.png"/> |
-| 0   | Tele Pace 1 | [>](https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/ut0Hg8o.png"/> |
-| 0   | Tele Pace 2 | [>](https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/RqrPraO.png"/> |
-| 0   | Tele Pace 3 | [>](https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/gLsE3mX.png"/> |
-| 0   | Tele Pace 4 | [>](https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/tEQvgpz.png"/> |
-| 0   | Tele Pace News | [>](https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/AxmgoMT.png"/> |
-| 0   | Tele Pace Roma | [>](https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/54oi0cg.png"/> |
 | 0   | Tele Pace Trento | [>](https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8) | <img height="20" src="https://i.imgur.com/o5sQCpF.png"/> |
-| 0   | Tele Pace Verona | [>](https://live.mariatvcdn.com/TelepaceVerona/a9027aba28cf4b54d10aedc38b0df192.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/su2ipkb.png"/> |
 | 0   | Tele Pavia | [>](http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8) | <img height="20" src="https://i.imgur.com/YVodo4T.png"/> |
 | 0   | Tele Pegaso | [>](https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FQkM8Vd.png"/> |
 | 0   | Tele Piadena  | [>](https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/VqaPuQN.png"/> |
 | 0   | Tele Pordenone | [>](https://video.wifi4all.it/telepn/telepn.m3u8) | <img height="20" src="https://i.imgur.com/dbYwXwg.png"/> |
 | 0   | Tele Quattro Trieste | [>](http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MFxQxve.png"/> |
-| 0   | Tele Radio Ercolano | [>](https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8) | <img height="20" src="https://i.imgur.com/YPuoy8N.jpg"/> |																																												   
+| 0   | Tele Radio Ercolano | [>](https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8) | <img height="20" src="https://i.imgur.com/YPuoy8N.jpg"/> |			
+| 0   | Tele Radio Pace 1 | [>](https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ORkkXM8.png"/> |
+| 0   | Tele Radio Pace 2 | [>](https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/U4E3eEr.png"/> |
+| 0   | Tele Radio Pace 3 | [>](https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pTqIxFD.png"/> |
+| 0   | Tele Radio Pace 4 | [>](https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KPHHsN5.png"/> |
 | 0   | Tele Radio Orte | [>](https://flash2.xdevel.com/ortetv/ortetv/index.m3u8) | <img height="20" src="https://i.imgur.com/uX2uxvN.png"/> |
 | 0   | Tele Radio Sciacca | [>](https://5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/suhz5mE.png"/> |
 | 0   | Tele Sirio | [>](https://www.telesirio.it/live/stream.m3u8) | <img height="20" src="https://i.imgur.com/mDN6QX1.png"/> |
@@ -461,6 +458,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Lazio Nord | [x](http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gZEojVW.png"/> |
 | 0   | Tele Monteneve | [x](http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LJhQApn.jpg"/> |
 | 0   | Tele Nord Est | [x](https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TakoSUX.png"/> |
+| 0   | Tele Pace Roma | [x](https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/54oi0cg.png"/> |
+| 0   | Tele Pace News | [x](https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/AxmgoMT.png"/> |
+| 0   | Tele Pace Verona | [x](https://live.mariatvcdn.com/TelepaceVerona/a9027aba28cf4b54d10aedc38b0df192.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/su2ipkb.png"/> |
 | 0   | Tele Prima | [x](http://live.sloode.com:1935/teleprima/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WLziQCV.png"/> |
 | 0   | Tele Radio Studio 5 | [x](http://mars.az-streamingserver.com:1935/7444/7444/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lPRjSor.jpg"/> |
 | 0   | Tris Siracusa | [x](https://5db313b643fd8.streamlock.net/Tris/Tris/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dZgKD3j.jpg"/> |
