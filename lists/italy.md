@@ -342,8 +342,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Teleleonessa | [>](http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8) | <img height="20" src="https://i.imgur.com/jq3etlV.png"/> |
 | 0   | TeleMajg | [>](https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9tefonp.jpg"/> |
 | 0   | Telenova | [>](https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8) | <img height="20" src="https://i.imgur.com/x41IkJK.png"/> | Telenova.it |
-| 0   | Telepace 1 | [>](https://5f22d76e220e1.streamlock.net/telepace1/telepace1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8CpBcsP.png"/> |
-| 0   | Telepace 2 | [>](https://5f22d76e220e1.streamlock.net/telepace2/telepace2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4inYZ8j.png"/> |
 | 0   | Telerama | [>](https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/enfqUlI.jpg"/> |
 | 0   | TeleRegione | [>](https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8) | <img height="20" src="https://i.imgur.com/i5WozUP.png"/> |
 | 0   | TeleRegione Color | [>](https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8) | <img height="20" src="https://i.imgur.com/vi5Nf3S.png"/> |
