@@ -603,6 +603,30 @@ http://khkbh.dk:8080/hls/livestream/index.m3u8
 rtmp://video.kkr.dk/live/kkr
 #EXTINF:-1 tvg-name="Canal RTVD 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png" tvg-id="Canal4RD.do" group-title="Dominican Republic",Canal RTVD 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Aghapy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" tvg-id="AghapyTV.eg" group-title="Egypt",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Ghad Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png" tvg-id="AlGhadPlus.eg" group-title="Egypt",Al Ghad Plus
+https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Ghad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png" tvg-id="AlGhadTV.eg" group-title="Egypt",Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 tvg-name="Al Qahera News" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/b/b0/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9.png" tvg-id="AlQaheraNews.eg" group-title="Egypt",Al Qahera News
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-name="Alhayat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Al-Hayat_Media_Center_Logo_%28variant_2%29.svg" tvg-id="AlhayatTV.eg" group-title="Egypt",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Coptic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" tvg-id="CopticTV.eg" group-title="Egypt",Coptic TV
+https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Huda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_huda_%D8%AD%D8%AC%D9%85_%D9%83%D8%A8%D9%8A%D8%B1.gif" tvg-id="HudaTV.eg" group-title="Egypt",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-name="Koogi TV" tvg-logo="" tvg-id="KoogiTV.eg" group-title="Egypt",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC Masr 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" tvg-id="MBCMasr1.eg" group-title="Egypt",MBC Masr 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-name="MBC Masr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/MBC_Masr_2_Logo.svg" tvg-id="MBCMasr2.eg" group-title="Egypt",MBC Masr 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-name="Rotana Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png" tvg-id="RotanaCinema.eg" group-title="Egypt",Rotana Cinema
+https://rotana.hibridcdn.net/rotana/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="Watan TV" tvg-logo="" tvg-id="WatanTV.eg" group-title="Egypt",Watan TV
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/5URjPgG.png" tvg-id="ETV.ee" group-title="Estonia",ETV Ⓖ
 http://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-name="ETV2 Ⓖ" tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-id="ETV2.ee" group-title="Estonia",ETV2 Ⓖ
@@ -2386,41 +2410,19 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 #EXTINF:-1 tvg-name="San Marino Rtv Sport" tvg-logo="https://i.imgur.com/PGm944g.png" tvg-id="SanMarinoRTVSport.sm" group-title="San Marino",San Marino Rtv Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-name="Al Saudiya" tvg-logo="https://i.imgur.com/GRQTndk.png" tvg-id="AlSaudiya.sa" group-title="Saudi Arabia",Al Saudiya
-https://edge.taghtia.com/sa/2.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" group-title="Saudi Arabia",SBC Saudi Arabia
-https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
-#EXTINF:-1 tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" group-title="Saudi Arabia",Thikrayat
-https://edge.taghtia.com/sa/3.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" group-title="Saudi Arabia",Al Ekhbariya
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" group-title="Saudi Arabia",Al Saudiya Alaan
-https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:-1 tvg-name="KSA Sports 1" tvg-logo="https://i.imgur.com/ONKNOAp.png" tvg-id="KSASports1.sa" group-title="Saudi Arabia",KSA Sports 1
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:-1 tvg-name="KSA Sports 2" tvg-logo="https://i.imgur.com/v8ULLqg.png" tvg-id="KSASports2.sa" group-title="Saudi Arabia",KSA Sports 2
-https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:-1 tvg-name="KSA Sports 3" tvg-logo="https://i.imgur.com/BXfCvez.png" tvg-id="KSASports3.sa" group-title="Saudi Arabia",KSA Sports 3
-https://edge.taghtia.com/sa/16.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" group-title="Saudi Arabia",Al Quran Al Kareem TV
-https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
-https://edge.taghtia.com/sa/6.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-id="RotanaCinemaKSA.sa" group-title="Saudi Arabia",Rotana Cinema KSA
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://i.imgur.com/YQKf0tq.png" tvg-id="RotanaKids.sa" group-title="Saudi Arabia",Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png" tvg-id="RotanaComedy.sa" group-title="Saudi Arabia",Rotana Comedy
-https://daiconnect.com/live/hls/rotana/comedy/.m3u8
-#EXTINF:-1 tvg-name="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png" tvg-id="RotanaKhalijia.sa" group-title="Saudi Arabia",Rotana Khalijia
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-id="RotanaDrama.sa" group-title="Saudi Arabia",Rotana Drama
-https://daiconnect.com/live/hls/rotana/drama/.m3u8
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png" tvg-id="RotanaClassic.sa" group-title="Saudi Arabia",Rotana Classic
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Ciip" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-id="RotanaClip.sa" group-title="Saudi Arabia",Rotana Ciip
-http://37.122.156.107:4000/play/a0b7/index.m3u8
-#EXTINF:-1 tvg-name="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png" tvg-id="RotanaMusic.sa" group-title="Saudi Arabia",Rotana Music
-https://daiconnect.com/live/hls/rotana/music/.m3u8
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-name="RTS 1" tvg-logo="https://i.imgur.com/S1pKHSR.png" tvg-id="RTS1.rs" group-title="Serbia",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-name="RTS 2" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-id="RTS2.rs" group-title="Serbia",RTS 2
