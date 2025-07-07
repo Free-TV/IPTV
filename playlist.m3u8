@@ -3187,6 +3187,8 @@ https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" group-title="News (AR)",RT العربية
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-name="Sahara 24 صحراء" tvg-logo="https://imgur.com/a/7szNpBp" tvg-id="Sahara-24.mr" group-title="News (AR)",Sahara 24 صحراء
+https://65.108.206.29/sahara24-live/video.m3u8
 #EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SkyNewsInternational.uk" group-title="News",Sky News (UK)
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 tvg-name="Euronews Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsEnglish.fr" group-title="News",Euronews Ⓨ
