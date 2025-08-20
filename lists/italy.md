@@ -14,57 +14,59 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 5   | Canale 5 Ⓖ    | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/p6YdiR1.png"/> | Canale5.it |
 | 6   | Italia 1 Ⓖ    | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/oCiOxBG.png"/> | Italia1.it |
 | 7   | La7            | [>](https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8) | <img height="20" src="https://i.imgur.com/F90mpSa.png"/> | La7.it |
-| 8   | TV8            | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d) | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> | TV8.it |
-| 9   | Nove           | [>](https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Hp723RU.png"/> | Nove.it |
+| 8   | TV8 Ⓖ         | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d) | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> | TV8.it |
+| 9   | Nove           | [>](https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8) | <img height="20" src="https://i.imgur.com/Hp723RU.png"/> | Nove.it |
 | 20  | 20 Mediaset Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> | 20.it |
 | 21  | Rai 4 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/XFkZRfv.png"/> | Rai4.it |
 | 22  | Iris Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/Ixz1BY3.png"/> | Iris.it |
 | 23  | Rai 5 Ⓖ       | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/Leu2zTO.png"/> | Rai5.it |
 | 24  | Rai Movie Ⓖ   | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/RKpO8CE.png"/> | RaiMovie.it |
 | 25  | Rai Premium Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/RKI4nFy.png"/> | RaiPremium.it |
-| 26  | Cielo          | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d) | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | CieloTV.it |
+| 26  | Cielo Ⓖ       | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d) | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | CieloTV.it |
 | 27  | 27 Twentyseven Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/y2PdPCK.png"/> | 27Twentyseven.it |
 | 28  | TV 2000        | [>](https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> | TV2000.va |
 | 29  | La7d           | [>](https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8) | <img height="20" src="https://i.imgur.com/AOL9nMw.png"/> | La7d.it |
 | 30  | La 5 Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> | La5.it |
-| 31  | Real Time      | [>](https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> | RealTimeItaly.it |
+| 31  | Real Time      | [>](https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> | RealTimeItaly.it |
 | 32  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> | QVCItaly.it |
-| 33  | Food Network   | [>](https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> | FoodNetworkItaly.it |
+| 33  | Food Network   | [>](https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> | FoodNetworkItaly.it |
 | 34  | Cine34   Ⓖ   | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/YyldwhI.png"/> | Cine34.it |
 | 35  | Focus Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/M4smqpF.png"/> | Focus.it |
 | 36  | RTL 102.5      | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KdissvS.png"/> | RTL1025TV.it |
-| 37  | Warner TV      | [>](https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oIWFcOC.png"/> | WarnerTVItaly.it |
-| 38  | Giallo         | [>](https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0PIRwZS.png"/> | Giallo.it |
+| 37  | Warner TV      | [>](https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8) | <img height="20" src="https://i.imgur.com/oIWFcOC.png"/> | WarnerTVItaly.it |
+| 38  | Giallo         | [>](https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8) | <img height="20" src="https://i.imgur.com/0PIRwZS.png"/> | Giallo.it |
 | 39  | Top Crime   Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/RFIwv9O.png"/> | TopCrime.it |
 | 40  | BOING   Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/niSlrqT.png"/> | BoingItaly.it |
-| 41  | K2             | [>](https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> | K2.it |
+| 41  | K2             | [>](https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> | K2.it |
 | 42  | Rai Gulp Ⓖ    | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/lu1DPVb.png"/> | RaiGulp.it |
 | 43  | Rai YoYo Ⓖ    | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/DRSa3ys.png"/> | RaiYoyo.it |
-| 44  | Frisbee        | [>](https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> | Frisbee.it |
-| 46  | Cartoonito Ⓖ  | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/zqc0TrY.png"/> | CartoonitoItaly.it |
-| 47  | Super!        | [>](https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/zDByOwo.png"/> | Super.it |
+| 44  | Frisbee        | [>](https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> | Frisbee.it |
+| 46  | Cartoonito Ⓖ  | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/oK2DcDJ.png"/> | CartoonitoItaly.it |
+| 47  | Super!        | [>](https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1124YEp.png"/> | Super.it |
 | 48  | Rai News 24 Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/gdzGwB6.png"/> | RaiNews24.it |
 | 49  | Italia 2 Ⓖ    | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/nq48sjO.png"/> | Italia2.it |
-| 50  | Sky TG24       | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d) | <img height="20" src="https://i.imgur.com/q4d3Dah.png"/> | SkyTG24.it |
+| 50  | Sky TG24 Ⓖ    | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d) | <img height="20" src="https://i.imgur.com/q4d3Dah.png"/> | SkyTG24.it |
 | 51  | TGCOM 24 Ⓖ  | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/xautVD8.png"/> | TGCom24.it |
-| 52  | DMAX           | [>](https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dmEmRX7.png"/> | DMAXItaly.it |
+| 52  | DMAX           | [>](https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8) | <img height="20" src="https://i.imgur.com/dmEmRX7.png"/> | DMAXItaly.it |
 | 54  | Rai Storia Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> | RaiStoria.it |
 | 55  | Mediaset Extra Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/mM8lopo.png"/> | MediasetExtra.it |
-| 56  | HGTV – Home & Garden Tv  | [>](https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTVItaly.it |
+| 56  | HGTV – Home & Garden Tv  | [>](https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTVItaly.it |
 | 57  | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> | RaiScuola.it |
 | 58  | Rai Sport Ⓖ   | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
-| 59  | Motor Trend    | [>](https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> | MotorTrend.it |
+| 59  | Motor Trend    | [>](https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8) | <img height="20" src="https://i.imgur.com/ipj2H0n.png"/> | MotorTrend.it |
 | 60  | Sportitalia Plus | [>](https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | Sportitalia.it |
-| 61  | Travel TV        | [>](https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/aXAUyLN.png"/> | TravelTV.it |
-| 62  | Donna TV Ⓢ     | [>](https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/Aa1Abme.png"/> | DonnaTV.it |
-| 64  | SuperTennis    | [>](https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8) | <img height="20" src="https://i.imgur.com/GzsPlbX.png"/> | SuperTennis.it |
-| 65  | Alma TV        | [>](https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/Y8JiDwN.png"/> | AlmaTV.it |
+| 61  | Travel TV        | [>](https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8) | <img height="20" src="https://i.imgur.com/aXAUyLN.png"/> | TravelTV.it |
+| 62  | Donna TV Ⓢ     | [>](https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Aa1Abme.png"/> | DonnaTV.it |
+| 64  | SuperTennis    | [>](https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8) | <img height="20" src="https://i.imgur.com/GzsPlbX.png"/> | SuperTennis.it |
+| 65  | Alma TV        | [>](https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Y8JiDwN.png"/> | AlmaTV.it |
 | 66  | Radio 105 TV Ⓖ | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/3NiLKvj.png"/> | Radio105TV.it |
 | 67  | R101 TV Ⓖ    | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/mWeEa9T.png"/> | R101TV.it |
 | 69  | Deejay TV      | [>](https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rlaKH6k.png"/> | DeejayTV.it |
 | 70  | RadioItaliaTV   | [>](https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8) | <img height="20" src="https://i.imgur.com/4VCEJuJ.png"/> | RadioItaliaTV.it |
 | 158 | Radio KISS KISS TV | [>](https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UTStxDW.png"/> | KissKissTV.it |
 | 202 | Rai Radio 2 Visual Radio | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/nVBet0h.png"/> | RaiRadio2Visual.it |
+| 233 | RTL 102.5 Traffic | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GH7byqm.jpeg"/> | RTL1025Traffic.it |
+| 246 | Radio24-IlSole24OreTV | [>](https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8) | <img height="20" src="https://i.imgur.com/NTqrdWW.png"/> | Radio24TV.it |
 | 258 | RadioFreccia   | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J5N9F7Z.png"/> | RadioFrecciaTV.it |
 | 265 | RDS Social TV | [>](https://stream.rdstv.radio/index.m3u8) | <img height="20" src="https://i.imgur.com/TY6FhqI.png"/> | RDSSocialTV.it |
 | 266 | Radio ZETA     | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> | RadioZetaTV.it |
@@ -74,7 +76,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 55  | Gold TV Sat    | [>](https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTVSat.it |
 | 58  | Sportitalia SOLOCALCIO | [>](https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
 | 61  | BIKE Channel   | [>](https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
 | 67  | Radio Montecarlo TV Ⓖ | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> | RadioMonteCarloTV.it |
@@ -155,11 +156,12 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Giornale Radio Tv | [>](https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TMtvCLL.jpg"/> |
 | 0   | Giovanni Paolo Tv | [>](https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8) | <img height="20" src="https://i.imgur.com/GH5eJE6.png"/> |
 | 0   | Globus Television | [>](https://cdn.cubws.com/live/globus.m3u8) | <img height="20" src="https://i.imgur.com/yUTYqCv.png"/> |
-| 0   | Gold Tv  | [>](https://goldtv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTV.it |
+| 0   | Gold Tv  | [>](https://5a1178b42cc03.streamlock.net/goldtv/goldtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTV.it |
 | 0   | GO-TV Channel | [>](https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xgjrAAn.png"/> | GOTVCanale163.it |
 | 0   | GS Channel | [>](https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8) | <img height="20" src="https://i.imgur.com/ExfxCRv.png"/> |
 | 0   | Icaro Tv Rimini | [>](https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/z05VSSN.png"/> |
 | 0   | Idea Plus | [>](https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8) | <img height="20" src="https://i.imgur.com/2edmxYF.png"/> |
+| 0   | il61 | [>](https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1rUZsBv.png"/> |
 | 0   | Italia 2 Tv | [>](https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ISbxfY0.png"/> | Italia2TV.it |
 | 0   | Italia 7 | [>](https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YBXkY4w.png"/> |
 | 0   | Italia 8 Prestige | [>](https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8) | <img height="20" src="https://i.imgur.com/uDxWI4a.png"/> |
@@ -172,7 +174,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | LaC News 24 | [>](https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8) | <img height="20" src="https://i.imgur.com/02vCECa.png"/> |
 | 0   | LaC Tv Calabria | [>](https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2Ef6crS.png"/> |
 | 0   | Lab Tv | [>](https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8) | <img height="20" src="https://i.imgur.com/OpRS6Fl.png"/> |
-| 0   | Lazio Tv | [>](https://laziotv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/DAj5Uwb.png"/> |
+| 0   | Lazio Tv | [>](https://5a1178b42cc03.streamlock.net/laziotv/laziotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DAj5Uwb.png"/> |
 | 0   | Le Cronache Lucane Tv | [>](http://stucazz.com:8888/hls/cronache.m3u8) | <img height="20" src="https://i.imgur.com/EBY3IZL.jpg"/> |
 | 0   | Lira Tv | [>](https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S0ReVEo.png"/> |
 | 0   | Lombardia Tv | [>](https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/aksVy9f.jpg"/> |
@@ -192,7 +194,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Nuova Tv 1  | [>](https://nuovatv.net:8443/tv/stream.m3u8) | <img height="20" src="https://i.imgur.com/1yqTZhR.png"/> |
 | 0   | Nuova Tv 2 | [>](https://nuovatv.net:8443/tv2/stream.m3u8) | <img height="20" src="https://i.imgur.com/0vauyV3.png"/> |
 | 0   | Nuvola Tv | [>](https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8) | <img height="20" src="https://i.imgur.com/EDGez2x.png"/> |
-| 0   | Odeon 24 | [>](https://odeon.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/M1tVBuH.png"/> |
+| 0   | Odeon 24 | [>](https://5a1178b42cc03.streamlock.net/odeon163/odeon163/playlist.m3u8) | <img height="20" src="https://i.imgur.com/M1tVBuH.png"/> |
 | 0   | Ofanto Tv | [>](https://videostream.isgm.it:3276/live/tvofantolive.m3u8) | <img height="20" src="https://i.imgur.com/UCgATWn.png"/> |
 | 0   | Onda Novara Tv | [>](https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Qoh9CFy.png"/> |
 | 0   | Onda Tv Sicilia | [>](https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0c5Y6lr.png"/> |
@@ -268,7 +270,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Super J Tv | [>](https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5oy5Nuu.png"/> |
 | 0   | Super Six | [>](https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kHSuyub.png"/> | SuperSix.it |
 | 0   | Supertv | [>](http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8) | <img height="20" src="https://i.imgur.com/7gUZcEh.png"/> |
-| 0   | T9 | [>](https://t9tv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8) | <img height="20" src="https://i.imgur.com/XzL05Py.png"/> |
+| 0   | T9 | [>](https://5a1178b42cc03.streamlock.net/t9/t9/playlist.m3u8) | <img height="20" src="https://i.imgur.com/XzL05Py.png"/> |
 | 0   | TRC Santeramo | [>](https://stream7.livinlive.it/trc/trc/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VbYdS8P.jpg"/> |
 | 0   | TRL Tele Radio Leo | [>](https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qAagkJT.png"/> |
 | 0   | TSD Tv Arezzo(Tele San Domenico) | [>](https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WQ8eQXc.png"/> |
@@ -304,20 +306,17 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Occidente | [>](https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3aOiWKa.png"/> |
 | 0   | Tele Oltre | [>](http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8) | <img height="20" src="https://i.imgur.com/PxtJAxs.png"/> |
 | 0   | Tele One | [>](https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9trB6mj.png"/> |
-| 0   | Tele Pace 1 | [>](https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/ut0Hg8o.png"/> |
-| 0   | Tele Pace 2 | [>](https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/RqrPraO.png"/> |
-| 0   | Tele Pace 3 | [>](https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/gLsE3mX.png"/> |
-| 0   | Tele Pace 4 | [>](https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8) | <img height="20" src="https://i.imgur.com/tEQvgpz.png"/> |
-| 0   | Tele Pace News | [>](https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/AxmgoMT.png"/> |
-| 0   | Tele Pace Roma | [>](https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/54oi0cg.png"/> |
 | 0   | Tele Pace Trento | [>](https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8) | <img height="20" src="https://i.imgur.com/o5sQCpF.png"/> |
-| 0   | Tele Pace Verona | [>](https://live.mariatvcdn.com/TelepaceVerona/a9027aba28cf4b54d10aedc38b0df192.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/su2ipkb.png"/> |
 | 0   | Tele Pavia | [>](http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8) | <img height="20" src="https://i.imgur.com/YVodo4T.png"/> |
 | 0   | Tele Pegaso | [>](https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FQkM8Vd.png"/> |
 | 0   | Tele Piadena  | [>](https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/VqaPuQN.png"/> |
 | 0   | Tele Pordenone | [>](https://video.wifi4all.it/telepn/telepn.m3u8) | <img height="20" src="https://i.imgur.com/dbYwXwg.png"/> |
 | 0   | Tele Quattro Trieste | [>](http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MFxQxve.png"/> |
-| 0   | Tele Radio Ercolano | [>](https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8) | <img height="20" src="https://i.imgur.com/YPuoy8N.jpg"/> |																																												   
+| 0   | Tele Radio Ercolano | [>](https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8) | <img height="20" src="https://i.imgur.com/YPuoy8N.jpg"/> |			
+| 0   | Tele Radio Pace 1 | [>](https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ORkkXM8.png"/> |
+| 0   | Tele Radio Pace 2 | [>](https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/U4E3eEr.png"/> |
+| 0   | Tele Radio Pace 3 | [>](https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pTqIxFD.png"/> |
+| 0   | Tele Radio Pace 4 | [>](https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KPHHsN5.png"/> |
 | 0   | Tele Radio Orte | [>](https://flash2.xdevel.com/ortetv/ortetv/index.m3u8) | <img height="20" src="https://i.imgur.com/uX2uxvN.png"/> |
 | 0   | Tele Radio Sciacca | [>](https://5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/suhz5mE.png"/> |
 | 0   | Tele Sirio | [>](https://www.telesirio.it/live/stream.m3u8) | <img height="20" src="https://i.imgur.com/mDN6QX1.png"/> |
@@ -355,7 +354,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | TeleRomaDue | [>](https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8) | <img height="20" src="https://i.imgur.com/78hA7ma.png"/> |
 | 0   | Telesud Trapani | [>](https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tpZvU1P.png"/> |
 | 0   | Telesveva | [>](https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd) | <img height="20" src="https://i.imgur.com/SCDETZC.jpeg"/> |
-| 0   | Teleuniverso | [>](https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8) | <img height="20" src="https://i.imgur.com/u8E9wBb.png"/> |
+| 0   | Teleuniverso | [>](https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8) | <img height="20" src="https://i.imgur.com/u8E9wBb.png"/> |
 | 0   | Televallo Trapani | [>](https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P6zuiRH.png"/> |
 | 0   | TG Norba 24 | [>](https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/9MhrrJK.png"/> | TGNorba24.it |
 | 0   | TLT Molise | [>](https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wgwD7gh.png"/> |
@@ -410,6 +409,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Antenna Sicilia Ⓣ | [>](https://www.twitch.tv/antennasicilia) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
+| 11  | Telecolor Ⓣ |  [>](https://www.twitch.tv/telecolorlive) | <img height="20" src="https://i.imgur.com/rfNg6fw.png"/> |
 | 0   | Teleroma 56 Ⓣ | [>](https://www.twitch.tv/teleroma_56) | <img height="20" src="https://i.imgur.com/wGfpUj8.png"/> |
 | 0   | TeleRadioStereo Ⓣ | [>](https://www.twitch.tv/teleradiostereo) | <img height="20" src="https://i.imgur.com/eRNgqnA.png"/> |
 
@@ -419,7 +419,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 63  | GM24 Ⓢ         | [x](https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCntSA3.png"/> | GM24.it |
 | 167 | VH1            | [x](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> | VH1Italia.it |
-| 233 | RTL 102.5 News | [x](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vAtzwXK.png"/> | RTL1025News.it |
 | 1  | RAI Italia America   | [x](http://210.210.155.69/s/s63/S4/mnf.m3u8) | <img height="20" src="https://www.tvdream.net/img/rai-italia-bg.jpg"/> | RaiItaliaAmerica.it |
 | 3  | RAI Italia Asia   | [x](http://210.210.155.37/x6bnqe/s/s63/index2.m3u8) | <img height="20" src="https://www.tvdream.net/img/rai-italia-bg.jpg"/> | RaiItaliaAsia.it |
 | 176 | Explorer HD Channel | [x](https://59d7d6f47d7fc.streamlock.net/explorerhdch/explorerhdch/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gFwhIZC.png"/> | ExplorerHDChannel.it |
@@ -461,6 +460,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Lazio Nord | [x](http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gZEojVW.png"/> |
 | 0   | Tele Monteneve | [x](http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LJhQApn.jpg"/> |
 | 0   | Tele Nord Est | [x](https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TakoSUX.png"/> |
+| 0   | Tele Pace Roma | [x](https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/54oi0cg.png"/> |
+| 0   | Tele Pace News | [x](https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/AxmgoMT.png"/> |
+| 0   | Tele Pace Verona | [x](https://live.mariatvcdn.com/TelepaceVerona/a9027aba28cf4b54d10aedc38b0df192.sdp/index.m3u8) | <img height="20" src="https://i.imgur.com/su2ipkb.png"/> |
 | 0   | Tele Prima | [x](http://live.sloode.com:1935/teleprima/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WLziQCV.png"/> |
 | 0   | Tele Radio Studio 5 | [x](http://mars.az-streamingserver.com:1935/7444/7444/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lPRjSor.jpg"/> |
 | 0   | Tris Siracusa | [x](https://5db313b643fd8.streamlock.net/Tris/Tris/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dZgKD3j.jpg"/> |

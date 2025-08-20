@@ -36,6 +36,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 |32.3 | Comarca TV | [>](https://video-weaver.ord56.hls.ttvnw.net/v1/playlist/Cq4FFLOPxq44Qy0kxjcr_wXuRRwjKU6gJ80Tc5eWRkaz5XdeNfeq7DzoNAstinu7BLtnw7jYDANX5yCDozdlS55_kYfuDyqQhwF0JpzU75lDUv5NOuUVWBwlP0m1Bh1JMn21v_OvA_teSCI7hcIFl2DoINrr8bHnpSS8EUvXNesfdX_LcfQH-clqftQ0sCreLIbTvxI5MyL6Wnm8jGh2yg48A2c_k9YHDH6TpM3tLo-pbRrrfByqMq-IoMQREf5DV_sTfHtAzinQQU3Np309s2ScJwcBlAjzz4VJ7svuJ1UbWBBylenSTnrXQW5Vws7OqG2kcoAHHpAQN6BQCpxaXO6dE7MLg7Nq6E7961fHEVSqFCRQg2Y5orbSsEwMo7_S4s5POZSQX1tn04QDuHfLixx-aBcbctSSFmI1CNZ3YDCEZVvWHOU6SyKQcsZeJCFLA1DsxqY3DeAn6n7xpPS4pdsizKqlqsT66liv_L-48h7jGujNZPDHge0fcgUs_7b7jlKJlKv-S_s1mGgLqPEUEQ8dhn5AugB0kfjAGgcTHIP_qLPRY0M7OikuBaMxh1pUpPkVG9AX4jCg1cwCgcfa64OP9ed4pwMjoiKm0dIfytTQ8hWjwXtkv16nJDfZ3kkqaMnM8ErZG6tRw-JVy3nRooKubY7Re0Fc1RHB85_eX2NYQD88N7r-UgaiO2ax0FQ-E_IdfuwSmp5oDy6Di6pT7r_zDRN3znbV64s4i-INUg-D2Leeq4xqYhe_Zhj-3AoxXDWCB0-DCc1kFEComkNpY01YA19zEm01TKLCbdaJwdC6bQpSEoJkOCoPAMnxm7oPNlqZRbhM4TVCJ34f4Y1guzaDomcEABl4Cii2UF-OhskRUZF-SUWjWdO6z62UqZagzG2QOTr6VBH-ItT_16fLsRUaDGTVKzgYHT8XcSqTkyABKgl1cy1lYXN0LTEwjQY.m3u8)|<img height="20" src="http://directostv.teleame.com/wp-content/uploads/2020/10/Comarca-TV-en-vivo-Online.png" />|ComarcaTV.ar|
 | 33.1 | El Trece       | [>](https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8) | <img height="20" src="https://i.imgur.com/ZK7AQFg.png"/> | ElTrece.ar |
 | 35.1 | El Nueve       | [>](https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8) | <img height="20" src="https://i.imgur.com/EtcVSm4.png"/> | ElNueve.ar |
+| 34.1 | Telefe Ⓨ       | [>](https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8) | <img height="20" src="https://i.imgur.com/wrZfMXn.png"/> | Telefe.ar |
 | 36.1 | América Ⓨ      | [>](https://www.youtube.com/c/americaenvivo/live) | <img height="20" src="https://i.imgur.com/Jt7dOQm.png"/> | AmericaTV.ar |
 | 36.2 | A24 Ⓨ          | [>](https://www.youtube.com/c/A24com/live) | <img height="20" src="https://i.imgur.com/OdhF7ym.png"/> | A24.ar |
 <h2>Invalid</h2>
@@ -44,4 +45,3 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 
 | #    | Channel        | Link  | Logo | EPG id |
 |:----:|:--------------:|:-----:|:----:|:------:|
-| 34.1 | Telefe Ⓨ       | [x](https://www.youtube.com/telefe/live) | <img height="20" src="https://i.imgur.com/wrZfMXn.png"/> | Telefe.ar |
