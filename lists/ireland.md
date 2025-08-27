@@ -15,7 +15,7 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1 | Today FM | [>](https://stream.audioxi.com/TDAAC) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg"> | todayfm.com |
-|2 | 98FM | [>](https://stream.audioxi.com/98) | <img height="20" src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/98FM_2022.svg/1920px-98FM_2022.svg.png /> | 98fm.com |
+|2 | 98FM | [>](https://stream.audioxi.com/98) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/98FM_2022.svg/1920px-98FM_2022.svg.png" /> | 98fm.com |
 | 3 | FM104 | [>](https://wg.cdn.tibus.net/fm104MP3128) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" /> | fm104.ie |
 | 4 | Radio Nova | [>](https://stream.audioxi.com/NOVA) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" /> | www.nova.ie |
 | 5 | Spin 103.8 | [>](https://stream.audioxi.com/SP) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" /> | spin1038.com |
