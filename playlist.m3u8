@@ -999,6 +999,8 @@ https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanizsa TV" tvg-logo="" tvg-id="" group-title="Hungary",Kanizsa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Líceum TV" tvg-logo="" tvg-id="" group-title="Hungary",Líceum TV
+http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" group-title="Hungary",M2 / Petőfi TV
 https://c201-node61-cdn.connectmedia.hu/110102/7184521041cf54cee9c6548e8d0ba377/64117799/index.m3u8
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" group-title="Hungary",M4 Sport
