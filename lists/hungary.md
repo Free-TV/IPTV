@@ -80,11 +80,12 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 27  | Putnok Városi TV | [>](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 | 28  | Miskolc TV     | [>](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
 | 29  | Oroszlányi Városi Televízió | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P0fxUH5.png" /> | OroszlanyiVarosiTelevizio.hu |
-| 30  | Berente TV  | [>](https://stream.streaming4u.hu/BerenteTV/index.m3u8) | | |
+| 30  | Berente TV    | [>](https://stream.streaming4u.hu/BerenteTV/index.m3u8) | | |
 | 31  | Budapest Európa TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8) | | |
-| 32  | Héviz TV | [>](https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8) | | |
+| 32  | Héviz TV      | [>](https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8) | | |
 | 33  | Jászsági Térségi TV | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8) | | |
-| 34  | Kanizsa TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8) | | |
+| 34  | Kanizsa TV    | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8) | | |
+| 35  | Líceum TV     | [>](http://193.225.32.62:8890/live.m3u8) | | |
 
 
 <h2>Invalid</h2>
