@@ -920,7 +920,7 @@ https://live.apostoltv.hu/live/playlist.m3u8
 #EXTINF:-1 tvg-name="MUSICPlus" tvg-logo="" tvg-id="MUSICPlus.hu" group-title="Hungary",MUSICPlus
 http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-name="Radio 1 Ⓨ" tvg-logo="" tvg-id="" group-title="Hungary",Radio 1 Ⓨ
-https://www.youtube.com/watch?v=uH-R3i4vvWI
+https://www.youtube.com/watch?v=I8dnZoF1nOE
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" group-title="Hungary",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" group-title="Hungary",Dance TV
