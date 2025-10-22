@@ -38,3 +38,4 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 |1    | Docurama       | [>](https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/bNg8mze.png"/> | Docurama.us |
 |2    | Drybar Comedy  | [>](https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EldlmTp.png"/> | DryBarComedy.us |
+|3    | Music Channel  | [>](http://media.boni-records.com/index.m3u8) | <img height="20" src="http://media.boni-records.com/logo.png"/> | Boni-Records.com.us |
