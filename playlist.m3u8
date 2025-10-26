@@ -3127,6 +3127,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" tvg-id="DryBarComedy.us" group-title="USA",Drybar Comedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Music Channel" tvg-logo="http://media.boni-records.com/logo.png" tvg-id="Boni-Records.com.us" group-title="USA",Music Channel
+http://media.boni-records.com/index.m3u8
 #EXTINF:-1 tvg-name="Bumblebee TV Aurora Live" tvg-logo="" tvg-id="BumblebeeTVAuroraLive.us" group-title="Usa VOD",Bumblebee TV Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 tvg-name="Bumblebee TV AutoMoto" tvg-logo="" tvg-id="BumblebeeTVAutoMoto.us" group-title="Usa VOD",Bumblebee TV AutoMoto
