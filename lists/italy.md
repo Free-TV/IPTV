@@ -66,6 +66,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 158 | Radio KISS KISS TV | [>](https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UTStxDW.png"/> | KissKissTV.it |
 | 202 | Rai Radio 2 Visual Radio | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/nVBet0h.png"/> | RaiRadio2Visual.it |
 | 233 | RTL 102.5 Traffic | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GH7byqm.jpeg"/> | RTL1025Traffic.it |
+| 236 | MAN-GA | [>](https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8a6WYU2.png"/> | Manga.it |
 | 246 | Radio24-IlSole24OreTV | [>](https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8) | <img height="20" src="https://i.imgur.com/NTqrdWW.png"/> | Radio24TV.it |
 | 258 | RadioFreccia   | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J5N9F7Z.png"/> | RadioFrecciaTV.it |
 | 265 | RDS Social TV | [>](https://stream.rdstv.radio/index.m3u8) | <img height="20" src="https://i.imgur.com/TY6FhqI.png"/> | RDSSocialTV.it |
