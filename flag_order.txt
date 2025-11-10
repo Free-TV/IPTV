@@ -1,0 +1,136 @@
+#################
+## ANGLOSPHERE ##
+#################
+usa
+canada
+uk
+ireland
+australia
+
+##########
+## ASIA ##
+##########
+
+# India / Japan
+india
+japan
+# China / Taiwan
+china
+hong_kong
+macau
+taiwan
+# North & South Korea
+north_korea
+korea
+
+############
+## EUROPE ##
+############
+
+# Nordics (Danish Realm)
+denmark
+faroe_islands
+greenland
+# Nordics (other)
+finland
+iceland
+norway
+sweden
+
+# Baltics
+estonia
+latvia
+lithuania
+
+# Benelux
+belgium
+netherlands
+luxembourg
+
+# DACH
+germany
+austria
+switzerland
+
+# Visegrád
+poland
+czech_republic
+slovakia
+hungary
+
+# Romanian-speaking
+romania
+moldova
+
+# Other European countries
+bulgaria
+france
+italy
+portugal
+spain
+
+# Russia, Belarus, Ukraine
+russia
+belarus
+ukraine
+
+# ex-USSR (excl. RU/BY/UA, Baltics and Moldova)
+armenia
+azerbaijan
+georgia
+
+# ex-Yugoslavia (excl. Kosovo)
+bosnia_and_herzegovina
+croatia
+montenegro
+north_macedonia
+serbia
+slovenia
+
+# Albanian-speaking
+albania
+kosovo
+
+# Greek-speaking
+greece
+cyprus
+
+# European "microstates"
+andorra
+malta
+monaco
+san_marino
+
+#################
+## MIDDLE EAST ##
+#################
+iran
+iraq
+israel
+qatar
+turkey
+united_arab_emirates
+
+############################
+## AMERICAS (excl. US/CA) ##
+############################
+# Spanish-speaking
+argentina
+costa_rica
+dominican_republic
+mexico
+paraguay
+peru
+venezuela
+
+# Portuguese-speaking
+brazil
+
+# Other South America
+trinidad
+
+############
+## AFRICA ##
+############
+chad
+somalia

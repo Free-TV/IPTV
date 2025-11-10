@@ -2,19 +2,20 @@ name: Update playlist
 
 on:
   push:
-    branches: [ automate-1 ]
+    branches: [ master ]
   workflow_dispatch:
 
 jobs:
   update-plalist:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
       - name: Update playlist
         run: |
-          git config user.name "PlaylistBot"
-          git config user.email "playlistbot@users.noreply.github.com"
+          git config user.name "PlaylistBot" || true
+          git config user.email "playlistbot@users.noreply.github.com" || true
+          python3 ./make_playlist.py
           git add .
           git commit --quiet -m "Update Playlist (GitHub Actions)"
-          git push -f origin automate-1
+          git push -f origin master
