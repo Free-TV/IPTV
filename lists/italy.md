@@ -13,7 +13,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 4   | Rete 4 Ⓖ      | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/GWx2Fkl.png"/> | Rete4.it |
 | 5   | Canale 5 Ⓖ    | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/p6YdiR1.png"/> | Canale5.it |
 | 6   | Italia 1 Ⓖ    | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/oCiOxBG.png"/> | Italia1.it |
-| 7   | La7            | [>](https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8) | <img height="20" src="https://i.imgur.com/F90mpSa.png"/> | La7.it |
+| 7   | La7            | [>](https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8) | <img height="20" src="https://i.imgur.com/F90mpSa.png"/> | La7.it |
 | 8   | TV8 Ⓖ         | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d) | <img height="20" src="https://i.imgur.com/xvoHVOU.png"/> | TV8.it |
 | 9   | Nove           | [>](https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8) | <img height="20" src="https://i.imgur.com/Hp723RU.png"/> | Nove.it |
 | 20  | 20 Mediaset Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/It13jwX.png"/> | 20.it |
