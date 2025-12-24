@@ -12,7 +12,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Italia 1 Ⓖ" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" group-title="Italy",Italia 1 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" group-title="Italy",La7
-https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
 #EXTINF:-1 tvg-name="TV8 Ⓖ" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-id="TV8.it" group-title="Italy",TV8 Ⓖ
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" group-title="Italy",Nove
