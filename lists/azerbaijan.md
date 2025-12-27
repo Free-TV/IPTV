@@ -48,3 +48,13 @@ http://iptv.az/channels.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
+
+ | 0 |  APA TV 
+
+
+| 0   | Kn TV 
+
+
+| 0   | TVNET SPORT 
+
+
