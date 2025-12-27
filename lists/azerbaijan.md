@@ -49,16 +49,11 @@ http://iptv.az/channels.aspx
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 
- | 0  |  APA TV         | [>](#EXTINF:-1 tvg-id="APA_TV" tvg-logo="LOQO_LINKI", APA TV
-YAYIM_URL_UNVANI (.m3u8) | Apatv.az 
 
 
-| 0   | Kn TV 
+| 0   |  APA TV         | [>]  | #EXTINF:-1 tvg-id="APA_TV" tvg-logo="LOQO_LINKI", APA TV
+YAYIM_URL_UNVANI (.m3u8)|  Apatv.az|
 
 
-| 0   | TVNET SPORT 
-
-
-| 0   |
 
 
