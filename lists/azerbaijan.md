@@ -51,7 +51,7 @@ http://iptv.az/channels.aspx
 
 
 
-| 0   |  APA TV         | [>]  | #EXTINF:-1 tvg-id="APA_TV" tvg-logo="LOQO_LINKI", APA TV
+| 0   |  APA TV    | [>]  | #EXTINF:-1 tvg-id="APA_TV" tvg-logo="LOQO_LINKI", APA TV
 YAYIM_URL_UNVANI (.m3u8)|  Apatv.az|
 
 
