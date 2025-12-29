@@ -1,0 +1,21 @@
+Add GSTV (God Stands TV Network) – 4 international channels
+
+This PR adds the following channels:
+
+GSTV English
+GSTV Urdu
+GSTV Arabic
+GSTV Chinese
+
+All links are public, live, and stable.
+
+Playlist:
+https://raw.githubusercontent.com/daud-bot/gstv1/refs/heads/main/godstands.m3u8
+
+Logo:
+https://raw.githubusercontent.com/daud-bot/gstv/main/logo.png
+
+Streams (HTTPS TS):
+[4 URLs here, same as earlier]
+
+Category: Christian / Religious.
