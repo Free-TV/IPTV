@@ -7,7 +7,7 @@
 | 3  |     Africanews Ⓨ    |  [>](https://www.youtube.com/africanews/live)  |  <img height="20" src="https://i.imgur.com/xocvePC.png"/>  |  Africanews.cg  |
 | 4  |      France 24 Ⓨ    |  [>](https://www.youtube.com/france24english/live)  |  <img height="20" src="https://i.imgur.com/61MSiq9.png"/>   |  France24English.fr  |
 | 5  |         DW          |   [>](https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8)  |  <img height="20" src="https://i.imgur.com/A1xzjOI.png"/>  |  DWEnglish.de  |
-| 6  |     Al Jazeera      |   [>](https://live-hls-web-aje.getaj.net/AJE/index.m3u8)  |  <img height="20" src="https://i.imgur.com/BB93NQP.png"/>  |  AlJazeeraEnglish.qa |
+| 6  |     Al Jazeera      |   [>](https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8)  |  <img height="20" src="https://i.imgur.com/BB93NQP.png"/>  |  AlJazeeraEnglish.qa |
 | 7  |        CGTN         |  [>](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8)  |  <img height="20" src="https://i.imgur.com/fMsJYzl.png"/>  |  CGTN.cn |
 | 8  |     BBC News Ⓖ      |  [>](https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"/>  |  BBCNews.uk  |
 | 9  |    NBC News NOW     |  [>](https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png"/>  |  NBCNewsNOW.us |
