@@ -10,7 +10,7 @@ https://www.youtube.com/france24english/live
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="News",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="News",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-name="BBC News Ⓖ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-id="BBCNews.uk" group-title="News",BBC News Ⓖ
