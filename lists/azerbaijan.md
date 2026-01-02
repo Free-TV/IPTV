@@ -11,7 +11,7 @@
 | 0   | ARB 24 | [>](http://85.132.81.184:8080/arb/live/index.m3u8) | <img height="20" src="https://i.imgur.com/mtvIFyq.png"/> | ARB24.az |
 | 0   | ARB Günəş Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes) | <img height="20" src="https://i.imgur.com/dSg7KUK.png"/> | ArbGunes.az |
 | 0   | ARB Ⓢ | [>](http://109.205.166.68/server124/arb/index.m3u8) | <img height="20" src="https://i.imgur.com/E97M2OL.png"/> | ARB.az |
-| 0   | Azad TV Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png"/> | AzadTV.az |
+| 0   | Azad Azərbaycan TV (ATV) Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png"/> | AzadTV.az |
 | 0   | AzStarTV | [>](http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/di3XX5L.png"/> | AzStarTV.ca |
 | 0   | AZTV Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=AZTV) | <img height="20" src="https://i.imgur.com/snBMMeH.png"/> | AZTV.az |
 | 0   | Baku TV | [>](https://rtmp.baku.tv/live/bakutv_720p.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png"/> | BakuTV.az |
