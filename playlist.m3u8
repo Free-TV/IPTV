@@ -239,12 +239,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 #EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" group-title="Belgium",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
-#EXTINF:-1 tvg-name="BHT 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1 Ⓢ
-https://webtvstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+#EXTINF:-1 tvg-name="BHT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" group-title="Bosnia and Herzegovina",BHT 1
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 tvg-name="Federalna televizija (FTV) Ⓢ" tvg-logo="https://i.imgur.com/Jpvs4u3.png" tvg-id="FederalnaTV.ba" group-title="Bosnia and Herzegovina",Federalna televizija (FTV) Ⓢ
 http://94.250.2.6:7374/play/a02s/index.m3u8
 #EXTINF:-1 tvg-name="Televizija Republike Srpske (RTRS) Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" tvg-id="RTRSTV.ba" group-title="Bosnia and Herzegovina",Televizija Republike Srpske (RTRS) Ⓢ
-https://uzivo.rtrs.tv/tv/live/index.m3u8
+https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="RTRS PLUS Ⓢ" tvg-logo="https://i.imgur.com/k06WvYl.png" tvg-id="RTRSplus.ba" group-title="Bosnia and Herzegovina",RTRS PLUS Ⓢ
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" tvg-id="N1BosniaHerzegovina.ba" group-title="Bosnia and Herzegovina",N1 Bosna i Hercegovina
