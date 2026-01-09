@@ -10,7 +10,7 @@
 | 8   | C8 Ⓓ | [>](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
 | 12  | NRJ 12 | [>](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png"/> | NRJ12.fr |
 | 13  | LCP          | [>](https://lcp.fr/le-live-lcp-tnt-5433) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> | LCP.fr |
-| 14  | Public Sénat | [>](https://www.publicsenat.fr/direct) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | PublicSenat.fr |
+| 13  | Public Sénat | [>](https://www.publicsenat.fr/direct) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | PublicSenat.fr |
 | 16  | CNews Ⓓ    | [>](https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/UMRGAHx.png"/> | CNews.fr |
 | 27  | franceinfo: Ⓨ | [>](https://www.youtube.com/c/franceinfo/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png"/> | Franceinfo.fr |
 | 28  | France 24 Ⓨ   | [>](https://www.youtube.com/c/FRANCE24/live) | <img height="20" src="https://i.imgur.com/61MSiq9.png"/> | France24French.fr |
@@ -27,7 +27,7 @@
 | 1   | TF1 | [x](http://livetv.ktv.zone/3/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png"/> | TF1.fr |
 | 2   | France 2 | [x](http://livetv.ktv.zone/104/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/886px-France_2_2018.svg.png"/> | France2.fr |
 | 3   | France 3 | [x](http://livetv.ktv.zone/105/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3.fr |
-| 4   | France 4 | [x](http://livetv.ktv.zone/116/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
+| 14  | France 4 | [x](http://livetv.ktv.zone/116/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
 | 5   | France 5 | [x](http://livetv.ktv.zone/107/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
 | 10  | TMC | [x](http://livetv.ktv.zone/12/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
 | 11  | TFX | [x](http://livetv.ktv.zone/13/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
@@ -42,7 +42,7 @@
 | #   | Channel    | Link  | Logo | EPG id |
 |:---:|:----------:|:-----:|:----:|:------:|
 | 1   | TF1        | [x](https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> | TF1.fr |
-| 4   | France 4   | [x](http://edge9.iptvnetwork.net/live/france4/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> | France4.fr |
+| 14   | France 4   | [x](http://edge9.iptvnetwork.net/live/france4/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> | France4.fr |
 | 15  | BFM TV     | [x](https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
 | 18  | Gulli      | [x](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> | Gulli.fr |
 | 22  | 6ter       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> | 6ter.fr |
