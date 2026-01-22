@@ -3,15 +3,13 @@
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-name="RTS 2" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-id="RTS2.rs" group-title="Serbia",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-name="Euronews Serbia" tvg-logo="https://i.imgur.com/b24QKcq.png" tvg-id="EuroNewsSerbia.rs" group-title="Serbia",Euronews Serbia
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV 1" tvg-logo="https://i.imgur.com/CG44YT3.png" tvg-id="RTV1.rs" group-title="Serbia",RTV 1
-rtmp://212.200.230.50:1935/RTV/rtv1
-#EXTINF:-1 tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" tvg-id="RTV2.rs" group-title="Serbia",RTV 2
-rtmp://212.200.230.50:1935/RTV/rtv2
 #EXTINF:-1 tvg-name="Red TV" tvg-logo="https://i.imgur.com/cpN7NrL.png" tvg-id="RedTV.rs" group-title="Serbia",Red TV
 https://edge8.pink.rs/redtv/chunklist_w1213385221.m3u8
 #EXTINF:-1 tvg-name="Kurir TV" tvg-logo="https://i.imgur.com/HBPnUD5.png" tvg-id="KurirTV.rs" group-title="Serbia",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-name="Informer TV" tvg-logo="https://i.imgur.com/9wdEHRf.png" tvg-id="InformerTV.rs" group-title="Serbia",Informer TV
 https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
+#EXTINF:-1 tvg-name="RTV 1" tvg-logo="https://i.imgur.com/CG44YT3.png" tvg-id="RTV1.rs" group-title="Serbia",RTV 1
+rtmp://212.200.230.50:1935/RTV/rtv1
+#EXTINF:-1 tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" tvg-id="RTV2.rs" group-title="Serbia",RTV 2
+rtmp://212.200.230.50:1935/RTV/rtv2
