@@ -243,7 +243,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc563
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 tvg-name="Federalna televizija (FTV) Ⓢ" tvg-logo="https://i.imgur.com/Jpvs4u3.png" tvg-id="FederalnaTV.ba" group-title="Bosnia and Herzegovina",Federalna televizija (FTV) Ⓢ
 http://94.250.2.6:7374/play/a02s/index.m3u8
-#EXTINF:-1 tvg-name="Televizija Republike Srpske (RTRS) Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" tvg-id="RTRSTV.ba" group-title="Bosnia and Herzegovina",Televizija Republike Srpske (RTRS) Ⓢ
+#EXTINF:-1 tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" tvg-id="RTRSTV.ba" group-title="Bosnia and Herzegovina",Televizija Republike Srpske (RTRS)
 https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="RTRS PLUS Ⓢ" tvg-logo="https://i.imgur.com/k06WvYl.png" tvg-id="RTRSplus.ba" group-title="Bosnia and Herzegovina",RTRS PLUS Ⓢ
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
@@ -251,8 +251,8 @@ https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1 tvg-name="RTV HB Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" tvg-id="RTVHB.ba" group-title="Bosnia and Herzegovina",RTV HB Ⓢ
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
-#EXTINF:-1 tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" tvg-id="BNTV.ba" group-title="Bosnia and Herzegovina",RTV BN
-https://rtvbn.tv:8080/live/index.m3u8
+#EXTINF:-1 tvg-name="RTV BN Ⓢ" tvg-logo="https://i.imgur.com/DUBvfWb.png" tvg-id="BNTV.ba" group-title="Bosnia and Herzegovina",RTV BN Ⓢ
+https://stream.rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-name="RTV Glas Drine" tvg-logo="https://i.imgur.com/9NgxOdb.png" tvg-id="RTVGlasDrine.ba" group-title="Bosnia and Herzegovina",RTV Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 tvg-name="Sevdah Ⓢ" tvg-logo="https://i.imgur.com/V6W3yEp.png" tvg-id="SevdahTV.ba" group-title="Bosnia and Herzegovina",Sevdah Ⓢ
@@ -2199,14 +2199,14 @@ https://hls.btv.md/hls/live2.m3u8
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2027/media.m3u8
 #EXTINF:-1 tvg-name="MonacoInfo" tvg-logo="https://www.lyngsat.com/logo/tv/mm/monaco_info.png" tvg-id="MonacoInfo.mc" group-title="Monaco",MonacoInfo
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
-#EXTINF:-1 tvg-name="TVCG 1" tvg-logo="https://i.imgur.com/QORHrXu.png" tvg-id="TVCG1.me" group-title="Montenegro",TVCG 1
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVCG 2" tvg-logo="https://i.imgur.com/WECmUKH.png" tvg-id="TVCG2.me" group-title="Montenegro",TVCG 2
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVCG 3" tvg-logo="https://i.imgur.com/XC7zVog.png" tvg-id="Parlamentarnikanal.me" group-title="Montenegro",TVCG 3
-https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCG 1 Ⓖ" tvg-logo="https://i.imgur.com/QORHrXu.png" tvg-id="TVCG1.me" group-title="Montenegro",TVCG 1 Ⓖ
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCG 2 Ⓖ" tvg-logo="https://i.imgur.com/WECmUKH.png" tvg-id="TVCG2.me" group-title="Montenegro",TVCG 2 Ⓖ
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
+#EXTINF:-1 tvg-name="TVCG 3 Ⓖ" tvg-logo="https://i.imgur.com/XC7zVog.png" tvg-id="TVCG3.me" group-title="Montenegro",TVCG 3 Ⓖ
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCG MNE" tvg-logo="https://i.imgur.com/pf8VEwf.png" tvg-id="TVCGMNE.me" group-title="Montenegro",TVCG MNE
-http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 tvg-name="NPO 1 Ⓖ" tvg-logo="https://i.imgur.com/pUBy4Pb.png" tvg-id="NPO1.nl" group-title="Netherlands",NPO 1 Ⓖ
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
 #EXTINF:-1 tvg-name="NPO 2 Ⓖ" tvg-logo="https://i.imgur.com/Vl2G1H3.png" tvg-id="NPO2.nl" group-title="Netherlands",NPO 2 Ⓖ
@@ -2551,12 +2551,16 @@ https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/60
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-name="RTS 2" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-id="RTS2.rs" group-title="Serbia",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-name="Euronews Serbia" tvg-logo="https://i.imgur.com/b24QKcq.png" tvg-id="EuroNewsSerbia.rs" group-title="Serbia",Euronews Serbia
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+#EXTINF:-1 tvg-name="Red TV" tvg-logo="https://i.imgur.com/cpN7NrL.png" tvg-id="RedTV.rs" group-title="Serbia",Red TV
+https://edge8.pink.rs/redtv/chunklist_w1213385221.m3u8
+#EXTINF:-1 tvg-name="Kurir TV" tvg-logo="https://i.imgur.com/HBPnUD5.png" tvg-id="KurirTV.rs" group-title="Serbia",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+#EXTINF:-1 tvg-name="Informer TV" tvg-logo="https://i.imgur.com/9wdEHRf.png" tvg-id="InformerTV.rs" group-title="Serbia",Informer TV
+https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV 1" tvg-logo="https://i.imgur.com/CG44YT3.png" tvg-id="RTV1.rs" group-title="Serbia",RTV 1
-rtsp://212.200.255.151/rtv1
+rtmp://212.200.230.50:1935/RTV/rtv1
 #EXTINF:-1 tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" tvg-id="RTV2.rs" group-title="Serbia",RTV 2
-rtsp://212.200.255.151/rtv2
+rtmp://212.200.230.50:1935/RTV/rtv2
 #EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="Slovakia",:Jednotka
 https://sktv.plainrock127.xyz/get.php?x=STV1
 #EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="Slovakia",:Dvojka
