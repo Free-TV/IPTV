@@ -17,6 +17,10 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 8   | DD Kisan Ⓨ      | [>](https://www.youtube.com/@DDKisan/live) | <img height="20" src="https://i.imgur.com/x56WJEa.png" /> | DDKisan.in |
 | 9   | DD Urdu Ⓨ       | [>](https://www.youtube.com/@DDUrdu/live) | <img height="20" src="https://i.imgur.com/OiQPS34.png" /> | DDUrdu.in |
 | 10  | India Today Ⓨ   | [>](https://www.youtube.com/watch?v=sYZtOFzM78M) | <img height="20" src="https://i.imgur.com/C7KK3Fd.png" /> | IndiaToday.in |
+| 11  | Aaj Tak Ⓨ       | [>](https://www.youtube.com/watch?v=Nq2wYlWFucg) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" /> | AajTak.in |
+| 12  | India TV Ⓨ      | [>](https://www.youtube.com/watch?v=e1FIApIafWE) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/500px-India_tv_logo-en.png" /> | IndiaTV.in |
+| 13  | TV9 Bharatvarsh Ⓨ | [>](https://www.youtube.com/watch?v=nSpwwcHVp80) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/500px-TV9_Bharatvarsh.svg.png" /> | TV9Bharatvarsh.in |
+| 14  | Republic Bharat Ⓨ | [>](https://www.youtube.com/watch?v=3DbTO_AMhhc) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" /> | RepublicBharat.in |
 
 
 <h2>Invalid</h2>
