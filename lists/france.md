@@ -35,7 +35,6 @@
 | 29  | TV5 Monde Info | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
 | 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
 | 31  | TV5 Monde Europe | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeEurope.fr |
-| 0   | RT France Ⓖ | [>](https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png"/> | RTFrance.fr |
 
 <h2>Unreliable (other)</h2>
 
