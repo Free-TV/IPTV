@@ -46,7 +46,7 @@
 | 15  | BFM TV     | [x](https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
 | 18  | Gulli      | [x](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> | Gulli.fr |
 | 22  | 6ter       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> | 6ter.fr |
-| 26  | LCI          | [x](https://sv0.data-stream.top/hls/lci.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/62px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png"/> | LCI.fr |
+| 26  | LCI          | [x](https://sv0.data-stream.top/hls/lci.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/8/85/LCI.png/> | LCI.fr |
 
 <h2>Unreliable (tntdirect)</h2>
 
