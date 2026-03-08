@@ -18,4 +18,4 @@ jobs:
           python3 ./make_playlist.py
           git add .
           git diff --staged --quiet || git commit --quiet -m "Update Playlist (GitHub Actions)"
-          git diff --quiet HEAD origin/master || git push -f origin master
+          git diff --quiet HEAD @{u} || git push -f origin HEAD
