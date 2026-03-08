@@ -3,7 +3,6 @@
 import os
 import re
 
-EPG_LIST = open('epglist.txt',"r") # for a clean code 
 
 class Channel:
     def __init__(self, group, md_line):
@@ -29,32 +28,39 @@ class Channel:
 
 
 def main():
-    dir_playlists = 'playlists'
-    if not (os.path.isdir(dir_playlists)):
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    lists_dir = os.path.join(base_dir, "lists")
+    dir_playlists = os.path.join(base_dir, "playlists")
+
+    if not os.path.isdir(dir_playlists):
         os.mkdir(dir_playlists)
-    with open("playlist.m3u8", "w", encoding='utf-8') as playlist:
-        processed_epg_list = ", ".join(EPG_LIST).replace('\n', '')
-        head_playlist = f'#EXTM3U x-tvg-url="{processed_epg_list}"'
-        print(f'#EXTM3U x-tvg-url="{processed_epg_list}"', file=playlist)
-        os.chdir("lists")
-        for filename in sorted(os.listdir(".")):
+
+    with open(os.path.join(base_dir, "epglist.txt"), encoding='utf-8') as epg_file:
+        epg_urls = [line.strip() for line in epg_file if line.strip()]
+    processed_epg_list = ", ".join(epg_urls)
+    head_playlist = f'#EXTM3U x-tvg-url="{processed_epg_list}"\n'
+
+    with open(os.path.join(base_dir, "playlist.m3u8"), "w", encoding='utf-8') as playlist:
+        playlist.write(head_playlist)
+        for filename in sorted(os.listdir(lists_dir)):
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
-            with open(filename, encoding='utf-8') as markup_file:
-                file_country = os.path.join("..", dir_playlists, "playlist_" + filename[:-3:] + ".m3u8")
-                playlist_country = open(file_country, "w", encoding='utf-8')
-                playlist_country.write(head_playlist + "\n")
-                group = filename.replace(".md", "").title()
-                print(f"Generating {group}")
+            markup_path = os.path.join(lists_dir, filename)
+            country_path = os.path.join(dir_playlists, "playlist_" + filename[:-3] + ".m3u8")
+            group = filename[:-3].replace("_", " ").title()
+            print(f"Generating {group}")
+            with open(markup_path, encoding='utf-8') as markup_file, \
+                 open(country_path, "w", encoding='utf-8') as playlist_country:
+                playlist_country.write(head_playlist)
                 for line in markup_file:
                     if "<h1>" in line.lower() and "</h1>" in line.lower():
                         group = re.sub('<[^<>]+>', '', line.strip())
-                    if not "[>]" in line:
+                    if "[>]" not in line:
                         continue
                     channel = Channel(group, line)
-                    print(channel.to_m3u_line(), file=playlist)
-                    print(channel.to_m3u_line(), file=playlist_country)
-                playlist_country.close()
+                    m3u_line = channel.to_m3u_line()
+                    print(m3u_line, file=playlist)
+                    print(m3u_line, file=playlist_country)
 
 if __name__ == "__main__":
     main()
