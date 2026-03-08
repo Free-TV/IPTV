@@ -3,10 +3,98 @@
 import os
 import re
 
+COUNTRY_CODES = {
+    "albania": "AL",
+    "andorra": "AD",
+    "argentina": "AR",
+    "armenia": "AM",
+    "australia": "AU",
+    "austria": "AT",
+    "azerbaijan": "AZ",
+    "belarus": "BY",
+    "belgium": "BE",
+    "bosnia_and_herzegovina": "BA",
+    "brazil": "BR",
+    "bulgaria": "BG",
+    "canada": "CA",
+    "chad": "TD",
+    "chile": "CL",
+    "china": "CN",
+    "costa_rica": "CR",
+    "croatia": "HR",
+    "cyprus": "CY",
+    "czech_republic": "CZ",
+    "denmark": "DK",
+    "dominican_republic": "DO",
+    "egypt": "EG",
+    "estonia": "EE",
+    "faroe_islands": "FO",
+    "finland": "FI",
+    "france": "FR",
+    "georgia": "GE",
+    "germany": "DE",
+    "greece": "GR",
+    "greenland": "GL",
+    "hong_kong": "HK",
+    "hongkong": "HK",
+    "hungary": "HU",
+    "iceland": "IS",
+    "india": "IN",
+    "indonesia": "ID",
+    "iran": "IR",
+    "iraq": "IQ",
+    "ireland": "IE",
+    "israel": "IL",
+    "italy": "IT",
+    "japan": "JP",
+    "korea": "KR",
+    "kosovo": "XK",
+    "latvia": "LV",
+    "lithuania": "LT",
+    "luxembourg": "LU",
+    "macau": "MO",
+    "malta": "MT",
+    "mexico": "MX",
+    "moldova": "MD",
+    "monaco": "MC",
+    "montenegro": "ME",
+    "netherlands": "NL",
+    "north_korea": "KP",
+    "north_macedonia": "MK",
+    "norway": "NO",
+    "paraguay": "PY",
+    "peru": "PE",
+    "poland": "PL",
+    "portugal": "PT",
+    "qatar": "QA",
+    "romania": "RO",
+    "russia": "RU",
+    "san_marino": "SM",
+    "saudi_arabia": "SA",
+    "serbia": "RS",
+    "slovakia": "SK",
+    "slovenia": "SI",
+    "somalia": "SO",
+    "spain": "ES",
+    "spain_vod": "ES",
+    "sweden": "SE",
+    "switzerland": "CH",
+    "taiwan": "TW",
+    "trinidad": "TT",
+    "turkey": "TR",
+    "uk": "GB",
+    "ukraine": "UA",
+    "united_arab_emirates": "AE",
+    "usa": "US",
+    "usa_vod": "US",
+    "venezuela": "VE",
+}
+
 
 class Channel:
-    def __init__(self, group, md_line):
+    def __init__(self, group, md_line, country_code=""):
         self.group = group
+        self.country_code = country_code
         md_line = md_line.strip()
         parts = md_line.split("|")
         self.number = parts[1].strip()
@@ -21,10 +109,11 @@ class Channel:
             self.epg = None
 
     def to_m3u_line(self):
+        country = f' tvg-country="{self.country_code}"' if self.country_code else ""
         if self.epg is None:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" group-title="{self.group}",{self.name}\n{self.url}')
+            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}"{country} group-title="{self.group}",{self.name}\n{self.url}')
         else:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}" group-title="{self.group}",{self.name}\n{self.url}')
+            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}"{country} group-title="{self.group}",{self.name}\n{self.url}')
 
 
 def main():
@@ -47,7 +136,9 @@ def main():
                 continue
             markup_path = os.path.join(lists_dir, filename)
             country_path = os.path.join(dir_playlists, "playlist_" + filename[:-3] + ".m3u8")
-            group = filename[:-3].replace("_", " ").title()
+            country_key = filename[:-3]
+            group = country_key.replace("_", " ").title()
+            country_code = COUNTRY_CODES.get(country_key, "")
             print(f"Generating {group}")
             with open(markup_path, encoding='utf-8') as markup_file, \
                  open(country_path, "w", encoding='utf-8') as playlist_country:
@@ -57,7 +148,7 @@ def main():
                         group = re.sub('<[^<>]+>', '', line.strip())
                     if "[>]" not in line:
                         continue
-                    channel = Channel(group, line)
+                    channel = Channel(group, line, country_code)
                     m3u_line = channel.to_m3u_line()
                     print(m3u_line, file=playlist)
                     print(m3u_line, file=playlist_country)
