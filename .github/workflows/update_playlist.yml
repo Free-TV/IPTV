@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
       - name: Update playlist
         run: |
           git config user.name "PlaylistBot" || true
           git config user.email "playlistbot@users.noreply.github.com" || true
           python3 ./make_playlist.py
           git add .
-          git commit --quiet -m "Update Playlist (GitHub Actions)"
-          git push -f origin master
+          git diff --staged --quiet || git commit --quiet -m "Update Playlist (GitHub Actions)"
+          git diff --quiet HEAD @{u} || git push -f origin HEAD

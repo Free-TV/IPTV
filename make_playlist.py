@@ -3,11 +3,98 @@
 import os
 import re
 
-EPG_LIST = open('epglist.txt',"r") # for a clean code 
+COUNTRY_CODES = {
+    "albania": "AL",
+    "andorra": "AD",
+    "argentina": "AR",
+    "armenia": "AM",
+    "australia": "AU",
+    "austria": "AT",
+    "azerbaijan": "AZ",
+    "belarus": "BY",
+    "belgium": "BE",
+    "bosnia_and_herzegovina": "BA",
+    "brazil": "BR",
+    "bulgaria": "BG",
+    "canada": "CA",
+    "chad": "TD",
+    "chile": "CL",
+    "china": "CN",
+    "costa_rica": "CR",
+    "croatia": "HR",
+    "cyprus": "CY",
+    "czech_republic": "CZ",
+    "denmark": "DK",
+    "dominican_republic": "DO",
+    "egypt": "EG",
+    "estonia": "EE",
+    "faroe_islands": "FO",
+    "finland": "FI",
+    "france": "FR",
+    "georgia": "GE",
+    "germany": "DE",
+    "greece": "GR",
+    "greenland": "GL",
+    "hong_kong": "HK",
+    "hongkong": "HK",
+    "hungary": "HU",
+    "iceland": "IS",
+    "india": "IN",
+    "indonesia": "ID",
+    "iran": "IR",
+    "iraq": "IQ",
+    "ireland": "IE",
+    "israel": "IL",
+    "italy": "IT",
+    "japan": "JP",
+    "korea": "KR",
+    "kosovo": "XK",
+    "latvia": "LV",
+    "lithuania": "LT",
+    "luxembourg": "LU",
+    "macau": "MO",
+    "malta": "MT",
+    "mexico": "MX",
+    "moldova": "MD",
+    "monaco": "MC",
+    "montenegro": "ME",
+    "netherlands": "NL",
+    "north_korea": "KP",
+    "north_macedonia": "MK",
+    "norway": "NO",
+    "paraguay": "PY",
+    "peru": "PE",
+    "poland": "PL",
+    "portugal": "PT",
+    "qatar": "QA",
+    "romania": "RO",
+    "russia": "RU",
+    "san_marino": "SM",
+    "saudi_arabia": "SA",
+    "serbia": "RS",
+    "slovakia": "SK",
+    "slovenia": "SI",
+    "somalia": "SO",
+    "spain": "ES",
+    "spain_vod": "ES",
+    "sweden": "SE",
+    "switzerland": "CH",
+    "taiwan": "TW",
+    "trinidad": "TT",
+    "turkey": "TR",
+    "uk": "GB",
+    "ukraine": "UA",
+    "united_arab_emirates": "AE",
+    "usa": "US",
+    "usa_vod": "US",
+    "venezuela": "VE",
+}
+
 
 class Channel:
-    def __init__(self, group, md_line):
+    def __init__(self, group, md_line, country_code=""):
         self.group = group
+        self.country_code = country_code
         md_line = md_line.strip()
         parts = md_line.split("|")
         self.number = parts[1].strip()
@@ -22,39 +109,49 @@ class Channel:
             self.epg = None
 
     def to_m3u_line(self):
+        country = f' tvg-country="{self.country_code}"' if self.country_code else ""
         if self.epg is None:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" group-title="{self.group}",{self.name}\n{self.url}')
+            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}"{country} group-title="{self.group}",{self.name}\n{self.url}')
         else:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}" group-title="{self.group}",{self.name}\n{self.url}')
+            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}"{country} group-title="{self.group}",{self.name}\n{self.url}')
 
 
 def main():
-    dir_playlists = 'playlists'
-    if not (os.path.isdir(dir_playlists)):
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    lists_dir = os.path.join(base_dir, "lists")
+    dir_playlists = os.path.join(base_dir, "playlists")
+
+    if not os.path.isdir(dir_playlists):
         os.mkdir(dir_playlists)
-    with open("playlist.m3u8", "w", encoding='utf-8') as playlist:
-        processed_epg_list = ", ".join(EPG_LIST).replace('\n', '')
-        head_playlist = f'#EXTM3U x-tvg-url="{processed_epg_list}"'
-        print(f'#EXTM3U x-tvg-url="{processed_epg_list}"', file=playlist)
-        os.chdir("lists")
-        for filename in sorted(os.listdir(".")):
+
+    with open(os.path.join(base_dir, "epglist.txt"), encoding='utf-8') as epg_file:
+        epg_urls = [line.strip() for line in epg_file if line.strip()]
+    processed_epg_list = ", ".join(epg_urls)
+    head_playlist = f'#EXTM3U x-tvg-url="{processed_epg_list}"\n'
+
+    with open(os.path.join(base_dir, "playlist.m3u8"), "w", encoding='utf-8') as playlist:
+        playlist.write(head_playlist)
+        for filename in sorted(os.listdir(lists_dir)):
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
-            with open(filename, encoding='utf-8') as markup_file:
-                file_country = os.path.join("..", dir_playlists, "playlist_" + filename[:-3:] + ".m3u8")
-                playlist_country = open(file_country, "w", encoding='utf-8')
-                playlist_country.write(head_playlist + "\n")
-                group = filename.replace(".md", "").title()
-                print(f"Generating {group}")
+            markup_path = os.path.join(lists_dir, filename)
+            country_path = os.path.join(dir_playlists, "playlist_" + filename[:-3] + ".m3u8")
+            country_key = filename[:-3]
+            group = country_key.replace("_", " ").title()
+            country_code = COUNTRY_CODES.get(country_key, "")
+            print(f"Generating {group}")
+            with open(markup_path, encoding='utf-8') as markup_file, \
+                 open(country_path, "w", encoding='utf-8') as playlist_country:
+                playlist_country.write(head_playlist)
                 for line in markup_file:
                     if "<h1>" in line.lower() and "</h1>" in line.lower():
                         group = re.sub('<[^<>]+>', '', line.strip())
-                    if not "[>]" in line:
+                    if "[>]" not in line:
                         continue
-                    channel = Channel(group, line)
-                    print(channel.to_m3u_line(), file=playlist)
-                    print(channel.to_m3u_line(), file=playlist_country)
-                playlist_country.close()
+                    channel = Channel(group, line, country_code)
+                    m3u_line = channel.to_m3u_line()
+                    print(m3u_line, file=playlist)
+                    print(m3u_line, file=playlist_country)
 
 if __name__ == "__main__":
     main()
