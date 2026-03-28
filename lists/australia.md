@@ -16,7 +16,8 @@ https://www.freeview.com.au
 | 5   | Spree TV        | [x]() | <img height="20" src="https://i.imgur.com/RyupyDF.png"/> | SpreeTV.au |
 | 3   | ABC Kids        | [x]() | <img height="20" src="https://i.imgur.com/GWDRR1t.png"/> | ABCKids.au |
 | 4   | ABC Me          | [>](https://c.mjh.nz/101002210224/) | <img height="20" src="https://i.imgur.com/gBh54wY.png"/> | ABCMe.au |
-| 5   | ABC News        | [>](https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8) | <img height="20" src="https://i.imgur.com/GpgrYCb.png"/> | ABCNews.au |
+| 5   | ABC News        | [>](https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png"/> | ABCNews.au |
+| 8   | M4TV      | [>](https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HZohlNk.png"/> | M4TV.au |
 | 5   | SBS Viceland    | [x]() | <img height="20" src="https://i.imgur.com/WMKCkD0.png"/> | SBSViceland.au |
 | 5   | SBS World Movies| [x]() | <img height="20" src="https://i.imgur.com/V6hhtCx.png"/> | SBSWorldMovies.au |
 | 5   | SBS Food        | [x]() | <img height="20" src="https://i.imgur.com/qN9p4h0.png"/> | SBSFood.au |
@@ -26,7 +27,7 @@ https://www.freeview.com.au
 | 5   | 7flix           | [x]() | <img height="20" src="https://i.imgur.com/6iIYCyC.png"/> | 7flix.au |
 | 5   | Racing.com      | [>](https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8) | <img height="20" src="https://i.imgur.com/pma0OCf.png"/> | Racingcom.au |
 | 5   | 9Gem            | [x]() | <img height="20" src="https://i.imgur.com/sWmE1kq.png"/> | 9Gem.au |
-| 5   | 9Go!            | [x]() | <img height="20" src="https://i.imgur.com/1CFGu5O.png"/> | 9Go.au |
-| 5   | 9Life           | [x]() | <img height="20" src="https://i.imgur.com/ZCUiqlL.png"/> | 9Life.au |
-| 5   | 9Rush           | [x]() | <img height="20" src="https://i.imgur.com/krGjoHU.png"/> | 9Rush.au |
+| 5   | 9Go! Ⓖ | [>](https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8) | <img height="20" src="https://i.imgur.com/1CFGu5O.png"/> | 9Go.au |
+| 5   | 9Life Ⓖ | [>](https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8) | <img height="20" src="https://i.imgur.com/ZCUiqlL.png"/> | 9Life.au |
+| 5   | 9Rush Ⓖ | [>](https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png"/> | 9Rush.au |
 | 5   | C31 Melbourne   | [x]() | <img height="20" src="https://i.imgur.com/dXwkFei.png"/> | C31Melbourne.au |

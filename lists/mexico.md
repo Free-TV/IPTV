@@ -8,3 +8,4 @@
 |4    | RCG 3 Saltillo |[>](http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NefH5qZ.png"/> | RCGTV3.mx |
 |5    | TeleFormula    |[>](https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jR6taXt.png"/> | TeleFormula.mx |
 |6    | NRT 4 Monclova |[>](https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IudKE0n.png"/> | noticiasnrt.com |
+|7| Las Estrellas |[>](https://linear-416.frequency.stream/416/hls/master/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg"/> | Lasestrellas.tv |
