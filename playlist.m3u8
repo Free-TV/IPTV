@@ -239,6 +239,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 #EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" tvg-country="BE" group-title="Belgium",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
+#EXTINF:-1 tvg-name="ORTB" tvg-logo="https://i.imgur.com/vH3y39T.png" tvg-id="ORTB.bj" tvg-country="BJ" group-title="Benin",ORTB
+https://edge5.vedge.infomaniak.com/livecast/ortb/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 3 Bénin" tvg-logo="https://i.imgur.com/qL8Y7Hh.png" tvg-id="Canal3Benin.bj" tvg-country="BJ" group-title="Benin",Canal 3 Bénin
+https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+#EXTINF:-1 tvg-name="Golfe TV Africa" tvg-logo="https://i.imgur.com/E1r1Z1X.png" tvg-id="GolfeTV.bj" tvg-country="BJ" group-title="Benin",Golfe TV Africa
+http://41.219.187.10:3002/10
 #EXTINF:-1 tvg-name="BHT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" tvg-country="BA" group-title="Bosnia and Herzegovina",BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 tvg-name="Federalna televizija (FTV) Ⓢ" tvg-logo="https://i.imgur.com/Jpvs4u3.png" tvg-id="FederalnaTV.ba" tvg-country="BA" group-title="Bosnia and Herzegovina",Federalna televizija (FTV) Ⓢ
@@ -3469,8 +3475,6 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-name="Channel Name group-title=INJECTED_GROUP extra=" tvg-logo="https://example.com/logo.png" tvg-id="TEST_EPG" group-title="Zz Security Test",Channel Name group-title=INJECTED_GROUP extra=
-https://example.com/stream.m3u8
 #EXTINF:-1 tvg-name="Sportitalia LIVE24" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="Sportitalia24.it" group-title="VOD Italy",Sportitalia LIVE24
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport2U" tvg-logo="https://i.imgur.com/WW0lNk1.png" group-title="VOD Italy",Sport2U

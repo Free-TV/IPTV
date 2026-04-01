@@ -13,6 +13,7 @@ COUNTRY_CODES = {
     "azerbaijan": "AZ",
     "belarus": "BY",
     "belgium": "BE",
+    "benin": "BJ",
     "bosnia_and_herzegovina": "BA",
     "brazil": "BR",
     "bulgaria": "BG",
