@@ -239,6 +239,12 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 #EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" tvg-country="BE" group-title="Belgium",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
+#EXTINF:-1 tvg-name="ORTB" tvg-logo="https://i.imgur.com/vH3y39T.png" tvg-id="ORTB.bj" tvg-country="BJ" group-title="Benin",ORTB
+https://edge5.vedge.infomaniak.com/livecast/ortb/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 3 Bénin" tvg-logo="https://i.imgur.com/qL8Y7Hh.png" tvg-id="Canal3Benin.bj" tvg-country="BJ" group-title="Benin",Canal 3 Bénin
+https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+#EXTINF:-1 tvg-name="Golfe TV Africa" tvg-logo="https://i.imgur.com/E1r1Z1X.png" tvg-id="GolfeTV.bj" tvg-country="BJ" group-title="Benin",Golfe TV Africa
+http://41.219.187.10:3002/10
 #EXTINF:-1 tvg-name="BHT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" tvg-id="BHT1.ba" tvg-country="BA" group-title="Bosnia and Herzegovina",BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 tvg-name="Federalna televizija (FTV) Ⓢ" tvg-logo="https://i.imgur.com/Jpvs4u3.png" tvg-id="FederalnaTV.ba" tvg-country="BA" group-title="Bosnia and Herzegovina",Federalna televizija (FTV) Ⓢ
