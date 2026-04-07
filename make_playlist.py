@@ -93,6 +93,7 @@ COUNTRY_CODES = {
 
 class Channel:
     def __init__(self, group, md_line, country_code=""):
+        self.chno = self.number if self.number and self.number != "0" else None
         self.group = group
         self.country_code = country_code
         md_line = md_line.strip()
@@ -110,10 +111,11 @@ class Channel:
 
     def to_m3u_line(self):
         country = f' tvg-country="{self.country_code}"' if self.country_code else ""
+        chno = f' tvg-chno="{self.chno}"' if self.chno else ""
         if self.epg is None:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}"{country} group-title="{self.group}",{self.name}\n{self.url}')
+            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}"{chno}{country} group-title="{self.group}",{self.name}\n{self.url}')
         else:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}"{country} group-title="{self.group}",{self.name}\n{self.url}')
+            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}"{chno}{country} group-title="{self.group}",{self.name}\n{self.url}')
 
 
 def main():
