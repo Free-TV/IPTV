@@ -93,7 +93,6 @@ COUNTRY_CODES = {
 
 class Channel:
     def __init__(self, group, md_line, country_code=""):
-        self.chno = self.number if self.number and self.number != "0" else None
         self.group = group
         self.country_code = country_code
         md_line = md_line.strip()
@@ -104,6 +103,9 @@ class Channel:
         self.url = self.url[self.url.find("(")+1:self.url.rfind(")")]
         self.logo = parts[4].strip()
         self.logo = self.logo[self.logo.find('src="')+5:self.logo.rfind('"')]
+
+        self.chno = self.number if self.number and self.number != "0" else None
+        
         if len(parts) > 6:
             self.epg = parts[5].strip()
         else:
