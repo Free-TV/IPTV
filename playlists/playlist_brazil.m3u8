@@ -17,5 +17,3 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" tvg-id="TVCultura.br" tvg-chno="12" tvg-country="BR" group-title="Brazil",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-name="Fora Tedio TV" tvg-logo="https://www.foratedio.com/img/icon_foratediotv-192x192.png" tvg-id="ForaTedioTV.br" tvg-country="BR" group-title="Brazil",Fora Tedio TV
-https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
