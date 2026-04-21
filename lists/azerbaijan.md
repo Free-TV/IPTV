@@ -48,3 +48,17 @@ AzTV əlavə edilicək
 ATV 2 Əlavə edilicək
 
 ARB_24_SD əlavə edilicək
+
+ATV 4
+
+ATV 1
+
+CBC_Azerbaycan
+
+CTV Azərbaycan HD 
+
+Apa TV
+
+Russia Music
+
+GUNAZ TV HD
