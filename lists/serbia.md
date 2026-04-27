@@ -5,7 +5,7 @@
 | 1 | RTS 1 | [>](https://webtvstream.bhtelecom.ba/rts1.m3u8) | <img height="20" src="https://i.imgur.com/S1pKHSR.png"/> | RTS1.rs |
 | 2 | RTS 2 | [>](https://webtvstream.bhtelecom.ba/rts2.m3u8) | <img height="20" src="https://i.imgur.com/jltAf5h.png"/> | RTS2.rs |
 | 3 | RTS 3 | [x]() | <img height="20" src="https://i.imgur.com/gxuGB4J.png"/> | RTS3.rs |
-| 4 | Red TV | [>](https://edge8.pink.rs/redtv/chunklist_w1213385221.m3u8) | <img height="20" src="https://i.imgur.com/cpN7NrL.png"/> | RedTV.rs |
+| 4 | Red TV | [>](https://edge8.pink.rs/redtv/index.m3u8) | <img height="20" src="https://i.imgur.com/cpN7NrL.png"/> | RedTV.rs |
 | 5 | Kurir TV | [>](https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8) | <img height="20" src="https://i.imgur.com/HBPnUD5.png"/> | KurirTV.rs |
 | 6 | Informer TV | [>](https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9wdEHRf.png"/> | InformerTV.rs |
 | 0 | RTS Svet | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png"/> | RTSSvet.rs |
