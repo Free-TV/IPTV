@@ -4,12 +4,12 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | MRT1 Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8) | <img height="20" src="https://i.imgur.com/EkkyAE0.png"/> | MRT1.mk |
-| 2   | MRT2 Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8) | <img height="20" src="https://i.imgur.com/YvOrUnN.png"/> | MRT2.mk |
-| 3   | MRT Sobraniski kanal Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_of_MRT_Assembly_Channel_%282012-%29.svg/634px-Logo_of_MRT_Assembly_Channel_%282012-%29.svg.png"/> | MRTSobraniskikanal.mk |
-| 3   | MRT3 Ⓖ | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_of_MRT_3_%282020-%29.svg/640px-Logo_of_MRT_3_%282020-%29.svg.png"/> | MRT3.mk |
-| 4   | MRT4 Ⓖ | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT4) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_of_MRT_4_%282020-%29.svg/640px-Logo_of_MRT_4_%282020-%29.svg.png"/> | MRT4.mk |
-| 4   | MRT5 Ⓖ | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT5) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_of_MRT_5_%282020-%29.svg/640px-Logo_of_MRT_5_%282020-%29.svg.png"/> | MRT5.mk |
+| 1   | MRT1 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=) | <img height="20" src="https://i.imgur.com/EkkyAE0.png"/> | MRT1.mk |
+| 2   | MRT2 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=) | <img height="20" src="https://i.imgur.com/YvOrUnN.png"/> | MRT2.mk |
+| 3   | MRT Sobraniski kanal Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzA6MTQgUE0maGFzaF92YWx1ZT0yS29FektrRDdpNXpza1hhV01kcENRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MmY2MzcwMzg=) | <img height="20" src="https://i.imgur.com/fyNQ8Nf.png"/> | MRTSobraniskikanal.mk |
+| 3   | MRT3 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI=) | <img height="20" src="https://i.imgur.com/3VZrG4T.png"/> | MRT3.mk |
+| 4   | MRT4 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc=) | <img height="20" src="https://i.imgur.com/wSmxUqY.png"/> | MRT4.mk |
+| 4   | MRT5 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc=) | <img height="20" src="https://i.imgur.com/zcvKu1h.png"/> | MRT5.mk |
 | 5   | Kanal 5 Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8) | <img height="20" src="https://i.imgur.com/Qw7N3S2.png"/> | Kanal5.mk |
 | 28  | Alfa TV Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8) | <img height="20" src="https://i.imgur.com/5BSyXfr.png"/> | AlfaTV.mk |
 | 100 | Alsat M Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png"/> | Alsat.mk |
@@ -20,9 +20,9 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | MRT Sat   | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT1Sat) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_of_MRT_SAT_%282012-%29.svg/640px-Logo_of_MRT_SAT_%282012-%29.svg.png"/> | MRT1Sat.mk |
-| 2   | MRT 2 Sat | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MRT2Sat) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logo_of_MRT_2_SAT_%282012-%29.svg/640px-Logo_of_MRT_2_SAT_%282012-%29.svg.png"/> | MRT2Sat.mk |
-| 3   | TV 21 Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_of_TV21_Macedonia.svg/640px-Logo_of_TV21_Macedonia.svg.png"/> | TV21.mk |
+| 1   | MRT Sat   | [>](https://vod-c57.interspace.com:443/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDU6NDMgUE0maGFzaF92YWx1ZT1XVzZCQVZaRysvOEU0M2Z5VHNYNUl3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3Njk3ODdkNmU=) | <img height="20" src="https://i.imgur.com/2bc5PvQ.png"/> | MRT1Sat.mk |
+| 2   | MRT 2 Sat | [>](https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU=) | <img height="20" src="https://i.imgur.com/WF1Eeuz.png"/> | MRT2Sat.mk |
+| 3   | TV 21 Ⓢ Ⓖ | [>](https://t2.tvmak.com/tv/TV21MK.m3u8?QScgsh2FfM) | <img height="20" src="https://i.imgur.com/IC1f4h3.png"/> | TV21.mk |
 
 <h2>DVB-C</h2>
 
