@@ -3,7 +3,7 @@
 https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=
 #EXTINF:-1 tvg-name="MRT2 Ⓖ" tvg-logo="https://i.imgur.com/YvOrUnN.png" tvg-id="MRT2.mk" tvg-chno="2" tvg-country="MK" group-title="North Macedonia",MRT2 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=
-#EXTINF:-1 tvg-name="MRT Sobraniski Kanal Ⓖ" tvg-logo="https://i.imgur.com/fyNQ8Nf.png" tvg-id="MRTSobraniskikanal.mk" tvg-chno="3" tvg-country="MK" group-title="North Macedonia",MRT Sobraniski Kanal Ⓖ
+#EXTINF:-1 tvg-name="MRT Sobraniski kanal Ⓖ" tvg-logo="https://i.imgur.com/fyNQ8Nf.png" tvg-id="MRTSobraniskikanal.mk" tvg-chno="3" tvg-country="MK" group-title="North Macedonia",MRT Sobraniski kanal Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzA6MTQgUE0maGFzaF92YWx1ZT0yS29FektrRDdpNXpza1hhV01kcENRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MmY2MzcwMzg=
 #EXTINF:-1 tvg-name="MRT3 Ⓖ" tvg-logo="https://i.imgur.com/3VZrG4T.png" tvg-id="MRT3.mk" tvg-chno="3" tvg-country="MK" group-title="North Macedonia",MRT3 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI=
@@ -15,7 +15,7 @@ https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wms
 https://vod-c57.interspace.com:443/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDU6NDMgUE0maGFzaF92YWx1ZT1XVzZCQVZaRysvOEU0M2Z5VHNYNUl3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3Njk3ODdkNmU=
 #EXTINF:-1 tvg-name="MRT 2 Sat" tvg-logo="https://i.imgur.com/WF1Eeuz.png" tvg-id="MRT2Sat.mk" tvg-chno="2" tvg-country="MK" group-title="North Macedonia",MRT 2 Sat
 https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU=
-#EXTINF:-1 tvg-name="TV 21 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/WF1Eeuz.png" tvg-id="TV21.mk" tvg-chno="3" tvg-country="MK" group-title="North Macedonia",TV 21 Ⓢ Ⓖ
+#EXTINF:-1 tvg-name="TV 21 Ⓢ Ⓖ" tvg-logo="https://i.imgur.com/IC1f4h3.png" tvg-id="TV21.mk" tvg-chno="3" tvg-country="MK" group-title="North Macedonia",TV 21 Ⓢ Ⓖ
 https://t2.tvmak.com/tv/TV21MK.m3u8?QScgsh2FfM
 #EXTINF:-1 tvg-name="Телевизија Здравкин" tvg-logo="https://i.imgur.com/kSmcAER.png" tvg-id="Zdravkin" tvg-chno="1" tvg-country="MK" group-title="North Macedonia",Телевизија Здравкин
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
