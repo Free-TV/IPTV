@@ -21,7 +21,7 @@
 | 15  | Frii | [>](https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/ljKoG9I.png"/> | Frii.fi |
 | 17  | Alfa Ⓢ | [>](https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png"/> | IRRTV.fi |
 | 18  | TapahtumaTV Eveo | [>](https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv) | <img height="20" src="https://i.imgur.com/sR8nA8w.png"/> | Eveo.fi |
-| 20  | National Geographic Finland Ⓖ | [>](https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"/> | NationalGeographicFinland.fi |
+| 20  | National Geographic Finland Ⓖ | [>](https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png"/> | NationalGeographicFinland.fi |
 | 21  | Viaplay TV | [>](https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?src=freetv) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/640px-Viaplay_TV_logo.svg.png"/> | ViaplayTV.fi |
 | 33  | OnniTV | [>](https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780) | <img height="20" src="https://i.imgur.com/HzILf2H.png"/> | KotiTV.fi |
 | 45  | Taivas TV7 | [>](https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a4iNVXA.png"/> | TaivasTV7.fi |
