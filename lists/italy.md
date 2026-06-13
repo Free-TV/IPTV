@@ -66,7 +66,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 158 | Radio KISS KISS TV | [>](https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UTStxDW.png"/> | KissKissTV.it |
 | 202 | Rai Radio 2 Visual Radio | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/nVBet0h.png"/> | RaiRadio2Visual.it |
 | 233 | RTL 102.5 Traffic | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GH7byqm.jpeg"/> | RTL1025Traffic.it |
-| 236 | MAN-GA | [>](https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8) | <img height="20" src="https://i.imgur.com/8a6WYU2.png"/> | Manga.it |
+| 236 | MAN-GA | [>](https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u) | <img height="20" src="https://i.imgur.com/8a6WYU2.png"/> | Manga.it |
 | 246 | Radio24-IlSole24OreTV | [>](https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8) | <img height="20" src="https://i.imgur.com/NTqrdWW.png"/> | Radio24TV.it |
 | 247 | BeJoy.Kids | [>](https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8) | <img height="20" src="https://i.imgur.com/zuR9Go5.png"/> | BeJoyKids.it |
 | 257 | Gambero Rosso  | [>](https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RApMW5x.png"/> | GamberoRosso.it |
