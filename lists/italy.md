@@ -373,7 +373,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tv Uno | [>](http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv) | <img height="20" src="https://i.imgur.com/OtCwYsh.jpg"/> |
 | 0   | Tv Yes | [>](https://stream1.aswifi.it/radioyes/live/index.m3u8) | <img height="20" src="https://i.imgur.com/1wsO8U7.png"/> |
 | 0   | Tva Vicenza | [>](http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FtFuPCC.png"/> |
-| 0   | Tvm Palermo | [>](https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/uqOdAXB.png"/> |
 | 0   | Tvr Xenon | [>](https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kLzW1Pf.jpg"/> |
 | 0   | Tvrs Tv | [>](https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6p7hTmY.jpg"/> |
 | 0   | Umbria+ TRT | [>](https://diretta.teleterni.it:8080//show/show.m3u8) | <img height="20" src="https://i.imgur.com/CU6BBgs.png"/> |
@@ -479,5 +478,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | TVR Più TeleRegione | [x](https://dacastmmd.mmdlive.lldns.net/dacastmmd/a14a9d0455b34b02842e05e6a4ad0572/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Wzb5qaT.png"/> |
 | 0   | Tv Campane 1 | [x](https://eu1.servers10.com:8081/8032/index.m3u8) | <img height="20" src="https://i.imgur.com/UrHKovD.jpg"/> |
 | 0   | Tv Campania Streaming | [x](https://eu1.servers10.com:8081/8020/index.m3u8) | <img height="20" src="https://i.imgur.com/5Ly6LyC.png"/> |
+| 0   | Tvm Palermo | [x](https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/uqOdAXB.png"/> |
 | 0   | Videostar Tv Lombardia | [x](http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpPFZL.jpg"/> |
 | 0   | Well Tv | [x](https://59d7d6f47d7fc.streamlock.net/welltv/welltv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Kqgz4Na.png"/> |
