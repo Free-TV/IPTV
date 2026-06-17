@@ -9,13 +9,13 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | ARB 24 | [>](http://85.132.81.184:8080/arb/live/index.m3u8) | <img height="20" src="https://i.imgur.com/mtvIFyq.png"/> | ARB24.az |
-| 0   | ARB Günəş Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes) | <img height="20" src="https://i.imgur.com/dSg7KUK.png"/> | ArbGunes.az |
-| 0   | ARB Ⓢ | [>](http://109.205.166.68/server124/arb/index.m3u8) | <img height="20" src="https://i.imgur.com/E97M2OL.png"/> | ARB.az |
-| 0   | Azad TV Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png"/> | AzadTV.az |
+| 0   | ARB GUNES  | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes) | <img height="20" src="https://i.imgur.com/dSg7KUK.png"/> | ArbGunes.az |
+| 0   | ARB  | [>](http://109.205.166.68/server124/arb/index.m3u8) | <img height="20" src="https://i.imgur.com/E97M2OL.png"/> | ARB.az |
+| 0   | ATV Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png"/> | AzadTV.az |
 | 0   | AzStarTV | [>](http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/di3XX5L.png"/> | AzStarTV.ca |
 | 0   | AZTV Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=AZTV) | <img height="20" src="https://i.imgur.com/snBMMeH.png"/> | AZTV.az |
 | 0   | Baku TV | [>](https://rtmp.baku.tv/live/bakutv_720p.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png"/> | BakuTV.az |
-| 0   | CBC | [>](https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8) | <img height="20" src="https://i.imgur.com/wVT0dwO.png"/> | CBC.az |
+| 0   | CBC AZƏRBAYCAN| [>](https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8) | <img height="20" src="https://i.imgur.com/wVT0dwO.png"/> | CBC.az |
 | 0   | CBC Sport Ⓖ | [>](https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png"/> | CBCSport.az |
 | 0   | Dünya TV Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png"/> | DunyaTV.az |
 | 0   | İctimai TV Ⓢ | [>](http://109.205.166.68/server124/ictimai_tv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%C4%B0ctimai_TV_%282021-h.h.%29.svg/470px-%C4%B0ctimai_TV_%282021-h.h.%29.svg.png"/> | IctimaiTV.az |
@@ -40,3 +40,25 @@
 | 0   | MCJ TV SHOP | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MCJTVShop) | <img height="20" src="https://tvtolive.com/wp-content/uploads/MCJ-TV-Shop-tvtolive.com_.jpg"/> |
 | 0   | VIP HD | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP) | <img height="20" src="https://tvtolive.com/wp-content/uploads/VIP-TV-tvtolive.com_.jpg"/> |
 | 0   | MTV Azerbaijan Ⓢ | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png"/> | MTVAzerbaijan.az |
+
+Naxçıvan TV HD Əlavə edilicək
+
+AzTV əlavə edilicək
+
+ATV 2 Əlavə edilicək
+
+ARB_24_SD əlavə edilicək
+
+ATV 4
+
+ATV 1
+
+CBC_Azerbaycan
+
+CTV Azərbaycan HD 
+
+Apa TV
+
+Russia Music
+
+GUNAZ TV HD
