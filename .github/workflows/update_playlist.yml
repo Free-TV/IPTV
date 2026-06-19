@@ -3,10 +3,15 @@ name: Update playlist
 on:
   push:
     branches: [ master ]
+  schedule:
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update-plalist:
+  update-playlist:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,6 +21,7 @@ jobs:
           git config user.name "PlaylistBot" || true
           git config user.email "playlistbot@users.noreply.github.com" || true
           python3 ./make_playlist.py
-          git add .
-          git diff --staged --quiet || git commit --quiet -m "Update Playlist (GitHub Actions)"
-          git diff --quiet HEAD @{u} || git push -f origin HEAD
+          git add playlist.m3u8 playlists
+          git diff --staged --quiet && exit 0
+          git commit --quiet -m "Update Playlist (GitHub Actions)"
+          git push origin HEAD:master
