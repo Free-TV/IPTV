@@ -95,6 +95,22 @@ Or free on the Internet:
 
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
 
+Arabic playlists
+================
+
+The repository also generates a dedicated Arabic bundle under `playlists/playlist_arabic.m3u8`, alongside the existing country and category playlists.
+
+- Combined Arabic bundle: https://raw.githubusercontent.com/ibrahimalayah-Glooko/IPTV/master/playlists/playlist_arabic.m3u8
+- Arabic news: https://raw.githubusercontent.com/ibrahimalayah-Glooko/IPTV/master/playlists/playlist_zz_news_ar.m3u8
+- Arabic documentaries: https://raw.githubusercontent.com/ibrahimalayah-Glooko/IPTV/master/playlists/playlist_zz_documentaries_ar.m3u8
+- Egypt: https://raw.githubusercontent.com/ibrahimalayah-Glooko/IPTV/master/playlists/playlist_egypt.m3u8
+- Iraq: https://raw.githubusercontent.com/ibrahimalayah-Glooko/IPTV/master/playlists/playlist_iraq.m3u8
+- Qatar: https://raw.githubusercontent.com/ibrahimalayah-Glooko/IPTV/master/playlists/playlist_qatar.m3u8
+- Saudi Arabia: https://raw.githubusercontent.com/ibrahimalayah-Glooko/IPTV/master/playlists/playlist_saudi_arabia.m3u8
+- United Arab Emirates: https://raw.githubusercontent.com/ibrahimalayah-Glooko/IPTV/master/playlists/playlist_united_arab_emirates.m3u8
+
+`.github/workflows/update_playlist.yml` refreshes these playlists every 24 hours. If you want the workflow to email the links daily, add the repository secrets `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`, and `RECIPIENT_EMAIL` (optional: `SMTP_FROM`).
+
 Philosophy
 ==========
 

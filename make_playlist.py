@@ -90,6 +90,16 @@ COUNTRY_CODES = {
     "venezuela": "VE",
 }
 
+ARABIC_PLAYLIST_KEYS = {
+    "egypt",
+    "iraq",
+    "qatar",
+    "saudi_arabia",
+    "united_arab_emirates",
+    "zz_documentaries_ar",
+    "zz_news_ar",
+}
+
 
 class Channel:
     def __init__(self, group, md_line, country_code=""):
@@ -132,15 +142,19 @@ def main():
         epg_urls = [line.strip() for line in epg_file if line.strip()]
     processed_epg_list = ", ".join(epg_urls)
     head_playlist = f'#EXTM3U x-tvg-url="{processed_epg_list}"\n'
+    arabic_playlist_path = os.path.join(dir_playlists, "playlist_arabic.m3u8")
 
-    with open(os.path.join(base_dir, "playlist.m3u8"), "w", encoding='utf-8') as playlist:
+    with open(os.path.join(base_dir, "playlist.m3u8"), "w", encoding='utf-8') as playlist, \
+         open(arabic_playlist_path, "w", encoding='utf-8') as arabic_playlist:
         playlist.write(head_playlist)
+        arabic_playlist.write(head_playlist)
         for filename in sorted(os.listdir(lists_dir)):
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
             markup_path = os.path.join(lists_dir, filename)
             country_path = os.path.join(dir_playlists, "playlist_" + filename[:-3] + ".m3u8")
             country_key = filename[:-3]
+            include_in_arabic_playlist = country_key in ARABIC_PLAYLIST_KEYS
             group = country_key.replace("_", " ").title()
             country_code = COUNTRY_CODES.get(country_key, "")
             print(f"Generating {group}")
@@ -156,6 +170,8 @@ def main():
                     m3u_line = channel.to_m3u_line()
                     print(m3u_line, file=playlist)
                     print(m3u_line, file=playlist_country)
+                    if include_in_arabic_playlist:
+                        print(m3u_line, file=arabic_playlist)
 
 if __name__ == "__main__":
     main()

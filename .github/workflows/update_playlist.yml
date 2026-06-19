@@ -3,6 +3,8 @@ name: Update playlist
 on:
   push:
     branches: [ master ]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -19,3 +21,59 @@ jobs:
           git add .
           git diff --staged --quiet || git commit --quiet -m "Update Playlist (GitHub Actions)"
           git diff --quiet HEAD @{u} || git push -f origin HEAD
+      - name: Email Arabic playlist links
+        if: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && secrets.SMTP_HOST != '' && secrets.SMTP_USERNAME != '' && secrets.SMTP_PASSWORD != '' && secrets.RECIPIENT_EMAIL != '' }}
+        env:
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+        run: |
+          python3 - <<'PY'
+          import os
+          import smtplib
+          from email.message import EmailMessage
+
+          repository = os.environ["GITHUB_REPOSITORY"]
+          branch = os.environ.get("GITHUB_REF_NAME", "master")
+          raw_base = f"https://raw.githubusercontent.com/{repository}/{branch}/playlists"
+          links = [
+              ("Arabic bundle", f"{raw_base}/playlist_arabic.m3u8"),
+              ("Arabic news", f"{raw_base}/playlist_zz_news_ar.m3u8"),
+              ("Arabic documentaries", f"{raw_base}/playlist_zz_documentaries_ar.m3u8"),
+              ("Egypt", f"{raw_base}/playlist_egypt.m3u8"),
+              ("Iraq", f"{raw_base}/playlist_iraq.m3u8"),
+              ("Qatar", f"{raw_base}/playlist_qatar.m3u8"),
+              ("Saudi Arabia", f"{raw_base}/playlist_saudi_arabia.m3u8"),
+              ("United Arab Emirates", f"{raw_base}/playlist_united_arab_emirates.m3u8"),
+          ]
+
+          message = EmailMessage()
+          message["Subject"] = "Daily Arabic IPTV playlists"
+          message["From"] = os.environ.get("SMTP_FROM") or os.environ["SMTP_USERNAME"]
+          message["To"] = os.environ["RECIPIENT_EMAIL"]
+          message.set_content(
+              "Latest curated Arabic playlists from this repository:\n\n"
+              + "\n".join(f"- {name}: {url}" for name, url in links)
+          )
+
+          host = os.environ["SMTP_HOST"]
+          port = int(os.environ.get("SMTP_PORT") or "587")
+          username = os.environ["SMTP_USERNAME"]
+          password = os.environ["SMTP_PASSWORD"]
+
+          if port == 465:
+              smtp = smtplib.SMTP_SSL(host, port)
+          else:
+              smtp = smtplib.SMTP(host, port)
+
+          with smtp:
+              smtp.ehlo()
+              if port != 465:
+                  smtp.starttls()
+                  smtp.ehlo()
+              smtp.login(username, password)
+              smtp.send_message(message)
+          PY
