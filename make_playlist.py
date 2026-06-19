@@ -100,6 +100,16 @@ ARABIC_PLAYLIST_KEYS = {
     "zz_news_ar",
 }
 
+ARABIC_PRIORITY_COUNTRIES = {
+    "chad",
+    "egypt",
+    "iraq",
+    "qatar",
+    "saudi_arabia",
+    "somalia",
+    "united_arab_emirates",
+}
+
 
 class Channel:
     def __init__(self, group, md_line, country_code=""):
@@ -130,6 +140,12 @@ class Channel:
             return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}"{chno}{country} group-title="{self.group}",{self.name}\n{self.url}')
 
 
+def playlist_sort_key(filename):
+    country_key = filename[:-3]
+    arabic_priority = country_key.endswith("_ar") or country_key in ARABIC_PRIORITY_COUNTRIES
+    return (0 if arabic_priority else 1, filename)
+
+
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     lists_dir = os.path.join(base_dir, "lists")
@@ -148,7 +164,7 @@ def main():
          open(arabic_playlist_path, "w", encoding='utf-8') as arabic_playlist:
         playlist.write(head_playlist)
         arabic_playlist.write(head_playlist)
-        for filename in sorted(os.listdir(lists_dir)):
+        for filename in sorted(os.listdir(lists_dir), key=playlist_sort_key):
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
             markup_path = os.path.join(lists_dir, filename)
