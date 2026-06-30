@@ -27,3 +27,5 @@ https://www.youtube.com/watch?v=e1FIApIafWE
 https://www.youtube.com/watch?v=nSpwwcHVp80
 #EXTINF:-1 tvg-name="Republic Bharat Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" tvg-id="RepublicBharat.in" tvg-chno="14" tvg-country="IN" group-title="India",Republic Bharat Ⓨ
 https://www.youtube.com/watch?v=3DbTO_AMhhc
+#EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" tvg-id="NDTVProfit.com" tvg-chno="15" tvg-country="IN" group-title="India",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
