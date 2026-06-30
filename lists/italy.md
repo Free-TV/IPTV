@@ -158,6 +158,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | GarganoTv | [>](https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OlJohKK.png"/> |
 | 0   | Giornale Radio Tv | [>](https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TMtvCLL.jpg"/> |
 | 0   | Giovanni Paolo Tv | [>](https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8) | <img height="20" src="https://i.imgur.com/GH5eJE6.png"/> |
+| 0   | Globo Tv | [>](https://nrvideo1.newradio.it:1936/awrgaebshj/awrgaebshj/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lR08pb3.jpeg"/> |
 | 0   | Globus Television | [>](https://cdn.cubws.com/live/globus.m3u8) | <img height="20" src="https://i.imgur.com/yUTYqCv.png"/> |
 | 0   | Gold Tv  | [>](https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3rVi4kD.png"/> | GoldTV.it |
 | 0   | GO-TV Channel | [>](https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xgjrAAn.png"/> | GOTVCanale163.it |
