@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Romania
 | 4   | TVR Info Ⓖ        | [>](https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/7oE7ThR.png"> | TVRInfo.ro |
 | 5   | TVR International Ⓖ | [>](https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AlW8jyl.png"> | TVRInternational.ro |
 | 6   | Pro TV            | [>](https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/aKAfKtW.png" /> | ProTV.ro |
-| 7   | Prima TV          | [>](https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/512px-Prima_TV_%28Rumaenien%29_Logo.svg.png"/> | PrimaTV.ro |
+| 7   | Prima TV          | [>](https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/500px-Prima_TV_%28Rumaenien%29_Logo.svg.png"/> | PrimaTV.ro |
 | 8   | România TV Ⓖ      | [>](https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZIfEp5I.png"/> | RomaniaTV.ro |
 | 9   | Telestar1         | [>](http://89.47.97.15/telestar/telestar.m3u8) | <img height="20" src="https://i.imgur.com/UZQjEsd.png"/> | Telestar1.ro |
 | 10  | Euronews România Ⓨ | [>](https://www.youtube.com/euronewsro/live) | <img height="20" src="https://i.imgur.com/jUOVUXt.png"/> | EuronewsRomania.ro |

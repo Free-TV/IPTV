@@ -17,7 +17,7 @@ https://www.youtube.com/@EuronewsAlbania/live
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-id="OraNews.al" tvg-country="AL" group-title="Albania",Ora News
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-name="Panorama TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" tvg-id="PanoramaTV.al" tvg-country="AL" group-title="Albania",Panorama TV Ⓢ
+#EXTINF:-1 tvg-name="Panorama TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-id="PanoramaTV.al" tvg-country="AL" group-title="Albania",Panorama TV Ⓢ
 http://198.244.188.94/panorama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-id="ReportTV.al" tvg-country="AL" group-title="Albania",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
@@ -31,7 +31,7 @@ https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Apollon Ⓢ" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-id="TVApollon.al" tvg-country="AL" group-title="Albania",TV Apollon Ⓢ
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" tvg-country="AL" group-title="Albania",Vizion Plus
+#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" tvg-country="AL" group-title="Albania",Vizion Plus
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1 tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-id="AndorraTV.ad" tvg-chno="1" tvg-country="AD" group-title="Andorra",Andorra TV
 https://videos.rtva.ad/live/rtva/playlist.m3u8
@@ -679,7 +679,7 @@ https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
 https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
 #EXTINF:-1 tvg-name="TapahtumaTV Eveo" tvg-logo="https://i.imgur.com/sR8nA8w.png" tvg-id="Eveo.fi" tvg-chno="18" tvg-country="FI" group-title="Finland",TapahtumaTV Eveo
 https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
-#EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-id="NationalGeographicFinland.fi" tvg-chno="20" tvg-country="FI" group-title="Finland",National Geographic Finland Ⓖ
+#EXTINF:-1 tvg-name="National Geographic Finland Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" tvg-id="NationalGeographicFinland.fi" tvg-chno="20" tvg-country="FI" group-title="Finland",National Geographic Finland Ⓖ
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv
 #EXTINF:-1 tvg-name="Viaplay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Viaplay_TV_logo.svg/640px-Viaplay_TV_logo.svg.png" tvg-id="ViaplayTV.fi" tvg-chno="21" tvg-country="FI" group-title="Finland",Viaplay TV
 https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?src=freetv
@@ -735,7 +735,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Europe" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeEurope.fr" tvg-chno="31" tvg-country="FR" group-title="France",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1 tvg-name="First Channel (1TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/512px-Pirveli_Arkhi_Logo_2022.svg.png" tvg-id="1TV.ge" tvg-chno="1" tvg-country="GE" group-title="Georgia",First Channel (1TV)
+#EXTINF:-1 tvg-name="First Channel (1TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/500px-Pirveli_Arkhi_Logo_2022.svg.png" tvg-id="1TV.ge" tvg-chno="1" tvg-country="GE" group-title="Georgia",First Channel (1TV)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-name="First Channel /Education/ (2TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/ka/c/c9/2_Tv_Logo.jpg" tvg-id="2TV.ge" tvg-chno="2" tvg-country="GE" group-title="Georgia",First Channel /Education/ (2TV)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
@@ -945,7 +945,7 @@ https://neon.streams.gr:8081/telekriti/index.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 tvg-name="Syros TV1" tvg-logo="https://i.imgur.com/duXHyvN.png" tvg-id="SyrosTV1.gr" tvg-chno="102" tvg-country="GR" group-title="Greece",Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 tvg-name="Η Φωνή της Ελλάδας" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/512px-VoiceOfGreece.svg.png" tvg-id="ERTWorld1.gr" tvg-chno="201" tvg-country="GR" group-title="Greece",Η Φωνή της Ελλάδας
+#EXTINF:-1 tvg-name="Η Φωνή της Ελλάδας" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/500px-VoiceOfGreece.svg.png" tvg-id="ERTWorld1.gr" tvg-chno="201" tvg-country="GR" group-title="Greece",Η Φωνή της Ελλάδας
 https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd
 #EXTINF:-1 tvg-name="KNR1 Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/8Pf5SJb.png" tvg-id="KNR1.gl" tvg-chno="1" tvg-country="GL" group-title="Greenland",KNR1 Ⓨ Ⓖ
 https://www.youtube.com/@KNRgreenland/live
@@ -2065,29 +2065,29 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="日本 / Japan",TOKYO MX チャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" tvg-id="KBS1TV.kr" tvg-chno="1" tvg-country="KR" group-title="Korea",KBS 1TV
+#EXTINF:-1 tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/500px-KBS_1_logo.svg.png" tvg-id="KBS1TV.kr" tvg-chno="1" tvg-country="KR" group-title="Korea",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" tvg-id="KBS2TV.kr" tvg-chno="2" tvg-country="KR" group-title="Korea",KBS 2TV
+#EXTINF:-1 tvg-name="KBS 2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/500px-KBS_2_logo.svg.png" tvg-id="KBS2TV.kr" tvg-chno="2" tvg-country="KR" group-title="Korea",KBS 2TV
 http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:-1 tvg-name="KBS News D" tvg-logo="https://i.imgur.com/4qKgvHN.png" tvg-id="KBSNewsD.kr" tvg-chno="3" tvg-country="KR" group-title="Korea",KBS News D
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" tvg-id="EBS1TV.kr" tvg-chno="4" tvg-country="KR" group-title="Korea",EBS 1 Ⓢ
+#EXTINF:-1 tvg-name="EBS 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/500px-EBS_1TV_Logo.svg.png" tvg-id="EBS1TV.kr" tvg-chno="4" tvg-country="KR" group-title="Korea",EBS 1 Ⓢ
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" tvg-id="EBS2TV.kr" tvg-chno="5" tvg-country="KR" group-title="Korea",EBS 2 Ⓢ
+#EXTINF:-1 tvg-name="EBS 2 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/500px-EBS_2TV_Logo.svg.png" tvg-id="EBS2TV.kr" tvg-chno="5" tvg-country="KR" group-title="Korea",EBS 2 Ⓢ
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" tvg-id="MBCTV.kr" tvg-chno="6" tvg-country="KR" group-title="Korea",MBC TV
+#EXTINF:-1 tvg-name="MBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/500px-Munhwa_Broadcasting_Company.svg.png" tvg-id="MBCTV.kr" tvg-chno="6" tvg-country="KR" group-title="Korea",MBC TV
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png" tvg-id="SBSTV.kr" tvg-chno="7" tvg-country="KR" group-title="Korea",SBS TV
+#EXTINF:-1 tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/500px-SBS_Korea_Logo_%28Word_Only%29.svg.png" tvg-id="SBSTV.kr" tvg-chno="7" tvg-country="KR" group-title="Korea",SBS TV
 https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
-#EXTINF:-1 tvg-name="KNN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/512px-KNN_logo.svg.png" tvg-id="KNNTV.kr" tvg-chno="8" tvg-country="KR" group-title="Korea",KNN TV
+#EXTINF:-1 tvg-name="KNN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/500px-KNN_logo.svg.png" tvg-id="KNNTV.kr" tvg-chno="8" tvg-country="KR" group-title="Korea",KNN TV
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/512px-KBC_Gwangju_Broadcasting_logo.svg.png" tvg-id="KBCTV.kr" tvg-chno="10" tvg-country="KR" group-title="Korea",KBC TV
+#EXTINF:-1 tvg-name="KBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/KBC_Gwangju_Broadcasting_logo.svg/500px-KBC_Gwangju_Broadcasting_logo.svg.png" tvg-id="KBCTV.kr" tvg-chno="10" tvg-country="KR" group-title="Korea",KBC TV
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TJB TV" tvg-logo="https://i.imgur.com/q9Nx801.png" tvg-id="TJBTV.kr" tvg-chno="11" tvg-country="KR" group-title="Korea",TJB TV
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 tvg-name="UBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Ubc_logo2.svg/512px-Ubc_logo2.svg.png" tvg-id="UBCTV.kr" tvg-chno="12" tvg-country="KR" group-title="Korea",UBC TV
+#EXTINF:-1 tvg-name="UBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Ubc_logo2.svg/500px-Ubc_logo2.svg.png" tvg-id="UBCTV.kr" tvg-chno="12" tvg-country="KR" group-title="Korea",UBC TV
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1 tvg-name="JTV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/512px-Jtv_logo.svg.png" tvg-id="JTV.kr" tvg-chno="13" tvg-country="KR" group-title="Korea",JTV TV
+#EXTINF:-1 tvg-name="JTV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/500px-Jtv_logo.svg.png" tvg-id="JTV.kr" tvg-chno="13" tvg-country="KR" group-title="Korea",JTV TV
 https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="CJB TV" tvg-logo="https://i.imgur.com/MvxdZhX.png" tvg-id="CJBTV.kr" tvg-chno="14" tvg-country="KR" group-title="Korea",CJB TV
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
@@ -2105,17 +2105,17 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-name="EBS English Ⓢ" tvg-logo="https://i.imgur.com/qceaIf7.png" tvg-id="EBSEnglish.kr" tvg-chno="22" tvg-country="KR" group-title="Korea",EBS English Ⓢ
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" tvg-id="KBSDrama.kr" tvg-chno="23" tvg-country="KR" group-title="Korea",KBS Drama
+#EXTINF:-1 tvg-name="KBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/500px-KBS_DRAMA.svg.png" tvg-id="KBSDrama.kr" tvg-chno="23" tvg-country="KR" group-title="Korea",KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-#EXTINF:-1 tvg-name="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" tvg-id="KBSJoy.kr" tvg-chno="24" tvg-country="KR" group-title="Korea",KBS Joy
+#EXTINF:-1 tvg-name="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/500px-KBS_JOY.svg.png" tvg-id="KBSJoy.kr" tvg-chno="24" tvg-country="KR" group-title="Korea",KBS Joy
 http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-#EXTINF:-1 tvg-name="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" tvg-id="KBSKids.kr" tvg-chno="25" tvg-country="KR" group-title="Korea",KBS Kids
+#EXTINF:-1 tvg-name="KBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/500px-KBS_kids.svg.png" tvg-id="KBSKids.kr" tvg-chno="25" tvg-country="KR" group-title="Korea",KBS Kids
 http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-#EXTINF:-1 tvg-name="KBS Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" tvg-id="KBSLife.kr" tvg-chno="26" tvg-country="KR" group-title="Korea",KBS Life
+#EXTINF:-1 tvg-name="KBS Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/500px-KBS_Life.svg.png" tvg-id="KBSLife.kr" tvg-chno="26" tvg-country="KR" group-title="Korea",KBS Life
 http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" tvg-id="KBSStory.kr" tvg-chno="27" tvg-country="KR" group-title="Korea",KBS Story
+#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/500px-KBS_Story.svg.png" tvg-id="KBSStory.kr" tvg-chno="27" tvg-country="KR" group-title="Korea",KBS Story
 http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr" tvg-chno="28" tvg-country="KR" group-title="Korea",KBS World
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/500px-KBS_World_%282009%29.svg.png" tvg-id="KBSWorld.kr" tvg-chno="28" tvg-country="KR" group-title="Korea",KBS World
 http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 #EXTINF:-1 tvg-name="KBS Korea Ⓨ" tvg-logo="https://kbsworldimage.kbs.co.kr/images/layout/logo/logo_korea_n.png" tvg-id="KBSKorea.kr" tvg-chno="29" tvg-country="KR" group-title="Korea",KBS Korea Ⓨ
 https://www.youtube.com/c/kbsworldtv/live
@@ -2411,7 +2411,7 @@ https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/playlist.m3u8
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Pro TV" tvg-logo="https://i.imgur.com/aKAfKtW.png" tvg-id="ProTV.ro" tvg-chno="6" tvg-country="RO" group-title="Romania",Pro TV
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/512px-Prima_TV_%28Rumaenien%29_Logo.svg.png" tvg-id="PrimaTV.ro" tvg-chno="7" tvg-country="RO" group-title="Romania",Prima TV
+#EXTINF:-1 tvg-name="Prima TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/500px-Prima_TV_%28Rumaenien%29_Logo.svg.png" tvg-id="PrimaTV.ro" tvg-chno="7" tvg-country="RO" group-title="Romania",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="România TV Ⓖ" tvg-logo="https://i.imgur.com/ZIfEp5I.png" tvg-id="RomaniaTV.ro" tvg-chno="8" tvg-country="RO" group-title="Romania",România TV Ⓖ
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
@@ -2669,9 +2669,9 @@ https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio
 https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" tvg-id="Boing.es" tvg-chno="18" tvg-country="ES" group-title="Spain",Boing
 http://185.189.225.150:85/boing/index.m3u8
-#EXTINF:-1 tvg-name="Be Mad Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png" tvg-id="BeMad.es" tvg-chno="19" tvg-country="ES" group-title="Spain",Be Mad Ⓖ
+#EXTINF:-1 tvg-name="Be Mad Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/500px-Be_Mad_TV.svg.png" tvg-id="BeMad.es" tvg-chno="19" tvg-country="ES" group-title="Spain",Be Mad Ⓖ
 https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" tvg-chno="20" tvg-country="ES" group-title="Spain",Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" tvg-chno="20" tvg-country="ES" group-title="Spain",Paramount Network
 http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-name="RNE para todos" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-id="RNE.es" tvg-chno="21" tvg-country="ES" group-title="Spain",RNE para todos
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
@@ -2685,7 +2685,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:-1 tvg-name="BOM Cine" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" tvg-chno="26" tvg-country="ES" group-title="Spain",BOM Cine
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
-#EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" tvg-chno="1" tvg-country="ES" group-title="Spain",Telemadrid
+#EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/500px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" tvg-chno="1" tvg-country="ES" group-title="Spain",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="La Otra" tvg-logo="https://i.imgur.com/W1UZyXH.png" tvg-id="LaOtra.es" tvg-chno="2" tvg-country="ES" group-title="Spain",La Otra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
@@ -2701,13 +2701,13 @@ https://www.youtube.com/c/ib3/live
 https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
 #EXTINF:-1 tvg-name="Aragón TV Ⓢ" tvg-logo="https://i.imgur.com/8H3Q07b.png" tvg-id="AragonTV.es" tvg-chno="9" tvg-country="ES" group-title="Spain",Aragón TV Ⓢ
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" tvg-id="ETB1.es" tvg-chno="10" tvg-country="ES" group-title="Spain",ETB1
+#EXTINF:-1 tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/500px-ETB1_2022_logo.svg.png" tvg-id="ETB1.es" tvg-chno="10" tvg-country="ES" group-title="Spain",ETB1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" tvg-id="ETB2.es" tvg-chno="11" tvg-country="ES" group-title="Spain",ETB2
+#EXTINF:-1 tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/500px-ETB2_2022_logo.svg.png" tvg-id="ETB2.es" tvg-chno="11" tvg-country="ES" group-title="Spain",ETB2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1 tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png" tvg-id="TV3.es" tvg-chno="12" tvg-country="ES" group-title="Spain",TV3
 http://185.189.225.150:85/tv3/index.m3u8
-#EXTINF:-1 tvg-name="TV3Cat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" tvg-id="TV3CAT.es" tvg-chno="12" tvg-country="ES" group-title="Spain",TV3Cat Ⓖ
+#EXTINF:-1 tvg-name="TV3Cat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/500px-TV3CAT.svg.png" tvg-id="TV3CAT.es" tvg-chno="12" tvg-country="ES" group-title="Spain",TV3Cat Ⓖ
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-name="3/24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" tvg-id="324.es" tvg-chno="13" tvg-country="ES" group-title="Spain",3/24
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
@@ -2945,15 +2945,15 @@ https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" tvg-id="BloombergTVEurope.uk" tvg-chno="208" tvg-country="GB" group-title="UK",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" tvg-chno="209" tvg-country="GB" group-title="UK",NHK World Japan
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/500px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" tvg-chno="209" tvg-country="GB" group-title="UK",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-name="Arirang World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" tvg-id="ArirangWorld.kr" tvg-chno="214" tvg-country="GB" group-title="UK",Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" tvg-chno="215" tvg-country="GB" group-title="UK",TRT World
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png" tvg-id="TRTWorld.tr" tvg-chno="215" tvg-country="GB" group-title="UK",TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 tvg-name="SportyStuff TV" tvg-logo="https://i.imgur.com/uIgxHSY.png" tvg-id="SportyStuffTV.uk" tvg-chno="250" tvg-country="GB" group-title="UK",SportyStuff TV
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
-#EXTINF:-1 tvg-name="4Music Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" tvg-id="4Music.uk" tvg-chno="501" tvg-country="GB" group-title="UK",4Music Ⓖ
+#EXTINF:-1 tvg-name="4Music Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/500px-4Music_logo_2018.svg.png" tvg-id="4Music.uk" tvg-chno="501" tvg-country="GB" group-title="UK",4Music Ⓖ
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-name="The Box Ⓖ" tvg-logo="https://i.imgur.com/e1Cf4Li.png" tvg-id="TheBoxUK.uk" tvg-chno="502" tvg-country="GB" group-title="UK",The Box Ⓖ
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/
@@ -3075,7 +3075,7 @@ https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
 #EXTINF:-1 tvg-name="Суспільне Чернігів" tvg-logo="https://i.imgur.com/WBChVXj.png" tvg-id="SuspilneChernihiv.ua" tvg-chno="12" tvg-country="UA" group-title="Ukraine",Суспільне Чернігів
 http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
-#EXTINF:-1 tvg-name="FREEДOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" tvg-id="FREEDOM.ua" tvg-chno="1" tvg-country="UA" group-title="Ukraine",FREEДOM
+#EXTINF:-1 tvg-name="FREEДOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/500px-FreeDOMUAlogo.svg.png" tvg-id="FREEDOM.ua" tvg-chno="1" tvg-country="UA" group-title="Ukraine",FREEДOM
 http://95.67.106.242/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" tvg-id="24Kanal.ua" tvg-chno="2" tvg-country="UA" group-title="Ukraine",24 Kanal
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
@@ -3351,9 +3351,9 @@ https://www.youtube.com/c/FRANCE24Arabic/live
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-name="CGTN العربية" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNArabic.cn" tvg-chno="5" group-title="News (AR)",CGTN العربية
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-#EXTINF:-1 tvg-name="Sky News العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsArabia.ae" tvg-chno="6" group-title="News (AR)",Sky News العربية
+#EXTINF:-1 tvg-name="Sky News العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/500px-Sky_News_logo.svg.png" tvg-id="SkyNewsArabia.ae" tvg-chno="6" group-title="News (AR)",Sky News العربية
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" tvg-chno="7" group-title="News (AR)",RT العربية
+#EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" tvg-chno="7" group-title="News (AR)",RT العربية
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-name="Sahara 24 صحراء" tvg-logo="https://imgur.com/a/7szNpBp" tvg-id="Sahara-24.mr" tvg-chno="8" group-title="News (AR)",Sahara 24 صحراء
 https://65.108.206.29/sahara24-live/video.m3u8
@@ -3397,9 +3397,9 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://www.youtube.com/@abcnewsaustralia/live
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png" tvg-id="NDTV24x7.in" tvg-chno="20" group-title="News",NDTV 24x7
 https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" tvg-chno="21" group-title="News",TRT World
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png" tvg-id="TRTWorld.tr" tvg-chno="21" group-title="News",TRT World
 https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
-#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" tvg-chno="22" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/500px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" tvg-chno="22" group-title="News",NHK World Japan
 https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
 #EXTINF:-1 tvg-name="DD India" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" tvg-chno="23" group-title="News",DD India
 https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
@@ -3409,7 +3409,7 @@ https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
 https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #EXTINF:-1 tvg-name="Metro Globe Network" tvg-logo="https://i.imgur.com/aiiinzg.png" tvg-id="MetroGlobeNetwork.id" tvg-chno="26" group-title="News",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" tvg-id="i24NEWSEnglishWorld.il" tvg-chno="27" group-title="News",i24 News
+#EXTINF:-1 tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/500px-LOGO_i24NEWS.png" tvg-id="i24NEWSEnglishWorld.il" tvg-chno="27" group-title="News",i24 News
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-id="ScrippsNews.us" tvg-chno="28" group-title="News",Scripps News
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
@@ -3419,17 +3419,17 @@ https://lnc-usa-today.tubi.video/playlist.m3u8
 https://www.youtube.com/tvcnewsnigeria/live
 #EXTINF:-1 tvg-name="Channels 24 Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" tvg-id="Channels24.ng" tvg-chno="31" group-title="News",Channels 24 Ⓨ
 https://www.youtube.com/channelstelevision/live
-#EXTINF:-1 tvg-name="Sky News Now (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png" tvg-id="SkyNewsAustralia.au" tvg-chno="32" group-title="News",Sky News Now (AU)
+#EXTINF:-1 tvg-name="Sky News Now (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/500px-Sky_News_Australia_logo_-_2019.svg.png" tvg-id="SkyNewsAustralia.au" tvg-chno="32" group-title="News",Sky News Now (AU)
 https://i.mjh.nz/sky-news-now.m3u8
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" tvg-id="GlobalNews.ca" tvg-chno="33" group-title="News",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" tvg-chno="34" group-title="News",Russia Today Ⓖ
+#EXTINF:-1 tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RT.ru" tvg-chno="34" group-title="News",Russia Today Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" tvg-chno="36" group-title="News",CNN
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" tvg-chno="37" group-title="News",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" tvg-chno="38" group-title="News",GB News
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" tvg-chno="38" group-title="News",GB News
 https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
 #EXTINF:-1 tvg-name="TalkTV" tvg-logo="https://i.imgur.com/KxHWpQB.png" tvg-id="TalkTV.uk" tvg-chno="39" group-title="News",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
@@ -3457,11 +3457,11 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" tvg-chno="201" group-title="Weather",AccuWeather NOW
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" tvg-id="FoxWeather.us" tvg-chno="202" group-title="Weather",Fox Weather
+#EXTINF:-1 tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/500px-Fox_Weather_logo.svg.png" tvg-id="FoxWeather.us" tvg-chno="202" group-title="Weather",Fox Weather
 https://lnc-fox-weather.tubi.video/index.m3u8
 #EXTINF:-1 tvg-name="KTCA-DT5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Twin_Cities_Public_Television_logo_%28PBS%29.png" tvg-id="KTCADT5.us" tvg-chno="203" group-title="Weather",KTCA-DT5
 https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
-#EXTINF:-1 tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" tvg-id="WeatherNation.us" tvg-chno="204" group-title="Weather",WeatherNation
+#EXTINF:-1 tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/500px-WeatherNation_Logo.svg.png" tvg-id="WeatherNation.us" tvg-chno="204" group-title="Weather",WeatherNation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d2cb7ac552e3773bc48982e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1028-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcca8395-396e-4be0-9049-564f29c5ac9b
 #EXTINF:-1 tvg-name="The Weather Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/2560px-TWN_Logo_2011.svg.png" tvg-id="TheWeatherNetwork.ca" tvg-chno="205" group-title="Weather",The Weather Network
 https://d3f6rv2ihfj09x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4l4ssesb90374-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -3475,7 +3475,7 @@ https://www.youtube.com/c/FRANCE24Espanol/live
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CGTN Español" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNSpanish.cn" tvg-chno="4" group-title="News (ES)",CGTN Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-name="RT Español Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RTenEspanol.ru" tvg-chno="5" group-title="News (ES)",RT Español Ⓖ
+#EXTINF:-1 tvg-name="RT Español Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RTenEspanol.ru" tvg-chno="5" group-title="News (ES)",RT Español Ⓖ
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" tvg-id="rtve.es" tvg-chno="6" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
