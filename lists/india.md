@@ -8,8 +8,8 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | #   | Channel          | Link  | Logo | EPG id |
 |:---:|:----------------:|:-----:|:----:|:------:|
 | 1   | NDTV India       | [>](https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8) | <img height="20" src="https://i.imgur.com/QjJYohG.png" /> | NDTVIndia.in |
-| 2   | ABP News         | [>](https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8) | <img height="20" src="https://i.imgur.com/DKHUFVQ.png" /> | ABPNews.in |
-| 3   | ABP Ananda       | [>](https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" /> | ABPAnanda.in |
+| 2   | ABP News         | [>](https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8) | <img height="20" src="https://i.imgur.com/DKHUFVQ.png" /> | [ABP News](https://abplive.com) |
+| 3   | ABP Ananda       | [>](https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" /> | [ABP Ananda](https://bengali.abplive.com/) |
 | 4   | DD National Ⓨ   | [>](https://www.youtube.com/doordarshan/live) | <img height="20" src="https://i.imgur.com/MohlE5B.png" /> | DDNational.in |
 | 5   | DD News Ⓨ       | [>](https://www.youtube.com/c/ddnews/live) | <img height="20" src="https://i.imgur.com/znnVCEf.png" /> | DDNews.in |
 | 6   | DD India Ⓨ      | [>](https://www.youtube.com/DDIndia/live) | <img height="20" src="https://i.imgur.com/45uptR8.png" /> | DDIndia.in |
