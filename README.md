@@ -1,4 +1,4 @@
-Free TV
+https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8Free TV
 =======
 
 This is an M3U playlist for free TV channels around the World.
