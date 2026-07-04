@@ -7,8 +7,6 @@
 | #   | Channel    | Link  | Logo | EPG id |
 |:---:|:----------:|:-----:|:----:|:------:|
 | 7   | Arte Ⓖ     | [>](https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8) | <img height="20" src="https://api-cdn.arte.tv/img/v2/image/j4EoSJjX26uySVWdmt3EmS/1920x1080"/> | ARTEFrench.fr |
-| 8   | C8 Ⓓ | [>](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
-| 12  | NRJ 12 | [>](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png"/> | NRJ12.fr |
 | 13  | LCP          | [>](https://lcp.fr/le-live-lcp-tnt-5433) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/53px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png"/> | LCP.fr |
 | 13  | Public Sénat | [>](https://www.publicsenat.fr/direct) | <img height="20" src="https://i.imgur.com/bJOdFT1.png"/> | PublicSenat.fr |
 | 16  | CNews Ⓓ    | [>](https://www.dailymotion.com/video/x3b68jn) | <img height="20" src="https://i.imgur.com/UMRGAHx.png"/> | CNews.fr |
@@ -57,10 +55,12 @@
 | 5   | France 5   | [x](https://s13.tntendirect.com/france5/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png"/> | France5.fr |
 | 6   | M6         | [x](https://s13.tntendirect.com/m6/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png"/> | M6.fr |
 | 8   | C8         | [x](https://s13.tntendirect.com/d8/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
+| 8   | C8 Ⓓ | [x](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
 | 9   | W9         | [x](https://s13.tntendirect.com/w9/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png"/> | W9.fr |
 | 10  | TMC        | [x](https://s13.tntendirect.com/tmc/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
 | 11  | TFX        | [x](https://s13.tntendirect.com/nt1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
 | 12  | NRJ 12     | [x](https://s13.tntendirect.com/nrj12/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png"/> | NRJ12.fr |
+| 12  | NRJ 12 | [x](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png"/> | NRJ12.fr |
 | 17  | CStar      | [x](https://s13.tntendirect.com/d17/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> | CStar.fr |
 | 20  | TF1 Séries Films | [x](https://s13.tntendirect.com/hd1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
 | 21  | L'Équipe Ⓖ | [x](https://s13.tntendirect.com/lequipe21/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
