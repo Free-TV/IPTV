@@ -149,4 +149,4 @@
 
 |  #  |      Channel       |                                    Link                                    |                                                            Logo                                                             |    EPG id    |
 |:---:|:------------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:------------:|
-| 201 | Η Φωνή της Ελλάδας | [>](https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd) | <img height="20" src="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/512px-VoiceOfGreece.svg.png"/> | ERTWorld1.gr |
+| 201 | Η Φωνή της Ελλάδας | [>](https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd) | <img height="20" src="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/500px-VoiceOfGreece.svg.png"/> | ERTWorld1.gr |
