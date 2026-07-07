@@ -515,63 +515,81 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 2020 Ⓢ" tvg-logo="https://i.imgur.com/rtfsNdd.png" tvg-id="TV2020.cy" tvg-chno="7" tvg-country="CY" group-title="Cyprus",TV 2020 Ⓢ
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
-#EXTINF:-1 tvg-name="ČT1 Ⓖ" tvg-logo="https://i.imgur.com/qBlEbN3.png" tvg-id="CT1.cz" tvg-chno="1" tvg-country="CZ" group-title="Czech Republic",ČT1 Ⓖ
-https://mxnticek.eu/sktv/stream.php?x=CT1
-#EXTINF:-1 tvg-name="ČT2 Ⓖ" tvg-logo="https://i.imgur.com/HpnGC6A.png" tvg-id="CT2.cz" tvg-chno="2" tvg-country="CZ" group-title="Czech Republic",ČT2 Ⓖ
-https://mxnticek.eu/sktv/stream.php?x=CT2
-#EXTINF:-1 tvg-name="ČT24" tvg-logo="https://i.imgur.com/pUMRFs1.png" tvg-id="CT24.cz" tvg-chno="3" tvg-country="CZ" group-title="Czech Republic",ČT24
-https://mxnticek.eu/sktv/stream.php?x=CT24
-#EXTINF:-1 tvg-name="ČT sport Ⓖ" tvg-logo="https://i.imgur.com/I2dltZW.png" tvg-id="CTSport.cz" tvg-chno="4" tvg-country="CZ" group-title="Czech Republic",ČT sport Ⓖ
-https://mxnticek.eu/sktv/stream.php?x=CTsport
-#EXTINF:-1 tvg-name="ČT :D" tvg-logo="https://i.imgur.com/Pa5rLpA.png" tvg-id="CTDecko.cz" tvg-chno="5" tvg-country="CZ" group-title="Czech Republic",ČT :D
-https://mxnticek.eu/sktv/stream.php?x=CT_D
-#EXTINF:-1 tvg-name="ČT art" tvg-logo="https://i.imgur.com/u8mfETB.png" tvg-id="CTart.cz" tvg-chno="6" tvg-country="CZ" group-title="Czech Republic",ČT art
-https://mxnticek.eu/sktv/stream.php?x=CTart
-#EXTINF:-1 tvg-name="ČT sport Plus Ⓖ" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="" tvg-chno="7" tvg-country="CZ" group-title="Czech Republic",ČT sport Plus Ⓖ
-https://mxnticek.eu/sktv/stream.php?x=CTsportPlus
-#EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://i.imgur.com/IZHIAAj.png" tvg-id="JojFamily.sk" tvg-chno="8" tvg-country="CZ" group-title="Czech Republic",JOJ Family Ⓢ
-https://mxnticek.eu/sktv/stream.php?x=JOJFamily
-#EXTINF:-1 tvg-name="Šlágr Originál Ⓢ" tvg-logo="https://i.imgur.com/fQcx9S2.png" tvg-id="SlagrOriginal.cz" tvg-chno="9" tvg-country="CZ" group-title="Czech Republic",Šlágr Originál Ⓢ
-https://stream-6.mazana.tv/slagr.m3u
-#EXTINF:-1 tvg-name="Šlágr Muzika Ⓢ" tvg-logo="https://i.imgur.com/J9YHDVS.png" tvg-id="SlagrMuzika.cz" tvg-chno="10" tvg-country="CZ" group-title="Czech Republic",Šlágr Muzika Ⓢ
-https://stream-33.mazana.tv/slagr2.m3u
-#EXTINF:-1 tvg-name="Šlágr Premium Ⓢ" tvg-logo="https://i.imgur.com/Lp0IqDx.png" tvg-id="SlagrPremium.cz" tvg-chno="11" tvg-country="CZ" group-title="Czech Republic",Šlágr Premium Ⓢ
-https://stream-15.mazana.tv/slagrpremium.m3u
-#EXTINF:-1 tvg-name="Prima Ⓖ" tvg-logo="https://i.imgur.com/0aHT2Nj.png" tvg-id="Prima.cz" tvg-chno="12" tvg-country="CZ" group-title="Czech Republic",Prima Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="CNN Prima News" tvg-logo="https://i.imgur.com/Il7t0bU.png" tvg-id="CNNPrimaNews.cz" tvg-chno="13" tvg-country="CZ" group-title="Czech Republic",CNN Prima News
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Zoom Ⓖ" tvg-logo="https://i.imgur.com/zuzBucZ.png" tvg-id="PrimaZoom.cz" tvg-chno="14" tvg-country="CZ" group-title="Czech Republic",Prima Zoom Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Love Ⓖ" tvg-logo="https://i.imgur.com/TOCZc3Y.png" tvg-id="PrimaLove.cz" tvg-chno="15" tvg-country="CZ" group-title="Czech Republic",Prima Love Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima STAR Ⓖ" tvg-logo="https://i.imgur.com/tQGwvNs.png" tvg-id="PrimaStar.cz" tvg-chno="16" tvg-country="CZ" group-title="Czech Republic",Prima STAR Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Krimi Ⓖ" tvg-logo="https://i.imgur.com/Dn2YxrA.png" tvg-id="PrimaKrimi.cz" tvg-chno="17" tvg-country="CZ" group-title="Czech Republic",Prima Krimi Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima MAX Ⓖ" tvg-logo="https://i.imgur.com/QaEakvm.png" tvg-id="PrimaMax.cz" tvg-chno="18" tvg-country="CZ" group-title="Czech Republic",Prima MAX Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Cool Ⓖ" tvg-logo="https://i.imgur.com/JMHWmcJ.png" tvg-id="PrimaCool.cz" tvg-chno="19" tvg-country="CZ" group-title="Czech Republic",Prima Cool Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima Show Ⓖ" tvg-logo="https://i.imgur.com/zX4NTJ5.png" tvg-id="PrimaShow.cz" tvg-chno="20" tvg-country="CZ" group-title="Czech Republic",Prima Show Ⓖ
-https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Óčko Ⓢ" tvg-logo="https://i.imgur.com/iPmpsnN.png" tvg-id="Ocko.cz" tvg-chno="21" tvg-country="CZ" group-title="Czech Republic",Óčko Ⓢ
+#EXTINF:-1 tvg-name="ČT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png" tvg-id="CT1.cz" tvg-chno="1" tvg-country="CZ" group-title="Czech Republic",ČT1
+https://sktv.mxnticek.eu/new/stream.php?ch=CT1
+#EXTINF:-1 tvg-name="ČT2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png" tvg-id="CT2.cz" tvg-chno="2" tvg-country="CZ" group-title="Czech Republic",ČT2
+https://sktv.mxnticek.eu/new/stream.php?ch=CT2
+#EXTINF:-1 tvg-name="ČT24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png" tvg-id="CT24.cz" tvg-chno="3" tvg-country="CZ" group-title="Czech Republic",ČT24
+https://sktv.mxnticek.eu/new/stream.php?ch=CT24
+#EXTINF:-1 tvg-name="ČT sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="CTSport.cz" tvg-chno="4" tvg-country="CZ" group-title="Czech Republic",ČT sport
+https://sktv.mxnticek.eu/new/stream.php?ch=CTsport
+#EXTINF:-1 tvg-name="ČT :D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png" tvg-id="CTDecko.cz" tvg-chno="5" tvg-country="CZ" group-title="Czech Republic",ČT :D
+https://sktv.mxnticek.eu/new/stream.php?ch=CT_D
+#EXTINF:-1 tvg-name="ČT art" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png" tvg-id="CTart.cz" tvg-chno="6" tvg-country="CZ" group-title="Czech Republic",ČT art
+https://sktv.mxnticek.eu/new/stream.php?ch=CTart
+#EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="" tvg-chno="7" tvg-country="CZ" group-title="Czech Republic",ČT sport Plus
+https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
+#EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" tvg-id="tvnova.cz" tvg-chno="8" tvg-country="CZ" group-title="Czech Republic",TV Nova Ⓢ
+https://sktv.mxnticek.eu/new/stream.php?ch=Nova
+#EXTINF:-1 tvg-name="Nova Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" tvg-id="NovaCinema.cz" tvg-chno="9" tvg-country="CZ" group-title="Czech Republic",Nova Cinema
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
+#EXTINF:-1 tvg-name="Nova Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" tvg-id="NovaAction.cz" tvg-chno="10" tvg-country="CZ" group-title="Czech Republic",Nova Action
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
+#EXTINF:-1 tvg-name="Nova Fun" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" tvg-id="NovaFun.cz" tvg-chno="11" tvg-country="CZ" group-title="Czech Republic",Nova Fun
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
+#EXTINF:-1 tvg-name="Nova Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png" tvg-id="NovaGold.cz" tvg-chno="12" tvg-country="CZ" group-title="Czech Republic",Nova Gold
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
+#EXTINF:-1 tvg-name="Nova Lady" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" tvg-id="NovaLady.cz" tvg-chno="13" tvg-country="CZ" group-title="Czech Republic",Nova Lady
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
+#EXTINF:-1 tvg-name="TN Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" tvg-id="" tvg-chno="14" tvg-country="CZ" group-title="Czech Republic",TN Live
+https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live
+#EXTINF:-1 tvg-name="Prima" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png" tvg-id="Prima.cz" tvg-chno="15" tvg-country="CZ" group-title="Czech Republic",Prima
+https://sktv.mxnticek.eu/new/stream.php?ch=Prima
+#EXTINF:-1 tvg-name="CNN Prima News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" tvg-id="CNNPrimaNews.cz" tvg-chno="16" tvg-country="CZ" group-title="Czech Republic",CNN Prima News
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
+#EXTINF:-1 tvg-name="Prima Zoom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png" tvg-id="PrimaZoom.cz" tvg-chno="17" tvg-country="CZ" group-title="Czech Republic",Prima Zoom
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom
+#EXTINF:-1 tvg-name="Prima Love" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png" tvg-id="PrimaLove.cz" tvg-chno="18" tvg-country="CZ" group-title="Czech Republic",Prima Love
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaLove
+#EXTINF:-1 tvg-name="Prima STAR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png" tvg-id="PrimaStar.cz" tvg-chno="19" tvg-country="CZ" group-title="Czech Republic",Prima STAR
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar
+#EXTINF:-1 tvg-name="Prima Krimi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" tvg-id="PrimaKrimi.cz" tvg-chno="20" tvg-country="CZ" group-title="Czech Republic",Prima Krimi
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
+#EXTINF:-1 tvg-name="Prima MAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png" tvg-id="PrimaMax.cz" tvg-chno="21" tvg-country="CZ" group-title="Czech Republic",Prima MAX
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax
+#EXTINF:-1 tvg-name="Prima Cool" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png" tvg-id="PrimaCool.cz" tvg-chno="22" tvg-country="CZ" group-title="Czech Republic",Prima Cool
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaCool
+#EXTINF:-1 tvg-name="Prima Show" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png" tvg-id="PrimaShow.cz" tvg-chno="23" tvg-country="CZ" group-title="Czech Republic",Prima Show
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaShow
+#EXTINF:-1 tvg-name="JOJ Family Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png" tvg-id="JojFamily.sk" tvg-chno="24" tvg-country="CZ" group-title="Czech Republic",JOJ Family Ⓢ
+https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family
+#EXTINF:-1 tvg-name="JOJ Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png" tvg-id="JojCinema.cz" tvg-chno="25" tvg-country="CZ" group-title="Czech Republic",JOJ Cinema
+https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema
+#EXTINF:-1 tvg-name="CS Film" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png" tvg-id="CSFilm.cz" tvg-chno="26" tvg-country="CZ" group-title="Czech Republic",CS Film
+https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film
+#EXTINF:-1 tvg-name="CS History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-history-cz.png" tvg-id="CSHistory.cz" tvg-chno="27" tvg-country="CZ" group-title="Czech Republic",CS History
+https://sktv.mxnticek.eu/new/stream.php?ch=CS%20History
+#EXTINF:-1 tvg-name="CS Mystery" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png" tvg-id="CSMystery.cz" tvg-chno="28" tvg-country="CZ" group-title="Czech Republic",CS Mystery
+https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Mystery
+#EXTINF:-1 tvg-name="Óčko Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png" tvg-id="Ocko.cz" tvg-chno="29" tvg-country="CZ" group-title="Czech Republic",Óčko Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Star Ⓢ" tvg-logo="https://i.imgur.com/tGzQFWw.png" tvg-id="OckoStar.cz" tvg-chno="22" tvg-country="CZ" group-title="Czech Republic",Óčko Star Ⓢ
+#EXTINF:-1 tvg-name="Óčko Star Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png" tvg-id="OckoStar.cz" tvg-chno="30" tvg-country="CZ" group-title="Czech Republic",Óčko Star Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-name="Óčko Expres Ⓢ" tvg-logo="https://i.imgur.com/e731JNS.png" tvg-id="OckoExpres.cz" tvg-chno="23" tvg-country="CZ" group-title="Czech Republic",Óčko Expres Ⓢ
+#EXTINF:-1 tvg-name="Óčko Expres Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-expres-cz.png" tvg-id="OckoExpres.cz" tvg-chno="31" tvg-country="CZ" group-title="Czech Republic",Óčko Expres Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" tvg-chno="24" tvg-country="CZ" group-title="Czech Republic",Retro Music Television Ⓢ
+#EXTINF:-1 tvg-name="Šlágr Originál Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png" tvg-id="SlagrOriginal.cz" tvg-chno="32" tvg-country="CZ" group-title="Czech Republic",Šlágr Originál Ⓢ
+https://stream-6.mazana.tv/slagr.m3u
+#EXTINF:-1 tvg-name="Šlágr Muzika Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png" tvg-id="SlagrMuzika.cz" tvg-chno="33" tvg-country="CZ" group-title="Czech Republic",Šlágr Muzika Ⓢ
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:-1 tvg-name="Šlágr Premium Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png" tvg-id="SlagrPremium.cz" tvg-chno="34" tvg-country="CZ" group-title="Czech Republic",Šlágr Premium Ⓢ
+https://stream-15.mazana.tv/slagrpremium.m3u
+#EXTINF:-1 tvg-name="Retro Music TV Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" tvg-id="RetroMusicTV.cz" tvg-chno="35" tvg-country="CZ" group-title="Czech Republic",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TN Live" tvg-logo="https://i.imgur.com/9P7ZyFu.png" tvg-id="" tvg-chno="25" tvg-country="CZ" group-title="Czech Republic",TN Live
-https://sktv.plainrock127.xyz/get.php?x=NovaTNLive
-#EXTINF:-1 tvg-name="Praha TV" tvg-logo="https://www.praga2018.cz/wp-content/uploads/logo-prahatv.png" tvg-id="PrahaTV.cz" tvg-chno="26" tvg-country="CZ" group-title="Czech Republic",Praha TV
+#EXTINF:-1 tvg-name="Praha TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png" tvg-id="PrahaTV.cz" tvg-chno="36" tvg-country="CZ" group-title="Czech Republic",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" tvg-chno="27" tvg-country="CZ" group-title="Czech Republic",TV Nova Ⓢ
-https://sktv.plainrock127.xyz/get.php?x=Nova
-#EXTINF:-1 tvg-name="Východoceská TV" tvg-logo="https://i.imgur.com/4Wwptd3.png" tvg-id="V1.cz" tvg-chno="28" tvg-country="CZ" group-title="Czech Republic",Východoceská TV
+#EXTINF:-1 tvg-name="Východoceská TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png" tvg-id="V1.cz" tvg-chno="37" tvg-country="CZ" group-title="Czech Republic",Východoceská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-name="UTV (Czech Republic)" tvg-logo="https://imgur.com/ulfeIwM.png" tvg-id="utv.cz" tvg-chno="29" tvg-country="CZ" group-title="Czech Republic",UTV (Czech Republic)
+#EXTINF:-1 tvg-name="UTV" tvg-logo="https://imgur.com/ulfeIwM.png" tvg-id="utv.cz" tvg-chno="38" tvg-country="CZ" group-title="Czech Republic",UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-name="DR1 Ⓖ" tvg-logo="https://i.imgur.com/wEq8UnG.png" tvg-id="DR1.dk" tvg-chno="1" tvg-country="DK" group-title="Denmark",DR1 Ⓖ
 https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
@@ -2609,34 +2627,46 @@ https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
 rtmp://212.200.230.50:1935/RTV/rtv1
 #EXTINF:-1 tvg-name="RTV 2" tvg-logo="https://i.imgur.com/skpr66t.png" tvg-id="RTV2.rs" tvg-chno="2" tvg-country="RS" group-title="Serbia",RTV 2
 rtmp://212.200.230.50:1935/RTV/rtv2
-#EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" tvg-chno="1" tvg-country="SK" group-title="Slovakia",:Jednotka
-https://sktv.plainrock127.xyz/get.php?x=STV1
-#EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" tvg-chno="2" tvg-country="SK" group-title="Slovakia",:Dvojka
-https://sktv.plainrock127.xyz/get.php?x=STV2
-#EXTINF:-1 tvg-name=":24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" tvg-chno="3" tvg-country="SK" group-title="Slovakia",:24
-https://sktv.plainrock127.xyz/get.php?x=STV24
-#EXTINF:-1 tvg-name=":Šport" tvg-logo="https://i.imgur.com/YzHipRF.png" tvg-id="Sport.sk" tvg-chno="4" tvg-country="SK" group-title="Slovakia",:Šport
-https://sktv.plainrock127.xyz/get.php?x=SPORT
-#EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" tvg-chno="5" tvg-country="SK" group-title="Slovakia",:O
-https://sktv.plainrock127.xyz/get.php?x=STV-O
-#EXTINF:-1 tvg-name="STVR" tvg-logo="https://i.imgur.com/Nf5gEDc.png" tvg-chno="6" tvg-country="SK" group-title="Slovakia",STVR
-https://sktv.plainrock127.xyz/get.php?x=RTVS
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" tvg-chno="7" tvg-country="SK" group-title="Slovakia",NR SR
-https://sktv.plainrock127.xyz/get.php?x=NR_SR
-#EXTINF:-1 tvg-name="JOJ" tvg-logo="https://i.imgur.com/5BAWD0z.png" tvg-id="TVJOJ.sk" tvg-chno="8" tvg-country="SK" group-title="Slovakia",JOJ
-https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
-#EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://i.imgur.com/fKPliTj.png" tvg-id="JOJPlus.sk" tvg-chno="9" tvg-country="SK" group-title="Slovakia",JOJ Plus
-https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
-#EXTINF:-1 tvg-name="WAU" tvg-logo="https://i.imgur.com/wO5ifff.png" tvg-id="JOJWAU.sk" tvg-chno="10" tvg-country="SK" group-title="Slovakia",WAU
-https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
-#EXTINF:-1 tvg-name="JOJ 24" tvg-logo="https://i.imgur.com/owEVXRE.png" tvg-id="JOJ24.sk" tvg-chno="11" tvg-country="SK" group-title="Slovakia",JOJ 24
-https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
-#EXTINF:-1 tvg-name="JOJ Šport" tvg-logo="https://i.imgur.com/QWEY2a5.png" tvg-id="JOJSport.sk" tvg-chno="12" tvg-country="SK" group-title="Slovakia",JOJ Šport
-https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
-#EXTINF:-1 tvg-name="Senzi" tvg-logo="https://i.imgur.com/W82dwzf.png" tvg-id="Senzi.sk" tvg-chno="13" tvg-country="SK" group-title="Slovakia",Senzi
-http://lb.streaming.sk/senzi/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" tvg-chno="14" tvg-country="SK" group-title="Slovakia",TA3 Ⓢ
-https://sktv.plainrock127.xyz/get.php?x=TA3
+#EXTINF:-1 tvg-name="Markíza" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" tvg-id="Markiza.sk" tvg-chno="1" tvg-country="SK" group-title="Slovakia",Markíza
+https://sktv.mxnticek.eu/new/stream.php?ch=Markiza
+#EXTINF:-1 tvg-name="Doma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png" tvg-id="MarkizaDoma.sk" tvg-chno="2" tvg-country="SK" group-title="Slovakia",Doma
+https://sktv.mxnticek.eu/new/stream.php?ch=Doma
+#EXTINF:-1 tvg-name="Dajto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png" tvg-id="MarkizaDajto.sk" tvg-chno="3" tvg-country="SK" group-title="Slovakia",Dajto
+https://sktv.mxnticek.eu/new/stream.php?ch=Dajto
+#EXTINF:-1 tvg-name="Krimi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png" tvg-id="MarkizaKrimi.sk" tvg-chno="4" tvg-country="SK" group-title="Slovakia",Krimi
+https://sktv.mxnticek.eu/new/stream.php?ch=Krimi
+#EXTINF:-1 tvg-name="Klasik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" tvg-id="" tvg-chno="5" tvg-country="SK" group-title="Slovakia",Klasik
+https://sktv.mxnticek.eu/new/stream.php?ch=Klasik
+#EXTINF:-1 tvg-name="Markíza TN Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" tvg-id="" tvg-chno="6" tvg-country="SK" group-title="Slovakia",Markíza TN Live
+https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live
+#EXTINF:-1 tvg-name="JOJ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png" tvg-id="JOJ.sk" tvg-chno="7" tvg-country="SK" group-title="Slovakia",JOJ
+https://sktv.mxnticek.eu/new/stream.php?ch=JOJ
+#EXTINF:-1 tvg-name="JOJ Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-plus-sk.png" tvg-id="JOJPlus.sk" tvg-chno="8" tvg-country="SK" group-title="Slovakia",JOJ Plus
+https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus
+#EXTINF:-1 tvg-name="Wau" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png" tvg-id="JOJWau.sk" tvg-chno="9" tvg-country="SK" group-title="Slovakia",Wau
+https://sktv.mxnticek.eu/new/stream.php?ch=Wau
+#EXTINF:-1 tvg-name="JOJ 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-24-sk.png" tvg-id="JOJ24.sk" tvg-chno="10" tvg-country="SK" group-title="Slovakia",JOJ 24
+https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024
+#EXTINF:-1 tvg-name="JOJ Šport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sport-sk.png" tvg-id="JOJSport.sk" tvg-chno="11" tvg-country="SK" group-title="Slovakia",JOJ Šport
+https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port
+#EXTINF:-1 tvg-name="Jojko" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png" tvg-id="Jojko.sk" tvg-chno="12" tvg-country="SK" group-title="Slovakia",Jojko
+https://sktv.mxnticek.eu/new/stream.php?ch=Jojko
+#EXTINF:-1 tvg-name="Jednotka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jednotka-sk.png" tvg-id="STV1.sk" tvg-chno="13" tvg-country="SK" group-title="Slovakia",Jednotka
+https://sktv.mxnticek.eu/new/stream.php?ch=Jednotka
+#EXTINF:-1 tvg-name="Dvojka" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/dvojka-sk.png" tvg-id="STV2.sk" tvg-chno="14" tvg-country="SK" group-title="Slovakia",Dvojka
+https://sktv.mxnticek.eu/new/stream.php?ch=Dvojka
+#EXTINF:-1 tvg-name="STVR :24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png" tvg-id="RTVS24.sk" tvg-chno="15" tvg-country="SK" group-title="Slovakia",STVR :24
+https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24
+#EXTINF:-1 tvg-name="Šport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png" tvg-id="RTVSSport.sk" tvg-chno="16" tvg-country="SK" group-title="Slovakia",Šport
+https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port
+#EXTINF:-1 tvg-name="STVR :O" tvg-logo=" :" tvg-id="" tvg-chno="17" tvg-country="SK" group-title="Slovakia",STVR :O
+https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO
+#EXTINF:-1 tvg-name="NR SR" tvg-logo="" tvg-id="" tvg-chno="18" tvg-country="SK" group-title="Slovakia",NR SR
+https://sktv.mxnticek.eu/new/stream.php?ch=NR%20SR
+#EXTINF:-1 tvg-name="STVR Live" tvg-logo=" Liv" tvg-id="" tvg-chno="19" tvg-country="SK" group-title="Slovakia",STVR Live
+https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
+#EXTINF:-1 tvg-name="TA3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" tvg-id="TA3.sk" tvg-chno="20" tvg-country="SK" group-title="Slovakia",TA3
+https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 #EXTINF:-1 tvg-name="TV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" tvg-id="TVSlovenija1.si" tvg-chno="1" tvg-country="SI" group-title="Slovenia",TV SLO 1
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1
 #EXTINF:-1 tvg-name="TV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" tvg-id="TVSlovenija2.si" tvg-chno="2" tvg-country="SI" group-title="Slovenia",TV SLO 2
