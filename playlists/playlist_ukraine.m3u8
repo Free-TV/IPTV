@@ -75,7 +75,7 @@ https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
 #EXTINF:-1 tvg-name="Суспільне Чернігів" tvg-logo="https://i.imgur.com/WBChVXj.png" tvg-id="SuspilneChernihiv.ua" tvg-chno="12" tvg-country="UA" group-title="Ukraine",Суспільне Чернігів
 http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
-#EXTINF:-1 tvg-name="FREEДOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" tvg-id="FREEDOM.ua" tvg-chno="1" tvg-country="UA" group-title="Ukraine",FREEДOM
+#EXTINF:-1 tvg-name="FREEДOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/500px-FreeDOMUAlogo.svg.png" tvg-id="FREEDOM.ua" tvg-chno="1" tvg-country="UA" group-title="Ukraine",FREEДOM
 http://95.67.106.242/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" tvg-id="24Kanal.ua" tvg-chno="2" tvg-country="UA" group-title="Ukraine",24 Kanal
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8

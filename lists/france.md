@@ -27,7 +27,7 @@
 | 3   | France 3 | [x](http://livetv.ktv.zone/105/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3.fr |
 | 14  | France 4 | [x](http://livetv.ktv.zone/116/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
 | 5   | France 5 | [x](http://livetv.ktv.zone/107/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
-| 10  | TMC | [x](http://livetv.ktv.zone/12/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
+| 10  | TMC | [x](http://livetv.ktv.zone/12/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/500px-TMC_logo_2016.svg.png"/> | TMC.fr |
 | 11  | TFX | [x](http://livetv.ktv.zone/13/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
 | 20  | TF1 Séries Films | [x](http://livetv.ktv.zone/22/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
 | 29  | TV5 Monde Info | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
@@ -57,7 +57,7 @@
 | 8   | C8         | [x](https://s13.tntendirect.com/d8/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
 | 8   | C8 Ⓓ | [x](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
 | 9   | W9         | [x](https://s13.tntendirect.com/w9/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png"/> | W9.fr |
-| 10  | TMC        | [x](https://s13.tntendirect.com/tmc/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png"/> | TMC.fr |
+| 10  | TMC        | [x](https://s13.tntendirect.com/tmc/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/500px-TMC_logo_2016.svg.png"/> | TMC.fr |
 | 11  | TFX        | [x](https://s13.tntendirect.com/nt1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
 | 12  | NRJ 12     | [x](https://s13.tntendirect.com/nrj12/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png"/> | NRJ12.fr |
 | 12  | NRJ 12 | [x](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png"/> | NRJ12.fr |
