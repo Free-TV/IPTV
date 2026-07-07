@@ -1,33 +1,42 @@
 <h1>Czech Republic</h1>
 
-| #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | ČT1 Ⓖ    | [>](https://mxnticek.eu/sktv/stream.php?x=CT1) | <img height="20" src="https://i.imgur.com/qBlEbN3.png"/> | CT1.cz |
-| 2   | ČT2 Ⓖ    | [>](https://mxnticek.eu/sktv/stream.php?x=CT2) | <img height="20" src="https://i.imgur.com/HpnGC6A.png"/> | CT2.cz |
-| 3   | ČT24      | [>](https://mxnticek.eu/sktv/stream.php?x=CT24) | <img height="20" src="https://i.imgur.com/pUMRFs1.png"/> | CT24.cz |
-| 4   | ČT sport Ⓖ    | [>](https://mxnticek.eu/sktv/stream.php?x=CTsport) | <img height="20" src="https://i.imgur.com/I2dltZW.png"/> | CTSport.cz |
-| 5   | ČT :D      | [>](https://mxnticek.eu/sktv/stream.php?x=CT_D) | <img height="20" src="https://i.imgur.com/Pa5rLpA.png"/> | CTDecko.cz |
-| 6   | ČT art      | [>](https://mxnticek.eu/sktv/stream.php?x=CTart) | <img height="20" src="https://i.imgur.com/u8mfETB.png"/> | CTart.cz |
-| 7   | ČT sport Plus Ⓖ    | [>](https://mxnticek.eu/sktv/stream.php?x=CTsportPlus) | <img height="20" src="https://i.imgur.com/5JiMynW.png"/> | |
-| 8   | JOJ Family Ⓢ    | [>](https://mxnticek.eu/sktv/stream.php?x=JOJFamily) | <img height="20" src="https://i.imgur.com/IZHIAAj.png"/> | JojFamily.sk |
-| 9   | Šlágr Originál Ⓢ    | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://i.imgur.com/fQcx9S2.png"/> | SlagrOriginal.cz |
-| 10  | Šlágr Muzika Ⓢ    | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://i.imgur.com/J9YHDVS.png"/> | SlagrMuzika.cz |
-| 11  | Šlágr Premium Ⓢ    | [>](https://stream-15.mazana.tv/slagrpremium.m3u) | <img height="20" src="https://i.imgur.com/Lp0IqDx.png"/> | SlagrPremium.cz |
-| 12  | Prima Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_family/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/0aHT2Nj.png"> | Prima.cz |
-| 13  | CNN Prima News   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cnn/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/Il7t0bU.png"> | CNNPrimaNews.cz |
-| 14  | Prima Zoom Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_zoom/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/zuzBucZ.png"> | PrimaZoom.cz |
-| 15  | Prima Love Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_love/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/TOCZc3Y.png"> | PrimaLove.cz |
-| 16  | Prima STAR Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_star/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/tQGwvNs.png"> | PrimaStar.cz |
-| 17  | Prima Krimi Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_krimi/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/Dn2YxrA.png"> | PrimaKrimi.cz |
-| 18  | Prima MAX Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_max/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/QaEakvm.png"> | PrimaMax.cz |
-| 19  | Prima Cool Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_cool/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/JMHWmcJ.png"> | PrimaCool.cz |
-| 20  | Prima Show Ⓖ   | [>](https://prima-ott-live.ssl.cdn.cra.cz/channels/prima_show/playlist/cze/live_hd.m3u8?offsetSeconds=0&url=0) | <img height="20" src="https://i.imgur.com/zX4NTJ5.png"> | PrimaShow.cz |
-| 21  | Óčko Ⓢ    | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iPmpsnN.png"/> | Ocko.cz |
-| 22  | Óčko Star Ⓢ    | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tGzQFWw.png"/> | OckoStar.cz |
-| 23  | Óčko Expres Ⓢ    | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8) | <img height="20" src="https://i.imgur.com/e731JNS.png"/> | OckoExpres.cz |
-| 24  | Retro Music Television Ⓢ    | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a6S2Yo4.png"/> | RetroMusicTV.cz |
-| 25  | TN Live      | [>](https://sktv.plainrock127.xyz/get.php?x=NovaTNLive) | <img height="20" src="https://i.imgur.com/9P7ZyFu.png"/> | |
-| 26  | Praha TV      | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://www.praga2018.cz/wp-content/uploads/logo-prahatv.png"/> | PrahaTV.cz |
-| 27  | TV Nova Ⓢ    | [>](https://sktv.plainrock127.xyz/get.php?x=Nova) | <img height="20" src="https://i.imgur.com/77ztmd9.png"/> | tvnova.cz |
-| 28  | Východoceská TV      | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4Wwptd3.png"/> | V1.cz |
-| 29  | UTV (Czech Republic)      | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | <img height="20" src="https://imgur.com/ulfeIwM.png"/> | utv.cz |
+| # | Channel | Link | Logo | EPG id |
+|:-:|:-------:|:----:|:----:|:------:|
+| 1 | ČT1 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT1) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png"/> | CT1.cz |
+| 2 | ČT2 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT2) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct2-cz.png"/> | CT2.cz |
+| 3 | ČT24 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT24) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct24-cz.png"/> | CT24.cz |
+| 4 | ČT sport | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTsport) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> | CTSport.cz |
+| 5 | ČT :D | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CT_D) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png"/> | CTDecko.cz |
+| 6 | ČT art | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CTart) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png"/> | CTart.cz |
+| 7 | ČT sport Plus | [>](https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png"/> |  |
+| 8 | TV Nova Ⓢ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Nova) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png"/> | tvnova.cz |
+| 9 | Nova Cinema | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png"/> | NovaCinema.cz |
+| 10 | Nova Action | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png"/> | NovaAction.cz |
+| 11 | Nova Fun | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png"/> | NovaFun.cz |
+| 12 | Nova Gold | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png"/> | NovaGold.cz |
+| 13 | Nova Lady | [>](https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png"/> | NovaLady.cz |
+| 14 | TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png"/> |  |
+| 15 | Prima | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Prima) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cz.png"/> | Prima.cz |
+| 16 | CNN Prima News | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png"/> | CNNPrimaNews.cz |
+| 17 | Prima Zoom | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaZoom) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-zoom-cz.png"/> | PrimaZoom.cz |
+| 18 | Prima Love | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaLove) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-love-cz.png"/> | PrimaLove.cz |
+| 19 | Prima STAR | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-star-cz.png"/> | PrimaStar.cz |
+| 20 | Prima Krimi | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png"/> | PrimaKrimi.cz |
+| 21 | Prima MAX | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-max-cz.png"/> | PrimaMax.cz |
+| 22 | Prima Cool | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaCool) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-cool-cz.png"/> | PrimaCool.cz |
+| 23 | Prima Show | [>](https://sktv.mxnticek.eu/new/stream.php?ch=PrimaShow) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-show-cz.png"/> | PrimaShow.cz |
+| 24 | JOJ Family Ⓢ | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png"/> | JojFamily.sk |
+| 25 | JOJ Cinema | [>](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png"/> | JojCinema.cz |
+| 26 | CS Film | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png"/> | CSFilm.cz |
+| 27 | CS History | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CS%20History) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-history-cz.png"/> | CSHistory.cz |
+| 28 | CS Mystery | [>](https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Mystery) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png"/> | CSMystery.cz |
+| 29 | Óčko Ⓢ | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png"/> | Ocko.cz |
+| 30 | Óčko Star Ⓢ | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png"/> | OckoStar.cz |
+| 31 | Óčko Expres Ⓢ | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-expres-cz.png"/> | OckoExpres.cz |
+| 32 | Šlágr Originál Ⓢ | [>](https://stream-6.mazana.tv/slagr.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png"/> | SlagrOriginal.cz |
+| 33 | Šlágr Muzika Ⓢ | [>](https://stream-33.mazana.tv/slagr2.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png"/> | SlagrMuzika.cz |
+| 34 | Šlágr Premium Ⓢ | [>](https://stream-15.mazana.tv/slagrpremium.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png"/> | SlagrPremium.cz |
+| 35 | Retro Music TV Ⓢ | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png"/> | RetroMusicTV.cz |
+| 36 | Praha TV | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png"/> | PrahaTV.cz |
+| 37 | Východoceská TV | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png"/> | V1.cz |
+| 38 | UTV | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | <img height="20" src="https://imgur.com/ulfeIwM.png"/> | utv.cz |
