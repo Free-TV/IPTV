@@ -23,3 +23,4 @@
 | 19 | Deportes13 Ⓖ | [>](https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GRpxoPf.png"/> | D13.cl |
 | 20 | TVN 3 | [>](https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8) | <img height="20" src="https://i.imgur.com/84lWqRi.png"/> | TVN3.cl |
 | 21 | Chilevisión Noticias | [>](https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Qh6d0A9.png"/> | CHVNoticias.cl |
+| 22 | SoloTV | [>](https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8) | <img height="20" src="https://i.imgur.com/Ad2ueID.png"/> | SoloTV.cl |

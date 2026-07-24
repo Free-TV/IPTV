@@ -9,11 +9,11 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 | 1  | HRT 1 | [>](https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" /> | HRT1.hr |
 | 2  | HRT 2 | [>](https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" /> | HRT2.hr |
 | 3  | RTL | [>](https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/zAjr6pO.png"/> | RTLCroatia.hr |
-| 4  | Nova TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/512px-Nova_TV_Croatia_logo.png" /> | NovaTV.hr |
+| 4  | Nova TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/500px-Nova_TV_Croatia_logo.png" /> | NovaTV.hr |
 | 5  | HRT 3 | [>](https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" /> | HRT3.hr |
 | 6  | HRT 4 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" /> | HRT4.hr |
 | 7  | RTL 2 | [>](https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dQLaylJ.png"/> | RTL2Croatia.hr |
-| 8  | Doma TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Doma_TV_logo.png/512px-Doma_TV_logo.png"/> | DomaTV.hr |
+| 8  | Doma TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Doma_TV_logo.png/500px-Doma_TV_logo.png"/> | DomaTV.hr |
 | 11 | Sportska televizija Ⓖ | [>](https://stream.agatin.hr:3087/live/sptvlive.m3u8) | <img height="20" src="https://i.imgur.com/xdxjcVh.png"/> | SportskaTV.hr |
 | 12 | RTL Kockica | [>](https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BiSVmRa.png"/> | RTLKockica.hr |
 | 13 | CMC TV | [>](https://stream.cmctv.hr:49998/cmc/live.m3u8) | <img height="20" src="https://i.imgur.com/Fh2vawT.png"/> | CMCTV.hr |

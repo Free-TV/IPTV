@@ -5,7 +5,7 @@ http://85.132.81.184:8080/arb/live/index.m3u8
 https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes
 #EXTINF:-1 tvg-name="ARB Ⓢ" tvg-logo="https://i.imgur.com/E97M2OL.png" tvg-id="ARB.az" tvg-country="AZ" group-title="Azerbaijan",ARB Ⓢ
 http://109.205.166.68/server124/arb/index.m3u8
-#EXTINF:-1 tvg-name="Azad TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png" tvg-id="AzadTV.az" tvg-country="AZ" group-title="Azerbaijan",Azad TV Ⓢ
+#EXTINF:-1 tvg-name="Azad Azərbaycan TV (ATV) Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png" tvg-id="AzadTV.az" tvg-country="AZ" group-title="Azerbaijan",Azad Azərbaycan TV (ATV) Ⓢ
 https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz
 #EXTINF:-1 tvg-name="AzStarTV" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-id="AzStarTV.ca" tvg-country="AZ" group-title="Azerbaijan",AzStarTV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8

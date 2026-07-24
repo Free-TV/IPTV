@@ -11,7 +11,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 2   | LRT Plius | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=LRTPlius) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/512px-LRT_Plius_Logo_2022.svg.png"/> | LRTPlius.lt |
+| 2   | LRT Plius | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=LRTPlius) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/500px-LRT_Plius_Logo_2022.svg.png"/> | LRTPlius.lt |
 | 3   | TV3 Ⓢ | [x](http://88.216.83.245/tv3/index.m3u8) | <img height="20" src="https://i.imgur.com/7nipq0y.png"/> | TV3Lithuania.lt |
 | 6   | TV6 Ⓢ | [x](http://88.216.83.245/tv6/index.m3u8) | <img height="20" src="https://i.imgur.com/oC0jiFW.png"/> | TV6Lithuania.lt |
 | 8   | TV8 Ⓢ | [x](http://88.216.83.245/tv8/index.m3u8) | <img height="20" src="https://i.imgur.com/9g3wknl.png"/> | TV8Lithuania.lt |
