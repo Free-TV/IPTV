@@ -30,3 +30,4 @@
 | 6   | VIJF      | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts) | <img height="20" src="https://i.imgur.com/DTJLkiP.png"/> |
 | 7   | VTM 3     | [x]() | <img height="20" src="https://i.imgur.com/NTN8ixi.png"/> | VTM3.be |
 | 8   | VTM 4     | [x]() | <img height="20" src="https://i.imgur.com/A7Mi1rY.png"/> | VTM4.be |
+| 9   | Bruzz     | [>](https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8) | <img height="20" src="https://www.bruzz.be/themes/custom/drupack/favicons/favicon-32x32.png"/> |
