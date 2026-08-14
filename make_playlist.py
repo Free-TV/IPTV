@@ -96,21 +96,21 @@ class Channel:  # pylint: disable=too-few-public-methods,too-many-instance-attri
     """A single channel entry parsed from a markdown list line."""
 
     def __init__(self, group, md_line, country_code=""):
-        self.group = group
+        self.group = group.replace('"', '')
         self.country_code = country_code
         md_line = md_line.strip()
         parts = md_line.split("|")
         self.number = parts[1].strip()
-        self.name = parts[2].strip()
+        self.name = parts[2].strip().replace('"', '')
         self.url = parts[3].strip()
         self.url = self.url[self.url.find("(")+1:self.url.rfind(")")]
         self.logo = parts[4].strip()
-        self.logo = self.logo[self.logo.find('src="')+5:self.logo.rfind('"')]
+        self.logo = self.logo[self.logo.find('src="')+5:self.logo.rfind('"')].replace('"', '')
 
         self.chno = self.number if self.number and self.number != "0" else None
 
         if len(parts) > 6:
-            self.epg = parts[5].strip()
+            self.epg = parts[5].strip().replace('"', '')
         else:
             self.epg = None
 
