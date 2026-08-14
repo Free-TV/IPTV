@@ -25,3 +25,5 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 #EXTINF:-1 tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" tvg-chno="6" tvg-country="BE" group-title="Belgium",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
+#EXTINF:-1 tvg-name="Bruzz" tvg-logo="https://www.bruzz.be/themes/custom/drupack/favicons/favicon-32x32.png" tvg-chno="9" tvg-country="BE" group-title="Belgium",Bruzz
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
