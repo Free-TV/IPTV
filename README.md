@@ -84,6 +84,7 @@ Either free locally (over the air):
 [<img src="https://hatscripts.github.io/circle-flags/flags/so.svg" width="24">](lists/somalia.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="24">](lists/indonesia.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/ke.svg" width="24">](lists/kenya.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ng.svg" width="24">](lists/nigeria.md)
 
 Or free on the Internet:
 
