@@ -14,3 +14,5 @@ https://en.wikipedia.org/wiki/List_of_television_networks_in_Venezuela
 | 9   | Chivacoatv Internacional | [x](https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8) | <img height="20" src="https://i.imgur.com/9rbwZFY.png"/> | Chivacoatv.ve |
 | 10  | Latina TV       | [>](https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8) | <img height="20" src="https://intervenhosting.net/imagenes/latinatv.jpg"> | LatinaTV.ve |
 | 11  | inter TV       | [>](https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8) | <img height="20" src="https://intervenhosting.net/imagenes/itv.jpg"> | interTV.ve |
+| 12  | Aguacate TV     | [>](https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8) | <img height="20" src="https://intervenhosting.net/imagenes/aguacatetv.jpg"> | AguacateTV.ve |
+| 13  | AS3 Sport TV    | [>](https://streamtv.as3sport.online:3394/hybrid/play.m3u8) | <img height="20" src="https://intervenhosting.net/imagenes/as3sporttv.jpg"> | AS3SportTV.ve |
