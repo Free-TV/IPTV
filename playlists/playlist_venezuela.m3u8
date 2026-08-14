@@ -13,3 +13,5 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
 #EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" tvg-id="LatinaTV.ve" tvg-chno="10" tvg-country="VE" group-title="Venezuela",Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-name="inter TV" tvg-logo="https://intervenhosting.net/imagenes/itv.jpg" tvg-id="interTV.ve" tvg-chno="11" tvg-country="VE" group-title="Venezuela",inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
