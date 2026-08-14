@@ -13,3 +13,4 @@ https://en.wikipedia.org/wiki/List_of_television_networks_in_Venezuela
 | 8   | Telesur         | [>](https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png"/> | TeleSUR.ve |
 | 9   | Chivacoatv Internacional | [x](https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8) | <img height="20" src="https://i.imgur.com/9rbwZFY.png"/> | Chivacoatv.ve |
 | 10  | Latina TV       | [>](https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8) | <img height="20" src="https://intervenhosting.net/imagenes/latinatv.jpg"> | LatinaTV.ve |
+| 11  | inter TV       | [>](https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8) | <img height="20" src="https://intervenhosting.net/imagenes/itv.jpg"> | interTV.ve |
