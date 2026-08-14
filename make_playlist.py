@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Generate M3U playlists from the markdown channel lists in lists/."""
 
 import os
 import re
@@ -91,7 +92,9 @@ COUNTRY_CODES = {
 }
 
 
-class Channel:
+class Channel:  # pylint: disable=too-few-public-methods,too-many-instance-attributes
+    """A single channel entry parsed from a markdown list line."""
+
     def __init__(self, group, md_line, country_code=""):
         self.group = group
         self.country_code = country_code
@@ -105,22 +108,25 @@ class Channel:
         self.logo = self.logo[self.logo.find('src="')+5:self.logo.rfind('"')]
 
         self.chno = self.number if self.number and self.number != "0" else None
-        
+
         if len(parts) > 6:
             self.epg = parts[5].strip()
         else:
             self.epg = None
 
     def to_m3u_line(self):
+        """Render this channel as a #EXTINF entry followed by its URL."""
         country = f' tvg-country="{self.country_code}"' if self.country_code else ""
         chno = f' tvg-chno="{self.chno}"' if self.chno else ""
-        if self.epg is None:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}"{chno}{country} group-title="{self.group}",{self.name}\n{self.url}')
-        else:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}"{chno}{country} group-title="{self.group}",{self.name}\n{self.url}')
+        epg = f' tvg-id="{self.epg}"' if self.epg is not None else ""
+        return (
+            f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}"{epg}{chno}{country}'
+            f' group-title="{self.group}",{self.name}\n{self.url}'
+        )
 
 
-def main():
+def main():  # pylint: disable=too-many-locals
+    """Build the combined playlist.m3u8 and one per-country playlist."""
     base_dir = os.path.dirname(os.path.abspath(__file__))
     lists_dir = os.path.join(base_dir, "lists")
     dir_playlists = os.path.join(base_dir, "playlists")
