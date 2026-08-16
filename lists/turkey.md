@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Television_in_Turkey
 | 5   | TRT Spor 2 Ⓖ    | [>](https://tv-trtspor2.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/ysKteM8.png"/> |
 | 6   | TRT Çocuk        | [>](https://tv-trtcocuk.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/QLFmD6d.png"/> | TRTCocuk.tr |
 | 7   | TRT Müzik        | [>](https://tv-trtmuzik.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/fIVFCEd.png"/> |
-| 8   | TRT Belgesel     | [>](https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/MGO87pe.png"/> | TRTBelgesel.tr |
+| 8   | TRT Belgesel     | [>](https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/MGO87pe.png"/> | TRTBelgesel.tr |
 | 9   | TRT Avaz         | [>](https://tv-trtavaz.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/VhTwXu5.png"/> | TRTAvaz.tr |
 | 10  | TRT Kurdî        | [>](https://tv-trtkurdi.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/6BpymfB.png"/> | TRTKurdi.tr |
 | 11  | TRT Arabi        | [>](https://tv-trtarabi.medya.trt.com.tr/master.m3u8) | <img height="20" src="https://i.imgur.com/yyhWOZs.png"/> | TRTArabi.tr |
