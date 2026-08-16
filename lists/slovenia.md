@@ -13,12 +13,6 @@ https://en.wikipedia.org/wiki/Television_in_Slovenia
 | 5   | TV Maribor | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=TVMaribor) | <img height="20" src="https://i.imgur.com/tWf3dgf.png"/> | TVMaribor.si |
 | 6   | MMC TV | [>](https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV) | <img height="20" src="https://i.imgur.com/yzETQJ4.png"/> | MMC.si |
 
-<h2>DVB-S</h2>
-
-| #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:|
-| 0   | Nova 24 TV Ⓨ | [>](https://www.youtube.com/@Nova24TVSlovenija/live) | <img height="20" src="https://i.imgur.com/M2207Vh.png"/> | Nova24TV.si |
-
 <h2>Web</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
