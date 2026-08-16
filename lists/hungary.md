@@ -6,11 +6,12 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | M1 Hiradó Ⓨ  | [>](https://www.youtube.com/@M1-Hirado/live) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
-| 2   | M2 / Petőfi TV | [>](https://c402-node61-cdn.connectmedia.hu/110102/3f2e21db6a5e1486d3956f6bd4f84ea4/6a8141ee/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
-| 3   | M4 Sport       | [>](https://c801-node63-cdn.connectmedia.hu/150104/a8bce2b000171306f22a4bf7db099e45/6a81422c/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
-| 4   | M5 Hungary     | [>](https://c201-node61-cdn.connectmedia.hu/110105/0f0cdb58ccf10c83b8956309f662845e/6a8141ef/index.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
-| 5   | Duna TV        | [>](https://c402-node61-cdn.connectmedia.hu/110103/0a6b1c35c3bed51d246dc366b8ffc4de/6a8141ef/index.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
+| 1   | M1 Ⓖ           | [>](https://c202-node62-cdn.connectmedia.hu/110101/db348f50fb635daafb208f46d9132c4c/6a8153aa/index.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
+| 2   | M1 Hiradó Ⓨ    | [>](https://www.youtube.com/@M1-Hirado/live) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
+| 3   | M2 / Petőfi TV Ⓖ | [>](https://c802-node63-cdn.connectmedia.hu/110102/d2416399a4ac7b2bec0c7034a9db3716/6a8153ac/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
+| 4   | M4 Sport Ⓖ     | [>](https://c402-node61-cdn.connectmedia.hu/150104/aaef1a354b4ad88351bbc3f3b781c3c0/6a8153af/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
+| 5   | M5 Hungary Ⓖ   | [>](https://c202-node61-cdn.connectmedia.hu/110105/fd0c97309570434f5725ef453596bdfa/6a8153b2/index.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
+| 6   | Duna TV Ⓖ      | [>](https://c202-node61-cdn.connectmedia.hu/110103/c0601fb7f4e18d1bda8f6bf3a47e6aae/6a8153b3/index.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
 
 <h2>Commercial</h2>
 
