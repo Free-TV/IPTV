@@ -25,6 +25,7 @@ korea
 # Central Asia
 mongolia
 kazakhstan
+turkmenistan
 # Southeast Asia
 indonesia
 

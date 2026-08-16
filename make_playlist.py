@@ -87,6 +87,7 @@ COUNTRY_CODES = {
     "taiwan": "TW",
     "trinidad": "TT",
     "turkey": "TR",
+    "turkmenistan": "TM",
     "uk": "GB",
     "ukraine": "UA",
     "united_arab_emirates": "AE",
