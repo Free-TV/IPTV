@@ -2374,21 +2374,17 @@ https://live.vtv.mk/live/vtv/chunks.m3u8
 #EXTINF:-1 tvg-name="Стар Плус" tvg-logo="https://i.imgur.com/01yz22a.png" tvg-id="" tvg-chno="13" tvg-country="MK" group-title="North Macedonia",Стар Плус
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1 tvg-name="NRK1 Ⓖ" tvg-logo="https://i.imgur.com/9tj8ds7.png" tvg-id="NRK1.no" tvg-chno="1" tvg-country="NO" group-title="Norway",NRK1 Ⓖ
-https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
+https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
 #EXTINF:-1 tvg-name="NRK2 Ⓖ" tvg-logo="https://i.imgur.com/SiAdoK9.png" tvg-id="NRK2.no" tvg-chno="2" tvg-country="NO" group-title="Norway",NRK2 Ⓖ
-https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/playlist.m3u8
+https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
 #EXTINF:-1 tvg-name="NRK3 Ⓖ" tvg-logo="https://i.imgur.com/TNhV2I7.png" tvg-id="NRK3.no" tvg-chno="3" tvg-country="NO" group-title="Norway",NRK3 Ⓖ
-https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8
+https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 #EXTINF:-1 tvg-name="NRK Super Ⓖ" tvg-logo="https://i.imgur.com/xIATe2T.png" tvg-id="NRKSuper.no" tvg-chno="6" tvg-country="NO" group-title="Norway",NRK Super Ⓖ
-https://nrk-nrksuper.akamaized.net/23/0/hls/nrk_super/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 2 Sport 1" tvg-logo="https://i.imgur.com/asKHqNZ.png" tvg-id="TV2Sport1.no" tvg-chno="12" tvg-country="NO" group-title="Norway",TV 2 Sport 1
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 tvg-name="TV 2 Nyheter" tvg-logo="https://i.imgur.com/kkKoY6s.png" tvg-id="TV2Nyhetskanalen.no" tvg-chno="22" tvg-country="NO" group-title="Norway",TV 2 Nyheter
-https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
 #EXTINF:-1 tvg-name="Frikanalen" tvg-logo="https://i.imgur.com/rY3Owxl.png" tvg-id="Frikanalen.no" tvg-chno="50" tvg-country="NO" group-title="Norway",Frikanalen
 https://frikanalen.no/stream/index.m3u8
-#EXTINF:-1 tvg-name="Kanal 10 Norge" tvg-logo="https://i.imgur.com/2fOcZfK.png" tvg-id="Kanal10Norway.no" tvg-chno="109" tvg-country="NO" group-title="Norway",Kanal 10 Norge
-https://player-api.new.livestream.com/accounts/29308686/events/10787545/broadcasts/235454817.secure.m3u8
+#EXTINF:-1 tvg-name="Kanal 10 Norge Ⓨ" tvg-logo="https://i.imgur.com/2fOcZfK.png" tvg-id="Kanal10Norway.no" tvg-chno="109" tvg-country="NO" group-title="Norway",Kanal 10 Norge Ⓨ
+https://www.youtube.com/c/Kanal10Norge/live
 #EXTINF:-1 tvg-name="Unicanal Ⓨ" tvg-logo="https://i.imgur.com/brlepuX.png" tvg-id="Unicanal.py" tvg-chno="1" tvg-country="PY" group-title="Paraguay",Unicanal Ⓨ
 https://www.youtube.com/@unicanalpy/live
 #EXTINF:-1 tvg-name="ABC TV Ⓨ" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-id="ABCTV.py" tvg-chno="2" tvg-country="PY" group-title="Paraguay",ABC TV Ⓨ
@@ -2432,7 +2428,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTP3.pt" tvg-chno="3" tvg-country="PT" group-title="Portugal",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" tvg-id="SIC.pt" tvg-chno="4" tvg-country="PT" group-title="Portugal",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png" tvg-id="TVI.pt" tvg-chno="5" tvg-country="PT" group-title="Portugal",TVI
 https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP Açores" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/640px-RTP_A%C3%A7ores_%282016%29.svg.png" tvg-id="RTPAcores.pt" tvg-chno="6" tvg-country="PT" group-title="Portugal",RTP Açores
@@ -3357,8 +3353,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 tvg-name="Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/641px-Logotipo_de_Venevisi%C3%B3n.svg.png" tvg-id="Venevision.ve" tvg-chno="1" tvg-country="VE" group-title="Venezuela",Venevisión
 https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8
-#EXTINF:-1 tvg-name="Venezolana de Televisión Ⓓ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/640px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" tvg-id="VenezolanadeTelevision.ve" tvg-chno="2" tvg-country="VE" group-title="Venezuela",Venezolana de Televisión Ⓓ
-https://www.dailymotion.com/embed/video/x828i6j
 #EXTINF:-1 tvg-name="Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" tvg-id="Televen.ve" tvg-chno="4" tvg-country="VE" group-title="Venezuela",Televen
 https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8
 #EXTINF:-1 tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" tvg-id="Globovision.ve" tvg-chno="6" tvg-country="VE" group-title="Venezuela",Globovisión
