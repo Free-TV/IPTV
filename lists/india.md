@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 16  | TV9 Marathi | [>](https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/k7urrIv.jpeg" /> | TV9Marathi.in |
 | 17  | Republic Bharat Ⓨ | [>](https://www.youtube.com/watch?v=3DbTO_AMhhc) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" /> | RepublicBharat.in |
 | 18  | NDTV Profit      | [>](https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" /> | NDTVProfit.com |
-| 19  | Asianet News Ⓨ | [>]() | <img height="20" src="" /> | AsianetNews.com |
+| 19  | Asianet News Ⓨ | [>](https://www.youtube.com/@asianetnews) | <img height="20" src="https://i.imgur.com/ofntbBS.png" /> | AsianetNews.com |
 | 20  | Asianet Suvarna News Ⓨ | [>]() | <img height="20" src="" /> | AsianetNews.com |
 | 21  | Asianet News Telugu Ⓨ | [>]() | <img height="20" src="" /> |AsianetNews.com |
 | 22  | News18 India Ⓨ | [>](https://www.youtube.com/@news18india/live) | <img height="20" src="https://i.imgur.com/BR4BUAw.png" /> | News18.com |
