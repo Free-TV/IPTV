@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 21 | Asianet News Ⓨ | [>](https://www.youtube.com/@asianetnews/live) | <img height="20" src="https://i.imgur.com/CnMzeZC.png" /> | AsianetNews.com |
 | 22 | AsianetSuvarnaNews Ⓨ | [>](https://www.youtube.com/@AsianetSuvarnaNews/live) | <img height="20" src="https://i.imgur.com/kE1bceQ.png" /> | Kannada.AsianetNews.com |
 | 23 | Asianet News Telugu Ⓨ | [>](https://www.youtube.com/@AsianetNewsTelugu/live) | <img height="20" src="https://i.imgur.com/ilgmZAk.jpeg" /> | Telugu.AsianetNews.com |
-| 24 | Asianet News Tamil Ⓨ | [>](https://www.youtube.com/@AsianetNewsTamil/live) | <img height="20" src="https://i.imgur.com/kXsObC8.jpeg" /> | Tamil.AsianetNews.com |
+| 24 | News18 India Ⓨ | [>](https://www.youtube.com/@news18india/live) | <img height="20" src="https://i.imgur.com/VbWn2ME.png" /> | News18.com |
 
 <h2>Invalid</h2>
 
