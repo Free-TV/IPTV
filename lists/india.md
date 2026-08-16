@@ -29,8 +29,8 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 20  | Asianet Suvarna News Ⓨ | [>]() | <img height="20" src="https://i.imgur.com/5ZKVW1P.png" /> | AsianetNews.com |
 | 21  | Asianet News Telugu Ⓨ | [>]() | <img height="20" src="https://i.imgur.com/kV2J8Qn.png" /> |AsianetNews.com |
 | 22  | News18 India Ⓨ | [>]() | <img height="20" src="https://i.imgur.com/2H5KZZB.png" /> | News18India.in |
-| 23  | CNN-News18 Ⓨ | [>]() | <img height="20" src="https://i.imgur.com/4GxQPnD.png" /> | CNNNews18.in |
-| 24  | News18 UP Uttarakhand Ⓨ | [>](https://www.youtube.com/@News18UPUttarakhand/live) | <img height="20" src="https://i.imgur.com/bZ3d8Wx.png" /> | News18UPUttarakhand.in |
+| 23  | CNN-News18 Ⓨ | [>](https://www.youtube.com/@cnnnews18/live) | <img height="20" src="https://i.imgur.com/K3M8MoK.png" /> | News18.com |
+| 24  | News18 UP Uttarakhand Ⓨ | [>](https://www.youtube.com/@News18UPUttarakhand/live) | <img height="20" src="https://i.imgur.com/nKwoe8n.png" /> | News18.com |
 
 <h2>Invalid</h2>
 
