@@ -22,6 +22,9 @@ taiwan
 # North & South Korea
 north_korea
 korea
+# Central Asia
+mongolia
+kazakhstan
 # Southeast Asia
 indonesia
 
