@@ -20,6 +20,9 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 2   | TV2            | [>](http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" /> | TV2.hu |
 | 3   | ATV Ⓨ          | [>](https://www.youtube.com/@ATVmagyarorszag/live) | <img height="20" src="https://onlinestream.live/logos/4739.png" /> | ATV.hu |
 | 4   | Hír TV         | [>](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> | HirTV.hu |
+| 5   | Spektrum Home  | [>](http://88.212.15.19/live/spektrum_home_hun/index.m3u8) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> | SpektrumHome.hu |
+| 6   | Fix TV Ⓨ       | [>](https://www.youtube.com/@fixhdtv/live) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
+| 7   | ErdélyTV Ⓨ     | [>](https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
 
 <h2>Religion</h2>
 
@@ -34,6 +37,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | Oxygen Music   | [>](https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8) | | |
 | 2   | Dance TV       | [>](https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8) | | |
+| 3   | Radio 1 Ⓨ      | [>](https://www.youtube.com/@radio1hungary/live) | | |
+| 4   | DikhTv Ⓨ       | [>](https://www.youtube.com/c/DikhTvGipsyTv/live) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> | DikhTV.hu |
 
 <h2>Series</h2>
 
@@ -81,6 +86,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 26  | Líceum TV     | [>](http://193.225.32.62:8890/live.m3u8) | | |
 | 27  | Pannon RTV    | [>](https://stream2.nmih.hu:4102/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
 | 28  | Tisza TV      | [>](https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
+| 29  | Hegyvidék TV (Buda TV) | [>](http://budatv.streaming.aiproduction.hu/playlist.m3u) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" /> |
 
 
 <h2>Invalid</h2>
@@ -88,18 +94,12 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | *   | *              | [x]() | <img height="20" src="" /> |
-| 1   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
-| 2   | DikhTv         | [x](https://onlinestream.live/play.xspf?id=6424&ch=1&ext=.xspf) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> | DikhTV.hu |
-| 3   | Spektrum Home  | [x](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> | SpektrumHome.hu |
-| 4   | M3             | [x](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
-| 5   | Duna World / M4+ Sport | [x](http://152.66.115.226:33391/bysid/103) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
-| 6   | Fix TV         | [x](https://fixhd.tv:8082/fix/1080i/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
-| 7   | MUSICPlus      | [x](http://s02.diazol.hu:10192/stream.m3u8) | | |
-| 8   | Radio 1 Ⓨ      | [x](https://www.youtube.com/watch?v=I8dnZoF1nOE) | | |
-| 9   | Budakalász     | [x](https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MGkvVQg.png" /> |
-| 10  | VTV Füzesabony | [x](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
-| 11  | Hegyvidék TV   | [x](https://tv.hegyvidek.hu/hvtv/hvstream.m3u8) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" /> | HegyvidekTV.hu |
-| 12  | Putnok Városi TV | [x](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
-| 13  | Miskolc TV     | [x](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
-| 14  | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
+| 1   | M3             | [x](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
+| 2   | Duna World / M4+ Sport | [x](http://152.66.115.226:33391/bysid/103) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
+| 3   | MUSICPlus      | [x](http://s02.diazol.hu:10192/stream.m3u8) | | |
+| 4   | Budakalász     | [x](https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MGkvVQg.png" /> |
+| 5   | VTV Füzesabony | [x](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
+| 6   | Putnok Városi TV | [x](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
+| 7   | Miskolc TV     | [x](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
+| 8   | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
 
