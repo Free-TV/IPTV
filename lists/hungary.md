@@ -93,7 +93,6 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| *   | *              | [x]() | <img height="20" src="" /> |
 | 1   | M3             | [x](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
 | 2   | Duna World / M4+ Sport | [x](http://152.66.115.226:33391/bysid/103) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
 | 3   | MUSICPlus      | [x](http://s02.diazol.hu:10192/stream.m3u8) | | |
