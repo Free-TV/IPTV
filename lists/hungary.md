@@ -93,7 +93,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | *   | *              | [x]() | <img height="20" src="" /> |
-| 1   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="https://i.imgur.com/xAmYapr.jpg" /> |
+| 1   | ErdélyTV       | [x](http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END) | <img height="20" src="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" /> |
 | 2   | DikhTv         | [x](https://onlinestream.live/play.xspf?id=6424&ch=1&ext=.xspf) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/6/64/Dikh_TV_2019.jpg" /> | DikhTV.hu |
 | 3   | Spektrum Home  | [x](http://152.66.115.226:33390/bysid/207) | <img height="20" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/08/logo_SPKH_LOGO_2020_WHITE_65_2.png" /> | SpektrumHome.hu |
 | 4   | M2 / Petőfi TV | [>](https://c201-node61-cdn.connectmedia.hu/110102/7184521041cf54cee9c6548e8d0ba377/64117799/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
