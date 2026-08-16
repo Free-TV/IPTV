@@ -27,7 +27,8 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 18  | TV9 Bangla | [>](https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OC9EUbE.png" /> | TV9Bangla.in |
 | 19  | Republic Bharat Ⓨ | [>](https://www.youtube.com/watch?v=3DbTO_AMhhc) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" /> | RepublicBharat.in |
 | 20  | NDTV Profit      | [>](https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" /> | NDTVProfit.com |
-| 21| Asianet News Ⓨ | [>](https://www.youtube.com/@asianetnews/live) | <img height="20" src="https://i.imgur.com/CnMzeZC.png" /> | AsianetNews.com |
+| 21 | Asianet News Ⓨ | [>](https://www.youtube.com/@asianetnews/live) | <img height="20" src="https://i.imgur.com/CnMzeZC.png" /> | AsianetNews.com |
+| 22 | AsianetSuvarnaNews Ⓨ | [>](https://www.youtube.com/@AsianetSuvarnaNews/live) | <img height="20" src="https://i.imgur.com/kE1bceQ.png" /> | Kannada.AsianetNews.com |
 
 <h2>Invalid</h2>
 
