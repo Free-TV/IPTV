@@ -30,19 +30,19 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1 | Телевизија Здравкин | [>](http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kSmcAER.png"/> | Zdravkin |
 | 2 | ТВ Сонце | [x](https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LblSsIv.png"/> | tv-sonce.com |
-| 3 | Орбис | [>](http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png"/> | TV Orbis |
+| 3 | Орбис | [x](http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png"/> | TV Orbis |
 | 4 | M»Net | [>](http://ares.mnet.mk/hls/mnet.m3u8) | <img height="20" src="https://i.imgur.com/JWHcGMX.png"/> | mnet.mk |
 | 5 | Македонско Сонце | [x](https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8) | <img height="20" src="https://i.imgur.com/b97qVaV.png"/> | makedonsko-sonce |
-| 6 | Канал 8 | [>](http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8) | <img height="20" src="https://i.imgur.com/5skC7be.png"/> | kanal8.mk |
-| 7 | ТВ СВЕТ | [>](http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8) | <img height="20" src="https://i.imgur.com/R79xT60.png"/> | tvsvet.com.mk |
+| 6 | Канал 8 | [x](http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8) | <img height="20" src="https://i.imgur.com/5skC7be.png"/> | kanal8.mk |
+| 7 | ТВ СВЕТ | [x](http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8) | <img height="20" src="https://i.imgur.com/R79xT60.png"/> | tvsvet.com.mk |
 | 8 | M»Net Sport | [>](http://ares.mnet.mk/hls/mnet-sport.m3u8) | <img height="20" src="https://i.imgur.com/q3DV2gP.png"/> | sport.mnet.mk |
 | 9 | M»Net Info | [>](http://ares.mnet.mk/hls/mnet-info.m3u8) | <img height="20" src="https://i.imgur.com/O26HEyC.png"/> | info.mnet.mk |
 | 10 | MTM 1 Скопска Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8) | <img height="20" src="https://i.imgur.com/w6Uy2Zd.png"/> | mtm.mk |
-| 11 | TV 24 Ⓖ | [>](https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MFKeNZx.png"/> | 24.mk |
+| 11 | TV 24 Ⓖ | [x](https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MFKeNZx.png"/> | 24.mk |
 | 12 | B1 Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8) | <img height="20" src="https://i.imgur.com/UgUpZ2M.png"/> | b1 |
 | 13 | M»Net Kids | [x](http://ares.mnet.mk/hls/mnet-kids.m3u8) | <img height="20" src="https://i.imgur.com/XZwtu7Q.png"/> | kids.mnet.mk |
 | 14 | ТВ НОВА 12 | [>](http://151.236.247.171:8080/nova/index.m3u8) | <img height="20" src="https://i.imgur.com/Qo3Hj3t.png"/> | tvnova12.mk|
-| 15 | Вардар тв | [>](https://streaming.iptv.mk/fcvardar/index.fmp4.m3u8) | <img height="20" src="https://i.imgur.com/c2JHg9R.png"/> | vardar tv|
+| 15 | Вардар тв | [x](https://streaming.iptv.mk/fcvardar/index.fmp4.m3u8) | <img height="20" src="https://i.imgur.com/c2JHg9R.png"/> | vardar tv|
 | 15 | ЗОНА М1 ТВ | [>](https://zonam1.ddns.net/hls/stream1.m3u8) | <img height="20" src="https://i.imgur.com/yTR7A0d.png"/> | zona m1|
 
 <h2>Web</h2>
@@ -55,11 +55,11 @@
 | 4   | Jazz TV | [>](https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8) | <img height="20" src="https://i.imgur.com/4U6Ju5G.png"/> | JazzTV.mk |
 | 5   | Love TV | [>](https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8) | <img height="20" src="https://i.imgur.com/B8iaejQ.png"/> | LoveTV.mk |
 | 6   | Rock TV | [>](https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8) | <img height="20" src="https://i.imgur.com/Y9miDQo.png"/> | RockTV.mk |
-| 7 | Стар Фолк | [>](https://live.muzickatv.mk/live/StarMusic.m3u8) | <img height="20" src="https://i.imgur.com/7RstQYI.png"/> | StarFolkTV.mk |
+| 7 | Стар Фолк | [x](https://live.muzickatv.mk/live/StarMusic.m3u8) | <img height="20" src="https://i.imgur.com/7RstQYI.png"/> | StarFolkTV.mk |
 | 8 | Sky Folk | [>](https://skyfolk.mk/live.m3u8) | <img height="20" src="https://i.imgur.com/xRw4Hmu.png"/> | SkyFolkTV.mk |
 | 9 | Хуго 2 | [>](http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8) | <img height="20" src="https://i.imgur.com/yb3xjOZ.png"/> | Hugo2.mk |
 | 10 | Folk Club TV | [>](http://tv1.intv.mk:1935/live2/folkklub/index.m3u8) | <img height="20" src="https://i.imgur.com/vkGFSl8.png"/> | FolkClubTV.mk |
 | 11 | INTV | [>](http://tv1.intv.mk:1935/live/intv/index.m3u8) | <img height="20" src="https://i.imgur.com/K7BSjqY.png"/> | |
-| 12 | Macedonian Documentary Channel | [>](https://giganet.mk/hls/macdoc.m3u8) | <img height="20" src="https://i.imgur.com/uYyG2oA.png"/> |  |
+| 12 | Macedonian Documentary Channel | [x](https://giganet.mk/hls/macdoc.m3u8) | <img height="20" src="https://i.imgur.com/uYyG2oA.png"/> |  |
 | 13 | Вистел| [>](https://live.vtv.mk/live/vtv/chunks.m3u8) | <img height="20" src="https://i.imgur.com/MbM0E6L.png"/> | |
-| 13 | Стар Плус | [>](https://live.muzickatv.mk/live/StarMusic2.m3u8) | <img height="20" src="https://i.imgur.com/01yz22a.png"/> | |
+| 13 | Стар Плус | [x](https://live.muzickatv.mk/live/StarMusic2.m3u8) | <img height="20" src="https://i.imgur.com/01yz22a.png"/> | |
