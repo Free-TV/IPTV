@@ -2629,8 +2629,6 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=TVKC
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVMaribor
 #EXTINF:-1 tvg-name="MMC TV" tvg-logo="https://i.imgur.com/yzETQJ4.png" tvg-id="MMC.si" tvg-chno="6" tvg-country="SI" group-title="Slovenia",MMC TV
 https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV
-#EXTINF:-1 tvg-name="Nova 24 TV" tvg-logo="https://i.imgur.com/M2207Vh.png" tvg-id="Nova24TV.si" tvg-country="SI" group-title="Slovenia",Nova 24 TV Ⓨ
-https://www.youtube.com/@Nova24TVSlovenija/live
 #EXTINF:-1 tvg-name="Folx Slovenija" tvg-logo="https://i.imgur.com/RK1IASU.png" tvg-id="FolxSlovenija.si" tvg-country="SI" group-title="Slovenia",Folx Slovenija
 https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
 #EXTINF:-1 tvg-name="Dacwa TV" tvg-logo="https://i.imgur.com/rMqrLzV.png" tvg-id="DacwaTV.so" tvg-country="SO" group-title="Somalia",Dacwa TV Ⓢ
