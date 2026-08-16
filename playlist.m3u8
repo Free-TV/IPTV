@@ -593,28 +593,6 @@ https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
 https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
 #EXTINF:-1 tvg-name="Folketinget TV" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-id="TVfromtheDanishParliament.dk" tvg-chno="37" tvg-country="DK" group-title="Denmark",Folketinget TV
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-name="TV Syd+" tvg-logo="https://i.imgur.com/k2jf591.png" tvg-id="TVSYD.dk" tvg-chno="1" tvg-country="DK" group-title="Denmark",TV Syd+
-https://cdn-lt-live.tvsyd.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956351/e/0_e9slj9wh/tl/main/st/0/t/rFEtaqAbdhUFGef_BNF4WQ/index-s32.m3u8
-#EXTINF:-1 tvg-name="TV 2/Fyn" tvg-logo="https://i.imgur.com/4L6AIMH.png" tvg-id="TV2Fyn.dk" tvg-chno="2" tvg-country="DK" group-title="Denmark",TV 2/Fyn
-https://cdn-lt-live.tv2fyn.dk/env/cluster-1-e.live.nvp1/live/hls/p/1966291/e/0_vsfrv0zm/tl/main/st/0/t/EgP1FA1D39taZFVewCa42w/index-s32.m3u8
-#EXTINF:-1 tvg-name="TV 2/Øst" tvg-logo="https://i.imgur.com/H9l6Ulw.png" tvg-id="TV2Ost.dk" tvg-chno="3" tvg-country="DK" group-title="Denmark",TV 2/Øst
-https://cdn-lt-live.tveast.dk/env/cluster-1-e.live.nvp1/live/hls/p/1953381/e/0_zphj9q61/tl/main/st/0/t/THUB80e-ZMufZCE4pDhO0g/index-s32.m3u8
-#EXTINF:-1 tvg-name="TV 2/Nord" tvg-logo="https://i.imgur.com/tEJ22UW.png" tvg-id="TV2Nord.dk" tvg-chno="4" tvg-country="DK" group-title="Denmark",TV 2/Nord
-https://cdn-lt-live.tv2nord.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956931/e/1_h9yfe7h2/tl/main/st/1/t/_FUn1YHQ6_P6lES4U6mmsA/index-s32.m3u8
-#EXTINF:-1 tvg-name="TV 2 Kosmopol" tvg-logo="https://i.imgur.com/oVmCoKY.png" tvg-id="TV2Kosmopol.dk" tvg-chno="5" tvg-country="DK" group-title="Denmark",TV 2 Kosmopol
-https://cdn-lt-live.tv2lorry.dk/env/cluster-1-d.live.nvp1/live/hls/p/2045321/e/1_grusx1zd/tl/main/st/0/t/rCct87c-v2SFFCvQK1BBOg/index-s32.m3u8
-#EXTINF:-1 tvg-name="TV/Midt-Vest" tvg-logo="https://i.imgur.com/OU7xIVa.png" tvg-id="TVMidtvest.dk" tvg-chno="6" tvg-country="DK" group-title="Denmark",TV/Midt-Vest
-https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8
-#EXTINF:-1 tvg-name="TV 2/Østjylland" tvg-logo="https://i.imgur.com/qEUXjHp.png" tvg-id="TV2Ostjylland.dk" tvg-chno="7" tvg-country="DK" group-title="Denmark",TV 2/Østjylland
-https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8
-#EXTINF:-1 tvg-name="TV 2/Bornholm" tvg-logo="https://i.imgur.com/cEOpXU6.png" tvg-id="TV2Bornholm.dk" tvg-chno="8" tvg-country="DK" group-title="Denmark",TV 2/Bornholm
-https://live.tv2bornholm.dk/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Storbyen" tvg-logo="https://i.imgur.com/QqjRqow.png" tvg-id="TVStorbyen.dk" tvg-chno="1" tvg-country="DK" group-title="Denmark",TV Storbyen
-https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/MCXYDwH.png" tvg-id="KanalHovedstaden.dk" tvg-chno="2" tvg-country="DK" group-title="Denmark",Kanal Hovedstaden
-http://khkbh.dk:8080/hls/livestream/index.m3u8
-#EXTINF:-1 tvg-name="KKRtv" tvg-logo="https://i.imgur.com/TbtjWHI.png" tvg-id="KKRtv.dk" tvg-chno="3" tvg-country="DK" group-title="Denmark",KKRtv
-rtmp://video.kkr.dk/live/kkr
 #EXTINF:-1 tvg-name="Canal RTVD 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png" tvg-id="Canal4RD.do" tvg-chno="4" tvg-country="DO" group-title="Dominican Republic",Canal RTVD 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Aghapy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" tvg-id="AghapyTV.eg" tvg-chno="1" tvg-country="EG" group-title="Egypt",Aghapy TV
@@ -2520,35 +2498,33 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 #EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlArabyTV.qa" tvg-chno="12" tvg-country="QA" group-title="Qatar",Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR 1 Ⓖ" tvg-logo="https://i.imgur.com/CKQ7mpB.png" tvg-id="TVR1.ro" tvg-chno="1" tvg-country="RO" group-title="Romania",TVR 1 Ⓖ
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR 2 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" tvg-id="TVR2.ro" tvg-chno="2" tvg-country="RO" group-title="Romania",TVR 2 Ⓖ
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR 3 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVR3_2022.png" tvg-id="TVR3.ro" tvg-chno="3" tvg-country="RO" group-title="Romania",TVR 3 Ⓖ
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/playlist.m3u8
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Info Ⓖ" tvg-logo="https://i.imgur.com/7oE7ThR.png" tvg-id="TVRInfo.ro" tvg-chno="4" tvg-country="RO" group-title="Romania",TVR Info Ⓖ
-https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/playlist.m3u8
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR International Ⓖ" tvg-logo="https://i.imgur.com/AlW8jyl.png" tvg-id="TVRInternational.ro" tvg-chno="5" tvg-country="RO" group-title="Romania",TVR International Ⓖ
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Pro TV" tvg-logo="https://i.imgur.com/aKAfKtW.png" tvg-id="ProTV.ro" tvg-chno="6" tvg-country="RO" group-title="Romania",Pro TV
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-name="Prima TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/500px-Prima_TV_%28Rumaenien%29_Logo.svg.png" tvg-id="PrimaTV.ro" tvg-chno="7" tvg-country="RO" group-title="Romania",Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="România TV Ⓖ" tvg-logo="https://i.imgur.com/ZIfEp5I.png" tvg-id="RomaniaTV.ro" tvg-chno="8" tvg-country="RO" group-title="Romania",România TV Ⓖ
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Telestar1" tvg-logo="https://i.imgur.com/UZQjEsd.png" tvg-id="Telestar1.ro" tvg-chno="9" tvg-country="RO" group-title="Romania",Telestar1
-http://89.47.97.15/telestar/telestar.m3u8
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 tvg-name="Euronews România Ⓨ" tvg-logo="https://i.imgur.com/jUOVUXt.png" tvg-id="EuronewsRomania.ro" tvg-chno="10" tvg-country="RO" group-title="Romania",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
 #EXTINF:-1 tvg-name="TVR Cluj Ⓖ" tvg-logo="https://i.imgur.com/8DqsGHO.png" tvg-id="TVRCluj.ro" tvg-chno="1" tvg-country="RO" group-title="Romania",TVR Cluj Ⓖ
-https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Craiova Ⓖ" tvg-logo="https://i.imgur.com/vxWbQiy.png" tvg-id="TVRCraiova.ro" tvg-chno="2" tvg-country="RO" group-title="Romania",TVR Craiova Ⓖ
-https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Iași Ⓖ" tvg-logo="https://i.imgur.com/Kxkihds.png" tvg-id="TVRIasi.ro" tvg-chno="3" tvg-country="RO" group-title="Romania",TVR Iași Ⓖ
-https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+http://82.208.141.70:8778/1.m3u8
 #EXTINF:-1 tvg-name="TVR Timișoara Ⓖ" tvg-logo="https://i.imgur.com/Db3DV6H.png" tvg-id="TVRTimisoara.ro" tvg-chno="4" tvg-country="RO" group-title="Romania",TVR Timișoara Ⓖ
-https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Tîrgu-Mureș Ⓖ" tvg-logo="https://i.imgur.com/9Hptdqj.png" tvg-id="TVRTarguMures.ro" tvg-chno="5" tvg-country="RO" group-title="Romania",TVR Tîrgu-Mureș Ⓖ
-https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://i.imgur.com/1IqCGe9.png" tvg-id="ChannelOne.ru" tvg-chno="1" tvg-country="RU" group-title="Russia",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" tvg-chno="2" tvg-country="RU" group-title="Russia",Россия 1
