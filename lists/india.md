@@ -32,6 +32,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 23  | CNN-News18 Ⓨ | [>](https://www.youtube.com/@cnnnews18/live) | <img height="20" src="https://i.imgur.com/K3M8MoK.png" /> | News18.com |
 | 24  | News18 UP Uttarakhand Ⓨ | [>](https://www.youtube.com/@News18UPUttarakhand/live) | <img height="20" src="https://i.imgur.com/nKwoe8n.png" /> | News18.com |
 | 25  | News18 Kannada Ⓨ | [>](https://www.youtube.com/@News18Kannada/live) | <img height="20" src="https://i.imgur.com/CQUGLoK.png" /> | News18.com |
+| 26  | News18 Telugu Ⓨ | [>](https://www.youtube.com/@News18Telugu/live) | <img height="20" src="https://i.imgur.com/NsieorM.jpeg" /> | News18.com |
 
 <h2>Invalid</h2>
 
