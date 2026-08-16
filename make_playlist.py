@@ -48,6 +48,7 @@ COUNTRY_CODES = {
     "israel": "IL",
     "italy": "IT",
     "japan": "JP",
+    "kenya": "KE",
     "korea": "KR",
     "kosovo": "XK",
     "latvia": "LV",
@@ -60,6 +61,7 @@ COUNTRY_CODES = {
     "monaco": "MC",
     "montenegro": "ME",
     "netherlands": "NL",
+    "nigeria": "NG",
     "north_korea": "KP",
     "north_macedonia": "MK",
     "norway": "NO",
@@ -100,7 +102,7 @@ class Channel:  # pylint: disable=too-few-public-methods,too-many-instance-attri
         self.country_code = country_code
         md_line = md_line.strip()
         parts = md_line.split("|")
-        self.number = parts[1].strip()
+        self.number = parts[1].strip().replace('"', '')
         self.name = parts[2].strip().replace('"', '')
         self.url = parts[3].strip()
         self.url = self.url[self.url.find("(")+1:self.url.rfind(")")]
