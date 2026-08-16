@@ -4,9 +4,9 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | NPO 1 Ⓖ   | [>](http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8) | <img height="20" src="https://i.imgur.com/pUBy4Pb.png"/> | NPO1.nl |
-| 2   | NPO 2 Ⓖ   | [>](http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8) | <img height="20" src="https://i.imgur.com/Vl2G1H3.png"/> | NPO2.nl |
-| 3   | NPO 3 Ⓖ   | [>](http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8) | <img height="20" src="https://i.imgur.com/dVB4Pqc.png"/> | NPO3.nl |
+| 1   | NPO 1     | [x]() | <img height="20" src="https://i.imgur.com/pUBy4Pb.png"/> | NPO1.nl |
+| 2   | NPO 2     | [x]() | <img height="20" src="https://i.imgur.com/Vl2G1H3.png"/> | NPO2.nl |
+| 3   | NPO 3     | [x]() | <img height="20" src="https://i.imgur.com/dVB4Pqc.png"/> | NPO3.nl |
 | 4   | RTL 4     | [x]() | <img height="20" src="https://i.imgur.com/qzvUqSX.png"/> | RTL4.nl |
 | 5   | RTL 5     | [x]() | <img height="20" src="https://i.imgur.com/paBpoKB.png"/> | RTL5.nl |
 | 7   | RTL 7     | [x]() | <img height="20" src="https://i.imgur.com/MxWqvuQ.png"/> | RTL7.nl |
