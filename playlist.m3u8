@@ -1017,7 +1017,7 @@ https://onlinestream.live/play.m3u?id=4740&ext=.m3u
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
 #EXTINF:-1 tvg-name="Fix TV Ⓨ" tvg-logo="https://onlinestream.live/logos/1833.png" tvg-chno="6" tvg-country="HU" group-title="Hungary",Fix TV Ⓨ
 https://www.youtube.com/@fixhdtv/live
-#EXTINF:-1 tvg-name="ErdélyTV Ⓨ" tvg-logo="https://i.imgur.com/xAmYapr.jpg" tvg-chno="7" tvg-country="HU" group-title="Hungary",ErdélyTV Ⓨ
+#EXTINF:-1 tvg-name="ErdélyTV Ⓨ" tvg-logo="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" tvg-chno="7" tvg-country="HU" group-title="Hungary",ErdélyTV Ⓨ
 https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
 #EXTINF:-1 tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" tvg-id="BonumTV.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
