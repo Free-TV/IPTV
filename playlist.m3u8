@@ -1079,6 +1079,10 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Líceum TV" tvg-logo="" tvg-id="" tvg-chno="26" tvg-country="HU" group-title="Hungary",Líceum TV
 http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" tvg-chno="27" tvg-country="HU" group-title="Hungary",Pannon RTV
+https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-name="Tisza TV" tvg-logo="https://www.tiszatv.hu/style/tiszatv_logo.png" tvg-chno="28" tvg-country="HU" group-title="Hungary",Tisza TV
+https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="RÚV" tvg-logo="https://i.imgur.com/vxaSn1K.png" tvg-id="RUV.is" tvg-chno="1" tvg-country="IS" group-title="Iceland",RÚV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 #EXTINF:-1 tvg-name="RÚV 2" tvg-logo="https://i.imgur.com/yDKRuXQ.png" tvg-id="RUV2.is" tvg-chno="2" tvg-country="IS" group-title="Iceland",RÚV 2

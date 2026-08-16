@@ -79,6 +79,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 24  | Jászsági Térségi TV | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8) | | |
 | 25  | Kanizsa TV    | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8) | | |
 | 26  | Líceum TV     | [>](http://193.225.32.62:8890/live.m3u8) | | |
+| 27  | Pannon RTV    | [>](https://stream2.nmih.hu:4102/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
+| 28  | Tisza TV      | [>](https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
 
 
 <h2>Invalid</h2>
@@ -95,11 +97,9 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 7   | MUSICPlus      | [x](http://s02.diazol.hu:10192/stream.m3u8) | | |
 | 8   | Radio 1 Ⓨ      | [x](https://www.youtube.com/watch?v=I8dnZoF1nOE) | | |
 | 9   | Budakalász     | [x](https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MGkvVQg.png" /> |
-| 10  | Pannon RTV     | [x](https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
-| 11  | VTV Füzesabony | [x](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
-| 12  | Hegyvidék TV   | [x](https://tv.hegyvidek.hu/hvtv/hvstream.m3u8) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" /> | HegyvidekTV.hu |
-| 13  | Tisza TV       | [x](https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
-| 14  | Putnok Városi TV | [x](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
-| 15  | Miskolc TV     | [x](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
-| 16  | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
+| 10  | VTV Füzesabony | [x](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
+| 11  | Hegyvidék TV   | [x](https://tv.hegyvidek.hu/hvtv/hvstream.m3u8) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" /> | HegyvidekTV.hu |
+| 12  | Putnok Városi TV | [x](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
+| 13  | Miskolc TV     | [x](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
+| 14  | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
 
