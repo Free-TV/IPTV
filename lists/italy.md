@@ -103,8 +103,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Antenna 3 Massa | [>](https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8) | <img height="20" src="https://i.imgur.com/CHDU86j.png"/> |
 | 0   | Antenna 3 Veneto Nord Est | [>](https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NiVHLwp.png"/> | AntennaTreNordest.it |
 | 10  | Antenna Sicilia | [>](https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8) | <img height="20" src="https://i.imgur.com/8DOdqsE.png"/> |
-| 0   | Antenna Sud | [>](https://live.antennasudwebtv.it:9443/hls/vod.m3u8) | <img height="20" src="https://i.imgur.com/b8y6ImZ.png"/> |
-| 0   | Antenna Sud Extra | [>](https://live.antennasudwebtv.it:9443/hls/vod92.m3u8) | <img height="20" src="https://i.imgur.com/6tBv8VD.png"/> |
+| 0   | Antenna Sud | [>](https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8) | <img height="20" src="https://i.imgur.com/b8y6ImZ.png"/> |
+| 0   | Antenna Sud Extra | [>](https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8) | <img height="20" src="https://i.imgur.com/6tBv8VD.png"/> |
 | 0   | Aristanis SuperTv | [>](https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v8PlAJO.png"/> |
 | 0   | Arte Network Orler | [>](https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DP5y0Er.png"/> |
 | 0   | Aurora Arte | [>](https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BoLZ5wG.png"/> | AuroraArte.it |
@@ -308,7 +308,8 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Tele Mistretta | [>](https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OJ3zUS0.png"/> |
 | 0   | Tele Molise | [>](http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8) | <img height="20" src="https://i.imgur.com/u5VD0x9.png"/> |
 | 0   | Tele Nord Genova | [>](https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8) | <img height="20" src="https://i.imgur.com/I6yegEK.png"/> |
-| 0   | Telenorba Ⓨ | [>](https://www.youtube.com/@TelenorbaItalia/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/Telenorba_-_logo.svg/500px-Telenorba_-_logo.svg.png"/> | Telenorba.it |
+| 0   | TG Norba 24 | [>](https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tg_norba24.png/500px-Tg_norba24.png"/> | TGNorba24.it |
+| 0   | Telenorba | [>](https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/Telenorba_-_logo.svg/500px-Telenorba_-_logo.svg.png"/> | Telenorba.it |
 | 0   | Tele Nostra | [>](https://13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8) | <img height="20" src="https://i.imgur.com/FACahKZ.png"/> |
 | 0   | Tele Occidente | [>](https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3aOiWKa.png"/> |
 | 0   | Tele Oltre | [>](http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8) | <img height="20" src="https://i.imgur.com/PxtJAxs.png"/> |

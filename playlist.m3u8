@@ -1302,9 +1302,9 @@ https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/pl
 #EXTINF:-1 tvg-name="Antenna Sicilia" tvg-logo="https://i.imgur.com/8DOdqsE.png" tvg-chno="10" tvg-country="IT" group-title="Italy",Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:-1 tvg-name="Antenna Sud" tvg-logo="https://i.imgur.com/b8y6ImZ.png" tvg-country="IT" group-title="Italy",Antenna Sud
-https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 #EXTINF:-1 tvg-name="Antenna Sud Extra" tvg-logo="https://i.imgur.com/6tBv8VD.png" tvg-country="IT" group-title="Italy",Antenna Sud Extra
-https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
 #EXTINF:-1 tvg-name="Aristanis SuperTv" tvg-logo="https://i.imgur.com/v8PlAJO.png" tvg-country="IT" group-title="Italy",Aristanis SuperTv
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
 #EXTINF:-1 tvg-name="Arte Network Orler" tvg-logo="https://i.imgur.com/DP5y0Er.png" tvg-country="IT" group-title="Italy",Arte Network Orler
@@ -1711,8 +1711,10 @@ https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/p
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Nord Genova" tvg-logo="https://i.imgur.com/I6yegEK.png" tvg-country="IT" group-title="Italy",Tele Nord Genova
 https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-name="Telenorba Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/Telenorba_-_logo.svg/500px-Telenorba_-_logo.svg.png" tvg-id="Telenorba.it" tvg-country="IT" group-title="Italy",Telenorba Ⓨ
-https://www.youtube.com/@TelenorbaItalia/live
+#EXTINF:-1 tvg-name="TG Norba 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tg_norba24.png/500px-Tg_norba24.png" tvg-id="TGNorba24.it" tvg-country="IT" group-title="Italy",TG Norba 24
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+#EXTINF:-1 tvg-name="Telenorba" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/Telenorba_-_logo.svg/500px-Telenorba_-_logo.svg.png" tvg-id="Telenorba.it" tvg-country="IT" group-title="Italy",Telenorba
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 #EXTINF:-1 tvg-name="Tele Nostra" tvg-logo="https://i.imgur.com/FACahKZ.png" tvg-country="IT" group-title="Italy",Tele Nostra
 https://13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8
 #EXTINF:-1 tvg-name="Tele Occidente" tvg-logo="https://i.imgur.com/3aOiWKa.png" tvg-country="IT" group-title="Italy",Tele Occidente
