@@ -29,6 +29,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 20  | NDTV Profit      | [>](https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" /> | NDTVProfit.com |
 | 21 | Asianet News Ⓨ | [>](https://www.youtube.com/@asianetnews/live) | <img height="20" src="https://i.imgur.com/CnMzeZC.png" /> | AsianetNews.com |
 | 22 | AsianetSuvarnaNews Ⓨ | [>](https://www.youtube.com/@AsianetSuvarnaNews/live) | <img height="20" src="https://i.imgur.com/kE1bceQ.png" /> | Kannada.AsianetNews.com |
+| 23 | Asianet News Telugu Ⓨ | [>](https://www.youtube.com/@AsianetNewsTelugu/live) | <img height="20" src="https://i.imgur.com/ilgmZAk.jpeg" /> | Telugu.AsianetNews.com |
 
 <h2>Invalid</h2>
 
