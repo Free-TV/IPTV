@@ -21,8 +21,9 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 12  | India TV Ⓨ      | [>](https://www.youtube.com/watch?v=e1FIApIafWE) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/500px-India_tv_logo-en.png" /> | IndiaTV.in |
 | 13  | TV9 Bharatvarsh Ⓨ | [>](https://www.youtube.com/watch?v=nSpwwcHVp80) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/500px-TV9_Bharatvarsh.svg.png" /> | TV9Bharatvarsh.in |
 | 14  | TV9 Kannada | [>](https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9rBgkxG.png" /> | TV9Kannada.in |
-| 15  | Republic Bharat Ⓨ | [>](https://www.youtube.com/watch?v=3DbTO_AMhhc) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" /> | RepublicBharat.in |
-| 16  | NDTV Profit      | [>](https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" /> | NDTVProfit.com |
+| 15  | TV9 Telugu | [>](https://d35j504z0x1be1.cloudfront.net/pub-iotv9telmo6oiq/liveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oHAdC30.png" /> | TV9Telugu.in |
+| 16  | Republic Bharat Ⓨ | [>](https://www.youtube.com/watch?v=3DbTO_AMhhc) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" /> | RepublicBharat.in |
+| 17  | NDTV Profit      | [>](https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" /> | NDTVProfit.com |
 
 <h2>Invalid</h2>
 
