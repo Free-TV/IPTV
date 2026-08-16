@@ -18,6 +18,8 @@ Either free locally (over the air):
 [<img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="24">](lists/taiwan.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/kp.svg" width="24">](lists/north_korea.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="24">](lists/korea.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/mn.svg" width="24">](lists/mongolia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/kz.svg" width="24">](lists/kazakhstan.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="24">](lists/indonesia.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/dk.svg" width="24">](lists/denmark.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/fo.svg" width="24">](lists/faroe_islands.md)

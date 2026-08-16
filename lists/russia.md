@@ -31,6 +31,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 23 |    CGTN Pусский    | [>](https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
 | 24 | Euronews по-русски Ⓨ | [>](https://www.youtube.com/euronewsru/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsRussian.fr |
 | 25 | РТР-Планета Ⓢ | [>](https://player.smotrim.ru/iframe/stream/live_id/63251) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"/> | RTRPlaneta.ru |
+| 26 |         Че         | [>](https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8) | | PeretzInternational.ru |
 
 <h2>Regional</h2>
 
