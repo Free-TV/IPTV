@@ -3,7 +3,7 @@
 http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-name="Hipodromo de las Americas" tvg-logo="https://i.imgur.com/wc8MlGw.png" tvg-id="HipodromodelasAmericas.mx" tvg-chno="2" tvg-country="MX" group-title="Mexico",Hipodromo de las Americas
 http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8
-#EXTINF:-1 tvg-name="MVM NoticiasⓈ" tvg-logo="https://i.imgur.com/dhLXN9n.png" tvg-id="MVMNoticias.mx" tvg-chno="3" tvg-country="MX" group-title="Mexico",MVM NoticiasⓈ
+#EXTINF:-1 tvg-name="MVM Noticias" tvg-logo="https://i.imgur.com/dhLXN9n.png" tvg-id="MVMNoticias.mx" tvg-chno="3" tvg-country="MX" group-title="Mexico",MVM NoticiasⓈ
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
 #EXTINF:-1 tvg-name="RCG 3 Saltillo" tvg-logo="https://i.imgur.com/NefH5qZ.png" tvg-id="RCGTV3.mx" tvg-chno="4" tvg-country="MX" group-title="Mexico",RCG 3 Saltillo
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8

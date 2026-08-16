@@ -7,7 +7,7 @@ https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Беларусь 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Belarus_3_logo.svg/742px-Belarus_3_logo.svg.png" tvg-id="Belarus3.by" tvg-country="BY" group-title="Belarus",Беларусь 3
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="ОНТ Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg/991px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg.png" tvg-id="ONT.by" tvg-chno="4" tvg-country="BY" group-title="Belarus",ОНТ Ⓢ
+#EXTINF:-1 tvg-name="ОНТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg/991px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg.png" tvg-id="ONT.by" tvg-chno="4" tvg-country="BY" group-title="Belarus",ОНТ Ⓢ
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-name="Беларусь 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/742px-Belarus_5_logo.svg.png" tvg-id="Belarus5.by" tvg-country="BY" group-title="Belarus",Беларусь 5
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
@@ -19,17 +19,17 @@ https://edge55.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" tvg-id="FirstMusicChannel.by" tvg-chno="1" tvg-country="BY" group-title="Belarus",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-name="8 Kanal Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" tvg-id="8kanal.by" tvg-chno="2" tvg-country="BY" group-title="Belarus",8 Kanal Vitebsk Ⓢ
+#EXTINF:-1 tvg-name="8 Kanal Vitebsk" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" tvg-id="8kanal.by" tvg-chno="2" tvg-country="BY" group-title="Belarus",8 Kanal Vitebsk Ⓢ
 http://95.46.208.8:24433/art
-#EXTINF:-1 tvg-name="Belros Ⓢ" tvg-logo="https://i.imgur.com/HWqxjGl.png" tvg-id="BelRos.ru" tvg-chno="3" tvg-country="BY" group-title="Belarus",Belros Ⓢ
+#EXTINF:-1 tvg-name="Belros" tvg-logo="https://i.imgur.com/HWqxjGl.png" tvg-id="BelRos.ru" tvg-chno="3" tvg-country="BY" group-title="Belarus",Belros Ⓢ
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-name="Belarus 4 Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/TW6Ap71.png" tvg-id="Belarus4Vitebsk.by" tvg-chno="5" tvg-country="BY" group-title="Belarus",Belarus 4 Vitebsk Ⓢ
+#EXTINF:-1 tvg-name="Belarus 4 Vitebsk" tvg-logo="https://i.imgur.com/TW6Ap71.png" tvg-id="Belarus4Vitebsk.by" tvg-chno="5" tvg-country="BY" group-title="Belarus",Belarus 4 Vitebsk Ⓢ
 http://95.46.208.8:26258/belarus4
-#EXTINF:-1 tvg-name="Hawe TV Vitebsk Ⓢ" tvg-logo="https://i.imgur.com/HOb5m5f.jpg" tvg-id="NasheTV.by" tvg-chno="7" tvg-country="BY" group-title="Belarus",Hawe TV Vitebsk Ⓢ
+#EXTINF:-1 tvg-name="Hawe TV Vitebsk" tvg-logo="https://i.imgur.com/HOb5m5f.jpg" tvg-id="NasheTV.by" tvg-chno="7" tvg-country="BY" group-title="Belarus",Hawe TV Vitebsk Ⓢ
 http://95.46.208.8:26259/nashe
-#EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY Ⓢ" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" tvg-id="FirstMusicChannel.by" tvg-chno="9" tvg-country="BY" group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
+#EXTINF:-1 tvg-name="Pervyy Muzykal'nyy BY" tvg-logo="https://i.imgur.com/7tFiG6S.jpg" tvg-id="FirstMusicChannel.by" tvg-chno="9" tvg-country="BY" group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
 http://rtmp.one.by:1200
-#EXTINF:-1 tvg-name="Planeta RTR Ⓢ" tvg-logo="https://i.imgur.com/yqRuEJd.png" tvg-id="RTRBelarus.by" tvg-chno="10" tvg-country="BY" group-title="Belarus",Planeta RTR Ⓢ
+#EXTINF:-1 tvg-name="Planeta RTR" tvg-logo="https://i.imgur.com/yqRuEJd.png" tvg-id="RTRBelarus.by" tvg-chno="10" tvg-country="BY" group-title="Belarus",Planeta RTR Ⓢ
 https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-name="Radio HIT Orsk" tvg-logo="https://i.imgur.com/e2RyN4r.jpg" tvg-id="RadioHit.ru" tvg-chno="11" tvg-country="BY" group-title="Belarus",Radio HIT Orsk
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8

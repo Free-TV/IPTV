@@ -124,8 +124,11 @@ class Channel:  # pylint: disable=too-few-public-methods,too-many-instance-attri
         country = f' tvg-country="{self.country_code}"' if self.country_code else ""
         chno = f' tvg-chno="{self.chno}"' if self.chno else ""
         epg = f' tvg-id="{self.epg}"' if self.epg is not None else ""
+        # Strip trailing in-list markers (Ⓖ/Ⓢ/Ⓨ/...) from tvg-name so EPG
+        # matching isn't broken by a symbol meant for human readers.
+        tvg_name = re.sub(r'\s*[Ⓐ-ⓩ]+\s*$', '', self.name)
         return (
-            f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}"{epg}{chno}{country}'
+            f'#EXTINF:-1 tvg-name="{tvg_name}" tvg-logo="{self.logo}"{epg}{chno}{country}'
             f' group-title="{self.group}",{self.name}\n{self.url}'
         )
 

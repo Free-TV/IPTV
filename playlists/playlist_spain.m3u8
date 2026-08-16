@@ -11,13 +11,13 @@ https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-name="TVE Internacional Europe-Asia" tvg-logo="https://i.imgur.com/ow1HArj.png" tvg-id="TVEInternacionalEuropeAsia.es" tvg-chno="10" tvg-country="ES" group-title="Spain",TVE Internacional Europe-Asia
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 tvg-name="Atreseries Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/atreseries-es.png" tvg-id="Atreseries.es" tvg-chno="14" tvg-country="ES" group-title="Spain",Atreseries Ⓢ
+#EXTINF:-1 tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/atreseries-es.png" tvg-id="Atreseries.es" tvg-chno="14" tvg-country="ES" group-title="Spain",Atreseries Ⓢ
 http://181.78.109.48:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-name="Divinity Ⓖ" tvg-logo="https://i.imgur.com/o7fvEr6.png" tvg-id="Divinity.es" tvg-chno="16" tvg-country="ES" group-title="Spain",Divinity Ⓖ
+#EXTINF:-1 tvg-name="Divinity" tvg-logo="https://i.imgur.com/o7fvEr6.png" tvg-id="Divinity.es" tvg-chno="16" tvg-country="ES" group-title="Spain",Divinity Ⓖ
 https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
-#EXTINF:-1 tvg-name="Energy Ⓖ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png" tvg-id="Energy.es" tvg-chno="17" tvg-country="ES" group-title="Spain",Energy Ⓖ
+#EXTINF:-1 tvg-name="Energy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png" tvg-id="Energy.es" tvg-chno="17" tvg-country="ES" group-title="Spain",Energy Ⓖ
 https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
-#EXTINF:-1 tvg-name="Be Mad Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/500px-Be_Mad_TV.svg.png" tvg-id="BeMad.es" tvg-chno="19" tvg-country="ES" group-title="Spain",Be Mad Ⓖ
+#EXTINF:-1 tvg-name="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/500px-Be_Mad_TV.svg.png" tvg-id="BeMad.es" tvg-chno="19" tvg-country="ES" group-title="Spain",Be Mad Ⓖ
 https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" tvg-chno="20" tvg-country="ES" group-title="Spain",Paramount Network
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
@@ -41,35 +41,35 @@ https://laotra-1-23-secure2.akamaized.net/master.m3u8
 https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
 #EXTINF:-1 tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" tvg-id="La8Mediterraneo.es" tvg-chno="5" tvg-country="ES" group-title="Spain",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
-#EXTINF:-1 tvg-name="Televisión Canaria Ⓨ" tvg-logo="https://i.imgur.com/68LNS8e.png" tvg-id="TVCanaria.es" tvg-chno="6" tvg-country="ES" group-title="Spain",Televisión Canaria Ⓨ
+#EXTINF:-1 tvg-name="Televisión Canaria" tvg-logo="https://i.imgur.com/68LNS8e.png" tvg-id="TVCanaria.es" tvg-chno="6" tvg-country="ES" group-title="Spain",Televisión Canaria Ⓨ
 https://www.youtube.com/user/TelevisionCanaria/live
-#EXTINF:-1 tvg-name="IB3 Global Ⓨ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ib3-es.png" tvg-id="IB3.es" tvg-chno="7" tvg-country="ES" group-title="Spain",IB3 Global Ⓨ
+#EXTINF:-1 tvg-name="IB3 Global" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ib3-es.png" tvg-id="IB3.es" tvg-chno="7" tvg-country="ES" group-title="Spain",IB3 Global Ⓨ
 https://www.youtube.com/c/ib3/live
 #EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="https://i.imgur.com/xBeywIA.png" tvg-id="CanalExtremadura.es" tvg-chno="8" tvg-country="ES" group-title="Spain",Canal Extremadura
 https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
-#EXTINF:-1 tvg-name="Aragón TV Ⓢ" tvg-logo="https://i.imgur.com/8H3Q07b.png" tvg-id="AragonTV.es" tvg-chno="9" tvg-country="ES" group-title="Spain",Aragón TV Ⓢ
+#EXTINF:-1 tvg-name="Aragón TV" tvg-logo="https://i.imgur.com/8H3Q07b.png" tvg-id="AragonTV.es" tvg-chno="9" tvg-country="ES" group-title="Spain",Aragón TV Ⓢ
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/500px-ETB1_2022_logo.svg.png" tvg-id="ETB1.es" tvg-chno="10" tvg-country="ES" group-title="Spain",ETB1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/500px-ETB2_2022_logo.svg.png" tvg-id="ETB2.es" tvg-chno="11" tvg-country="ES" group-title="Spain",ETB2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 tvg-name="TV3Cat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/500px-TV3CAT.svg.png" tvg-id="TV3CAT.es" tvg-chno="12" tvg-country="ES" group-title="Spain",TV3Cat Ⓖ
+#EXTINF:-1 tvg-name="TV3Cat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/500px-TV3CAT.svg.png" tvg-id="TV3CAT.es" tvg-chno="12" tvg-country="ES" group-title="Spain",TV3Cat Ⓖ
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-name="3/24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png" tvg-id="324.es" tvg-chno="13" tvg-country="ES" group-title="Spain",3/24
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-name="Bon Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" tvg-id="BonDiaTV.es" tvg-chno="14" tvg-country="ES" group-title="Spain",Bon Dia
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
-#EXTINF:-1 tvg-name="SX3 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/2880px-SX3_logo.svg.png" tvg-id="SX3.es" tvg-chno="15" tvg-country="ES" group-title="Spain",SX3 Ⓖ
+#EXTINF:-1 tvg-name="SX3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/2880px-SX3_logo.svg.png" tvg-id="SX3.es" tvg-chno="15" tvg-country="ES" group-title="Spain",SX3 Ⓖ
 https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-#EXTINF:-1 tvg-name="El 33 Ⓖ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/el-33-es.png" tvg-id="El33.es" tvg-chno="15" tvg-country="ES" group-title="Spain",El 33 Ⓖ
+#EXTINF:-1 tvg-name="El 33" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/el-33-es.png" tvg-id="El33.es" tvg-chno="15" tvg-country="ES" group-title="Spain",El 33 Ⓖ
 https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
-#EXTINF:-1 tvg-name="Esport3 Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png" tvg-id="Esport3.es" tvg-chno="15" tvg-country="ES" group-title="Spain",Esport3 Ⓖ
+#EXTINF:-1 tvg-name="Esport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png" tvg-id="Esport3.es" tvg-chno="15" tvg-country="ES" group-title="Spain",Esport3 Ⓖ
 https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-name="Canal TE24" tvg-logo="https://i.ibb.co/3ynghbW/logox2.png" tvg-id="CanalTerresdelEbre.es" tvg-chno="15" tvg-country="ES" group-title="Spain",Canal TE24
 https://ingest1-video.streaming-pro.com/esportsteABR/etestream/playlist.m3u8
 #EXTINF:-1 tvg-name="À Punt TV" tvg-logo="https://i.imgur.com/M88LoNl.png" tvg-id="APunt.es" tvg-chno="16" tvg-country="ES" group-title="Spain",À Punt TV
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="7 Región de Murcia Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" tvg-id="La7.es" tvg-chno="17" tvg-country="ES" group-title="Spain",7 Región de Murcia Ⓢ
+#EXTINF:-1 tvg-name="7 Región de Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" tvg-id="La7.es" tvg-chno="17" tvg-country="ES" group-title="Spain",7 Región de Murcia Ⓢ
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 4 Tenerife" tvg-logo="https://i.imgur.com/Egymir4.png" tvg-id="Canal4Tenerife.es" tvg-chno="17" tvg-country="ES" group-title="Spain",Canal 4 Tenerife
 https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8

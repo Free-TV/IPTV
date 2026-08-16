@@ -21,7 +21,7 @@ https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2
 #EXTINF:-1 tvg-name="TVP Kultura 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TVP_Kultura_2_%282020%29.svg/640px-TVP_Kultura_2_%282020%29.svg.png" tvg-id="TVPKultura2.pl" tvg-chno="94" tvg-country="PL" group-title="Poland",TVP Kultura 2
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
-#EXTINF:-1 tvg-name="4fun.tv Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/640px-4fun.tv_Logo_%282017%29.svg.png" tvg-id="4FunTV.pl" tvg-country="PL" group-title="Poland",4fun.tv Ⓢ
+#EXTINF:-1 tvg-name="4fun.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/640px-4fun.tv_Logo_%282017%29.svg.png" tvg-id="4FunTV.pl" tvg-country="PL" group-title="Poland",4fun.tv Ⓢ
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-name="TV Republika" tvg-logo="https://i.imgur.com/ljpK6dZ.png" tvg-id="TVRepublika.pl" tvg-country="PL" group-title="Poland",TV Republika
 https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8

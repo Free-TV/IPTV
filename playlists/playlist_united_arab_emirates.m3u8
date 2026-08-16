@@ -5,7 +5,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 1" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-id="MBC1.ae" tvg-chno="3" tvg-country="AE" group-title="United Arab Emirates",MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-name="MBC 2 Ⓢ" tvg-logo="https://i.imgur.com/n9mSHuP.png" tvg-id="MBC2.ae" tvg-chno="4" tvg-country="AE" group-title="United Arab Emirates",MBC 2 Ⓢ
+#EXTINF:-1 tvg-name="MBC 2" tvg-logo="https://i.imgur.com/n9mSHuP.png" tvg-id="MBC2.ae" tvg-chno="4" tvg-country="AE" group-title="United Arab Emirates",MBC 2 Ⓢ
 http://37.122.156.107:4000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-name="MBC 3" tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-id="MBC3.ae" tvg-chno="5" tvg-country="AE" group-title="United Arab Emirates",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
@@ -13,13 +13,13 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-id="MBC5.ae" tvg-chno="7" tvg-country="AE" group-title="United Arab Emirates",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-name="MBC Action Ⓢ" tvg-logo="https://i.imgur.com/OWZAghw.png" tvg-id="MBCAction.ae" tvg-chno="8" tvg-country="AE" group-title="United Arab Emirates",MBC Action Ⓢ
+#EXTINF:-1 tvg-name="MBC Action" tvg-logo="https://i.imgur.com/OWZAghw.png" tvg-id="MBCAction.ae" tvg-chno="8" tvg-country="AE" group-title="United Arab Emirates",MBC Action Ⓢ
 http://37.122.156.107:4000/play/a07h/index.m3u8
 #EXTINF:-1 tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-id="MBCBollywood.ae" tvg-chno="9" tvg-country="AE" group-title="United Arab Emirates",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-id="MBCDrama.ae" tvg-chno="10" tvg-country="AE" group-title="United Arab Emirates",MBC Drama
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-name="MBC Max Ⓢ" tvg-logo="https://i.imgur.com/A02CptP.png" tvg-id="MBCMax.ae" tvg-chno="11" tvg-country="AE" group-title="United Arab Emirates",MBC Max Ⓢ
+#EXTINF:-1 tvg-name="MBC Max" tvg-logo="https://i.imgur.com/A02CptP.png" tvg-id="MBCMax.ae" tvg-chno="11" tvg-country="AE" group-title="United Arab Emirates",MBC Max Ⓢ
 http://37.122.156.107:4000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-id="MBCPersia.ae" tvg-chno="12" tvg-country="AE" group-title="United Arab Emirates",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8

@@ -13,5 +13,5 @@ https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-name="Pos TV" tvg-logo="https://i.imgur.com/UOiXFEW.png" tvg-id="PosTV.ge" tvg-chno="9" tvg-country="GE" group-title="Georgia",Pos TV
 https://live.postv.media/stream/index.m3u8
-#EXTINF:-1 tvg-name="Euronews Georgia Ⓖ" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" tvg-chno="999" tvg-country="GE" group-title="Georgia",Euronews Georgia Ⓖ
+#EXTINF:-1 tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" tvg-chno="999" tvg-country="GE" group-title="Georgia",Euronews Georgia Ⓖ
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8

@@ -3,7 +3,7 @@
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-name="Moldova 2" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" tvg-id="Moldova2.md" tvg-chno="2" tvg-country="MD" group-title="Moldova",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1 tvg-name="TVR Moldova Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVR_Moldova_Logo_2022.svg/640px-TVR_Moldova_Logo_2022.svg.png" tvg-id="TVRMoldova.md" tvg-chno="7" tvg-country="MD" group-title="Moldova",TVR Moldova Ⓖ
+#EXTINF:-1 tvg-name="TVR Moldova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/TVR_Moldova_Logo_2022.svg/640px-TVR_Moldova_Logo_2022.svg.png" tvg-id="TVRMoldova.md" tvg-chno="7" tvg-country="MD" group-title="Moldova",TVR Moldova Ⓖ
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Sor TV" tvg-logo="https://i.imgur.com/BcfZgD8.png" tvg-id="SorTV.md" tvg-chno="1" tvg-country="MD" group-title="Moldova",Sor TV
 http://188.237.212.16:8888/live/cameraFeed.m3u8

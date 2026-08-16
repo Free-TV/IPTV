@@ -5,25 +5,25 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 #EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" tvg-id="[ABP Ananda](https://bengali.abplive.com/)" tvg-chno="3" tvg-country="IN" group-title="India",ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-name="DD National Ⓨ" tvg-logo="https://i.imgur.com/MohlE5B.png" tvg-id="DDNational.in" tvg-chno="4" tvg-country="IN" group-title="India",DD National Ⓨ
+#EXTINF:-1 tvg-name="DD National" tvg-logo="https://i.imgur.com/MohlE5B.png" tvg-id="DDNational.in" tvg-chno="4" tvg-country="IN" group-title="India",DD National Ⓨ
 https://www.youtube.com/doordarshan/live
-#EXTINF:-1 tvg-name="DD News Ⓨ" tvg-logo="https://i.imgur.com/znnVCEf.png" tvg-id="DDNews.in" tvg-chno="5" tvg-country="IN" group-title="India",DD News Ⓨ
+#EXTINF:-1 tvg-name="DD News" tvg-logo="https://i.imgur.com/znnVCEf.png" tvg-id="DDNews.in" tvg-chno="5" tvg-country="IN" group-title="India",DD News Ⓨ
 https://www.youtube.com/c/ddnews/live
-#EXTINF:-1 tvg-name="DD India Ⓨ" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" tvg-chno="6" tvg-country="IN" group-title="India",DD India Ⓨ
+#EXTINF:-1 tvg-name="DD India" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" tvg-chno="6" tvg-country="IN" group-title="India",DD India Ⓨ
 https://www.youtube.com/DDIndia/live
-#EXTINF:-1 tvg-name="DD Bharati Ⓨ" tvg-logo="https://i.imgur.com/4tfUIEo.png" tvg-id="DDBharati.in" tvg-chno="7" tvg-country="IN" group-title="India",DD Bharati Ⓨ
+#EXTINF:-1 tvg-name="DD Bharati" tvg-logo="https://i.imgur.com/4tfUIEo.png" tvg-id="DDBharati.in" tvg-chno="7" tvg-country="IN" group-title="India",DD Bharati Ⓨ
 https://www.youtube.com/@ddbharati/live
-#EXTINF:-1 tvg-name="DD Kisan Ⓨ" tvg-logo="https://i.imgur.com/x56WJEa.png" tvg-id="DDKisan.in" tvg-chno="8" tvg-country="IN" group-title="India",DD Kisan Ⓨ
+#EXTINF:-1 tvg-name="DD Kisan" tvg-logo="https://i.imgur.com/x56WJEa.png" tvg-id="DDKisan.in" tvg-chno="8" tvg-country="IN" group-title="India",DD Kisan Ⓨ
 https://www.youtube.com/@DDKisan/live
-#EXTINF:-1 tvg-name="DD Urdu Ⓨ" tvg-logo="https://i.imgur.com/OiQPS34.png" tvg-id="DDUrdu.in" tvg-chno="9" tvg-country="IN" group-title="India",DD Urdu Ⓨ
+#EXTINF:-1 tvg-name="DD Urdu" tvg-logo="https://i.imgur.com/OiQPS34.png" tvg-id="DDUrdu.in" tvg-chno="9" tvg-country="IN" group-title="India",DD Urdu Ⓨ
 https://www.youtube.com/@DDUrdu/live
-#EXTINF:-1 tvg-name="India Today Ⓨ" tvg-logo="https://i.imgur.com/C7KK3Fd.png" tvg-id="IndiaToday.in" tvg-chno="10" tvg-country="IN" group-title="India",India Today Ⓨ
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/C7KK3Fd.png" tvg-id="IndiaToday.in" tvg-chno="10" tvg-country="IN" group-title="India",India Today Ⓨ
 https://www.youtube.com/watch?v=sYZtOFzM78M
-#EXTINF:-1 tvg-name="Aaj Tak Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" tvg-id="AajTak.in" tvg-chno="11" tvg-country="IN" group-title="India",Aaj Tak Ⓨ
+#EXTINF:-1 tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" tvg-id="AajTak.in" tvg-chno="11" tvg-country="IN" group-title="India",Aaj Tak Ⓨ
 https://www.youtube.com/watch?v=Nq2wYlWFucg
-#EXTINF:-1 tvg-name="India TV Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/500px-India_tv_logo-en.png" tvg-id="IndiaTV.in" tvg-chno="12" tvg-country="IN" group-title="India",India TV Ⓨ
+#EXTINF:-1 tvg-name="India TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/500px-India_tv_logo-en.png" tvg-id="IndiaTV.in" tvg-chno="12" tvg-country="IN" group-title="India",India TV Ⓨ
 https://www.youtube.com/watch?v=e1FIApIafWE
-#EXTINF:-1 tvg-name="TV9 Bharatvarsh Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/500px-TV9_Bharatvarsh.svg.png" tvg-id="TV9Bharatvarsh.in" tvg-chno="13" tvg-country="IN" group-title="India",TV9 Bharatvarsh Ⓨ
+#EXTINF:-1 tvg-name="TV9 Bharatvarsh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/500px-TV9_Bharatvarsh.svg.png" tvg-id="TV9Bharatvarsh.in" tvg-chno="13" tvg-country="IN" group-title="India",TV9 Bharatvarsh Ⓨ
 https://www.youtube.com/watch?v=nSpwwcHVp80
 #EXTINF:-1 tvg-name="TV9 Kannada" tvg-logo="https://i.imgur.com/9rBgkxG.png" tvg-id="TV9Kannada.in" tvg-chno="14" tvg-country="IN" group-title="India",TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
@@ -31,19 +31,19 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="TV9 Marathi" tvg-logo="https://i.imgur.com/k7urrIv.jpeg" tvg-id="TV9Marathi.in" tvg-chno="16" tvg-country="IN" group-title="India",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="Republic Bharat Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" tvg-id="RepublicBharat.in" tvg-chno="17" tvg-country="IN" group-title="India",Republic Bharat Ⓨ
+#EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" tvg-id="RepublicBharat.in" tvg-chno="17" tvg-country="IN" group-title="India",Republic Bharat Ⓨ
 https://www.youtube.com/watch?v=3DbTO_AMhhc
 #EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" tvg-id="NDTVProfit.com" tvg-chno="18" tvg-country="IN" group-title="India",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
-#EXTINF:-1 tvg-name="Asianet News Ⓨ" tvg-logo="https://i.imgur.com/aD1kJpZ.png" tvg-id="AsianetNews.in" tvg-chno="19" tvg-country="IN" group-title="India",Asianet News Ⓨ
+#EXTINF:-1 tvg-name="Asianet News" tvg-logo="https://i.imgur.com/aD1kJpZ.png" tvg-id="AsianetNews.in" tvg-chno="19" tvg-country="IN" group-title="India",Asianet News Ⓨ
 https://www.youtube.com/watch?v=Yt-PISvJKA4
-#EXTINF:-1 tvg-name="Asianet Suvarna News Ⓨ" tvg-logo="https://i.imgur.com/5ZKVW1P.png" tvg-id="AsianetSuvarnaNews.in" tvg-chno="20" tvg-country="IN" group-title="India",Asianet Suvarna News Ⓨ
+#EXTINF:-1 tvg-name="Asianet Suvarna News" tvg-logo="https://i.imgur.com/5ZKVW1P.png" tvg-id="AsianetSuvarnaNews.in" tvg-chno="20" tvg-country="IN" group-title="India",Asianet Suvarna News Ⓨ
 https://www.youtube.com/watch?v=WfKFYaVrx3Y
-#EXTINF:-1 tvg-name="Asianet News Telugu Ⓨ" tvg-logo="https://i.imgur.com/kV2J8Qn.png" tvg-id="AsianetNewsTelugu.in" tvg-chno="21" tvg-country="IN" group-title="India",Asianet News Telugu Ⓨ
+#EXTINF:-1 tvg-name="Asianet News Telugu" tvg-logo="https://i.imgur.com/kV2J8Qn.png" tvg-id="AsianetNewsTelugu.in" tvg-chno="21" tvg-country="IN" group-title="India",Asianet News Telugu Ⓨ
 https://www.youtube.com/watch?v=Y2HjKhLrKTc
-#EXTINF:-1 tvg-name="News18 India Ⓨ" tvg-logo="https://i.imgur.com/2H5KZZB.png" tvg-id="News18India.in" tvg-chno="22" tvg-country="IN" group-title="India",News18 India Ⓨ
+#EXTINF:-1 tvg-name="News18 India" tvg-logo="https://i.imgur.com/2H5KZZB.png" tvg-id="News18India.in" tvg-chno="22" tvg-country="IN" group-title="India",News18 India Ⓨ
 https://www.youtube.com/watch?v=lLW9NIHqbwQ
-#EXTINF:-1 tvg-name="CNN-News18 Ⓨ" tvg-logo="https://i.imgur.com/4GxQPnD.png" tvg-id="CNNNews18.in" tvg-chno="23" tvg-country="IN" group-title="India",CNN-News18 Ⓨ
+#EXTINF:-1 tvg-name="CNN-News18" tvg-logo="https://i.imgur.com/4GxQPnD.png" tvg-id="CNNNews18.in" tvg-chno="23" tvg-country="IN" group-title="India",CNN-News18 Ⓨ
 https://www.youtube.com/watch?v=jrNW1xqVT6c
-#EXTINF:-1 tvg-name="News18 UP Uttarakhand Ⓨ" tvg-logo="https://i.imgur.com/bZ3d8Wx.png" tvg-id="News18UPUttarakhand.in" tvg-chno="24" tvg-country="IN" group-title="India",News18 UP Uttarakhand Ⓨ
+#EXTINF:-1 tvg-name="News18 UP Uttarakhand" tvg-logo="https://i.imgur.com/bZ3d8Wx.png" tvg-id="News18UPUttarakhand.in" tvg-chno="24" tvg-country="IN" group-title="India",News18 UP Uttarakhand Ⓨ
 https://www.youtube.com/watch?v=n0OhAO_RzTA
