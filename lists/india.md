@@ -26,8 +26,8 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 17  | Republic Bharat Ⓨ | [>](https://www.youtube.com/watch?v=3DbTO_AMhhc) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" /> | RepublicBharat.in |
 | 18  | NDTV Profit      | [>](https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" /> | NDTVProfit.com |
 | 19  | Asianet News Ⓨ  | [>](https://www.youtube.com/@asianetnews/live) | <img height="20" src="https://i.imgur.com/ofntbBS.png" /> | AsianetNews.com |
-| 20  | Asianet Suvarna News Ⓨ | [>](https://www.youtube.com/@AsianetSuvarnaNews/live) | <img height="20" src="https://i.imgur.com/zRWl97N.jpeg" /> | AsianetNews.com |
-| 21  | Asianet News Telugu Ⓨ | [>]() | <img height="20" src="" /> | AsianetNews.com |
+| 20  | Asianet Suvarna News Ⓨ | [>](https://www.youtube.com/@AsianetSuvarnaNews/live) | <img height="20" src="https://i.imgur.com/zRWl97N.jpeg" /> | Kannada.AsianetNews.com |
+| 21  | Asianet News Telugu Ⓨ | [>](https://www.youtube.com/@AsianetNewsTelugu/live) | <img height="20" src="https://i.imgur.com/9wJvDMn.jpeg" /> | Telugu.AsianetNews.com |
 | 22  | News18 India Ⓨ | [>](https://www.youtube.com/@news18india/live) | <img height="20" src="https://i.imgur.com/BR4BUAw.png" /> | News18.com |
 | 23  | CNN-News18 Ⓨ | [>](https://www.youtube.com/@cnnnews18/live) | <img height="20" src="https://i.imgur.com/K3M8MoK.png" /> | News18.com |
 | 24  | News18 UP Uttarakhand Ⓨ | [>](https://www.youtube.com/@News18UPUttarakhand/live) | <img height="20" src="https://i.imgur.com/nKwoe8n.png" /> | News18.com |
