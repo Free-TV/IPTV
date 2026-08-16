@@ -19,6 +19,7 @@
 | 34  | CGTN Français | [>](https://news.cgtn.com/resource/live/french/cgtn-f.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNFrench.cn |
 | - | TV Mulhouse | [>](http://194.163.157.137:8080/hls/radiomulhouse.m3u8) | <img height="20" src="https://i.imgur.com/4esQG8H.png"/> | TVMulhouse.fr |
 | - | TV Alsace | [>](http://194.163.157.137:8080/hls/radioalsace.m3u8) | <img height="20" src="https://i.imgur.com/zaJDEOv.png"/> | TVAlsace.fr |
+| - | Handicap TV | [>](https://srv.webtvmanager.fr:3697/stream/play.m3u8) | | HandicapTV.fr |
 
 <h2>DVB-S</h2>
 
