@@ -88,13 +88,11 @@ https://www.youtube.com/c/americaenvivo/live
 #EXTINF:-1 tvg-name="A24 Ⓨ" tvg-logo="https://i.imgur.com/OdhF7ym.png" tvg-id="A24.ar" tvg-chno="36.2" tvg-country="AR" group-title="Argentina",A24 Ⓨ
 https://www.youtube.com/c/A24com/live
 #EXTINF:-1 tvg-name="Armenia 1" tvg-logo="https://i.imgur.com/HIwJ4lc.png" tvg-id="Armenia1.am" tvg-chno="#" tvg-country="AM" group-title="Armenia",Armenia 1
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
 #EXTINF:-1 tvg-name="Kentron TV Ⓢ" tvg-logo="https://i.imgur.com/eCaxBFn.png" tvg-id="KentronTV.am" tvg-chno="#" tvg-country="AM" group-title="Armenia",Kentron TV Ⓢ
-https://gineu9.bozztv.com/gin-36bay2/gin-kentron/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/39/index.m3u8
 #EXTINF:-1 tvg-name="Armenia TV Ⓢ" tvg-logo="https://i.imgur.com/UnoI5uM.png" tvg-id="ArmeniaTV.am" tvg-chno="#" tvg-country="AM" group-title="Armenia",Armenia TV Ⓢ
-https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="5TV Ⓢ" tvg-logo="https://i.imgur.com/jOGZZDo.png" tvg-id="5TV.am" tvg-chno="#" tvg-country="AM" group-title="Armenia",5TV Ⓢ
-https://cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/175/index.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" tvg-chno="1" tvg-country="AU" group-title="Australia",ABC
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" tvg-id="TVSN.au" tvg-chno="5" tvg-country="AU" group-title="Australia",TVSN
@@ -2163,14 +2161,8 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 https://www.youtube.com/c/kbsworldtv/live
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" tvg-chno="30" tvg-country="KR" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
-#EXTINF:-1 tvg-name="RTK 1" tvg-logo="https://i.imgur.com/KTcWcO6.png" tvg-id="RTK1.xk" tvg-chno="1" tvg-country="XK" group-title="Kosovo",RTK 1
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
-#EXTINF:-1 tvg-name="RTK 2" tvg-logo="https://i.imgur.com/g6k6xyO.png" tvg-id="RTK2.xk" tvg-chno="2" tvg-country="XK" group-title="Kosovo",RTK 2
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
-#EXTINF:-1 tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Ut9VcT3.png" tvg-id="RTK3.xk" tvg-chno="3" tvg-country="XK" group-title="Kosovo",RTK 3
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzk.m3u8
-#EXTINF:-1 tvg-name="RTK 4" tvg-logo="https://i.imgur.com/Urm4XDR.png" tvg-id="RTK4.xk" tvg-chno="4" tvg-country="XK" group-title="Kosovo",RTK 4
-https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
+#EXTINF:-1 tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Ut9VcT3.png" tvg-id="RTK3.xk" tvg-chno="1" tvg-country="XK" group-title="Kosovo",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1 tvg-name="ReTV" tvg-logo="https://upload.wikimedia.org/wikipedia/lv/thumb/d/db/ReTV_Logo_2022.svg/320px-ReTV_Logo_2022.svg.png" tvg-id="ReTV.lv" tvg-chno="11" tvg-country="LV" group-title="Latvia",ReTV
 https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Jūrmala" tvg-logo="https://i.imgur.com/tQHkHD0.png" tvg-id="TVJurmala.lv" tvg-chno="1" tvg-country="LV" group-title="Latvia",TV Jūrmala
@@ -2246,9 +2238,9 @@ http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-name="Bălți TV" tvg-logo="https://i.imgur.com/S1vEqZp.png" tvg-id="BaltiTV.md" tvg-chno="2" tvg-country="MD" group-title="Moldova",Bălți TV
 https://hls.btv.md/hls/live2.m3u8
 #EXTINF:-1 tvg-name="TV Monaco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/320px-TVMonaco_2023.svg.png" tvg-id="TVMonaco.mc" tvg-chno="1" tvg-country="MC" group-title="Monaco",TV Monaco
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/2027/media.m3u8
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 #EXTINF:-1 tvg-name="MonacoInfo" tvg-logo="https://www.lyngsat.com/logo/tv/mm/monaco_info.png" tvg-id="MonacoInfo.mc" tvg-chno="2" tvg-country="MC" group-title="Monaco",MonacoInfo
-https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+https://webtv.monacoinfo.com/live/prod/index.m3u8
 #EXTINF:-1 tvg-name="MNB HD" tvg-logo="" tvg-id="MNB.mn" tvg-chno="1" tvg-country="MN" group-title="Mongolia",MNB HD
 https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8
 #EXTINF:-1 tvg-name="MNB Монголын Мэдээ" tvg-logo="" tvg-id="MNBMongoliinMedee.mn" tvg-chno="2" tvg-country="MN" group-title="Mongolia",MNB Монголын Мэдээ
@@ -2479,12 +2471,10 @@ https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 https://frikanalen.no/stream/index.m3u8
 #EXTINF:-1 tvg-name="Kanal 10 Norge" tvg-logo="https://i.imgur.com/2fOcZfK.png" tvg-id="Kanal10Norway.no" tvg-chno="109" tvg-country="NO" group-title="Norway",Kanal 10 Norge
 https://player-api.new.livestream.com/accounts/29308686/events/10787545/broadcasts/235454817.secure.m3u8
-#EXTINF:-1 tvg-name="Unicanal" tvg-logo="https://i.imgur.com/brlepuX.png" tvg-id="Unicanal.py" tvg-chno="1" tvg-country="PY" group-title="Paraguay",Unicanal
-http://45.55.127.106/live/unicanal.m3u8
-#EXTINF:-1 tvg-name="Trece" tvg-logo="https://i.imgur.com/9kcYqk2.png" tvg-id="Trece.py" tvg-chno="2" tvg-country="PY" group-title="Paraguay",Trece
-https://stream.rpc.com.py/live/trece_src.m3u8
-#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-id="ABCTV.py" tvg-chno="3" tvg-country="PY" group-title="Paraguay",ABC TV
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 tvg-name="Unicanal Ⓨ" tvg-logo="https://i.imgur.com/brlepuX.png" tvg-id="Unicanal.py" tvg-chno="1" tvg-country="PY" group-title="Paraguay",Unicanal Ⓨ
+https://www.youtube.com/@unicanalpy/live
+#EXTINF:-1 tvg-name="ABC TV Ⓨ" tvg-logo="https://i.imgur.com/tBdgllD.png" tvg-id="ABCTV.py" tvg-chno="2" tvg-country="PY" group-title="Paraguay",ABC TV Ⓨ
+https://www.youtube.com/user/canalabctv/live
 #EXTINF:-1 tvg-name="Panamericana TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" tvg-id="PanamericanaTV.pe" tvg-chno="5" tvg-country="PE" group-title="Peru",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-name="ATV+ Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png" tvg-id="ATVPlus.pe" tvg-chno="15" tvg-country="PE" group-title="Peru",ATV+ Noticias
@@ -3531,6 +3521,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Action Hollywood Movies" tvg-logo="" tvg-id="" group-title="VOD Movies (EN)",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-name="Now 70's" tvg-logo="" tvg-id="" group-title="Music (EN)",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Now 80's" tvg-logo="" tvg-id="" group-title="Music (EN)",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NOW Rock" tvg-logo="" tvg-id="" group-title="Music (EN)",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera العربية" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel.qa" tvg-chno="1" group-title="News (AR)",Al Jazeera العربية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-name="Al Arabiya العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/640px-Al-Arabiya_new_logo.svg.png" tvg-id="AlArabiya.ae" tvg-chno="2" group-title="News (AR)",Al Arabiya العربية
