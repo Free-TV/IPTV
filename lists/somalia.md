@@ -15,7 +15,7 @@
 | 0   | Horn Cable TV | [x]() | <img height="20" src="https://i.imgur.com/qUqQCjP.png"/> | HornCableTV.so |
 | 0   | Jubbaland TV | [x]() | <img height="20" src="https://i.imgur.com/SEgEYjV.png"/> | JubbalandTV.so |
 | 0   | KGS TV | [x]() | <img height="20" src="https://i.imgur.com/MCDFlCk.png"/> | KGSTV.so |
-| 0   | MM Somali TV Ⓢ | [>](https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8) | <img height="20" src="https://www.lyngsat.com/logo/tv/mm/mm-somali-tv-so.png"/> | MMSomaliTV.uk |
+| 0   | MM Somali TV Ⓨ | [>](https://www.youtube.com/@mmsomalitv/live) | <img height="20" src="https://www.lyngsat.com/logo/tv/mm/mm-somali-tv-so.png"/> | MMSomaliTV.uk |
 | 0   | Puntland TV Ⓢ | [>](http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/C8EvQUo.png"/> | PuntlandTV.so |
 | 0   | Rejo TV | [x]() | <img height="20" src="https://www.lyngsat.com/logo/tv/rr/rejo-tv-so.png"/> |
 | 0   | Saab TV Ⓢ | [>](https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JEC1J89.png"/> | SaabTV.so |
