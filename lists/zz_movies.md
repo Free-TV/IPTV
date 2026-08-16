@@ -41,3 +41,9 @@
 |:---:|:--------------:|:-----:|:----:|:------:|  
 |     | Film Detective | [>](https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8) | <img height="20" src="https://i.imgur.com/4aFLH9g.png"/> |
 
+<h2>Amagi</h2>
+
+| #   | Channel        | Link  | Logo | EPG id |
+|:---:|:--------------:|:-----:|:----:|:------:|
+|     | Action Hollywood Movies | [>](https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8) | | |
+
