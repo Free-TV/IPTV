@@ -251,6 +251,10 @@ http://94.250.2.6:7374/play/a02u/index.m3u8
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" tvg-chno="2" tvg-country="BR" group-title="Brazil",SBT Ⓨ
 https://www.youtube.com/watch?v=ABVQXgr2LW4
+#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" tvg-id="AgroBrasilTV.br" tvg-chno="3" tvg-country="BR" group-title="Brazil",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Canal_Futura_2022.svg" tvg-id="CanalFutura.br" tvg-chno="4" tvg-country="BR" group-title="Brazil",Futura
+http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-name="RBC" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" tvg-id="RBC.br" tvg-chno="5" tvg-country="BR" group-title="Brazil",RBC Ⓨ
 https://www.youtube.com/watch?v=oUdd3CsxYaE
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" tvg-id="RecordNews.br" tvg-chno="7" tvg-country="BR" group-title="Brazil",Record News
@@ -385,6 +389,8 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" tvg-id="CCTV4Asia.cn" tvg-chno="4" tvg-country="CN" group-title="China",CCTV-4 中文国际（亚） Ⓨ
 https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（欧）" tvg-logo="https://i.imgur.com/kx8metk.png" tvg-id="CCTV4Europe.cn" tvg-chno="5" tvg-country="CN" group-title="China",CCTV-4 中文国际（欧）
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（美）" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" tvg-chno="6" tvg-country="CN" group-title="China",CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/Mut2omN.png" tvg-id="CCTV5.cn" tvg-chno="7" tvg-country="CN" group-title="China",CCTV-5 体育
@@ -2063,6 +2069,10 @@ https://www.twitch.tv/teleroma_56
 https://www.twitch.tv/teleradiostereo
 #EXTINF:-1 tvg-name="Class CNBC" tvg-logo="https://i.imgur.com/oAiSU8O.png" tvg-id="ClassCNBC.it" tvg-chno="507" tvg-country="IT" group-title="Italy",Class CNBC Ⓖ
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canale 58" tvg-logo="https://i.imgur.com/RlFc74C.png" tvg-country="IT" group-title="Italy",Canale 58
+https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
+#EXTINF:-1 tvg-name="Telecolor International" tvg-logo="https://i.imgur.com/vYM6eal.png" tvg-country="IT" group-title="Italy",Telecolor International
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1 tvg-name="NHK総合 (東京)" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" tvg-country="JP" group-title="日本 / Japan",NHK総合 (東京)
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8
 #EXTINF:-1 tvg-name="NHK Eテレ（東京）" tvg-logo="https://i.imgur.com/WxtftlO.png" tvg-id="JOABDTV.jp" tvg-chno="D021" tvg-country="JP" group-title="日本 / Japan",NHK Eテレ（東京）
@@ -2913,14 +2923,30 @@ https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
 #EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://i.imgur.com/j3SP4BS.png" tvg-id="Antena3.es" tvg-chno="3" tvg-country="ES" group-title="Spain",Antena 3
 http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-name="Cuatro" tvg-logo="https://i.imgur.com/zROxNap.png" tvg-id="Cuatro.es" tvg-chno="4" tvg-country="ES" group-title="Spain",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:-1 tvg-name="Telecinco" tvg-logo="https://i.imgur.com/JECsKdk.png" tvg-id="Telecinco.es" tvg-chno="5" tvg-country="ES" group-title="Spain",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://i.imgur.com/b59MxgM.png" tvg-id="LaSexta.es" tvg-chno="6" tvg-country="ES" group-title="Spain",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1 tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png" tvg-id="Neox.es" tvg-chno="11" tvg-country="ES" group-title="Spain",Neox Ⓢ
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png" tvg-id="Nova.es" tvg-chno="12" tvg-country="ES" group-title="Spain",Nova Ⓢ
 http://40.160.24.55/Nova/index.m3u8
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://i.imgur.com/Udrt2eK.png" tvg-id="Mega.es" tvg-chno="13" tvg-country="ES" group-title="Spain",Mega Ⓢ
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" tvg-chno="15" tvg-country="ES" group-title="Spain",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://i.imgur.com/nUYuCAP.png" tvg-id="Boing.es" tvg-chno="18" tvg-country="ES" group-title="Spain",Boing
+https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
 #EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/500px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" tvg-chno="1" tvg-country="ES" group-title="Spain",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="La Otra" tvg-logo="https://i.imgur.com/W1UZyXH.png" tvg-id="LaOtra.es" tvg-chno="2" tvg-country="ES" group-title="Spain",La Otra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-logo="https://i.imgur.com/WcVOXPr.png" tvg-id="CanalSurAndalucia.es" tvg-chno="3" tvg-country="ES" group-title="Spain",Canal Sur Andalucía
 https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
+#EXTINF:-1 tvg-name="La 7 CYLTV" tvg-logo="https://i.imgur.com/o2FlMXP.png" tvg-id="La7deCyLTV.es" tvg-chno="4" tvg-country="ES" group-title="Spain",La 7 CYLTV
+http://nws.nice264.com/ilive/cyl/cyl_cyltvlivem_MB_348/playlist.m3u8
 #EXTINF:-1 tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" tvg-id="La8Mediterraneo.es" tvg-chno="5" tvg-country="ES" group-title="Spain",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 #EXTINF:-1 tvg-name="Televisión Canaria" tvg-logo="https://i.imgur.com/68LNS8e.png" tvg-id="TVCanaria.es" tvg-chno="6" tvg-country="ES" group-title="Spain",Televisión Canaria Ⓨ

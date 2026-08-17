@@ -781,3 +781,7 @@ https://www.twitch.tv/teleroma_56
 https://www.twitch.tv/teleradiostereo
 #EXTINF:-1 tvg-name="Class CNBC" tvg-logo="https://i.imgur.com/oAiSU8O.png" tvg-id="ClassCNBC.it" tvg-chno="507" tvg-country="IT" group-title="Italy",Class CNBC Ⓖ
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Canale 58" tvg-logo="https://i.imgur.com/RlFc74C.png" tvg-country="IT" group-title="Italy",Canale 58
+https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
+#EXTINF:-1 tvg-name="Telecolor International" tvg-logo="https://i.imgur.com/vYM6eal.png" tvg-country="IT" group-title="Italy",Telecolor International
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8

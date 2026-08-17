@@ -3,6 +3,10 @@
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" tvg-id="SBTNacional.br" tvg-chno="2" tvg-country="BR" group-title="Brazil",SBT Ⓨ
 https://www.youtube.com/watch?v=ABVQXgr2LW4
+#EXTINF:-1 tvg-name="AgroBrasil TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" tvg-id="AgroBrasilTV.br" tvg-chno="3" tvg-country="BR" group-title="Brazil",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Canal_Futura_2022.svg" tvg-id="CanalFutura.br" tvg-chno="4" tvg-country="BR" group-title="Brazil",Futura
+http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1 tvg-name="RBC" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" tvg-id="RBC.br" tvg-chno="5" tvg-country="BR" group-title="Brazil",RBC Ⓨ
 https://www.youtube.com/watch?v=oUdd3CsxYaE
 #EXTINF:-1 tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" tvg-id="RecordNews.br" tvg-chno="7" tvg-country="BR" group-title="Brazil",Record News

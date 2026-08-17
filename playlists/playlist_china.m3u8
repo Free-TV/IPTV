@@ -7,6 +7,8 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" tvg-id="CCTV4Asia.cn" tvg-chno="4" tvg-country="CN" group-title="China",CCTV-4 中文国际（亚） Ⓨ
 https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+#EXTINF:-1 tvg-name="CCTV-4 中文国际（欧）" tvg-logo="https://i.imgur.com/kx8metk.png" tvg-id="CCTV4Europe.cn" tvg-chno="5" tvg-country="CN" group-title="China",CCTV-4 中文国际（欧）
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（美）" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" tvg-chno="6" tvg-country="CN" group-title="China",CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://i.imgur.com/Mut2omN.png" tvg-id="CCTV5.cn" tvg-chno="7" tvg-country="CN" group-title="China",CCTV-5 体育
