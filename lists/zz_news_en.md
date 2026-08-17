@@ -2,7 +2,7 @@
 
 | #   | Channel         | Link  | Logo | EPG id |
 |:---:|:---------------:|:-----:|:----:|:------:|
-| 1  |    Sky News (UK)    |  [>](https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8)  |  <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"/>   |  SkyNewsInternational.uk  |
+| 1  |    Sky News (UK) Ⓨ    |  [>](https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live)  |  <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"/>   |  SkyNewsInternational.uk  |
 | 2  |      Euronews Ⓨ     |  [>](https://www.youtube.com/euronews/live)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/>  |  EuronewsEnglish.fr  |
 | 3  |     Africanews Ⓨ    |  [>](https://www.youtube.com/africanews/live)  |  <img height="20" src="https://i.imgur.com/xocvePC.png"/>  |  Africanews.cg  |
 | 4  |      France 24 Ⓨ    |  [>](https://www.youtube.com/france24english/live)  |  <img height="20" src="https://i.imgur.com/61MSiq9.png"/>   |  France24English.fr  |
@@ -10,27 +10,27 @@
 | 6  |     Al Jazeera      |   [>](https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8)  |  <img height="20" src="https://i.imgur.com/BB93NQP.png"/>  |  AlJazeeraEnglish.qa |
 | 7  |        CGTN         |  [>](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8)  |  <img height="20" src="https://i.imgur.com/fMsJYzl.png"/>  |  CGTN.cn |
 | 8  |     BBC News Ⓖ      |  [>](https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"/>  |  BBCNews.uk  |
-| 9  |    NBC News NOW     |  [>](https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png"/>  |  NBCNewsNOW.us |
-| 10 |       Reuters       |  [>](https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/6eQ2nCJ.png"/>  |  ReutersTV.us |
+| 9  |    NBC News NOW     |  [>](https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png"/>  |  NBCNewsNOW.us |
+| 10 |       Reuters       |  [>](https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/6eQ2nCJ.png"/>  |  ReutersTV.us |
 | 11 |    The Guardian     |  [>](https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/o9AYq9V.png"/>  |  TheGuardian.uk |
 | 12 |      CBS News       |  [>](https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png"/>  |  CBSNews.us |
-| 13 |    ABC News Live    |  [>](https://lnc-abc-news.tubi.video/index.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png"/>  |  ABCNewsLive.us |
+| 13 |    ABC News Live    |  [>](https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png"/>  |  ABCNewsLive.us |
 | 14 |  LiveNOW from FOX   |  [>](https://lnc-fox-live-now.tubi.video/index.m3u8)  |  <img height="20" src="https://i.imgur.com/1JnyzHv.png"/>  |  LiveNOWFromFOX.us |
 | 15 |  CBC News Network   |  [>](https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/SjTdhvJ.png"/>  |  CBCNewsNetwork.ca |
 | 16 |     Ticker News     |  [>](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/z7M0QxV.png"/>   |  tickerNews.au  |
 | 17 |     India Today     |  [>](https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/koFYddE.png"/>  |  IndiaToday.in |
-| 18 |  Channel News Asia  |  [>](https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8)  |  <img height="20" src="https://i.imgur.com/xWglicB.png"/>  |  CNAInternational.sg  |
+| 18 |  Channel News Asia Ⓨ |  [>](https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live)  |  <img height="20" src="https://i.imgur.com/xWglicB.png"/>  |  CNAInternational.sg  |
 | 19 |    ABC News (AU) Ⓨ  |  [>](https://www.youtube.com/@abcnewsaustralia/live)  |  <img height="20" src="https://i.imgur.com/BrW7gk8.png"/>  |  ABCNews.au  |
-| 20 |      NDTV 24x7      |  [>](https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png"/>  |  NDTV24x7.in  |
-| 21 |      TRT World      |  [>](https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/>  |  TRTWorld.tr  |
-| 22 |   NHK World Japan   |  [>](https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/>  |  NHKWorldJapan.jp  |
-| 23 |      DD India       |  [>](https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8)  |   <img height="20" src="https://i.imgur.com/45uptR8.png"/>  |  DDIndia.in  |
-| 24 |        WION         |  [>](https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8)  |   <img height="20" src="https://i.imgur.com/Wc5Z3iS.png"/>  |  WION.in  |
+| 20 |      NDTV 24x7 Ⓨ    |  [>](https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA/live)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png"/>  |  NDTV24x7.in  |
+| 21 |      TRT World Ⓨ    |  [>](https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"/>  |  TRTWorld.tr  |
+| 22 |   NHK World Japan Ⓨ |  [>](https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"/>  |  NHKWorldJapan.jp  |
+| 23 |      DD India Ⓨ     |  [>](https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live)  |   <img height="20" src="https://i.imgur.com/45uptR8.png"/>  |  DDIndia.in  |
+| 24 |        WION Ⓨ       |  [>](https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live)  |   <img height="20" src="https://i.imgur.com/Wc5Z3iS.png"/>  |  WION.in  |
 | 25 |       Taiwan+       |  [>](https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8)  |   <img height="20" src="https://i.imgur.com/SfcZyqm.png"/>   |  TaiwanPlusTV.tw  |
 | 26 | Metro Globe Network |  [>](https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8)  |   <img height="20" src="https://i.imgur.com/aiiinzg.png"/>  |  MetroGlobeNetwork.id  |
 | 27 |      i24 News       |  [>](https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8) |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"/>  |  i24NEWSEnglishWorld.il   |
 | 28 |    Scripps News     |  [>](https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8)  |  <img height="20" src="https://i.imgur.com/UfN6aAi.png"/>  |  ScrippsNews.us  |
-| 29 |      USA Today      |  [>](https://lnc-usa-today.tubi.video/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/37K0AZX.png"/>  |  USATODAY.us  |
+| 29 |      USA Today      |  [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/37K0AZX.png"/>  |  USATODAY.us  |
 | 30 |      TVC News Ⓨ    |  [>](https://www.youtube.com/tvcnewsnigeria/live)  |  <img height="20" src="https://i.imgur.com/jaSq18B.png"/>  |  TVCNews.ng  |
 | 31 |     Channels 24 Ⓨ  |  [>](https://www.youtube.com/channelstelevision/live)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg"/>  |  Channels24.ng  |
 | 32 |  Sky News Now (AU)  |  [>](https://i.mjh.nz/sky-news-now.m3u8)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png"/> |  SkyNewsAustralia.au  |
@@ -39,9 +39,9 @@
 | 35 |    Pluto TV News    |  [x]() | <img height="20" src="https://i.imgur.com/JdqA4r9.png"/>  |  PlutoTVNews.us |
 | 36 |         CNN         |  [>](https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/>  |  CNN.us  |
 | 37 |  CNN International  |  [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png"/>  |  CNNInternationalEurope.us |
-| 38 |       GB News       |  [>](https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png"/>  |  GBNews.uk  |
-| 39 |       TalkTV        |  [>](https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8)  |  <img height="20" src="https://i.imgur.com/KxHWpQB.png"/>  |  TalkTV.uk |
-| 40 |      Joy News       |  [>](https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8)  |  <img height="20" src="https://i.imgur.com/kGuMNmR.png"/>  |  JoyNews.gh  |
+| 38 |       GB News Ⓨ     |  [>](https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png"/>  |  GBNews.uk  |
+| 39 |       TalkTV        |  [>](https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/KxHWpQB.png"/>  |  TalkTV.uk |
+| 40 |      Joy News Ⓨ     |  [>](https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live)  |  <img height="20" src="https://i.imgur.com/kGuMNmR.png"/>  |  JoyNews.gh  |
 | 41 |      SABC News      |  [>](https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8)  | <img height="20" src="https://i.imgur.com/H9q3Q9d.png"/>  |  SABCNews.gh  |
 
 <h1>Business</h1>
