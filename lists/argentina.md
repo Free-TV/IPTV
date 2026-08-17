@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 |24.6| El Destape Ⓨ|[>](https://www.youtube.com/c/eldestapetv/live)|<img height="20" src="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no"/>|ElDestape.ar|
 | 25.2 | C5N Ⓨ          | [>](https://www.youtube.com/c/c5n/live) | <img height="20" src="https://i.imgur.com/E3pamA5.png"/> | C5N.ar |
 | 25.3 | LN+ Ⓨ          | [>](https://www.youtube.com/c/LaNacionMas/live) | <img height="20" src="https://i.imgur.com/vJYzGt1.png"/> | LaNacionPlus.ar |
-| 25.6 |Canal E| [>](https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8)| <img height="20" src="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg"/>| CanalE.ar|
+| 25.6 | +Perfil | [>](https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8) | <img height="20" src="https://i.imgur.com/3wZdPwN.png"/> | MasPerfil.ar |
 
 
 <h3> Buenos Aires (City and Province)</h3>
