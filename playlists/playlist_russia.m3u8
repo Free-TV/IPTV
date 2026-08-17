@@ -60,7 +60,7 @@ https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Астрахан 24" tvg-logo="https://i.imgur.com/9WcnjQN.png" tvg-id="Astrakhan24.ru" tvg-country="RU" group-title="Russia",Астрахан 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-name="Башкортостан 24" tvg-logo="https://i.imgur.com/FQhWs1M.png" tvg-id="Bashkortostan24.ru" tvg-country="RU" group-title="Russia",Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Белгород 24" tvg-logo="https://i.imgur.com/EEirvyx.png" tvg-id="Belgorod24.ru" tvg-country="RU" group-title="Russia",Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1 tvg-name="Ветта 24" tvg-logo="https://i.imgur.com/zKH1b5k.png" tvg-id="Vetta24.ru" tvg-country="RU" group-title="Russia",Ветта 24
@@ -84,7 +84,7 @@ https://player.smotrim.ru/iframe/stream/live_id/1661
 #EXTINF:-1 tvg-name="Нижний Новгород 24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" tvg-id="NizhniyNovgorod24.ru" tvg-country="RU" group-title="Russia",Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-name="Самара 24" tvg-logo="https://i.imgur.com/Xg7Xzna.png" tvg-id="Samara24.ru" tvg-country="RU" group-title="Russia",Самара 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Саратов 24" tvg-logo="https://i.imgur.com/Y5G3ET6.png" tvg-id="Saratov24.ru" tvg-country="RU" group-title="Russia",Саратов 24
 https://saratov24.tv/online/playlist.php
 #EXTINF:-1 tvg-name="Сибирь 24" tvg-logo="https://i.imgur.com/WxU6QUB.png" tvg-id="Sibir24.ru" tvg-country="RU" group-title="Russia",Сибирь 24
@@ -92,7 +92,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-name="Тольятти 24" tvg-logo="https://i.imgur.com/5jVKopE.png" tvg-id="Tolyatti24.ru" tvg-country="RU" group-title="Russia",Тольятти 24
 https://tvtogliatti24.ru/hls/live1080/index.m3u8
 #EXTINF:-1 tvg-name="Урал 24" tvg-logo="https://i.imgur.com/EaxyGh0.png" tvg-id="Ural24.ru" tvg-country="RU" group-title="Russia",Урал 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 tvg-name="Якутия 24" tvg-logo="https://i.imgur.com/2BAQklm.png" tvg-id="Yakutiya24.ru" tvg-country="RU" group-title="Russia",Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="360 Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" tvg-id="360News.ru" tvg-country="RU" group-title="Russia",360 Новости
