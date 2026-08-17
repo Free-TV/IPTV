@@ -23,6 +23,6 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | 4fun Dance | [x]() | <img height="20" src="https://i.imgur.com/ZEWHe1B.png"/> | 4FunDance.pl |
-| 0   | 4fun Kids | [x]() | <img height="20" src="https://i.imgur.com/2JO5Y8c.png"/> | 4FunKids.pl |
+| 0   | 4fun Kids | [>](https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8) | <img height="20" src="https://i.imgur.com/2JO5Y8c.png"/> | 4FunKids.pl |
 | 0   | 4fun.tv Ⓢ | [>](https://stream.4fun.tv:8888/hls/4f_high/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/640px-4fun.tv_Logo_%282017%29.svg.png"/> | 4FunTV.pl |
 | 0   | TV Republika | [>](https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8) | <img height="20" src="https://i.imgur.com/ljpK6dZ.png"/> | TVRepublika.pl |

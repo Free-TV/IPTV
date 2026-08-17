@@ -11,7 +11,7 @@
 | 0   | Codka Bariga Afrika | [x]() | <img height="20" src="https://www.lyngsat.com/logo/tv/cc/codka-bariga-afrika-uk-so.png"/> | CodkaBarigaAfrika.so |
 | 0   | Dacwa TV Ⓢ | [>](https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rMqrLzV.png"/> | DacwaTV.so |
 | 0   | Galmudug TV | [x]() | <img height="20" src="https://www.lyngsat.com/logo/tv/gg/galmudug-tv-so.png"/> |
-| 0   | Hirshabelle TV | [x]() | <img height="20" src="https://www.lyngsat.com/logo/tv/hh/hirshabelle-tvjpg-so.png"/> |
+| 0   | Hirshabelle TV | [>](http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8) | <img height="20" src="https://www.lyngsat.com/logo/tv/hh/hirshabelle-tvjpg-so.png"/> |
 | 0   | Horn Cable TV | [x]() | <img height="20" src="https://i.imgur.com/qUqQCjP.png"/> | HornCableTV.so |
 | 0   | Jubbaland TV | [x]() | <img height="20" src="https://i.imgur.com/SEgEYjV.png"/> | JubbalandTV.so |
 | 0   | KGS TV | [x]() | <img height="20" src="https://i.imgur.com/MCDFlCk.png"/> | KGSTV.so |
