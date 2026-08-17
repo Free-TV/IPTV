@@ -40,3 +40,10 @@
 |2    | Drybar Comedy  | [>](https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EldlmTp.png"/> | DryBarComedy.us |
 |3    | Music Channel  | [>](http://media.boni-records.com/index.m3u8) | <img height="20" src="http://media.boni-records.com/logo.png"/> | Boni-Records.com.us |
 |4    | Stryk TV       | [>](https://FFFFFFF110156200.tvustream.com/ryfy.m3u8) | <img height="20" src="https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png"/> | StrykTV.us |
+|5    | FOX Live Now   | [>](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/livenowfox/picture?width=200&height=200"/> | FOXLiveNow.us |
+|6    | Cheddar        | [>](https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/cheddar/picture?width=200&height=200"/> | Cheddar.us |
+|7    | Court TV       | [>](https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8) | <img height="20" src="https://graph.facebook.com/courttv/picture?width=200&height=200"/> | CourtTV.us |
+|8    | WeatherNation  | [>](https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8) | <img height="20" src="https://graph.facebook.com/WeatherNation/picture?width=200&height=200"/> | WeatherNation.us |
+|9    | America's Voice | [>](https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8) | <img height="20" src="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200"/> | AmericasVoice.us |
+|10   | Newsmax TV     | [>](https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) | <img height="20" src="https://graph.facebook.com/newsmax/picture?width=200&height=200"/> | Newsmax.us |
+|11   | America TeVe   | [>](https://live.gideo.video/americateve2/master.m3u8) | <img height="20" src="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg"/> | AmericaTeVe.us |

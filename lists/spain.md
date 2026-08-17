@@ -38,7 +38,6 @@ https://en.wikipedia.org/wiki/Television_in_Spain#Digital_terrestrial_television
 | 13 |            Mega Ⓢ             |                         [>](http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8)                          |                                         <img height="20" src="https://i.imgur.com/Udrt2eK.png"/>                                         |            Mega.es            |
 | 15 |              FDF              |                         [>](https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8)                          |          <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png"/>          |     FactoriadeFiccion.es      |
 | 18 |             Boing             |                         [>](https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8)                          |                                         <img height="20" src="https://i.imgur.com/nUYuCAP.png"/>                                         |           Boing.es            |
-| 12 |         TV3 (see TV3Cat above) |                                                     [x](http://185.189.225.150:85/tv3/index.m3u8)                                                     |            <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png"/>            |            TV3.es            |
 
 
 

@@ -9,3 +9,10 @@
 |5    | TeleFormula    |[>](https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jR6taXt.png"/> | TeleFormula.mx |
 |6    | NRT 4 Monclova |[>](https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IudKE0n.png"/> | noticiasnrt.com |
 |7| Las Estrellas |[>](https://linear-416.frequency.stream/416/hls/master/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg"/> | Lasestrellas.tv |
+|8    | ADN Noticias   |[>](https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8) | <img height="20" src="https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg"/> | ADNNoticias.mx |
+|9    | Canal 6 Multimedios |[>](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | <img height="20" src="https://graph.facebook.com/multimediostv/picture?width=200&height=200"/> | Canal6Multimedios.mx |
+|10   | Canal Once     |[>](https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200"/> | CanalOnce.mx |
+|11   | Quiero TV      |[>](https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200"/> | QuieroTV.mx |
+|12   | México Travel TV |[>](https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200"/> | MexicoTravelTV.mx |
+|13   | Estrella TV    |[>](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200"/> | EstrellaTV.mx |
+|14   | TELE 10 Nayarit |[>](https://live.iplanay.gob.mx/hls/nayarittv.m3u8) | <img height="20" src="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200"/> | Tele10Nayarit.mx |
