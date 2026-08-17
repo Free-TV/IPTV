@@ -20,7 +20,7 @@
 | 15  | ONNtv Ontario   | [x](https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8) | <img height="20" src="https://i.imgur.com/zz5ST9K.png"/> | ONNtv.ca |
 | 16  | Star TV         | [x](http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u) | <img height="20" src="https://i.imgur.com/Ap54LCC.png"/> |
 | 17  | CBC News        | [>](https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8) | <img height="20" src="https://i.imgur.com/1EqQGKS.png"/> | CBCNewsNetwork.ca |
-| 18  | CTV News        | [x](https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8) | <img height="20" src="https://i.imgur.com/T3oBeiX.png"/> | CTVNewsChannel.ca |
+| 18  | CTV News Ⓨ      | [>](https://www.youtube.com/c/CTVNews/live) | <img height="20" src="https://i.imgur.com/T3oBeiX.png"/> | CTVNewsChannel.ca |
 | 19  | Global News     | [>](https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> |
 | 20  | Global News BC  | [x](https://i.mjh.nz/PlutoTV/62cbf063257170000724590c-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CHANDT.ca |
 | 21  | Global News Calgary      | [x](https://i.mjh.nz/PlutoTV/62cbf23dcfb48300077f8348-alt.m3u8) | <img height="20" src="https://i.imgur.com/IpfmG93.png"/> | CICTDT.ca |
