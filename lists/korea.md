@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Television_in_South_Korea
 | 12  | UBC TV         | [>](http://59.23.231.102:1935/live/UBCstream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Ubc_logo2.svg/500px-Ubc_logo2.svg.png"/> | UBCTV.kr |
 | 13  | JTV TV         | [>](https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/500px-Jtv_logo.svg.png"/> | JTV.kr |
 | 14  | CJB TV         | [>](http://1.222.207.80:1935/live/cjbtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MvxdZhX.png"/> | CJBTV.kr |
-| 15  | G1 TV          | [x](http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TYYffUe.png"/> | G1TV.kr |
+| 15  | G1 TV          | [>](http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TYYffUe.png"/> | G1TV.kr |
 | 16  | JIBS TV        | [>](http://123.140.197.22/stream/1/play.m3u8) | <img height="20" src="https://i.imgur.com/RVWpBoz.png"/> | JIBSTV.kr |
 | 17  | OBS TV         | [>](https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8) | <img height="20" src="https://i.imgur.com/oWB3ApR.png"/> | OBSGyeonginTV.kr |
 | 18  | Arirang        | [>](http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RuHZ6Dx.png"/> | ArirangTV.kr |
