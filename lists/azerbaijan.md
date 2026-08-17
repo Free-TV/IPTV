@@ -15,6 +15,8 @@
 | 0   | Kanal S | [>](https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kanal_S_%282022%29.png/616px-Kanal_S_%282022%29.png"/> | KanalS.az |
 | 0   | Mədəniyyət TV Ⓢ | [>](https://str.yodacdn.net/medeniyyettele/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png"/> | MedeniyyetTV.az |
 | 0   | Xəzər Xəbər | [>](https://www.xezerxeber.az/stream/index.m3u8) | <img height="20" src="https://i.imgur.com/AuB8bnq.png"/> | XezerXeber.az |
+| 0   | İctimai TV Ⓢ | [>](https://live.itv.az/itv.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%C4%B0ctimai_TV_%282021-h.h.%29.svg/470px-%C4%B0ctimai_TV_%282021-h.h.%29.svg.png"/> | IctimaiTV.az |
+| 0   | Xəzər TV Ⓢ | [>](https://www.xezerxeber.az/stream/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png"/> | XezerTV.az |
 
 <h2>myvideo.az</h2>
 
@@ -33,14 +35,12 @@
 | 0   | Azad Azərbaycan TV (ATV) Ⓢ | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png"/> | AzadTV.az |
 | 0   | CBC | [x](https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8) | <img height="20" src="https://i.imgur.com/wVT0dwO.png"/> | CBC.az |
 | 0   | Dünya TV Ⓢ | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png"/> | DunyaTV.az |
-| 0   | İctimai TV Ⓢ | [>](https://live.itv.az/itv.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%C4%B0ctimai_TV_%282021-h.h.%29.svg/470px-%C4%B0ctimai_TV_%282021-h.h.%29.svg.png"/> | IctimaiTV.az |
 | 0   | İdman TV Ⓢ | [x](http://109.205.166.68/server124/idman_az/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/thumb/8/88/%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png/640px-%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png"/> | IdmanTV.az |
 | 0   | Muz TV | [x]() | <img height="20" src="https://i.imgur.com/CjySP1V.png"/> | MuzTV.az |
 | 0   | Real TV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=RealTV) | <img height="20" src="https://i.imgur.com/e2KFL0R.png"/> | RealTV.az |
 | 0   | Space TV Ⓢ | [x](http://109.205.166.68/server124/space_tv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Space_TV_loqosu_%282023-h.h.%29.png/296px-Space_TV_loqosu_%282023-h.h.%29.png"/> | SpaceTV.az |
 | 0   | TMB Azərbaycan | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TMBAzerbaijan) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png"/> |
 | 0   | Topaz 2 | [x]() | <img height="20" src="https://www.lyngsat.com/logo/tv/tt/topaz_tv_az.png"/> |
-| 0   | Xəzər TV Ⓢ | [>](https://www.xezerxeber.az/stream/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png"/> | XezerTV.az |
 | 0   | Səhiyyə TV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/thumb/c/cd/S%C9%99hiyy%C9%99_TV.png/640px-S%C9%99hiyy%C9%99_TV.png"/> | SehiyyeTV.az |
 | 0   | MCJ TV SHOP | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MCJTVShop) | <img height="20" src="https://tvtolive.com/wp-content/uploads/MCJ-TV-Shop-tvtolive.com_.jpg"/> |
 | 0   | VIP HD | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP) | <img height="20" src="https://tvtolive.com/wp-content/uploads/VIP-TV-tvtolive.com_.jpg"/> |
