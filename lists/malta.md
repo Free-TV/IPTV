@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Malta
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | TVM Ⓢ          | [x]() | <img height="20" src="https://i.imgur.com/6jaNiUi.png"/> | TVM.mt |
+| 1   | TVM Ⓢ Ⓨ        | [>](https://www.youtube.com/channel/UChlf9r1rzhJ_SVM_WCKFL1g/live) | <img height="20" src="https://i.imgur.com/6jaNiUi.png"/> | TVM.mt |
 | 2   | TVM 2 Ⓢ        | [x]() | <img height="20" src="https://i.imgur.com/qUZxPez.png"/> |
 | 3   | NET TV         | [x]() | <img height="20" src="https://i.imgur.com/DcXBpzx.png"/> | NetTV.mt |
 | 6   | F Living       | [x]() | <img height="20" src="https://i.imgur.com/mAbciXA.png"/> | FLivingChannel.mt |
