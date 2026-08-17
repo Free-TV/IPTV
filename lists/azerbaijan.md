@@ -36,12 +36,12 @@
 | 0   | CBC | [x](https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8) | <img height="20" src="https://i.imgur.com/wVT0dwO.png"/> | CBC.az |
 | 0   | Dünya TV Ⓢ | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png"/> | DunyaTV.az |
 | 0   | İdman TV Ⓢ | [x](http://109.205.166.68/server124/idman_az/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/thumb/8/88/%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png/640px-%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png"/> | IdmanTV.az |
-| 0   | Muz TV | [x]() | <img height="20" src="https://i.imgur.com/CjySP1V.png"/> | MuzTV.az |
-| 0   | Real TV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=RealTV) | <img height="20" src="https://i.imgur.com/e2KFL0R.png"/> | RealTV.az |
+| 0   | Muz TV Ⓨ | [>](https://www.youtube.com/channel/UCgHYcHd2SuX0ees5q0OWicQ/live) | <img height="20" src="https://i.imgur.com/CjySP1V.png"/> | MuzTV.az |
+| 0   | Real TV Ⓨ | [>](https://www.youtube.com/channel/UCjpoTfA8TXO6QfAWiAB67eA/live) | <img height="20" src="https://i.imgur.com/e2KFL0R.png"/> | RealTV.az |
 | 0   | Space TV Ⓢ | [x](http://109.205.166.68/server124/space_tv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Space_TV_loqosu_%282023-h.h.%29.png/296px-Space_TV_loqosu_%282023-h.h.%29.png"/> | SpaceTV.az |
 | 0   | TMB Azərbaycan | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TMBAzerbaijan) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png"/> |
 | 0   | Topaz 2 | [x]() | <img height="20" src="https://www.lyngsat.com/logo/tv/tt/topaz_tv_az.png"/> |
 | 0   | Səhiyyə TV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV) | <img height="20" src="https://upload.wikimedia.org/wikipedia/az/thumb/c/cd/S%C9%99hiyy%C9%99_TV.png/640px-S%C9%99hiyy%C9%99_TV.png"/> | SehiyyeTV.az |
 | 0   | MCJ TV SHOP | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MCJTVShop) | <img height="20" src="https://tvtolive.com/wp-content/uploads/MCJ-TV-Shop-tvtolive.com_.jpg"/> |
 | 0   | VIP HD | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP) | <img height="20" src="https://tvtolive.com/wp-content/uploads/VIP-TV-tvtolive.com_.jpg"/> |
-| 0   | MTV Azerbaijan Ⓢ | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png"/> | MTVAzerbaijan.az |
+| 0   | MTV Azerbaijan Ⓢ Ⓨ | [>](https://www.youtube.com/@MTVAzerbaijan/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png"/> | MTVAzerbaijan.az |

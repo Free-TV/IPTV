@@ -25,12 +25,12 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 | 27 | VTV Televizija | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/VTV_televizija_Logo.svg/640px-VTV_televizija_Logo.svg.png"/> | VTV.hr |
 | 31 | OTV | [>](https://stream.agatin.hr:3559/live/otvlive.m3u8) | <img height="20" src="https://i.imgur.com/67zVdu2.png"/> | OTV.hr |
 | 32 | Mreža TV | [x]() | <img height="20" src="https://i.imgur.com/IdvKUp9.png"/> | MrezaTV.hr |
-| 33 | Z1 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png"/> | Z1.hr |
+| 33 | Z1 Ⓨ | [>](https://www.youtube.com/@z1televizija/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png"/> | Z1.hr |
 | 36 | Kanal Ri | [x]() | <img height="20" src="https://kanal-ri.hr/wp-content/uploads/2022/09/kanalRi_logo_v1.png"/> | KanalRi.hr |
 | 38 | TV Nova | [>](https://stream.agatin.hr:3727/live/tvnovalive.m3u8)   | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png"/> | TVNova.hr |
 | 47 | Diadora | [>](https://diadoratv.stream/live/diadora/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qZzsASl.png"/> | DiadoraTV.hr |
 | 51 | TV Jadran | [>](https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8)   | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png"/> | TVJadran.hr |
-| 52 | TV Dalmacija | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/b/ba/Televizija_dalmacija_logo.jpg"/> | TVDalmacija.hr |
+| 52 | TV Dalmacija Ⓨ | [>](https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/b/ba/Televizija_dalmacija_logo.jpg"/> | TVDalmacija.hr |
 | 56 | Dubrovačka televizija (DUTV) | [x]() | <img height="20" src="https://dutv.hr/wp-content/uploads/2017/10/DUTV-logo-plavi-web-veci.png"/> | DUTV.hr |
 | 57 | Libertas TV | [>](https://stream.luci.xyz/hls/LTV.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png"/> | LibertasTV.hr |
 | 61 | Laudato TV | [x]() | <img height="20" src="https://i.imgur.com/661SU4H.png"/> | LaudatoTV.hr |
@@ -50,4 +50,4 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 0   | N1 Hrvatska | [x]() | <img height="20" src="https://i.imgur.com/qcD1OOZ.png"/> | N1Croatia.hr |
+| 0   | N1 Hrvatska Ⓨ | [>](https://www.youtube.com/@N1_Hrvatska/live) | <img height="20" src="https://i.imgur.com/qcD1OOZ.png"/> | N1Croatia.hr |
