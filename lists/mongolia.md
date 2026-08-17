@@ -55,5 +55,5 @@
 | 4   | Premier Sports 3 | [x](https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8) | | |
 | 5   | Premier Sports 4 | [x](http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8) | | PremierSports4.mn |
 | 6   | Premier Sports 5 | [x](https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8) | | |
-| 7   | Mongol TV      | [x](https://cdn4.skygo.mn/live/disk1/Mongol_TV/HLSv3-FTA/Mongol_TV.m3u8) | | |
+| 7   | Mongol TV Ⓨ    | [>](https://www.youtube.com/c/MONGOLTVnow/live) | | |
 | 8   | NTN            | [x](https://cdn4.skygo.mn/live/disk1/NTN/HLSv3-FTA/NTN.m3u8) | | Ntn.mn |
