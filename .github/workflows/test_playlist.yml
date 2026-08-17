@@ -47,5 +47,30 @@ jobs:
           npm install -g iptv-checker || true
           mkdir -p output
           sudo apt-get install -y ffmpeg
-          iptv-checker -o output -p 100 -t 120000 ./playlist.m3u8
+          iptv-checker -o output -p 100 -t 120000 ./playlist.m3u8 || true
+
+      - name: Summarize checker results
+        if: always()
+        run: |
+          online=$(grep -c '^#EXTINF' output/online.m3u 2>/dev/null || echo 0)
+          failed=$(grep -c '^#EXTINF' output/failed.m3u 2>/dev/null || echo 0)
+          {
+            echo "## IPTV Checker results"
+            echo ""
+            echo "- Online: $online"
+            echo "- Failed: $failed"
+            echo ""
+            echo "### Failed channels"
+            echo '```'
+            grep '^#EXTINF' output/failed.m3u 2>/dev/null || echo "(none)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload checker results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-checker-results
+          path: output/
+          retention-days: 14
 
