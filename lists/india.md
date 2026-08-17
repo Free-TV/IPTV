@@ -39,5 +39,5 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | ABP News         | [x](https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8) | <img height="20" src="https://i.imgur.com/DKHUFVQ.png" /> | ABPNews.in |
-| 2   | ABP Ananda       | [x](https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_ananda/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" /> | ABPAnanda.in |
+| 1   | ABP News         | [>](https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8) | <img height="20" src="https://i.imgur.com/DKHUFVQ.png" /> | ABPNews.in |
+| 2   | ABP Ananda       | [>](https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" /> | ABPAnanda.in |

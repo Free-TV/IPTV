@@ -27,7 +27,7 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | TF1 | [>](http://151.80.18.177:86/TF1_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png"/> | TF1.fr |
 | 2   | France 2 | [x](http://livetv.ktv.zone/104/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/886px-France_2_2018.svg.png"/> | France2.fr |
-| 3   | France 3 | [x](http://livetv.ktv.zone/105/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3.fr |
+| 3   | France 3 | [>](http://89.187.185.76:8080/France3/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3.fr |
 | 14  | France 4 | [>](http://176.65.146.100:8047/play/a074/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
 | 5   | France 5 | [>](http://145.239.5.177/305/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
 | 10  | TMC | [>](http://151.80.18.177:86/TMC/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/500px-TMC_logo_2016.svg.png"/> | TMC.fr |
