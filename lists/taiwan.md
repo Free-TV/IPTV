@@ -16,6 +16,6 @@
 | 10 | FTV News (民視新聞台) Ⓨ | [>](https://www.youtube.com/watch?v=ylYJSBUgaMA) | <img height="20" src="https://i.imgur.com/j9Gebr5.png"/> | FTVNews.tw |
 | 11 | FTV Taiwan (民視台灣台) | [>](http://seb.sason.top/ptv/ftv.php?id=tw) | <img height="20" src="https://i.imgur.com/p108I5g.png"/> | FTVTaiwan.tw |
 | 15 | TTV Main Channel (臺灣電視台) Ⓨ Ⓖ | [>](https://www.youtube.com/watch?v=uDqQo8a7Xmk) | <img height="20" src="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png"/> | TTV.tw |
-| 16 | TTV News (台視新聞台) Ⓨ | [>](https://www.youtube.com/watch?v=xL0ch83RAK8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png"/> | TTVNews.tw |
-| 22 | Congress Channel 1 Ⓨ | [>](https://www.youtube.com/watch?v=4HysYHJ6GkY) | <img height="20" src="https://i.imgur.com/0dVlvsz.png"/> | CongressChannel1.tw | 
-| 23 | Congress Channel 2 Ⓨ | [>](https://www.youtube.com/watch?v=RAP4h3q6_Sg) | <img height="20" src="https://i.imgur.com/htGr996.png"/> | CongressChannel2.tw | 
+| 16 | TTV News (台視新聞台) Ⓨ | [>](https://www.youtube.com/@TTV_NEWS/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png"/> | TTVNews.tw |
+| 22 | Congress Channel 1 Ⓨ | [>](https://www.youtube.com/watch?v=x6XVbD7Ln78) | <img height="20" src="https://i.imgur.com/0dVlvsz.png"/> | CongressChannel1.tw | 
+| 23 | Congress Channel 2 Ⓨ | [>](https://www.youtube.com/watch?v=Lj8OWF6nzcg) | <img height="20" src="https://i.imgur.com/htGr996.png"/> | CongressChannel2.tw | 

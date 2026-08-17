@@ -10,9 +10,9 @@
 | 6   | Al-Sharqiya News       | [>](https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P6p17ZY.jpg"/> | AlSharqiyaNews.iq |
 | 7   | Al-Sharqiya       | [>](https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/bPYyXNf.png"/> | AlSharqiya.iq |
 | 8   | Dijlah Tarab       | [>](https://ghaasiflu.online/tarab/tracks-v1a1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2SBjjBQ.png"/> | DijlahTarab.iq |
-| 9   | Dijlah TV       | [>](https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FJEeYiz.png"/> | DijlahTV.iq |
-| 10  | iNEWS       | [>](https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PeuBkaH.png"/> | INews.iq |
-| 11  | Iraq Future Ⓢ       | [>](https://streaming.viewmedia.tv/viewsatstream40/viewsatstream40.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Z7woTe5.png"/> | IraqFuture.iq |
+| 9   | Dijlah TV       | [>](https://ghaasiflu.online/Dijlah/index.m3u8) | <img height="20" src="https://i.imgur.com/FJEeYiz.png"/> | DijlahTV.iq |
+| 10  | iNEWS       | [>](https://live.i-news.tv/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/PeuBkaH.png"/> | INews.iq |
+| 11  | Iraq Future Ⓢ       | [>](https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Z7woTe5.png"/> | IraqFuture.iq |
 | 12  | Turkmeneli TV       | [>](https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iUhhg4B.png"/> | TurkmeneliTV.iq |
 | 13  | Zagros TV       | [>](https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UjIuIQX.png"/> | ZagrosTV.iq |
 | 14  | Alabbassia TV | [>](https://stream.alabbassia.com/live/alabbassia/index.m3u8) | <img height="20" src="https://i.imgur.com/BPyrjO5.png"/> | AlabbassiaTV.iq |

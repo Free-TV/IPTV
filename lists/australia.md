@@ -5,18 +5,18 @@ https://www.freeview.com.au
 | #   | Channel         | Link  | Logo | EPG id |
 |:---:|:---------------:|:-----:|:----:|:------:|
 | 5   | 10 HD           | [x]() | <img height="20" src="https://i.imgur.com/ZjKvXPn.png"/> | 10Sydney.au |
-| 1   | ABC             | [>](https://c.mjh.nz/101002210221/) | <img height="20" src="https://i.imgur.com/5CVl5EF.png"/> | ABCTV.au |
+| 1   | ABC             | [>](https://c.mjh.nz/abc-nsw.m3u8) | <img height="20" src="https://i.imgur.com/5CVl5EF.png"/> | ABCTV.au |
 | 5   | SBS             | [x]() | <img height="20" src="https://i.imgur.com/GBl1ynA.png"/> | SBSTV.au |
 | 5   | Seven           | [x]() | <img height="20" src="https://i.imgur.com/6zwKJaa.png"/> | SevenNetwork.au |
 | 5   | Nine            | [x]() | <img height="20" src="https://i.imgur.com/SMXwfr5.png"/> | NineNetwork.au |
 | 5   | 10 Peach        | [x]() | <img height="20" src="https://i.imgur.com/NlZLut8.png"/> | 10Peach.au |
 | 5   | 10 Bold         | [>](https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8) | <img height="20" src="https://i.imgur.com/2cq3fY1.png"/> | 10Bold.au |
 | 5   | 10 Shake        | [x]() | <img height="20" src="https://i.imgur.com/OXtIkOn.png"/> | 10Shake.au |
-| 5   | TVSN            | [>](https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8) | <img height="20" src="https://i.imgur.com/p3QCBOo.png"/> | TVSN.au |
+| 5   | TVSN            | [>](https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8) | <img height="20" src="https://i.imgur.com/p3QCBOo.png"/> | TVSN.au |
 | 5   | Spree TV        | [x]() | <img height="20" src="https://i.imgur.com/RyupyDF.png"/> | SpreeTV.au |
 | 3   | ABC Kids        | [>](https://c.mjh.nz/abc-kids.m3u8) | <img height="20" src="https://i.imgur.com/GWDRR1t.png"/> | ABCKids.au |
-| 4   | ABC Me          | [>](https://c.mjh.nz/101002210224/) | <img height="20" src="https://i.imgur.com/gBh54wY.png"/> | ABCMe.au |
-| 5   | ABC News        | [>](https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png"/> | ABCNews.au |
+| 4   | ABC Me          | [>](https://c.mjh.nz/abc-me.m3u8) | <img height="20" src="https://i.imgur.com/gBh54wY.png"/> | ABCMe.au |
+| 5   | ABC News        | [>](https://c.mjh.nz/abc-news.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png"/> | ABCNews.au |
 | 8   | M4TV      | [>](https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/HZohlNk.png"/> | M4TV.au |
 | 5   | SBS Viceland    | [x]() | <img height="20" src="https://i.imgur.com/WMKCkD0.png"/> | SBSViceland.au |
 | 5   | SBS World Movies| [x]() | <img height="20" src="https://i.imgur.com/V6hhtCx.png"/> | SBSWorldMovies.au |
