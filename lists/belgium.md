@@ -4,14 +4,14 @@
 
 | #   | Channel         | Link  | Logo | EPG id |
 |:---:|:---------------:|:-----:|:----:|:------:|
-| 1   | RTL-Be          | [x](https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8) | <img height="20" src="https://i.imgur.com/xMhSvax.png"/> | BelRTL.be |
-| 2   | La Une          | [x](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8) | <img height="20" src="https://i.imgur.com/hJodwJt.png"/> | LaUne.be |
+| 1   | RTL-Be          | [>](https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/xMhSvax.png"/> | BelRTL.be |
+| 2   | La Une          | [>](http://145.239.5.177/329/index.m3u8) | <img height="20" src="https://i.imgur.com/hJodwJt.png"/> | LaUne.be |
 | 3   | Tipik           | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8) | <img height="20" src="https://i.imgur.com/PVbVj8o.png"/> | Tipik.be |
 | 4   | Club RTL        | [x](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts) | <img height="20" src="https://i.imgur.com/e9GkFwY.png"/> | ClubRTL.be |
 | 5   | Arte Belgique   | [x]() | <img height="20" src="https://i.imgur.com/w7HzPQh.png"/> | 
-| 6   | La Trois        | [x](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.ts) | <img height="20" src="https://i.imgur.com/kC3pJtA.png"/> | LaTrois.be |
+| 6   | La Trois        | [>](http://145.239.5.177/330/index.m3u8) | <img height="20" src="https://i.imgur.com/kC3pJtA.png"/> | LaTrois.be |
 | 7   | Be 1            | [x]() | <img height="20" src="https://i.imgur.com/atSjuXK.png"/> | Be1.be |
-| 8   | TV5 Monde       | [x]() | <img height="20" src="https://i.imgur.com/7WHwYK3.png"/> | 
+| 8   | TV5 Monde       | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8) | <img height="20" src="https://i.imgur.com/7WHwYK3.png"/> | 
 | 9   | Plug RTL        | [x](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts) | <img height="20" src="https://i.imgur.com/iAZZWkZ.png"/> | PlugRTL.be |
 | 10  | AB3             | [x]() | <img height="20" src="https://i.imgur.com/7foaAFU.png"/> | AB3.be |
 | 11  | ABXplore        | [x]() | <img height="20" src="https://i.imgur.com/KwV8axc.png"/> | ABXplore.be |

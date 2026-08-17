@@ -10,10 +10,10 @@
 | 3   | MRT3 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI=) | <img height="20" src="https://i.imgur.com/3VZrG4T.png"/> | MRT3.mk |
 | 4   | MRT4 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc=) | <img height="20" src="https://i.imgur.com/wSmxUqY.png"/> | MRT4.mk |
 | 4   | MRT5 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDM6NDI6NDMgUE0maGFzaF92YWx1ZT0wZXRxNHh1UnMyVStVZnU3K0RNZUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY4M2YzYzIyYmI=) | <img height="20" src="https://i.imgur.com/zcvKu1h.png"/> | MRT5.mk |
-| 5   | Kanal 5 Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5)/index.m3u8) | <img height="20" src="https://i.imgur.com/Qw7N3S2.png"/> | Kanal5.mk |
+| 5   | Kanal 5 Ⓢ Ⓖ | [>](https://s2.teve.mk/tvstanici/2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Qw7N3S2.png"/> | Kanal5.mk |
 | 28  | Alfa TV Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8) | <img height="20" src="https://i.imgur.com/5BSyXfr.png"/> | AlfaTV.mk |
-| 100 | Alsat M Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png"/> | Alsat.mk |
-| 101 | Sitel Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8) | <img height="20" src="https://i.imgur.com/pdobwKt.png"/> | Sitel.mk |
+| 100 | Alsat M Ⓢ Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png"/> | Alsat.mk |
+| 101 | Sitel Ⓢ Ⓖ | [>](http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pdobwKt.png"/> | Sitel.mk |
 | 102 | Telma Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_of_Telma_%282016-%29.svg/497px-Logo_of_Telma_%282016-%29.svg.png"/> | TelmaTV.mk |
 
 <h2>DVB-S</h2>
@@ -37,7 +37,7 @@
 | 7 | ТВ СВЕТ | [x](http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8) | <img height="20" src="https://i.imgur.com/R79xT60.png"/> | tvsvet.com.mk |
 | 8 | M»Net Sport | [>](http://ares.mnet.mk/hls/mnet-sport.m3u8) | <img height="20" src="https://i.imgur.com/q3DV2gP.png"/> | sport.mnet.mk |
 | 9 | M»Net Info | [>](http://ares.mnet.mk/hls/mnet-info.m3u8) | <img height="20" src="https://i.imgur.com/O26HEyC.png"/> | info.mnet.mk |
-| 10 | MTM 1 Скопска Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8) | <img height="20" src="https://i.imgur.com/w6Uy2Zd.png"/> | mtm.mk |
+| 10 | MTM 1 Скопска Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8) | <img height="20" src="https://i.imgur.com/w6Uy2Zd.png"/> | mtm.mk |
 | 11 | TV 24 Ⓖ | [x](https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8) | <img height="20" src="https://i.imgur.com/MFKeNZx.png"/> | 24.mk |
 | 12 | B1 Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8) | <img height="20" src="https://i.imgur.com/UgUpZ2M.png"/> | b1 |
 | 13 | M»Net Kids | [x](http://ares.mnet.mk/hls/mnet-kids.m3u8) | <img height="20" src="https://i.imgur.com/XZwtu7Q.png"/> | kids.mnet.mk |

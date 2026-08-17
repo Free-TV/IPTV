@@ -95,7 +95,7 @@
 
 | #  | Channel   | Link                                                          |                           Logo                           | EPG id         |
 |:--:|:----------|---------------------------------------------------------------|:--------------------------------------------------------:|:---------------|
-| 81 | Astra     | [x](https://usher.ttvnw.net/api/channel/hls/astratv2021.m3u8) | <img height="20" src="https://i.imgur.com/oYRPfZm.png"/> | astratv.gr     |
+| 81 | Astra     | [>](https://server.gointernet.gr/live/livestream.m3u8) | <img height="20" src="https://i.imgur.com/oYRPfZm.png"/> | astratv.gr     |
 | 82 | Thessalia | [>](https://thessaliachannel.gr:3339/live/thesstvlive.m3u8)   | <img height="20" src="https://i.imgur.com/KXz67LY.png"/> | thessaliatv.gr |
 | 83 | TRT       | [>](https://av.hellasnet.tv/rst/trt/index.m3u8)               | <img height="20" src="https://i.imgur.com/g0jPOcC.png"/> | trttv.gr       |
 

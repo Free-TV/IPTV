@@ -11,12 +11,12 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 2   | LRT Plius | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=LRTPlius) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/500px-LRT_Plius_Logo_2022.svg.png"/> | LRTPlius.lt |
-| 3   | TV3 Ⓢ | [x](http://88.216.83.245/tv3/index.m3u8) | <img height="20" src="https://i.imgur.com/7nipq0y.png"/> | TV3Lithuania.lt |
-| 6   | TV6 Ⓢ | [x](http://88.216.83.245/tv6/index.m3u8) | <img height="20" src="https://i.imgur.com/oC0jiFW.png"/> | TV6Lithuania.lt |
-| 8   | TV8 Ⓢ | [x](http://88.216.83.245/tv8/index.m3u8) | <img height="20" src="https://i.imgur.com/9g3wknl.png"/> | TV8Lithuania.lt |
-| 9   | LNK | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=LNK) | <img height="20" src="https://i.imgur.com/arCZ56g.png"/> | LNK.lt |
-| 10  | BTV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=BTV) | <img height="20" src="https://i.imgur.com/AeplGsP.png"/> | BTV.lt |
+| 2   | LRT Plius | [>](http://stream.mcquack.net/353/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/500px-LRT_Plius_Logo_2022.svg.png"/> | LRTPlius.lt |
+| 3   | TV3 Ⓢ | [>](http://stream.mcquack.net/29/index.m3u8) | <img height="20" src="https://i.imgur.com/7nipq0y.png"/> | TV3Lithuania.lt |
+| 6   | TV6 Ⓢ | [>](http://stream.mcquack.net/375/index.m3u8) | <img height="20" src="https://i.imgur.com/oC0jiFW.png"/> | TV6Lithuania.lt |
+| 8   | TV8 Ⓢ | [>](http://stream.mcquack.net/374/index.m3u8) | <img height="20" src="https://i.imgur.com/9g3wknl.png"/> | TV8Lithuania.lt |
+| 9   | LNK | [>](http://stream.mcquack.net/30/index.m3u8) | <img height="20" src="https://i.imgur.com/arCZ56g.png"/> | LNK.lt |
+| 10  | BTV | [>](http://stream.mcquack.net/35/index.m3u8) | <img height="20" src="https://i.imgur.com/AeplGsP.png"/> | BTV.lt |
 | 11  | 2TV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=2TV) | <img height="20" src="https://i.imgur.com/sZUIhGc.png"/> | 2TV.lt |
 | 12  | Info TV | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=InfoTV) | <img height="20" src="https://i.imgur.com/EjQtIpM.png"/> | InfoTV.lt |
 | 13  | TV1 | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TV1) | <img height="20" src="https://i.imgur.com/KLWDcFy.png"/> | TV1.lt |
