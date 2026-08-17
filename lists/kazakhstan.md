@@ -11,4 +11,4 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | QazSport       | [x](https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8) | | QazSport.kz |
+| 1   | QazSport       | [>](http://stream.mcquack.net/72/index.m3u8) | | QazSport.kz |

@@ -10,7 +10,7 @@
 | 6   | RTP Açores | [>](https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/640px-RTP_A%C3%A7ores_%282016%29.svg.png"/> | RTPAcores.pt |
 | 7   | RTP Madeira Ⓢ | [>](https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png"/> | RTPMadeira.pt |
 | 8   | RTP notícias | [>](https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png"/> | RTPNoticias.pt |
-| 9   | RTP Memória | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png"/> | RTPMemoria.pt |
+| 9   | RTP Memória | [>](https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png"/> | RTPMemoria.pt |
 | 10  | RTP Mundo | [>](https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png"/> | RTPInternacional.pt |
 | 11  | Porto Canal Ⓢ | [>](https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8) | <img height="20" src="https://i.imgur.com/wsyvP2H.png"/> | PortoCanal.pt |
 | 12  | ADtv Ⓢ         | [>](https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FvlcU3z.png"/> | |
