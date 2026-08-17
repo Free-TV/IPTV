@@ -23,7 +23,7 @@ jobs:
           npm install -g m3u-linter || true
           cat <<EOF > M3u-linter.config.json
             {
-              "files": ["playlist1.m3u", "playlist2.m3u"],
+              "files": ["playlist.m3u8"],
               "rules": {
                 "no-empty-lines": true,
                 "require-header": true,
@@ -38,9 +38,18 @@ jobs:
               }
             }
           EOF
-          ls -lar ./ || true
-          cat playlist.m3u8 || true
-          m3u-linter -c ./M3u-linter.config.json ./playlist.m3u8
+          m3u-linter -c ./M3u-linter.config.json ./playlist.m3u8 | tee m3u-linter-output.txt || true
+
+      - name: Summarize m3u-linter results
+        if: always()
+        run: |
+          {
+            echo "## m3u-linter results"
+            echo ""
+            echo '```'
+            cat m3u-linter-output.txt 2>/dev/null || echo "(no output)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Install IPTV Checker and check the playlist
         run: |
