@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/List_of_IRIB_television_channels
 | 2    | IRIB TV2       | [>](https://ncdn.telewebion.ir/tv2/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FKiTd3O.png"/> | IRIB2.ir |
 | 3    | IRIB TV3       | [>](https://ncdn.telewebion.ir/tv3/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6cIaH0c.png"/> | IRIB3.ir |
 | 4    | IRIB TV4 Ⓢ     | [>](https://ncdn.telewebion.ir/tv4/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fsdz81l.png"/> | IRIB4.ir |
-| 5    | IRIB TV5/Tehran TV Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/tv5sd/tv5sd.m3u8) | <img height="20" src="https://i.imgur.com/VdOFcN4.png"/> | IRIB5.ir |
+| 5    | IRIB TV5/Tehran TV Ⓢ | [>](https://ncdn.telewebion.ir/tehran/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/VdOFcN4.png"/> | IRIB5.ir |
 | 6    | IRINN          | [>](http://185.9.2.18/chid_926/index.m3u8) | <img height="20" src="https://i.imgur.com/7HL4joq.png"/> | IRINN.ir |
 | 7    | IRIB Amoozesh Ⓢ | [>](https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qox2azH.png"/> | AmouzeshTV.ir |
 | 8    | IRIB Quran     | [>](https://ncdn.telewebion.ir/quran/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/nmOKBaK.png"/> | QuranTV.ir |
