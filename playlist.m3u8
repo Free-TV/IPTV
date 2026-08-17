@@ -2297,6 +2297,20 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Las_Estrellas.svg" tvg-id="Lasestrellas.tv" tvg-chno="7" tvg-country="MX" group-title="Mexico",Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="ADN Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1968512728059850752/KUWD445m_200x200.jpg" tvg-id="ADNNoticias.mx" tvg-chno="8" tvg-country="MX" group-title="Mexico",ADN Noticias
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-name="Canal 6 Multimedios" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" tvg-id="Canal6Multimedios.mx" tvg-chno="9" tvg-country="MX" group-title="Mexico",Canal 6 Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-name="Canal Once" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-id="CanalOnce.mx" tvg-chno="10" tvg-country="MX" group-title="Mexico",Canal Once
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+#EXTINF:-1 tvg-name="Quiero TV" tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" tvg-id="QuieroTV.mx" tvg-chno="11" tvg-country="MX" group-title="Mexico",Quiero TV
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-name="México Travel TV" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" tvg-id="MexicoTravelTV.mx" tvg-chno="12" tvg-country="MX" group-title="Mexico",México Travel TV
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+#EXTINF:-1 tvg-name="Estrella TV" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" tvg-id="EstrellaTV.mx" tvg-chno="13" tvg-country="MX" group-title="Mexico",Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-name="TELE 10 Nayarit" tvg-logo="https://graph.facebook.com/Tele10Nayarit/picture?width=200&height=200" tvg-id="Tele10Nayarit.mx" tvg-chno="14" tvg-country="MX" group-title="Mexico",TELE 10 Nayarit
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-name="Moldova 1" tvg-logo="https://i.imgur.com/ZbQY56v.png" tvg-id="Moldova1.md" tvg-chno="1" tvg-country="MD" group-title="Moldova",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
 #EXTINF:-1 tvg-name="Moldova 2" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" tvg-id="Moldova2.md" tvg-chno="2" tvg-country="MD" group-title="Moldova",Moldova 2
@@ -2539,6 +2553,10 @@ https://www.youtube.com/c/ATVNoticiasOficial/live
 http://187.102.210.46/KARIBENA/index.m3u8
 #EXTINF:-1 tvg-name="Exitosa (ex-Karibeña)" tvg-logo="https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg" tvg-id="Exitosa.pe" tvg-chno="62" tvg-country="PE" group-title="Peru",Exitosa (ex-Karibeña) Ⓨ
 https://www.youtube.com/c/ExitosaNoticiasOficial/live
+#EXTINF:-1 tvg-name="Latina" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" tvg-id="Latina.pe" tvg-chno="-" tvg-country="PE" group-title="Peru",Latina
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Cosmos TV" tvg-logo="https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg" tvg-id="CosmosTV.pe" tvg-chno="-" tvg-country="PE" group-title="Peru",Cosmos TV
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-name="TVP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/640px-TVP1_logo.svg.png" tvg-id="TVP1.pl" tvg-chno="1" tvg-country="PL" group-title="Poland",TVP1
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVP1
 #EXTINF:-1 tvg-name="TVP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/640px-TVP2_logo.svg.png" tvg-id="TVP2.pl" tvg-chno="2" tvg-country="PL" group-title="Poland",TVP2
@@ -3463,6 +3481,20 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 http://media.boni-records.com/index.m3u8
 #EXTINF:-1 tvg-name="Stryk TV" tvg-logo="https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png" tvg-id="StrykTV.us" tvg-chno="4" tvg-country="US" group-title="USA",Stryk TV
 https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
+#EXTINF:-1 tvg-name="FOX Live Now" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" tvg-id="FOXLiveNow.us" tvg-chno="5" tvg-country="US" group-title="USA",FOX Live Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cheddar" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" tvg-id="Cheddar.us" tvg-chno="6" tvg-country="US" group-title="USA",Cheddar
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 tvg-name="Court TV" tvg-logo="https://graph.facebook.com/courttv/picture?width=200&height=200" tvg-id="CourtTV.us" tvg-chno="7" tvg-country="US" group-title="USA",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 tvg-name="WeatherNation" tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" tvg-id="WeatherNation.us" tvg-chno="8" tvg-country="US" group-title="USA",WeatherNation
+https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
+#EXTINF:-1 tvg-name="America's Voice" tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" tvg-id="AmericasVoice.us" tvg-chno="9" tvg-country="US" group-title="USA",America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
+#EXTINF:-1 tvg-name="Newsmax TV" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" tvg-id="Newsmax.us" tvg-chno="10" tvg-country="US" group-title="USA",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="America TeVe" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" tvg-id="AmericaTeVe.us" tvg-chno="11" tvg-country="US" group-title="USA",America TeVe
+https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-name="Bumblebee TV Aurora Live" tvg-logo="" tvg-id="BumblebeeTVAuroraLive.us" tvg-chno="1" tvg-country="US" group-title="Usa VOD",Bumblebee TV Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 tvg-name="Bumblebee TV AutoMoto" tvg-logo="" tvg-id="BumblebeeTVAutoMoto.us" tvg-chno="2" tvg-country="US" group-title="Usa VOD",Bumblebee TV AutoMoto
