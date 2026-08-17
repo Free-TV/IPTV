@@ -2603,26 +2603,16 @@ https://www.youtube.com/c/ExitosaNoticiasOficial/live
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Cosmos TV" tvg-logo="https://pbs.twimg.com/profile_images/1904206504753811457/66CbqvH1_200x200.jpg" tvg-id="CosmosTV.pe" tvg-chno="-" tvg-country="PE" group-title="Peru",Cosmos TV
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:-1 tvg-name="TVP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/640px-TVP1_logo.svg.png" tvg-id="TVP1.pl" tvg-chno="1" tvg-country="PL" group-title="Poland",TVP1
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVP1
 #EXTINF:-1 tvg-name="TVP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/640px-TVP2_logo.svg.png" tvg-id="TVP2.pl" tvg-chno="2" tvg-country="PL" group-title="Poland",TVP2
 https://strims.top/tv/tvp2.m3u8
-#EXTINF:-1 tvg-name="TVP3 Warszawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TVP3_%282016%29.svg/640px-TVP3_%282016%29.svg.png" tvg-id="TVP3Warszawa.pl" tvg-chno="3" tvg-country="PL" group-title="Poland",TVP3 Warszawa
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVP3Warszawa
 #EXTINF:-1 tvg-name="TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/640px-TVP_Polonia_Logo_2020.svg.png" tvg-id="TVPPolonia.pl" tvg-chno="19" tvg-country="PL" group-title="Poland",TVP Polonia
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPPolonia
-#EXTINF:-1 tvg-name="Alfa TVP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alfa_TVP_%282022%29.svg/640px-Alfa_TVP_%282022%29.svg.png" tvg-id="AlfaTVP.pl" tvg-chno="28" tvg-country="PL" group-title="Poland",Alfa TVP
-https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-name="TVP Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/640px-TVP_Info_logo.svg.png" tvg-id="TVPInfo.pl" tvg-chno="34" tvg-country="PL" group-title="Poland",TVP Info
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPInfo
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-name="Belsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/768px-Belsat_%282022%29.svg.png" tvg-id="BelsatTV.pl" tvg-chno="36" tvg-country="PL" group-title="Poland",Belsat
 http://149.5.17.34:20041/play/a076
 #EXTINF:-1 tvg-name="TVP World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/640px-TVP_World_%282021%29.svg.png" tvg-id="TVPWorld.pl" tvg-chno="91" tvg-country="PL" group-title="Poland",TVP World
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPWorld
-#EXTINF:-1 tvg-name="TVP ABC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TVP_ABC_2_%282022%29.svg/640px-TVP_ABC_2_%282022%29.svg.png" tvg-id="TVPABC2.pl" tvg-chno="92" tvg-country="PL" group-title="Poland",TVP ABC 2
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2
-#EXTINF:-1 tvg-name="TVP Historia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/640px-TVP_Historia_2_%282021%29.svg.png" tvg-id="TVPHistoria2.pl" tvg-chno="93" tvg-country="PL" group-title="Poland",TVP Historia 2
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-name="TVP Kultura 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TVP_Kultura_2_%282020%29.svg/640px-TVP_Kultura_2_%282020%29.svg.png" tvg-id="TVPKultura2.pl" tvg-chno="94" tvg-country="PL" group-title="Poland",TVP Kultura 2
 https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
 #EXTINF:-1 tvg-name="4fun Kids" tvg-logo="https://i.imgur.com/2JO5Y8c.png" tvg-id="4FunKids.pl" tvg-country="PL" group-title="Poland",4fun Kids
@@ -2923,18 +2913,6 @@ https://sktv.mxnticek.eu/new/stream.php?ch=NR%20SR
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
 #EXTINF:-1 tvg-name="TA3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" tvg-id="TA3.sk" tvg-chno="20" tvg-country="SK" group-title="Slovakia",TA3
 https://sktv.mxnticek.eu/new/stream.php?ch=TA3
-#EXTINF:-1 tvg-name="TV SLO 1" tvg-logo="https://i.imgur.com/YIZOtcm.png" tvg-id="TVSlovenija1.si" tvg-chno="1" tvg-country="SI" group-title="Slovenia",TV SLO 1
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1
-#EXTINF:-1 tvg-name="TV SLO 2" tvg-logo="https://i.imgur.com/mQe9U2h.png" tvg-id="TVSlovenija2.si" tvg-chno="2" tvg-country="SI" group-title="Slovenia",TV SLO 2
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO2
-#EXTINF:-1 tvg-name="TV SLO 3" tvg-logo="https://i.imgur.com/WGUyj7r.png" tvg-id="TVSlovenija3.si" tvg-chno="3" tvg-country="SI" group-title="Slovenia",TV SLO 3
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO3
-#EXTINF:-1 tvg-name="TV Koper/Capodistria" tvg-logo="https://i.imgur.com/NQvOJNh.png" tvg-id="TVKoperCapodistria.si" tvg-chno="4" tvg-country="SI" group-title="Slovenia",TV Koper/Capodistria
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVKC
-#EXTINF:-1 tvg-name="TV Maribor" tvg-logo="https://i.imgur.com/tWf3dgf.png" tvg-id="TVMaribor.si" tvg-chno="5" tvg-country="SI" group-title="Slovenia",TV Maribor
-https://www.tvkaista.net/stream-forwarder/get.php?x=TVMaribor
-#EXTINF:-1 tvg-name="MMC TV" tvg-logo="https://i.imgur.com/yzETQJ4.png" tvg-id="MMC.si" tvg-chno="6" tvg-country="SI" group-title="Slovenia",MMC TV
-https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV
 #EXTINF:-1 tvg-name="Folx Slovenija" tvg-logo="https://i.imgur.com/RK1IASU.png" tvg-id="FolxSlovenija.si" tvg-country="SI" group-title="Slovenia",Folx Slovenija
 https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8
 #EXTINF:-1 tvg-name="Banaadir TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/banaadir-tv-so.png" tvg-country="SO" group-title="Somalia",Banaadir TV Ⓨ
