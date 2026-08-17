@@ -3,13 +3,27 @@
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-name="SBC Saudi Arabia" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-id="SBC.sa" tvg-chno="2" tvg-country="SA" group-title="Saudi Arabia",SBC Saudi Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-name="Thikrayat" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-id="ThikrayatTV.sa" tvg-chno="3" tvg-country="SA" group-title="Saudi Arabia",Thikrayat
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-chno="4" tvg-country="SA" group-title="Saudi Arabia",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-name="Al Saudiya Alaan" tvg-logo="https://i.imgur.com/sEOjApe.png" tvg-id="AlSaudiyaAlaan.sa" tvg-chno="5" tvg-country="SA" group-title="Saudi Arabia",Al Saudiya Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 #EXTINF:-1 tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-id="AlQuranAlKareemTV.sa" tvg-chno="9" tvg-country="SA" group-title="Saudi Arabia",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV" tvg-logo="https://i.imgur.com/S6LcTJv.png" tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Al Sunnah Al Nabawiyah TV
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-name="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-id="RotanaCinemaKSA.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Cinema KSA
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png" tvg-id="RotanaComedy.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png" tvg-id="RotanaKhalijia.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Khalijia
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-id="RotanaDrama.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png" tvg-id="RotanaClassic.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Classic
 https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Ciip" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-id="RotanaClip.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Ciip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png" tvg-id="RotanaMusic.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Music
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8

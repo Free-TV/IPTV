@@ -7,3 +7,15 @@ https://stream-live.lrt.lt/lituanica/master.m3u8
 https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:-1 tvg-name="Delfi TV" tvg-logo="https://i.imgur.com/IFoHP5M.png" tvg-id="DelfiTV.lt" tvg-chno="10" tvg-country="LT" group-title="Lithuania",Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 tvg-name="LRT Plius" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/500px-LRT_Plius_Logo_2022.svg.png" tvg-id="LRTPlius.lt" tvg-chno="2" tvg-country="LT" group-title="Lithuania",LRT Plius
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://i.imgur.com/7nipq0y.png" tvg-id="TV3Lithuania.lt" tvg-chno="3" tvg-country="LT" group-title="Lithuania",TV3 Ⓢ
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 tvg-name="TV6" tvg-logo="https://i.imgur.com/oC0jiFW.png" tvg-id="TV6Lithuania.lt" tvg-chno="6" tvg-country="LT" group-title="Lithuania",TV6 Ⓢ
+http://stream.mcquack.net/375/index.m3u8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://i.imgur.com/9g3wknl.png" tvg-id="TV8Lithuania.lt" tvg-chno="8" tvg-country="LT" group-title="Lithuania",TV8 Ⓢ
+http://stream.mcquack.net/374/index.m3u8
+#EXTINF:-1 tvg-name="LNK" tvg-logo="https://i.imgur.com/arCZ56g.png" tvg-id="LNK.lt" tvg-chno="9" tvg-country="LT" group-title="Lithuania",LNK
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.imgur.com/AeplGsP.png" tvg-id="BTV.lt" tvg-chno="10" tvg-country="LT" group-title="Lithuania",BTV
+http://stream.mcquack.net/35/index.m3u8

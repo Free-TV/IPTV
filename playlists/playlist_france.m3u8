@@ -27,9 +27,33 @@ http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-name="Handicap TV" tvg-logo="" tvg-id="HandicapTV.fr" tvg-chno="-" tvg-country="FR" group-title="France",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png" tvg-id="TF1.fr" tvg-chno="1" tvg-country="FR" group-title="France",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png" tvg-id="France3.fr" tvg-chno="3" tvg-country="FR" group-title="France",France 3
+http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png" tvg-id="France4.fr" tvg-chno="14" tvg-country="FR" group-title="France",France 4
+http://176.65.146.100:8047/play/a074/index.m3u8
+#EXTINF:-1 tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png" tvg-id="France5.fr" tvg-chno="5" tvg-country="FR" group-title="France",France 5
+http://145.239.5.177/305/index.m3u8
+#EXTINF:-1 tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/500px-TMC_logo_2016.svg.png" tvg-id="TMC.fr" tvg-chno="10" tvg-country="FR" group-title="France",TMC
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png" tvg-id="TFX.fr" tvg-chno="11" tvg-country="FR" group-title="France",TFX
+http://145.239.5.177/315/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-id="TV5MondeInfo.fr" tvg-chno="29" tvg-country="FR" group-title="France",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde FBS" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeFranceBelgiumSwitzerland.fr" tvg-chno="30" tvg-country="FR" group-title="France",TV5 Monde FBS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Europe" tvg-logo="https://i.imgur.com/uPmwTo9.png" tvg-id="TV5MondeEurope.fr" tvg-chno="31" tvg-country="FR" group-title="France",TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1 tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png" tvg-id="BFMTV.fr" tvg-chno="15" tvg-country="FR" group-title="France",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png" tvg-id="Gulli.fr" tvg-chno="18" tvg-country="FR" group-title="France",Gulli
+http://99.27.51.147:8080/Gulli/index.m3u8
+#EXTINF:-1 tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png" tvg-id="6ter.fr" tvg-chno="22" tvg-country="FR" group-title="France",6ter
+http://145.239.5.177/314/index.m3u8
+#EXTINF:-1 tvg-name="LCI" tvg-logo="" tvg-id="LCI.fr" tvg-chno="26" tvg-country="FR" group-title="France",LCI
+http://145.239.5.177/368/index.m3u8
+#EXTINF:-1 tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png" tvg-id="M6.fr" tvg-chno="6" tvg-country="FR" group-title="France",M6
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-name="CStar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png" tvg-id="CStar.fr" tvg-chno="17" tvg-country="FR" group-title="France",CStar
+http://145.239.5.177/361/index.m3u8

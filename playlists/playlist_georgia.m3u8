@@ -9,9 +9,15 @@ https://tv.cdn.xsg.ge/imedihd/index.m3u8
 https://sktv-forwarders.7m.pl/get.php?x=Rustavi2
 #EXTINF:-1 tvg-name="Mtavari Arkhi" tvg-logo="https://i.imgur.com/tLtGnJW.png" tvg-id="MtavariArkhi.ge" tvg-chno="5" tvg-country="GE" group-title="Georgia",Mtavari Arkhi
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:-1 tvg-name="GDS" tvg-logo="https://i.imgur.com/gv61tFf.png" tvg-id="GDSTV.ge" tvg-chno="6" tvg-country="GE" group-title="Georgia",GDS
+http://31.146.5.178:8087/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="TV Pirveli" tvg-logo="https://i.imgur.com/cGHsM1x.png" tvg-id="TVPirveli.ge" tvg-chno="7" tvg-country="GE" group-title="Georgia",TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
 #EXTINF:-1 tvg-name="Formula" tvg-logo="https://i.imgur.com/fsqBn8G.png" tvg-id="Formula.ge" tvg-chno="8" tvg-country="GE" group-title="Georgia",Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-name="Pos TV" tvg-logo="https://i.imgur.com/UOiXFEW.png" tvg-id="PosTV.ge" tvg-chno="9" tvg-country="GE" group-title="Georgia",Pos TV
 https://live.postv.media/stream/index.m3u8
+#EXTINF:-1 tvg-name="Obieqtivi" tvg-logo="https://i.imgur.com/Kqc8H8X.png" tvg-id="ObieqtiviTV.ge" tvg-chno="11" tvg-country="GE" group-title="Georgia",Obieqtivi
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" tvg-chno="999" tvg-country="GE" group-title="Georgia",Euronews Georgia Ⓖ
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8

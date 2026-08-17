@@ -13,5 +13,13 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera 2" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel2.qa" tvg-chno="7" tvg-country="QA" group-title="Qatar",Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+#EXTINF:-1 tvg-name="Alkass One" tvg-logo="https://i.imgur.com/10mmlha.png" tvg-id="AlkassOne.qa" tvg-chno="8" tvg-country="QA" group-title="Qatar",Alkass One
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-name="Alkass Two" tvg-logo="https://i.imgur.com/8w61kFX.png" tvg-id="AlkassTwo.qa" tvg-chno="9" tvg-country="QA" group-title="Qatar",Alkass Two
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:-1 tvg-name="Alkass Three" tvg-logo="https://i.imgur.com/d57BdFh.png" tvg-id="AlkassThree.qa" tvg-chno="10" tvg-country="QA" group-title="Qatar",Alkass Three
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:-1 tvg-name="Alkass Four" tvg-logo="https://i.imgur.com/iDL65Wu.png" tvg-id="AlkassFour.qa" tvg-chno="11" tvg-country="QA" group-title="Qatar",Alkass Four
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 #EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlArabyTV.qa" tvg-chno="12" tvg-country="QA" group-title="Qatar",Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8

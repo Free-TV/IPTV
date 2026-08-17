@@ -5,6 +5,8 @@ https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
 https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
 #EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" tvg-chno="3" tvg-country="HR" group-title="Croatia",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/500px-Nova_TV_Croatia_logo.png" tvg-id="NovaTV.hr" tvg-chno="4" tvg-country="HR" group-title="Croatia",Nova TV
+http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" tvg-chno="5" tvg-country="HR" group-title="Croatia",HRT 3
 https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
 #EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" tvg-chno="7" tvg-country="HR" group-title="Croatia",RTL 2
@@ -21,8 +23,14 @@ https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcast
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-name="Osječka televizija (OSTV)" tvg-logo="https://i.imgur.com/o9JgEyG.png" tvg-id="OSTV.hr" tvg-chno="18" tvg-country="HR" group-title="Croatia",Osječka televizija (OSTV) Ⓢ
 https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
+#EXTINF:-1 tvg-name="SBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/480px-SBTV_Logo.svg.png" tvg-id="SBTV.hr" tvg-chno="21" tvg-country="HR" group-title="Croatia",SBTV
+https://live.leveex.hr/hls/live.m3u8
+#EXTINF:-1 tvg-name="OTV" tvg-logo="https://i.imgur.com/67zVdu2.png" tvg-id="OTV.hr" tvg-chno="31" tvg-country="HR" group-title="Croatia",OTV
+https://stream.agatin.hr:3559/live/otvlive.m3u8
 #EXTINF:-1 tvg-name="TV Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png" tvg-id="TVNova.hr" tvg-chno="38" tvg-country="HR" group-title="Croatia",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-name="Diadora" tvg-logo="https://i.imgur.com/qZzsASl.png" tvg-id="DiadoraTV.hr" tvg-chno="47" tvg-country="HR" group-title="Croatia",Diadora
+https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Jadran" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" tvg-id="TVJadran.hr" tvg-chno="51" tvg-country="HR" group-title="Croatia",TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-name="Libertas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png" tvg-id="LibertasTV.hr" tvg-chno="57" tvg-country="HR" group-title="Croatia",Libertas TV

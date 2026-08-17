@@ -3,6 +3,8 @@
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CCTV2.cn" tvg-chno="2" tvg-country="CN" group-title="China",CCTV-2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://i.imgur.com/Mh1N35D.png" tvg-id="CCTV3.cn" tvg-chno="3" tvg-country="CN" group-title="China",CCTV-3 综艺
+http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（亚）" tvg-logo="https://i.imgur.com/ovUSVEQ.png" tvg-id="CCTV4Asia.cn" tvg-chno="4" tvg-country="CN" group-title="China",CCTV-4 中文国际（亚） Ⓨ
 https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
 #EXTINF:-1 tvg-name="CCTV-4 中文国际（美）" tvg-logo="https://i.imgur.com/1TPiRqR.png" tvg-id="CCTV4America.cn" tvg-chno="6" tvg-country="CN" group-title="China",CCTV-4 中文国际（美） Ⓢ
@@ -11,6 +13,8 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://i.imgur.com/UNjmQVS.png" tvg-id="CCTV5Plus.cn" tvg-chno="8" tvg-country="CN" group-title="China",CCTV-5+ 体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://i.imgur.com/SsPN5I3.png" tvg-id="CCTV6.cn" tvg-chno="9" tvg-country="CN" group-title="China",CCTV-6 电影
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://i.imgur.com/GhXlUpM.png" tvg-id="CCTV7.cn" tvg-chno="10" tvg-country="CN" group-title="China",CCTV-7 国防军事
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://i.imgur.com/Qg1opg9.png" tvg-id="CCTV8.cn" tvg-chno="11" tvg-country="CN" group-title="China",CCTV-8 电视剧
@@ -19,8 +23,16 @@ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://i.imgur.com/W8JNs1s.png" tvg-id="CCTV10.cn" tvg-chno="13" tvg-country="CN" group-title="China",CCTV-10 科教
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://i.imgur.com/0MeegZK.png" tvg-id="CCTV11.cn" tvg-chno="14" tvg-country="CN" group-title="China",CCTV-11 戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://i.imgur.com/gZNwF1a.png" tvg-id="CCTV12.cn" tvg-chno="15" tvg-country="CN" group-title="China",CCTV-12 社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://i.imgur.com/pPO8uJN.png" tvg-id="CCTV13.cn" tvg-chno="16" tvg-country="CN" group-title="China",CCTV-13 新闻
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://i.imgur.com/SORrhtE.png" tvg-id="CCTV14.cn" tvg-chno="17" tvg-country="CN" group-title="China",CCTV-14 少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://i.imgur.com/gaA4Cjy.png" tvg-id="CCTV16.cn" tvg-chno="19" tvg-country="CN" group-title="China",CCTV-16 奥林匹克
+http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" tvg-id="CCTV17.cn" tvg-chno="20" tvg-country="CN" group-title="China",CCTV-17 农业农村
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://i.imgur.com/AMcIAOV.png" tvg-id="CETV1.cn" tvg-chno="21" tvg-country="CN" group-title="China",CETV-1

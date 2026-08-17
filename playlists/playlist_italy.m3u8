@@ -779,3 +779,5 @@ https://www.youtube.com/user/euronewsit/live
 https://www.twitch.tv/teleroma_56
 #EXTINF:-1 tvg-name="TeleRadioStereo" tvg-logo="https://i.imgur.com/eRNgqnA.png" tvg-country="IT" group-title="Italy",TeleRadioStereo Ⓣ
 https://www.twitch.tv/teleradiostereo
+#EXTINF:-1 tvg-name="Class CNBC" tvg-logo="https://i.imgur.com/oAiSU8O.png" tvg-id="ClassCNBC.it" tvg-chno="507" tvg-country="IT" group-title="Italy",Class CNBC Ⓖ
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8

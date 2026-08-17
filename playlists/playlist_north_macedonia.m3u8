@@ -11,6 +11,12 @@ https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wms
 https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc=
 #EXTINF:-1 tvg-name="MRT5" tvg-logo="https://i.imgur.com/zcvKu1h.png" tvg-id="MRT5.mk" tvg-chno="4" tvg-country="MK" group-title="North Macedonia",MRT5 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDM6NDI6NDMgUE0maGFzaF92YWx1ZT0wZXRxNHh1UnMyVStVZnU3K0RNZUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY4M2YzYzIyYmI=
+#EXTINF:-1 tvg-name="Kanal 5 Ⓢ" tvg-logo="https://i.imgur.com/Qw7N3S2.png" tvg-id="Kanal5.mk" tvg-chno="5" tvg-country="MK" group-title="North Macedonia",Kanal 5 Ⓢ Ⓖ
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 tvg-name="Alsat M Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png" tvg-id="Alsat.mk" tvg-chno="100" tvg-country="MK" group-title="North Macedonia",Alsat M Ⓢ Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 tvg-name="Sitel Ⓢ" tvg-logo="https://i.imgur.com/pdobwKt.png" tvg-id="Sitel.mk" tvg-chno="101" tvg-country="MK" group-title="North Macedonia",Sitel Ⓢ Ⓖ
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
 #EXTINF:-1 tvg-name="MRT Sat" tvg-logo="https://i.imgur.com/2bc5PvQ.png" tvg-id="MRT1Sat.mk" tvg-chno="1" tvg-country="MK" group-title="North Macedonia",MRT Sat
 https://vod-c57.interspace.com:443/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDU6NDMgUE0maGFzaF92YWx1ZT1XVzZCQVZaRysvOEU0M2Z5VHNYNUl3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3Njk3ODdkNmU=
 #EXTINF:-1 tvg-name="MRT 2 Sat" tvg-logo="https://i.imgur.com/WF1Eeuz.png" tvg-id="MRT2Sat.mk" tvg-chno="2" tvg-country="MK" group-title="North Macedonia",MRT 2 Sat
@@ -25,6 +31,8 @@ http://ares.mnet.mk/hls/mnet.m3u8
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-name="M»Net Info" tvg-logo="https://i.imgur.com/O26HEyC.png" tvg-id="info.mnet.mk" tvg-chno="9" tvg-country="MK" group-title="North Macedonia",M»Net Info
 http://ares.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-name="MTM 1 Скопска" tvg-logo="https://i.imgur.com/w6Uy2Zd.png" tvg-id="mtm.mk" tvg-chno="10" tvg-country="MK" group-title="North Macedonia",MTM 1 Скопска Ⓖ
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 #EXTINF:-1 tvg-name="ТВ НОВА 12" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" tvg-id="tvnova12.mk" tvg-chno="14" tvg-country="MK" group-title="North Macedonia",ТВ НОВА 12
 http://151.236.247.171:8080/nova/index.m3u8
 #EXTINF:-1 tvg-name="ЗОНА М1 ТВ" tvg-logo="https://i.imgur.com/yTR7A0d.png" tvg-id="zona m1" tvg-chno="15" tvg-country="MK" group-title="North Macedonia",ЗОНА М1 ТВ

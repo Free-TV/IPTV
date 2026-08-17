@@ -91,6 +91,8 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash
 #EXTINF:-1 tvg-name="91NRG" tvg-logo="https://i.imgur.com/g1pCRRG.png" tvg-id="nrg91.gr" tvg-chno="73" tvg-country="GR" group-title="Greece",91NRG
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-name="Astra" tvg-logo="https://i.imgur.com/oYRPfZm.png" tvg-id="astratv.gr" tvg-chno="81" tvg-country="GR" group-title="Greece",Astra
+https://server.gointernet.gr/live/livestream.m3u8
 #EXTINF:-1 tvg-name="Thessalia" tvg-logo="https://i.imgur.com/KXz67LY.png" tvg-id="thessaliatv.gr" tvg-chno="82" tvg-country="GR" group-title="Greece",Thessalia
 https://thessaliachannel.gr:3339/live/thesstvlive.m3u8
 #EXTINF:-1 tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-id="trttv.gr" tvg-chno="83" tvg-country="GR" group-title="Greece",TRT

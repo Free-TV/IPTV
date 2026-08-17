@@ -33,6 +33,10 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8
 #EXTINF:-1 tvg-name="BOM Cine" tvg-logo="https://i.imgur.com/cqhofMU.png" tvg-id="BomCine.es" tvg-chno="26" tvg-country="ES" group-title="Spain",BOM Cine
 https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8
+#EXTINF:-1 tvg-name="Antena 3" tvg-logo="https://i.imgur.com/j3SP4BS.png" tvg-id="Antena3.es" tvg-chno="3" tvg-country="ES" group-title="Spain",Antena 3
+http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png" tvg-id="Nova.es" tvg-chno="12" tvg-country="ES" group-title="Spain",Nova Ⓢ
+http://40.160.24.55/Nova/index.m3u8
 #EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/500px-TeleMadrid.svg.png" tvg-id="Telemadrid.es" tvg-chno="1" tvg-country="ES" group-title="Spain",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="La Otra" tvg-logo="https://i.imgur.com/W1UZyXH.png" tvg-id="LaOtra.es" tvg-chno="2" tvg-country="ES" group-title="Spain",La Otra
