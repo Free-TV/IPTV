@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/TV_2_(Denmark)#Regions
 | 5   | TV 2 Kosmopol | [x](https://cdn-lt-live.tv2lorry.dk/env/cluster-1-d.live.nvp1/live/hls/p/2045321/e/1_grusx1zd/tl/main/st/0/t/rCct87c-v2SFFCvQK1BBOg/index-s32.m3u8) | <img height="20" src="https://i.imgur.com/oVmCoKY.png"/> | TV2Kosmopol.dk |
 | 6   | TV/Midt-Vest | [x](https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8) | <img height="20" src="https://i.imgur.com/OU7xIVa.png"/> | TVMidtvest.dk |
 | 7   | TV 2/Østjylland | [x](https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8) | <img height="20" src="https://i.imgur.com/qEUXjHp.png"/> | TV2Ostjylland.dk |
-| 8   | TV 2/Bornholm | [x](https://live.tv2bornholm.dk/stream/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cEOpXU6.png"/> | TV2Bornholm.dk |
+| 8   | TV 2/Bornholm | [>](https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8) | <img height="20" src="https://i.imgur.com/cEOpXU6.png"/> | TV2Bornholm.dk |
 | 9   | TV Storbyen    | [x](https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/QqjRqow.png"/> | TVStorbyen.dk |
-| 10  | Kanal Hovedstaden | [x](http://khkbh.dk:8080/hls/livestream/index.m3u8) | <img height="20" src="https://i.imgur.com/MCXYDwH.png"/> | KanalHovedstaden.dk |
+| 10  | Kanal Hovedstaden | [>](http://khkbh.dk:8080/hls/livestream/index.m3u8) | <img height="20" src="https://i.imgur.com/MCXYDwH.png"/> | KanalHovedstaden.dk |
 | 11  | KKRtv          | [x](rtmp://video.kkr.dk/live/kkr) | <img height="20" src="https://i.imgur.com/TbtjWHI.png"/> | KKRtv.dk |
