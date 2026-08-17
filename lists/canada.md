@@ -6,12 +6,12 @@
 |:---:|:---------------:|:-----:|:----:|:------:|
 | 1   | CBC Toronto Ⓖ   | [>](https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8) | <img height="20" src="https://i.imgur.com/H5yEbxf.png"/> | CBCTDT.ca |
 | 2   | Citytv          | [x](https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/BlFNlHz.png"/> | 
-| 3   | CTV Toronto     | [x](https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qOutOWN.png"/> |
+| 3   | CTV Toronto     | [>](http://stream.cammonitorplus.net/1712/index.m3u8) | <img height="20" src="https://i.imgur.com/qOutOWN.png"/> |
 | 4   | Global Toronto  | [x](https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
 | 5   | Global Calgary  | [x](https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
 | 6   | Global Edmonton | [x](https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8) | <img height="20" src="https://i.imgur.com/2CxLO4H.png"/> |
 | 8   | TVO             | [x](https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/PkBPPcL.png"/> |
-| 9   | CTV 2           | [x]() | <img height="20" src=""/> |
+| 9   | CTV 2           | [>](http://stream.cammonitorplus.net/1731/index.m3u8) | <img height="20" src=""/> |
 | 10  | Great Western   | [x]() | <img height="20" src=""/> |
 | 11  | Yes TV          | [x]() | <img height="20" src=""/> |
 | 12  | NTV             | [>](http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012) | <img height="20" src="https://i.imgur.com/b8W3Aah.png"/> |
