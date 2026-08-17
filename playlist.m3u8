@@ -2155,6 +2155,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-r
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-name="Qazaqstan" tvg-logo="" tvg-id="QazaqstanInternational.kz" tvg-chno="2" tvg-country="KZ" group-title="Kazakhstan",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 tvg-name="QazSport" tvg-logo="" tvg-id="QazSport.kz" tvg-chno="1" tvg-country="KZ" group-title="Kazakhstan",QazSport
+http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-name="KTN NEWS TV" tvg-logo="https://i.imgur.com/7yzunBK.png" tvg-id="KTNNews.ke" tvg-chno="1" tvg-country="KE" group-title="Kenya",KTN NEWS TV
 https://www.standardmedia.co.ke/ktnnews/live
 #EXTINF:-1 tvg-name="Citizen TV" tvg-logo="https://i.imgur.com/DjDaD7h.png" tvg-id="CitizenTV.ke" tvg-chno="2" tvg-country="KE" group-title="Kenya",Citizen TV
@@ -2551,6 +2553,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTPNoticias.pt" tvg-chno="8" tvg-country="PT" group-title="Portugal",RTP notícias
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" tvg-id="RTPMemoria.pt" tvg-chno="9" tvg-country="PT" group-title="Portugal",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" tvg-id="RTPInternacional.pt" tvg-chno="10" tvg-country="PT" group-title="Portugal",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/wsyvP2H.png" tvg-id="PortoCanal.pt" tvg-chno="11" tvg-country="PT" group-title="Portugal",Porto Canal Ⓢ

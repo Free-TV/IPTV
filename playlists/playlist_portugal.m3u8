@@ -15,6 +15,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTPNoticias.pt" tvg-chno="8" tvg-country="PT" group-title="Portugal",RTP notícias
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="RTP Memória" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" tvg-id="RTPMemoria.pt" tvg-chno="9" tvg-country="PT" group-title="Portugal",RTP Memória
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" tvg-id="RTPInternacional.pt" tvg-chno="10" tvg-country="PT" group-title="Portugal",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/wsyvP2H.png" tvg-id="PortoCanal.pt" tvg-chno="11" tvg-country="PT" group-title="Portugal",Porto Canal Ⓢ
