@@ -4,23 +4,23 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Buzzr Ⓖ        | [>](https://buzzrota-ono.amagi.tv/playlist1080.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png"/> | Buzzr.us |
-| 2   | Retro TV       | [>](https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/PNTYOgg.png" /> | RetroTVEast.us |
+| 1   | Buzzr Ⓖ        | [>](http://23.237.104.106:8080/USA_BUZZR/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png"/> | Buzzr.us |
+| 2   | Retro TV       | [>](https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8) | <img height="20" src="https://i.imgur.com/PNTYOgg.png" /> | RetroTVEast.us |
 | 3   | Stadium        | [>](https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8) | <img height="30" src="https://i.imgur.com/6ae9E8d.png"/> | Stadium.us |
-| 4   | Biz TV         | [>](https://thegateway.app/BizTV/BizTV-Tones/chunks.m3u8?nimblesessionid=94690008) | <img height="20" src="https://i.imgur.com/cbGvXyF.jpg"/> | BizTV.us |
-| 5   | Heartland      | [>](https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8) |  <img height="30" src="https://i.imgur.com/a67bbag.png" /> | HeartlandEastern.us |
-| 6   | Rev'n          | [>](https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_1/chunklist.m3u8) | <img height="30" src="https://i.imgur.com/VUhqVgG.png" /> | RevnTV.us |
+| 4   | Biz TV         | [>](https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cbGvXyF.jpg"/> | BizTV.us |
+| 5   | Heartland      | [>](https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8) |  <img height="30" src="https://i.imgur.com/a67bbag.png" /> | HeartlandEastern.us |
+| 6   | Rev'n          | [>](https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8) | <img height="30" src="https://i.imgur.com/VUhqVgG.png" /> | RevnTV.us |
 
 <h2>DVB-S</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | CNN            | [>](https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> | CNN.us |
+| 1   | CNN            | [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> | CNN.us |
 | 2   | CNBC Ⓨ         | [>](https://www.youtube.com/c/CNBC/live) | <img height="20" src="https://i.imgur.com/BTasyOy.png"/> | CNBC.us |
 | 3   | Bloomberg      | [>](https://bloomberg.com/media-manifest/streams/us.m3u8) | <img height="20" src="https://i.imgur.com/VnCcH73.png"/> | BloombergTelevision.us |
-| 4   | ABC News       | [>](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> | ABCNews.us |
+| 4   | ABC News       | [>](https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> | ABCNews.us |
 | 5   | CBS News       | [>](https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> | CBSNews.us |
-| 6   | NBC News       | [>](http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> | NBCNewsNow.us |
+| 6   | NBC News       | [>](https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> | NBCNewsNow.us |
 | 7   | Reuters TV     | [>](https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> | ReutersTV.us |
 | 8   | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVPublic.us |
 | 9   | NASA TV Media  | [>](https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVMedia.us |
@@ -37,10 +37,10 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 |1    | Docurama       | [>](https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8) | <img height="20" src="https://i.imgur.com/bNg8mze.png"/> | Docurama.us |
-|2    | Drybar Comedy  | [>](https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EldlmTp.png"/> | DryBarComedy.us |
+|2    | Drybar Comedy  | [>](https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EldlmTp.png"/> | DryBarComedy.us |
 |3    | Music Channel  | [>](http://media.boni-records.com/index.m3u8) | <img height="20" src="http://media.boni-records.com/logo.png"/> | Boni-Records.com.us |
 |4    | Stryk TV       | [>](https://FFFFFFF110156200.tvustream.com/ryfy.m3u8) | <img height="20" src="https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png"/> | StrykTV.us |
-|5    | FOX Live Now   | [>](https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/livenowfox/picture?width=200&height=200"/> | FOXLiveNow.us |
+|5    | FOX Live Now   | [>](https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/livenowfox/picture?width=200&height=200"/> | FOXLiveNow.us |
 |6    | Cheddar        | [>](https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8) | <img height="20" src="https://graph.facebook.com/cheddar/picture?width=200&height=200"/> | Cheddar.us |
 |7    | Court TV       | [>](https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8) | <img height="20" src="https://graph.facebook.com/courttv/picture?width=200&height=200"/> | CourtTV.us |
 |8    | WeatherNation  | [>](https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8) | <img height="20" src="https://graph.facebook.com/WeatherNation/picture?width=200&height=200"/> | WeatherNation.us |

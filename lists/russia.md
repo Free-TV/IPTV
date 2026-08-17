@@ -45,7 +45,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 0   | Арктика 24 Ⓥ | [>](https://vk.com/video-213370539_456239018) | <img height="20" src="https://i.imgur.com/CL0G88u.png"/> | Arktika24.ru |
 | 0   | Архыз 24 | [>](https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8) | <img height="20" src="https://i.imgur.com/mve0sSS.png"/> | Arkhyz24.ru |
 | 0   | Астрахан 24 | [>](https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9WcnjQN.png"/> | Astrakhan24.ru |
-| 0   | Башкортостан 24 | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/FQhWs1M.png"/> | Bashkortostan24.ru |
+| 0   | Башкортостан 24 | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/FQhWs1M.png"/> | Bashkortostan24.ru |
 | 0   | Белгород 24 | [>](http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8) | <img height="20" src="https://i.imgur.com/EEirvyx.png"/> | Belgorod24.ru |
 | 0   | Ветта 24 | [>](http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8) | <img height="20" src="https://i.imgur.com/zKH1b5k.png"/> | Vetta24.ru |
 | 0   | Волгоград 24 Ⓢ | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/gFMnaU5.png"/> | Volgograd24.ru |
@@ -58,11 +58,11 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 0   | Мир Белогорья | [>](http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8) | <img height="20" src="https://i.imgur.com/CCNAg7R.png"/> | MirBelogorya.ru |
 | 0   | Москва 24 | [>](https://player.smotrim.ru/iframe/stream/live_id/1661) | <img height="20" src="https://i.imgur.com/gXbUMVy.png"/> | Moskva24.ru |
 | 0   | Нижний Новгород 24 | [>](https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZWgPVIC.png"/> | NizhniyNovgorod24.ru |
-| 0   | Самара 24 | [>](https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Xg7Xzna.png"/> | Samara24.ru |
+| 0   | Самара 24 | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/Xg7Xzna.png"/> | Samara24.ru |
 | 0   | Саратов 24 | [>](https://saratov24.tv/online/playlist.php) | <img height="20" src="https://i.imgur.com/Y5G3ET6.png"/> | Saratov24.ru |
 | 0   | Сибирь 24 | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/WxU6QUB.png"/> | Sibir24.ru |
 | 0   | Тольятти 24 | [>](https://tvtogliatti24.ru/hls/live1080/index.m3u8) | <img height="20" src="https://i.imgur.com/5jVKopE.png"/> | Tolyatti24.ru |
-| 0   | Урал 24 | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/EaxyGh0.png"/> | Ural24.ru |
+| 0   | Урал 24 | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/EaxyGh0.png"/> | Ural24.ru |
 | 0   | Якутия 24 | [>](https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2BAQklm.png"/> | Yakutiya24.ru |
 
 <h2>Web</h2>
