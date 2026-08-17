@@ -6,25 +6,25 @@ https://en.wikipedia.org/wiki/List_of_IRIB_television_channels
 
 | #    | Channel        | Link  | Logo | EPG id |
 |:----:|:--------------:|:-----:|:----:|:------:|
-| 1    | IRIB TV1       | [x](https://s1-cloud.irib.ir/securelive3/tv1hd/tv1hd.m3u8) | <img height="20" src="https://i.imgur.com/rad9Guw.png"/> | IRIB1.ir |
-| 2    | IRIB TV2       | [x](https://s1-cloud.irib.ir/securelive3/tv2hd/tv2hd.m3u8) | <img height="20" src="https://i.imgur.com/FKiTd3O.png"/> | IRIB2.ir |
-| 3    | IRIB TV3       | [x](https://s1-cloud.irib.ir/securelive3/tv3hd/tv3hd.m3u8) | <img height="20" src="https://i.imgur.com/6cIaH0c.png"/> | IRIB3.ir |
-| 4    | IRIB TV4 Ⓢ     | [x](https://s1-cloud.irib.ir/securelive3/tv4sd/tv4sd.m3u8) | <img height="20" src="https://i.imgur.com/fsdz81l.png"/> | IRIB4.ir |
+| 1    | IRIB TV1       | [>](https://ncdn.telewebion.ir/tv1/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rad9Guw.png"/> | IRIB1.ir |
+| 2    | IRIB TV2       | [>](https://ncdn.telewebion.ir/tv2/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FKiTd3O.png"/> | IRIB2.ir |
+| 3    | IRIB TV3       | [>](https://ncdn.telewebion.ir/tv3/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/6cIaH0c.png"/> | IRIB3.ir |
+| 4    | IRIB TV4 Ⓢ     | [>](https://ncdn.telewebion.ir/tv4/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fsdz81l.png"/> | IRIB4.ir |
 | 5    | IRIB TV5/Tehran TV Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/tv5sd/tv5sd.m3u8) | <img height="20" src="https://i.imgur.com/VdOFcN4.png"/> | IRIB5.ir |
-| 6    | IRINN          | [x](https://s1-cloud.irib.ir/securelive3/irinnhd/irinnhd.m3u8) | <img height="20" src="https://i.imgur.com/7HL4joq.png"/> | IRINN.ir |
-| 7    | IRIB Amoozesh Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/amoozeshsd/amoozeshsd.m3u8) | <img height="20" src="https://i.imgur.com/qox2azH.png"/> | AmouzeshTV.ir |
-| 8    | IRIB Quran     | [x](https://s1-cloud.irib.ir/securelive3/quranhd/quranhd.m3u8) | <img height="20" src="https://i.imgur.com/nmOKBaK.png"/> | QuranTV.ir |
-| 9    | IRIB Mostanad  | [x](https://s1-cloud.irib.ir/securelive3/mostanadhd/mostanadhd.m3u8) | <img height="20" src="https://i.imgur.com/lRDgugZ.png"/> | IRIBMostanad.ir |
-| 10   | IRIB Namayesh  | [x](https://s1-cloud.irib.ir/securelive3/namayeshhd/namayeshhd.m3u8) | <img height="20" src="https://i.imgur.com/Nq0pCGr.png"/> | NamayeshTV.ir |
-| 11   | IRIB Ofogh     | [x](https://s1-cloud.irib.ir/securelive3/ofoghhd/ofoghhd.m3u8) | <img height="20" src="https://i.imgur.com/fhqeYGb.png"/> | OfoghTV.ir |
-| 12   | IRIB Varzesh   | [x](https://s1-cloud.irib.ir/securelive3/varzeshhd/varzeshhd.m3u8) | <img height="20" src="https://i.imgur.com/tRLSrxa.png"/> | VarzeshTV.ir |
-| 13   | IRIB Pooya & Nahal | [x](https://s1-cloud.irib.ir/securelive3/pooyahd/pooyahd.m3u8) | <img height="20" src="https://i.imgur.com/hjeQUtg.png"/> | PooyaTV.ir |
-| 14   | IRIB Salamat Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/salamatsd/salamatsd.m3u8) | <img height="20" src="https://i.imgur.com/K0YUhne.png"/> | SalamatTV.ir |
-| 15   | IRIB Nasim     | [x](https://s1-cloud.irib.ir/securelive3/nasimhd/nasimhd.m3u8) | <img height="20" src="https://i.imgur.com/EqjQN83.png"/> | Nasim.ir |
-| 16   | IRIB Omid Ⓢ    | [x](https://s1-cloud.irib.ir/securelive3/omidsd/omidsd.m3u8) | <img height="20" src="https://i.imgur.com/s9iUe1l.png"/> | IRIBOmid.ir |
-| 17   | IRIB Tamasha   | [x](https://s1-cloud.irib.ir/securelive3/tamashahd/tamashahd.m3u8) | <img height="20" src="https://i.imgur.com/YffSCWH.png"/> | Tamasha.ir |
-| 18   | iFilm          | [x](https://s1-cloud.irib.ir/securelive3/ifilmhd/ifilmhd.m3u8) | <img height="20" src="https://i.imgur.com/4Z9L1AW.png"/> | iFilmPersian.ir |
-| 19   | IRIB UHD-HDR   | [x](https://s1-cloud.irib.ir/securelive3/uhd/uhd.m3u8) | <img height="20" src="https://i.imgur.com/qZ98jaa.png"/> | IRIBUHD.ir |
+| 6    | IRINN          | [>](http://185.9.2.18/chid_926/index.m3u8) | <img height="20" src="https://i.imgur.com/7HL4joq.png"/> | IRINN.ir |
+| 7    | IRIB Amoozesh Ⓢ | [>](https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qox2azH.png"/> | AmouzeshTV.ir |
+| 8    | IRIB Quran     | [>](https://ncdn.telewebion.ir/quran/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/nmOKBaK.png"/> | QuranTV.ir |
+| 9    | IRIB Mostanad  | [>](https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/lRDgugZ.png"/> | IRIBMostanad.ir |
+| 10   | IRIB Namayesh  | [>](https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nq0pCGr.png"/> | NamayeshTV.ir |
+| 11   | IRIB Ofogh     | [>](https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fhqeYGb.png"/> | OfoghTV.ir |
+| 12   | IRIB Varzesh   | [>](https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tRLSrxa.png"/> | VarzeshTV.ir |
+| 13   | IRIB Pooya & Nahal | [>](https://ncdn.telewebion.ir/pooya/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hjeQUtg.png"/> | PooyaTV.ir |
+| 14   | IRIB Salamat Ⓢ | [>](https://ncdn.telewebion.ir/salamat/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/K0YUhne.png"/> | SalamatTV.ir |
+| 15   | IRIB Nasim     | [>](https://ncdn.telewebion.ir/nasim/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EqjQN83.png"/> | Nasim.ir |
+| 16   | IRIB Omid Ⓢ    | [>](https://ncdn.telewebion.ir/omid/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/s9iUe1l.png"/> | IRIBOmid.ir |
+| 17   | IRIB Tamasha   | [>](https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YffSCWH.png"/> | Tamasha.ir |
+| 18   | iFilm          | [>](https://live.presstv.co.uk/hls/ifilmfa.m3u8) | <img height="20" src="https://i.imgur.com/4Z9L1AW.png"/> | iFilmPersian.ir |
+| 19   | IRIB UHD-HDR   | [>](https://ncdn.telewebion.ir/faratar/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qZ98jaa.png"/> | IRIBUHD.ir |
 
 <h2>Foreign channels</h2>
 
@@ -33,9 +33,9 @@ https://en.wikipedia.org/wiki/List_of_IRIB_television_channels
 | 1    | Jame Jam TV 1  | [x](https://s1-cloud.irib.ir/securelive3/jamejam1hd/jamejam1hd.m3u8) | <img height="20" src="https://i.imgur.com/BjaN3W1.png"/> | JameJamTVNetwork1.ir |
 | 2    | Jame Jam TV 2 Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/jamejam2sd/jamejam2sd.m3u8) | <img height="20" src="https://i.imgur.com/BjaN3W1.png"/> | JameJamTVNetwork2.ir |
 | 3    | Jame Jam TV 3 Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/jamejam3sd/jamejam3sd.m3u8) | <img height="20" src="https://i.imgur.com/BjaN3W1.png"/> | JameJamTVNetwork3.ir |
-| 4    | iFilm 2 Ⓢ      | [x](https://s1-cloud.irib.ir/securelive3/ifilm2sd/ifilm2sd.m3u8) | <img height="20" src="https://i.imgur.com/WZrGsFb.png"/> | iFilm2.ir |
-| 5    | iFilm Arabic Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/ifilmarabsd/ifilmarabsd.m3u8) | <img height="20" src="https://i.imgur.com/D3cXTpJ.png"/> | iFilmArabic.ir |
-| 6    | iFilm English Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/ifilmengsd/ifilmengsd.m3u8) | <img height="20" src="https://i.imgur.com/RdC0DQk.png"/> | iFilmEnglish.ir |
+| 4    | iFilm 2 Ⓢ      | [>](https://live.presstv.co.uk/hls/ifilm2.m3u8) | <img height="20" src="https://i.imgur.com/WZrGsFb.png"/> | iFilm2.ir |
+| 5    | iFilm Arabic Ⓢ | [>](https://live.presstv.co.uk/hls/ifilmar.m3u8) | <img height="20" src="https://i.imgur.com/D3cXTpJ.png"/> | iFilmArabic.ir |
+| 6    | iFilm English Ⓢ | [>](https://live.presstv.co.uk/hls/ifilmen.m3u8) | <img height="20" src="https://i.imgur.com/RdC0DQk.png"/> | iFilmEnglish.ir |
 | 7    | Sahar TV Azeri Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/saharazarsd/saharazarsd.m3u8) | <img height="20" src="https://i.imgur.com/ZvNpHTj.png"/> | SaharAzeri.ir |
 | 8    | Sahar TV Urdu Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/saharurdusd/saharurdusd.m3u8) | <img height="20" src="https://i.imgur.com/krc2nHm.png"/> | SaharUrdu.ir |
 | 9    | Sahar TV Kurdi Ⓢ | [x](https://s1-cloud.irib.ir/securelive3/saharkurdsd/saharkurdsd.m3u8) | <img height="20" src="https://i.imgur.com/FxFNcHA.png"/> | SaharKurdi.ir |

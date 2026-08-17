@@ -25,13 +25,13 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | TF1 | [x](http://livetv.ktv.zone/3/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png"/> | TF1.fr |
+| 1   | TF1 | [>](http://151.80.18.177:86/TF1_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png"/> | TF1.fr |
 | 2   | France 2 | [x](http://livetv.ktv.zone/104/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/886px-France_2_2018.svg.png"/> | France2.fr |
 | 3   | France 3 | [x](http://livetv.ktv.zone/105/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png"/> | France3.fr |
-| 14  | France 4 | [x](http://livetv.ktv.zone/116/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
-| 5   | France 5 | [x](http://livetv.ktv.zone/107/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
-| 10  | TMC | [x](http://livetv.ktv.zone/12/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/500px-TMC_logo_2016.svg.png"/> | TMC.fr |
-| 11  | TFX | [x](http://livetv.ktv.zone/13/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
+| 14  | France 4 | [>](http://176.65.146.100:8047/play/a074/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/998px-France_4_2018.svg.png"/> | France4.fr |
+| 5   | France 5 | [>](http://145.239.5.177/305/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/900px-France_5_2018.svg.png"/> | France5.fr |
+| 10  | TMC | [>](http://151.80.18.177:86/TMC/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/500px-TMC_logo_2016.svg.png"/> | TMC.fr |
+| 11  | TFX | [>](http://145.239.5.177/315/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
 | 20  | TF1 Séries Films | [x](http://livetv.ktv.zone/22/play.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
 | 29  | TV5 Monde Info | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8) | <img height="20" src="https://i.imgur.com/NcysrWH.png"/> | TV5MondeInfo.fr |
 | 30  | TV5 Monde FBS | [>](https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8) | <img height="20" src="https://i.imgur.com/uPmwTo9.png"/> | TV5MondeFranceBelgiumSwitzerland.fr |
@@ -43,10 +43,10 @@
 |:---:|:----------:|:-----:|:----:|:------:|
 | 1   | TF1        | [x](https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/62px-TF1_logo_2013.png"/> | TF1.fr |
 | 14   | France 4   | [x](http://edge9.iptvnetwork.net/live/france4/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/39px-France_4_2018.svg.png"/> | France4.fr |
-| 15  | BFM TV     | [x](https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
-| 18  | Gulli      | [x](https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> | Gulli.fr |
-| 22  | 6ter       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> | 6ter.fr |
-| 26  | LCI          | [x](https://sv0.data-stream.top/hls/lci.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/8/85/LCI.png/> | LCI.fr |
+| 15  | BFM TV     | [>](https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/53px-Logo_BFM_TV_%282019%29.png"/> | BFMTV.fr |
+| 18  | Gulli      | [>](http://99.27.51.147:8080/Gulli/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/57px-18._Gulli.png"/> | Gulli.fr |
+| 22  | 6ter       | [>](http://145.239.5.177/314/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/73px-6ter_2012.png"/> | 6ter.fr |
+| 26  | LCI          | [>](http://145.239.5.177/368/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/8/85/LCI.png/> | LCI.fr |
 
 <h2>Unreliable (tntdirect)</h2>
 
@@ -56,7 +56,7 @@
 | 2   | France 2   | [x](https://s13.tntendirect.com/france2/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/35px-France_2_2018.svg.png"/> | France2.fr |
 | 3   | France 3   | [x](https://s13.tntendirect.com/france3/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/35px-France_3_2018.svg.png"/> | France3.fr |
 | 5   | France 5   | [x](https://s13.tntendirect.com/france5/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/35px-France_5_2018.svg.png"/> | France5.fr |
-| 6   | M6         | [x](https://s13.tntendirect.com/m6/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png"/> | M6.fr |
+| 6   | M6         | [>](http://99.27.51.147:8080/M6/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/49px-Logo_M6_%282020%2C_fond_clair%29.svg.png"/> | M6.fr |
 | 8   | C8         | [x](https://s13.tntendirect.com/d8/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
 | 8   | C8 Ⓓ | [x](https://www.dailymotion.com/video/x5gv5rr) | <img height="20" src="https://i.imgur.com/LXhXF8l.png"/> | C8.fr |
 | 9   | W9         | [x](https://s13.tntendirect.com/w9/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/56px-W9_2018.svg.png"/> | W9.fr |
@@ -64,7 +64,7 @@
 | 11  | TFX        | [x](https://s13.tntendirect.com/nt1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png"/> | TFX.fr |
 | 12  | NRJ 12     | [x](https://s13.tntendirect.com/nrj12/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/757px-NRJ_12_logo_2015.svg.png"/> | NRJ12.fr |
 | 12  | NRJ 12 | [x](https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/749px-NRJ12_logo_2015.svg.png"/> | NRJ12.fr |
-| 17  | CStar      | [x](https://s13.tntendirect.com/d17/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> | CStar.fr |
+| 17  | CStar      | [>](http://145.239.5.177/361/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png"/> | CStar.fr |
 | 20  | TF1 Séries Films | [x](https://s13.tntendirect.com/hd1/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/640px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"/> | TF1SeriesFilms.fr |
 | 21  | L'Équipe Ⓖ | [x](https://s13.tntendirect.com/lequipe21/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png"/> | LEquipe.fr |
 | 24  | RMC Découverte | [x](https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/76px-RMC_D%C3%A9couverte_logo_2017.svg.png"/> | RMCDecouverte.fr |
