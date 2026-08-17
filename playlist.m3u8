@@ -447,6 +447,8 @@ https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" tvg-chno="5" tvg-country="HR" group-title="Croatia",HRT 3
 https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
+#EXTINF:-1 tvg-name="HRT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" tvg-id="HRT4.hr" tvg-chno="6" tvg-country="HR" group-title="Croatia",HRT 4 Ⓖ
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" tvg-chno="7" tvg-country="HR" group-title="Croatia",RTL 2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportska televizija" tvg-logo="https://i.imgur.com/xdxjcVh.png" tvg-id="SportskaTV.hr" tvg-chno="11" tvg-country="HR" group-title="Croatia",Sportska televizija Ⓖ
@@ -1249,6 +1251,20 @@ https://wg.cdn.tibus.net/q102MP3128
 https://stream.audioxi.com/CLASSIC
 #EXTINF:-1 tvg-name="Sunshine 106.8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sunshine_106.8_logo.png" tvg-id="sunshineradio.ie" tvg-chno="9" tvg-country="IE" group-title="Ireland",Sunshine 106.8
 https://live-bauerie.sharp-stream.com/SUN
+#EXTINF:-1 tvg-name="RTÉ One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/640px-RT%C3%89_One_2014.svg.png" tvg-id="RTEOne.ie" tvg-chno="1" tvg-country="IE" group-title="Ireland",RTÉ One
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
+#EXTINF:-1 tvg-name="RTÉ2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png" tvg-id="RTE2.ie" tvg-chno="2" tvg-country="IE" group-title="Ireland",RTÉ2
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/1024px-Virgin_Media_One_logo_2018.svg.png" tvg-id="VirginMediaOne.ie" tvg-chno="3" tvg-country="IE" group-title="Ireland",Virgin Media 1
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/1024px-Virgin_Media_Two_logo_2018.svg.png" tvg-id="VirginMediaTwo.ie" tvg-chno="5" tvg-country="IE" group-title="Ireland",Virgin Media 2
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/1024px-Virgin_Media_Three_logo_2018.svg.png" tvg-id="VirginMediaThree.ie" tvg-chno="6" tvg-country="IE" group-title="Ireland",Virgin Media 3
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Virgin_Media_Four_logo.svg/1024px-Virgin_Media_Four_logo.svg.png" tvg-id="VirginMediaFour.ie" tvg-chno="7" tvg-country="IE" group-title="Ireland",Virgin Media 4
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+#EXTINF:-1 tvg-name="RTE News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" tvg-id="RTENews.ie" tvg-chno="21" tvg-country="IE" group-title="Ireland",RTE News
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.m3u8
 #EXTINF:-1 tvg-name="9 канал" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-id="Channel9.il" tvg-chno="9" tvg-country="IL" group-title="Israel",9 канал Ⓨ
 https://www.youtube.com/@israel9tv/live
 #EXTINF:-1 tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/640px-Kan11Logo.svg.png" tvg-id="Kan11.il" tvg-chno="11" tvg-country="IL" group-title="Israel",כאן 11

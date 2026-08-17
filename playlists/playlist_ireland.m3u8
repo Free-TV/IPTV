@@ -21,3 +21,17 @@ https://wg.cdn.tibus.net/q102MP3128
 https://stream.audioxi.com/CLASSIC
 #EXTINF:-1 tvg-name="Sunshine 106.8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sunshine_106.8_logo.png" tvg-id="sunshineradio.ie" tvg-chno="9" tvg-country="IE" group-title="Ireland",Sunshine 106.8
 https://live-bauerie.sharp-stream.com/SUN
+#EXTINF:-1 tvg-name="RTÉ One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/640px-RT%C3%89_One_2014.svg.png" tvg-id="RTEOne.ie" tvg-chno="1" tvg-country="IE" group-title="Ireland",RTÉ One
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
+#EXTINF:-1 tvg-name="RTÉ2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png" tvg-id="RTE2.ie" tvg-chno="2" tvg-country="IE" group-title="Ireland",RTÉ2
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/1024px-Virgin_Media_One_logo_2018.svg.png" tvg-id="VirginMediaOne.ie" tvg-chno="3" tvg-country="IE" group-title="Ireland",Virgin Media 1
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/1024px-Virgin_Media_Two_logo_2018.svg.png" tvg-id="VirginMediaTwo.ie" tvg-chno="5" tvg-country="IE" group-title="Ireland",Virgin Media 2
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/1024px-Virgin_Media_Three_logo_2018.svg.png" tvg-id="VirginMediaThree.ie" tvg-chno="6" tvg-country="IE" group-title="Ireland",Virgin Media 3
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1 tvg-name="Virgin Media 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Virgin_Media_Four_logo.svg/1024px-Virgin_Media_Four_logo.svg.png" tvg-id="VirginMediaFour.ie" tvg-chno="7" tvg-country="IE" group-title="Ireland",Virgin Media 4
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+#EXTINF:-1 tvg-name="RTE News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" tvg-id="RTENews.ie" tvg-chno="21" tvg-country="IE" group-title="Ireland",RTE News
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.m3u8
