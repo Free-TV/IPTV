@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 | 2   | CCTV-2 财经 | [>](https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8) | <img height="20" src="https://i.imgur.com/6C9JEYt.png"/> | CCTV2.cn |
 | 3   | CCTV-3 综艺 | [>](http://74.91.26.218:82/live/cctv3hd.m3u8) | <img height="20" src="https://i.imgur.com/Mh1N35D.png"/> | CCTV3.cn |
 | 4   | CCTV-4 中文国际（亚） Ⓨ | [>](https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live) | <img height="20" src="https://i.imgur.com/ovUSVEQ.png"/> | CCTV4Asia.cn |
-| 5   | CCTV-4 中文国际（欧）| [x]() | <img height="20" src="https://i.imgur.com/kx8metk.png"/> | CCTV4Europe.cn |
+| 5   | CCTV-4 中文国际（欧）| [>](https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kx8metk.png"/> | CCTV4Europe.cn |
 | 6   | CCTV-4 中文国际（美） Ⓢ | [>](https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8) | <img height="20" src="https://i.imgur.com/1TPiRqR.png"/> | CCTV4America.cn |
 | 7   | CCTV-5 体育 | [>](https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8) | <img height="20" src="https://i.imgur.com/Mut2omN.png"/> | CCTV5.cn |
 | 8   | CCTV-5+ 体育赛事 | [>](https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8) | <img height="20" src="https://i.imgur.com/UNjmQVS.png"/> | CCTV5Plus.cn |
