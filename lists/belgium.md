@@ -6,7 +6,7 @@
 |:---:|:---------------:|:-----:|:----:|:------:|
 | 1   | RTL-Be          | [>](https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/xMhSvax.png"/> | BelRTL.be |
 | 2   | La Une          | [>](http://145.239.5.177/329/index.m3u8) | <img height="20" src="https://i.imgur.com/hJodwJt.png"/> | LaUne.be |
-| 3   | Tipik           | [>](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8) | <img height="20" src="https://i.imgur.com/PVbVj8o.png"/> | Tipik.be |
+| 3   | Tipik           | [>](http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg) | <img height="20" src="https://i.imgur.com/PVbVj8o.png"/> | Tipik.be |
 | 4   | Club RTL        | [x](http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts) | <img height="20" src="https://i.imgur.com/e9GkFwY.png"/> | ClubRTL.be |
 | 5   | Arte Belgique   | [x]() | <img height="20" src="https://i.imgur.com/w7HzPQh.png"/> | 
 | 6   | La Trois        | [>](http://145.239.5.177/330/index.m3u8) | <img height="20" src="https://i.imgur.com/kC3pJtA.png"/> | LaTrois.be |

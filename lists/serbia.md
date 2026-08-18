@@ -8,7 +8,7 @@
 | 4 | Red TV | [>](https://edge8.pink.rs/redtv/index.m3u8) | <img height="20" src="https://i.imgur.com/cpN7NrL.png"/> | RedTV.rs |
 | 5 | Kurir TV | [>](https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8) | <img height="20" src="https://i.imgur.com/HBPnUD5.png"/> | KurirTV.rs |
 | 6 | Informer TV | [>](https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9wdEHRf.png"/> | InformerTV.rs |
-| 0 | RTS Svet | [>](https://de1.dstv.cx/RTSSvet/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png"/> | RTSSvet.rs |
+| 0 | RTS Svet | [>](https://webtvstream.bhtelecom.ba/rts_svet.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png"/> | RTSSvet.rs |
 | 0 | Euronews Serbia | [x](https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8) | <img height="20" src="https://i.imgur.com/b24QKcq.png"/> | EuroNewsSerbia.rs |
 
 <h3>Vojvodina</h3>

@@ -16,7 +16,6 @@
 | 0   | Mədəniyyət TV Ⓢ | [>](https://str.yodacdn.net/medeniyyettele/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png"/> | MedeniyyetTV.az |
 | 0   | Xəzər Xəbər | [>](https://www.xezerxeber.az/stream/index.m3u8) | <img height="20" src="https://i.imgur.com/AuB8bnq.png"/> | XezerXeber.az |
 | 0   | İctimai TV Ⓢ | [>](https://live.itv.az/itv.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%C4%B0ctimai_TV_%282021-h.h.%29.svg/470px-%C4%B0ctimai_TV_%282021-h.h.%29.svg.png"/> | IctimaiTV.az |
-| 0   | Xəzər TV Ⓢ | [>](https://www.xezerxeber.az/stream/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png"/> | XezerTV.az |
 
 <h2>myvideo.az</h2>
 

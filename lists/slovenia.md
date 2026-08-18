@@ -17,4 +17,4 @@ https://en.wikipedia.org/wiki/Television_in_Slovenia
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 0   | Folx Slovenija | [>](https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8) | <img height="20" src="https://i.imgur.com/RK1IASU.png"/> | FolxSlovenija.si |
+| 0   | Folx Slovenija | [>](https://folxsloapp.b-cdn.net/1080p/index.m3u8) | <img height="20" src="https://i.imgur.com/RK1IASU.png"/> | FolxSlovenija.si |
