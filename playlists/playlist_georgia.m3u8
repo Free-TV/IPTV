@@ -6,7 +6,7 @@ https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-name="Imedi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Imlogo_2020.png" tvg-id="ImediTV.ge" tvg-chno="3" tvg-country="GE" group-title="Georgia",Imedi TV
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-name="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" tvg-id="Rustavi2.ge" tvg-chno="4" tvg-country="GE" group-title="Georgia",Rustavi 2
-https://sktv-forwarders.7m.pl/get.php?x=Rustavi2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
 #EXTINF:-1 tvg-name="Mtavari Arkhi" tvg-logo="https://i.imgur.com/tLtGnJW.png" tvg-id="MtavariArkhi.ge" tvg-chno="5" tvg-country="GE" group-title="Georgia",Mtavari Arkhi
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
 #EXTINF:-1 tvg-name="GDS" tvg-logo="https://i.imgur.com/gv61tFf.png" tvg-id="GDSTV.ge" tvg-chno="6" tvg-country="GE" group-title="Georgia",GDS
@@ -20,4 +20,4 @@ https://live.postv.media/stream/index.m3u8
 #EXTINF:-1 tvg-name="Obieqtivi" tvg-logo="https://i.imgur.com/Kqc8H8X.png" tvg-id="ObieqtiviTV.ge" tvg-chno="11" tvg-country="GE" group-title="Georgia",Obieqtivi
 https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" tvg-chno="999" tvg-country="GE" group-title="Georgia",Euronews Georgia Ⓖ
-https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts

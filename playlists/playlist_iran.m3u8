@@ -48,6 +48,6 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" tvg-chno="13" tvg-country="IR" group-title="Iran",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Press TV French" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTVFrench.ir" tvg-chno="14" tvg-country="IR" group-title="Iran",Press TV French
-https://live1.presstv.ir/live/presstvfr/index.m3u8
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="IranPress" tvg-logo="https://i.imgur.com/Qrubr3v.png" tvg-id="IranPress.ir" tvg-chno="16" tvg-country="IR" group-title="Iran",IranPress Ⓢ
 https://live1.presstv.ir/live/iranpress/index.m3u8

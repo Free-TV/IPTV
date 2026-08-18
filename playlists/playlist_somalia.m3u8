@@ -8,7 +8,7 @@ https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
 #EXTINF:-1 tvg-name="Galmudug TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galmudug-tv-so.png" tvg-country="SO" group-title="Somalia",Galmudug TV Ⓨ
 https://www.youtube.com/channel/UCaEZkCJVKUoQNK42y-bC2Uw/live
 #EXTINF:-1 tvg-name="Hirshabelle TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hirshabelle-tvjpg-so.png" tvg-country="SO" group-title="Somalia",Hirshabelle TV
-http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+https://cd198.anystream.uk:9092/iqapp/h1rshbe1iptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Horn Cable TV" tvg-logo="https://i.imgur.com/qUqQCjP.png" tvg-id="HornCableTV.so" tvg-country="SO" group-title="Somalia",Horn Cable TV Ⓨ
 https://www.youtube.com/@HornCableTV1/live
 #EXTINF:-1 tvg-name="Jubbaland TV" tvg-logo="https://i.imgur.com/SEgEYjV.png" tvg-id="JubbalandTV.so" tvg-country="SO" group-title="Somalia",Jubbaland TV Ⓨ
@@ -22,7 +22,7 @@ http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rejo TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rejo-tv-so.png" tvg-country="SO" group-title="Somalia",Rejo TV Ⓨ
 https://www.youtube.com/channel/UCf_ntY4qKz0jFV2dRTWselQ/live
 #EXTINF:-1 tvg-name="Saab TV" tvg-logo="https://i.imgur.com/JEC1J89.png" tvg-id="SaabTV.so" tvg-country="SO" group-title="Somalia",Saab TV Ⓢ
-https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sahan TV" tvg-logo="https://i.imgur.com/fOvHhX2.png" tvg-id="SahanTV.so" tvg-country="SO" group-title="Somalia",Sahan TV Ⓨ
 https://www.youtube.com/channel/UCGn3y_geehf1ZgAlwtbNt2w/live
 #EXTINF:-1 tvg-name="SBC Somalia" tvg-logo="https://i.imgur.com/VLhgTIA.png" tvg-id="SBCTV.so" tvg-country="SO" group-title="Somalia",SBC Somalia Ⓢ
@@ -30,10 +30,10 @@ http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Shabelle TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shabelle-tv-so.png" tvg-country="SO" group-title="Somalia",Shabelle TV Ⓨ
 https://www.youtube.com/channel/UCXSorfoPFZbMraJP4XCtDQw/live
 #EXTINF:-1 tvg-name="SNTV Daljir" tvg-logo="https://i.imgur.com/Re3ur88.png" tvg-id="SNTVDaljir.so" tvg-country="SO" group-title="Somalia",SNTV Daljir Ⓢ
-https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+https://cd198.anystream.uk:9092/iqapp/s2tve/playlist.m3u8
 #EXTINF:-1 tvg-name="Somali Cable TV" tvg-logo="https://i.imgur.com/iPkaCts.png" tvg-id="SomaliCableTV.uk" tvg-country="SO" group-title="Somalia",Somali Cable TV Ⓢ
 https://ap02.iqplay.tv:8082/iqb8002/somc131/playlist.m3u8
 #EXTINF:-1 tvg-name="Somali National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" tvg-id="SomaliNationalTV.so" tvg-country="SO" group-title="Somalia",Somali National TV Ⓢ
-https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+https://cd198.anystream.uk:9092/iqapp/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-name="Somaliland National TV" tvg-logo="https://i.imgur.com/FIuQNWN.png" tvg-id="SomalilandNationalTV.so" tvg-country="SO" group-title="Somalia",Somaliland National TV Ⓨ
 https://www.youtube.com/c/SLNTVLIVESTREAM/live
