@@ -5,6 +5,8 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 http://145.239.5.177/329/index.m3u8
 #EXTINF:-1 tvg-name="Tipik" tvg-logo="https://i.imgur.com/PVbVj8o.png" tvg-id="Tipik.be" tvg-chno="3" tvg-country="BE" group-title="Belgium",Tipik
 http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-name="Arte Belgique" tvg-logo="https://i.imgur.com/w7HzPQh.png" tvg-chno="5" tvg-country="BE" group-title="Belgium",Arte Belgique Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" tvg-id="LaTrois.be" tvg-chno="6" tvg-country="BE" group-title="Belgium",La Trois
 http://145.239.5.177/330/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde" tvg-logo="https://i.imgur.com/7WHwYK3.png" tvg-chno="8" tvg-country="BE" group-title="Belgium",TV5 Monde
