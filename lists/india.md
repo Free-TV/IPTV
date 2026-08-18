@@ -37,6 +37,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 28  | WION Ⓨ | [>](https://www.youtube.com/@WION/live) | <img height="20" src="https://i.imgur.com/E8MCz6e.png" /> | wionews.com |
 | 29  | Mirror Now Ⓨ | [>](https://www.youtube.com/@mirrornow/live) | <img height="20" src="https://i.imgur.com/R4rxBNu.jpeg" /> | timesnownews.com |
 | 30  | ZEE News Ⓨ | [>](https://www.youtube.com/@ZEENews/live) | <img height="20" src="https://i.imgur.com/lmgtjqw.jpeg" /> | zeenews.india.com |
+| 31  | News24 Ⓨ | [>](https://www.youtube.com/@News24thinkfirst/live) | <img height="20" src="https://i.imgur.com/N5BbEek.jpeg" /> | news24online.com |
 
 <h2>Invalid</h2>
 
