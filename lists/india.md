@@ -31,7 +31,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 22  | News18 India Ⓨ | [>](https://www.youtube.com/@news18india/live) | <img height="20" src="https://i.imgur.com/BR4BUAw.png" /> | News18.com |
 | 23  | CNN-News18 | [>](https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/K3M8MoK.png" /> | News18.com |
 | 24  | News18 UP Uttarakhand Ⓨ | [>](https://www.youtube.com/@News18UPUttarakhand/live) | <img height="20" src="https://i.imgur.com/nKwoe8n.png" /> | News18.com |
-| 25  | News18 Kannada Ⓨ | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/CQUGLoK.png" /> | News18.com |
+| 25  | News18 Kannada | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/CQUGLoK.png" /> | News18.com |
 | 26  | News18 Telugu Ⓨ | [>](https://www.youtube.com/@News18Telugu/live) | <img height="20" src="https://i.imgur.com/NsieorM.jpeg" /> | News18.com |
 | 27  | News18 Marathi Ⓨ | [>](https://www.youtube.com/@News18Marathi/live) | <img height="20" src="https://i.imgur.com/orxCvCa.png" /> | News18.com |
 | 28  | WION Ⓨ | [>](https://www.youtube.com/@WION/live) | <img height="20" src="https://i.imgur.com/E8MCz6e.png" /> | wionews.com |
