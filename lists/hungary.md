@@ -102,11 +102,11 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | M3             | [x](https://onlinestream.live/play.m3u8?id=5931&ch=1&ext=.m3u8) | <img height="20" src="https://onlinestream.live/logos/5931.png" /> | M3.hu |
-| 2   | Duna World / M4+ Sport | [x](http://152.66.115.226:33391/bysid/103) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
+| 2   | Duna World / M4+ Sport | [>](http://88.212.15.19/live/duna_world_hun/index.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
 | 3   | MUSICPlus      | [x](http://s02.diazol.hu:10192/stream.m3u8) | | |
 | 4   | Budakalász     | [x](https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MGkvVQg.png" /> |
 | 5   | VTV Füzesabony | [x](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
-| 6   | Putnok Városi TV | [x](http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
+| 6   | Putnok Városi TV | [>](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 | 7   | Miskolc TV     | [x](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
 | 8   | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
 

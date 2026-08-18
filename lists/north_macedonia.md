@@ -30,7 +30,7 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1 | Телевизија Здравкин | [>](http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8) | <img height="20" src="https://i.imgur.com/kSmcAER.png"/> | Zdravkin |
 | 2 | ТВ Сонце | [x](https://media2.streambrothers.com:1936/8142/8142/playlist.m3u8) | <img height="20" src="https://i.imgur.com/LblSsIv.png"/> | tv-sonce.com |
-| 3 | Орбис | [x](http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png"/> | TV Orbis |
+| 3 | Орбис | [>](http://tvorbis.hugo.mk:1935/live/orbis/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png"/> | TV Orbis |
 | 4 | M»Net | [>](http://ares.mnet.mk/hls/mnet.m3u8) | <img height="20" src="https://i.imgur.com/JWHcGMX.png"/> | mnet.mk |
 | 5 | Македонско Сонце | [x](https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8) | <img height="20" src="https://i.imgur.com/b97qVaV.png"/> | makedonsko-sonce |
 | 6 | Канал 8 | [x](http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8) | <img height="20" src="https://i.imgur.com/5skC7be.png"/> | kanal8.mk |
