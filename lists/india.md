@@ -29,7 +29,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 20  | Asianet Suvarna News Ⓨ | [>](https://www.youtube.com/@AsianetSuvarnaNews/live) | <img height="20" src="https://i.imgur.com/zRWl97N.jpeg" /> | Kannada.AsianetNews.com |
 | 21  | Asianet News Telugu Ⓨ | [>](https://www.youtube.com/@AsianetNewsTelugu/live) | <img height="20" src="https://i.imgur.com/9wJvDMn.jpeg" /> | Telugu.AsianetNews.com |
 | 22  | News18 India Ⓨ | [>](https://www.youtube.com/@news18india/live) | <img height="20" src="https://i.imgur.com/BR4BUAw.png" /> | News18.com |
-| 23  | CNN-News18 Ⓨ | [>](https://www.youtube.com/@cnnnews18/live) | <img height="20" src="https://i.imgur.com/K3M8MoK.png" /> | News18.com |
+| 23  | CNN-News18 | [>](https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/K3M8MoK.png" /> | News18.com |
 | 24  | News18 UP Uttarakhand Ⓨ | [>](https://www.youtube.com/@News18UPUttarakhand/live) | <img height="20" src="https://i.imgur.com/nKwoe8n.png" /> | News18.com |
 | 25  | News18 Kannada Ⓨ | [>](https://www.youtube.com/@News18Kannada/live) | <img height="20" src="https://i.imgur.com/CQUGLoK.png" /> | News18.com |
 | 26  | News18 Telugu Ⓨ | [>](https://www.youtube.com/@News18Telugu/live) | <img height="20" src="https://i.imgur.com/NsieorM.jpeg" /> | News18.com |
