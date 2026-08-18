@@ -22,7 +22,6 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 3   | ATV            | [>](http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" /> | ATV.hu |
 | 4   | Hír TV         | [x](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg" /> | HirTV.hu |
 | 5   | Spektrum Home  | [>](http://88.212.15.19/live/spektrum_home_hun/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" /> | SpektrumHome.hu |
-| 6   | Fix TV Ⓨ       | [>](https://www.youtube.com/@fixhdtv/live) | <img height="20" src="https://yt3.googleusercontent.com/ytc/AIdro_kGNMkymw1X1Qr3gb8WMnrnpv5I7e05LKqIpMOto_UYfF8=s900-c-k-c0x00ffffff-no-rj" /> |
 | 7   | ErdélyTV Ⓨ     | [>](https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live) | <img height="20" src="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" /> |
 | 8   | FEM3 (TV2 Klub) | [>](http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
 
