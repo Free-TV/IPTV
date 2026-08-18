@@ -22,5 +22,5 @@
 | 2   | Canal 2 Ⓖ | [x](https://livebeta.publika.md/LIVE/2/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/ro/7/7f/Logo_Canal_2.png"/> | Canal2.md |
 | 3   | Canal 3 Ⓖ | [x](https://livebeta.publika.md/LIVE/3/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Canal_3.svg/640px-Canal_3.svg.png"/> | Canal3.md |
 | 4   | Prime Ⓖ | [x](https://livebeta.publika.md/LIVE/1/600.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Prime.png"/> | Prime.md |
-| 5   | Vocea Basarabiei | [>](https://storage.voceabasarabiei.md/vocea/vocea.m3u8) | <img height="20" src="https://i.imgur.com/irP8QLs.png"/> | VoceaBasarabieiTV.md |
+| 5   | Vocea Basarabiei | [>](https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8) | <img height="20" src="https://i.imgur.com/irP8QLs.png"/> | VoceaBasarabieiTV.md |
 | 6   | Balti TV | [>](http://77.89.199.174:8000/play/1024/index.m3u8) | <img height="20" src="https://i.imgur.com/S1vEqZp.png"/> | BaltiTV.md |

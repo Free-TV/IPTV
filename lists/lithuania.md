@@ -2,7 +2,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | LRT TV | [>](https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8) | <img height="20" src="https://i.imgur.com/FL2ZuGC.png"/> | LRTTV.lt |
+| 1   | LRT TV | [>](http://stream.mcquack.net/31/index.m3u8) | <img height="20" src="https://i.imgur.com/FL2ZuGC.png"/> | LRTTV.lt |
 | 3   | LRT Lituanica | [>](https://stream-live.lrt.lt/lituanica/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/640px-LRT_Lituanica_Logo_2022.svg.png"/> | LRTLituanica.lt |
 | 9   | Lietuvos Rytas TV | [>](https://live.lietuvosryto.tv/live/hls/eteris.m3u8) | <img height="20" src="https://i.imgur.com/5wpxVI0.png"/> | LietuvosRytasTV.lt |
 | 10  | Delfi TV | [>](https://s1.dcdn.lt/live/televizija/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IFoHP5M.png"/> | DelfiTV.lt |

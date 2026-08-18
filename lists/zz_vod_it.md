@@ -17,27 +17,27 @@
 | 9   | Stories – Rakuten TV | [>](https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tMcUvjI.jpg"/> |
 | 10  | Classico – Rakuten TV | [>](https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ytN6jfl.jpeg"/> |
 | 11  | Thriller – Rakuten TV | [>](https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/jJTnBNk.jpeg"/> |
-| 4004 | Commedia – Rakuten TV | [>](https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/EKKXdIU.jpg"/> |
+| 4004 | Commedia – Rakuten TV | [>](https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8) | <img height="20" src="https://i.imgur.com/EKKXdIU.jpg"/> |
 | 4229 | Documentari – Rakuten TV | [>](https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rAHBiO8.jpg"/> |
-| 4966 | Family – Rakuten TV | [>](https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BCC123A.jpg"/> |
-| 4985 | Romance – Rakuten TV | [>](https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/TiXrzJZ.jpeg"/> |
-| 4996 | Film Top – Rakuten TV | [>](https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/OfD9hM9.jpeg"/> |
-| 4998 | Drammatico – Rakuten TV | [>](https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Nx3JzZK.jpg"/> |
-| 4999 | Film d'azione – Rakuten TV | [>](https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KDmDQM6.jpg"/> |
+| 4966 | Family – Rakuten TV | [>](https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8) | <img height="20" src="https://i.imgur.com/BCC123A.jpg"/> |
+| 4985 | Romance – Rakuten TV | [>](https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8) | <img height="20" src="https://i.imgur.com/TiXrzJZ.jpeg"/> |
+| 4996 | Film Top – Rakuten TV | [>](https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8) | <img height="20" src="https://i.imgur.com/OfD9hM9.jpeg"/> |
+| 4998 | Drammatico – Rakuten TV | [>](https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8) | <img height="20" src="https://i.imgur.com/Nx3JzZK.jpg"/> |
+| 4999 | Film d'azione – Rakuten TV | [>](https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8) | <img height="20" src="https://i.imgur.com/KDmDQM6.jpg"/> |
 
 
 <h2>Samsung TV Plus</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 4003 | Euronews in diretta | [>](https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DUUxsO7.jpeg"/> | EuronewsItalian.fr |
+| 4003 | Euronews in diretta | [>](https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel) | <img height="20" src="https://i.imgur.com/DUUxsO7.jpeg"/> | EuronewsItalian.fr |
 | 4110 | FailArmy       | [>](https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WupT16d.jpg"/> |
 | 4116 | The Pet Collective | [>](https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/daTU44g.jpeg"/> |
 | 4119 | Canale Europa  | [>](https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Zw2ZIfz.jpg"/> |
 | 4122 | People Are Awesome | [>](https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xwz9zKk.jpeg"/> |
 | 4131 | Yamato Animation | [>](https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rOl7HfS.png"/> |
 | 4160 | BBC Doctor Who | [>](https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J2B9FjO.jpg"/> |
-| 4163 | BBC Drama | [>](https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hY1M4hL.jpg"/> |
+| 4163 | BBC Drama | [>](https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hY1M4hL.jpg"/> |
 | 4169 | Televisa Telenovelas | [>](https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/GaJIRN3.jpg"/> |
 | 4216 | Humanity Documentari | [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4gwdyar.png"/> |
 | 4405 | The Boat Show | [>](https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8) | <img height="20" src="https://i.imgur.com/cPTLian.png"/> |
@@ -47,11 +47,11 @@
 | 4516 | Italian Fishing TV | [>](https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Q0jHCdC.png"/> | ItalianFishingTV.it |
 | 4563 | FUEL TV        | [>](https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4Lzo6M4.png"/> | FuelTV.us |
 | 4610 | Teletubbies    | [>](https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tSw1oON.jpeg"/> |
-| 4613 | duckTV         | [>](https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BKoAJZV.jpeg"/> |
+| 4613 | duckTV         | [>](https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BKoAJZV.jpeg"/> |
 | 4619 | SuperToons TV  | [>](https://kedoo-supertoonstv-4-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A6vCYsC.png"/> |
 | 4622 | Planeta Junior | [>](https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/F71WMja.jpg"/> |
 | 4628 | MONDO TV KIDS  | [>](https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DMqKFIM.png"/> |
-| 4710 | Vevo Pop | [>](https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8) | <img height="20" src="https://i.imgur.com/DPqMpQC.png"/> |
+| 4710 | Vevo Pop | [>](https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DPqMpQC.png"/> |
 | 4716 | Radio Italia Trend | [>](https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ecpfn3e.png"/> | RadioItaliaTrendTV.it |
 | 4725 | Clubbing TV | [>](https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/D1IuAqu.jpg"/> |
 | 4728 | Deluxe Lounge HD | [>](https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8) | <img height="20" src="https://i.imgur.com/LzIsXym.png"/> |
