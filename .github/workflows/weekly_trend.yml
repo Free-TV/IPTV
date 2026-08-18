@@ -82,5 +82,11 @@ jobs:
           git config user.name "PlaylistBot"
           git config user.email "playlistbot@users.noreply.github.com"
           git add .github/checker-history/failed.txt
-          git diff --staged --quiet || git commit -m "Weekly checker snapshot ($(date -u +%Y-%m-%d))"
-          git diff --quiet HEAD @{u} 2>/dev/null || git push
+          git diff --staged --quiet && exit 0
+          git commit -m "Weekly checker snapshot ($(date -u +%Y-%m-%d))"
+          for i in 1 2 3 4 5; do
+            git fetch origin master
+            git rebase origin/master && git push && break
+            echo "Push attempt $i failed, retrying..."
+            sleep 5
+          done
