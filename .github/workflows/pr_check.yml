@@ -1,0 +1,90 @@
+name: Check channels changed in PR
+
+on:
+  pull_request:
+    paths:
+      - 'lists/**.md'
+
+jobs:
+  check-pr-channels:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "20.10.x"
+
+      - name: Extract added/changed channel links from the PR diff
+        run: |
+          git fetch origin "${{ github.event.pull_request.base.sha }}" --depth=1 || true
+          python3 - "${{ github.event.pull_request.base.sha }}" <<'PYEOF'
+          import re, subprocess, sys
+
+          base = sys.argv[1]
+          diff = subprocess.run(
+              ["git", "diff", "--unified=0", base, "HEAD", "--", "lists/*.md"],
+              capture_output=True, text=True
+          ).stdout
+
+          rows = []
+          for line in diff.splitlines():
+              if not line.startswith('+') or line.startswith('+++'):
+                  continue
+              content = line[1:]
+              m = re.search(r'\|\s*([^|]+?)\s*\|\s*\[(?:>|x)\]\(([^)]*)\)', content)
+              if m:
+                  name = m.group(1).strip() or "Unnamed channel"
+                  url = m.group(2).strip()
+                  if url.startswith('http'):
+                      rows.append((name, url))
+
+          with open('pr_test.m3u8', 'w') as f:
+              f.write('#EXTM3U\n')
+              for name, url in rows:
+                  f.write(f'#EXTINF:-1,{name}\n{url}\n')
+
+          print(f'Found {len(rows)} channel link(s) added or changed in this PR.')
+          PYEOF
+
+      - name: Check the PR's changed links
+        if: success()
+        run: |
+          if [ ! -s pr_test.m3u8 ] || [ "$(grep -c '^#EXTINF' pr_test.m3u8 || true)" = "0" ]; then
+            {
+              echo "## PR channel check"
+              echo ""
+              echo "No new or modified stream links (\`[>](...)\` / \`[x](...)\`) were found in this PR's diff — nothing to check."
+            } >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          npm install -g iptv-checker || true
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          mkdir -p pr_output
+          iptv-checker -o pr_output -p 20 -t 20000 -r 1 ./pr_test.m3u8 || true
+
+          total=$(grep -c '^#EXTINF' pr_test.m3u8 || echo 0)
+          online=$(grep -c '^#EXTINF' pr_output/online.m3u 2>/dev/null || echo 0)
+          failed=$(grep -c '^#EXTINF' pr_output/failed.m3u 2>/dev/null || echo 0)
+
+          {
+            echo "## PR channel check"
+            echo ""
+            echo "Checked $total link(s) added or changed by this PR:"
+            echo "- ✅ Online: $online"
+            echo "- ❌ Failed: $failed"
+            if [ "$failed" -gt 0 ]; then
+              echo ""
+              echo "### Failed links"
+              echo '```'
+              grep '^#EXTINF\|^http' pr_output/failed.m3u
+              echo '```'
+              echo ""
+              echo "_A failed check here doesn't automatically mean the PR is wrong — some channels are geo-blocked and only work from within their own country, which this CI runner isn't. Use your judgment._"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

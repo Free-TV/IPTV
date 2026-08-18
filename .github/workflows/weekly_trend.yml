@@ -1,0 +1,86 @@
+name: Weekly channel health trend
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # every Monday 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  trend:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "20.10.x"
+
+      - name: Install IPTV Checker
+        run: |
+          npm install -g iptv-checker || true
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Run checker against the full playlist
+        run: |
+          mkdir -p output
+          iptv-checker -o output -p 100 -t 120000 ./playlist.m3u8 || true
+
+      - name: Compare against last week's snapshot and update it
+        run: |
+          mkdir -p .github/checker-history
+          today=$(date -u +%Y-%m-%d)
+          prev_file=".github/checker-history/failed.txt"
+          curr_file=".github/checker-history/failed-current.txt"
+
+          grep '^http' output/failed.m3u 2>/dev/null | sort -u > "$curr_file" || touch "$curr_file"
+
+          online=$(grep -c '^#EXTINF' output/online.m3u 2>/dev/null || echo 0)
+          failed=$(grep -c '^#EXTINF' output/failed.m3u 2>/dev/null || echo 0)
+
+          {
+            echo "## Weekly channel health trend — $today"
+            echo ""
+            echo "- Online: $online"
+            echo "- Failed: $failed"
+            echo ""
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          if [ -s "$prev_file" ]; then
+            newly_failed=$(comm -13 "$prev_file" "$curr_file")
+            newly_fixed=$(comm -23 "$prev_file" "$curr_file")
+            nf_count=$(printf '%s\n' "$newly_failed" | grep -c . || true)
+            nx_count=$(printf '%s\n' "$newly_fixed" | grep -c . || true)
+            {
+              echo "### Changes since last snapshot"
+              echo "- Newly broken: $nf_count"
+              echo "- Recovered / fixed since then: $nx_count"
+              if [ "$nf_count" -gt 0 ]; then
+                echo ""
+                echo "**Newly broken URLs:**"
+                echo '```'
+                printf '%s\n' "$newly_failed"
+                echo '```'
+              fi
+              if [ "$nx_count" -gt 0 ]; then
+                echo ""
+                echo "**Recovered URLs (were failing, now online):**"
+                echo '```'
+                printf '%s\n' "$newly_fixed"
+                echo '```'
+              fi
+            } >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "_(no previous snapshot — this is the first run, nothing to compare against yet)_" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+          mv "$curr_file" "$prev_file"
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name "PlaylistBot"
+          git config user.email "playlistbot@users.noreply.github.com"
+          git add .github/checker-history/failed.txt
+          git diff --staged --quiet || git commit -m "Weekly checker snapshot ($(date -u +%Y-%m-%d))"
+          git diff --quiet HEAD @{u} 2>/dev/null || git push
