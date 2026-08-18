@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | RTL Klub       | [>](http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ruRshE1.png" /> | RTLKlub.hu |
 | 2   | TV2            | [>](http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" /> | TV2.hu |
-| 3   | ATV Ⓨ          | [>](https://www.youtube.com/@ATVmagyarorszag/live) | <img height="20" src="https://onlinestream.live/logos/4739.png" /> | ATV.hu |
+| 3   | ATV            | [>](http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://onlinestream.live/logos/4739.png" /> | ATV.hu |
 | 4   | Hír TV         | [x](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://onlinestream.live/logos/4740.png" /> | HirTV.hu |
 | 5   | Spektrum Home  | [>](http://88.212.15.19/live/spektrum_home_hun/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" /> | SpektrumHome.hu |
 | 6   | Fix TV Ⓨ       | [>](https://www.youtube.com/@fixhdtv/live) | <img height="20" src="https://onlinestream.live/logos/1833.png" /> |
