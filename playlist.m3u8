@@ -2299,6 +2299,32 @@ https://straume.vdtv.lv/vdtv2/index.m3u8
 https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="LTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/768px-LTV7_Logo_2021.svg.png" tvg-id="LTV7.lv" tvg-chno="2" tvg-country="LV" group-title="Latvia",LTV7 Ⓖ
 https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="MTV Lebanon" tvg-logo="" tvg-id="MTV.lb" tvg-chno="1" group-title="Lebanon",MTV Lebanon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+#EXTINF:-1 tvg-name="Tele Liban" tvg-logo="" tvg-id="TeleLiban.lb" tvg-chno="2" group-title="Lebanon",Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Manar" tvg-logo="" tvg-id="AlManar.lb" tvg-chno="3" group-title="Lebanon",Al Manar
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-name="Al Mayadeen" tvg-logo="" tvg-id="AlMayadeenTV.lb" tvg-chno="4" group-title="Lebanon",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Voice of Lebanon" tvg-logo="" tvg-id="VoiceofLebanon.lb" tvg-chno="5" group-title="Lebanon",Voice of Lebanon
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NourSAT" tvg-logo="" tvg-id="Noursat.lb" tvg-chno="6" group-title="Lebanon",NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Noursat English" tvg-logo="" tvg-id="NoursatEnglish.lb" tvg-chno="7" group-title="Lebanon",Noursat English
+https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Nour Al Koddas" tvg-logo="" tvg-id="NourAlKoddass.lb" tvg-chno="8" group-title="Lebanon",Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Nour Al Sharq" tvg-logo="" tvg-id="NourAlSharq.lb" tvg-chno="9" group-title="Lebanon",Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Aliman TV" tvg-logo="" tvg-id="AlImanTV.lb" tvg-chno="10" group-title="Lebanon",Aliman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Al Ittihad" tvg-logo="" tvg-id="AlIttihadTV.lb" tvg-chno="11" group-title="Lebanon",Al Ittihad
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+#EXTINF:-1 tvg-name="CharityTV" tvg-logo="" tvg-id="CharityTV.lb" tvg-chno="12" group-title="Lebanon",CharityTV
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1 tvg-name="Falestinona Channel" tvg-logo="" tvg-id="FalestinonaChannel.lb" tvg-chno="13" group-title="Lebanon",Falestinona Channel
+https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="LRT TV" tvg-logo="https://i.imgur.com/FL2ZuGC.png" tvg-id="LRTTV.lt" tvg-chno="1" tvg-country="LT" group-title="Lithuania",LRT TV
 http://stream.mcquack.net/31/index.m3u8
 #EXTINF:-1 tvg-name="LRT Lituanica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/640px-LRT_Lituanica_Logo_2022.svg.png" tvg-id="LRTLituanica.lt" tvg-chno="3" tvg-country="LT" group-title="Lithuania",LRT Lituanica
