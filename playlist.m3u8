@@ -1057,8 +1057,6 @@ http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-name="Spektrum Home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" tvg-id="SpektrumHome.hu" tvg-chno="5" tvg-country="HU" group-title="Hungary",Spektrum Home
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
-#EXTINF:-1 tvg-name="Fix TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kGNMkymw1X1Qr3gb8WMnrnpv5I7e05LKqIpMOto_UYfF8=s900-c-k-c0x00ffffff-no-rj" tvg-chno="6" tvg-country="HU" group-title="Hungary",Fix TV Ⓨ
-https://www.youtube.com/@fixhdtv/live
 #EXTINF:-1 tvg-name="ErdélyTV" tvg-logo="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" tvg-chno="7" tvg-country="HU" group-title="Hungary",ErdélyTV Ⓨ
 https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
 #EXTINF:-1 tvg-name="FEM3 (TV2 Klub)" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" tvg-id="FEM3.hu" tvg-chno="8" tvg-country="HU" group-title="Hungary",FEM3 (TV2 Klub)
