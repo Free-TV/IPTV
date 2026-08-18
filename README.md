@@ -73,6 +73,7 @@ Either free locally (over the air):
 [<img src="https://hatscripts.github.io/circle-flags/flags/ir.svg" width="24">](lists/iran.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/iq.svg" width="24">](lists/iraq.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/il.svg" width="24">](lists/israel.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/lb.svg" width="24">](lists/lebanon.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/qa.svg" width="24">](lists/qatar.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/sa.svg" width="24">](lists/saudi_arabia.md)
 [<img src="https://hatscripts.github.io/circle-flags/flags/tr.svg" width="24">](lists/turkey.md)
