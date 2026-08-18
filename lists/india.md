@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 25  | News18 Kannada Ⓨ | [>](https://www.youtube.com/@News18Kannada/live) | <img height="20" src="https://i.imgur.com/CQUGLoK.png" /> | News18.com |
 | 26  | News18 Telugu Ⓨ | [>](https://www.youtube.com/@News18Telugu/live) | <img height="20" src="https://i.imgur.com/NsieorM.jpeg" /> | News18.com |
 | 27  | News18 Marathi Ⓨ | [>](https://www.youtube.com/@News18Marathi/live) | <img height="20" src="https://i.imgur.com/orxCvCa.png" /> | News18.com |
-| 28  | WION Ⓨ | [>](https://www.youtube.com/@WION) | <img height="20" src="https://i.imgur.com/E8MCz6e.png" /> | wionews.com |
+| 28  | WION Ⓨ | [>](https://www.youtube.com/@WION/live) | <img height="20" src="https://i.imgur.com/E8MCz6e.png" /> | wionews.com |
 
 <h2>Invalid</h2>
 
