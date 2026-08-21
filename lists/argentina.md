@@ -15,9 +15,11 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 | 22.5 | Tec TV         | [>](https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8) | <img height="20" src="https://i.imgur.com/EGCq1wc.png"/> | TECTV.ar |
 | 23.1 | Televisión Pública Ⓨ | [>](https://www.youtube.com/user/TVPublicaArgentina/live) | <img height="20" src="https://i.imgur.com/4hYYpiu.png"/> | TVPublica.ar |
 | 24.1 | DeporTV        | [>](https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/iyYLNRt.png"/> | DeporTV.ar |
-| 24.2 | Canal 26 Ⓨ       | [>](https://www.youtube.com/c/canal26/live) | <img height="20" src="https://i.imgur.com/xDjOUuz.png"/> | Canal26.ar |
+| 24.2 | Canal 26       | [>] 
+(https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+) | <img height="20" src="https://i.imgur.com/5pAaVih.png"/> | Canal26.ar |
 | 24.4 | Crónica TV Ⓨ   | [>](https://www.youtube.com/c/cronicatv/live) | <img height="20" src="https://i.imgur.com/k2Ku8Ib.png"/> | CronicaTV.ar |
-|24.5 | IP Noticias Ⓨ | [>](https://www.youtube.com/c/IPNoticiasEnVivo/live)| <img height="20" src="https://photos.live-tv-channels.org/tv-logo/ar-ip-noticias-6980-300x225.jpg" />|IPNoticias.ar|
+|24.5 | Argentina 12 Ⓨ | [>](https://www.youtube.com/c/IPNoticiasEnVivo/live)| <img height="20" src="https://i.imgur.com/atGKPhi.png" />|Argentina13.ar|
 |24.6| El Destape Ⓨ|[>](https://www.youtube.com/c/eldestapetv/live)|<img height="20" src="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no"/>|ElDestape.ar|
 | 25.2 | C5N Ⓨ          | [>](https://www.youtube.com/c/c5n/live) | <img height="20" src="https://i.imgur.com/E3pamA5.png"/> | C5N.ar |
 | 25.3 | LN+ Ⓨ          | [>](https://www.youtube.com/c/LaNacionMas/live) | <img height="20" src="https://i.imgur.com/vJYzGt1.png"/> | LaNacionPlus.ar |
@@ -34,10 +36,10 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 |32.1 | Barricada TV|[>](https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live)| <img height="20" src="https://www.barricadatv.org/?p=23082"/>|BarricadaTV.ar|
 |32.2 | Urbana Tevé | [>](https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live)|<img height="20" src="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj" />| UrbanaTeve.ar|
 |32.3 | Comarca TV | [>](https://www.youtube.com/c/ComarcaTV/live)|<img height="20" src="http://directostv.teleame.com/wp-content/uploads/2020/10/Comarca-TV-en-vivo-Online.png" />|ComarcaTV.ar|
-| 33.1 | El Trece       | [>](https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8) | <img height="20" src="https://i.imgur.com/ZK7AQFg.png"/> | ElTrece.ar |
-| 35.1 | El Nueve       | [>](http://15.204.246.24:8080/elnueveHD/index.m3u8) | <img height="20" src="https://i.imgur.com/EtcVSm4.png"/> | ElNueve.ar |
+| 33.1 | El Trece       | [>](https://livetrx01.vodgc.net/eltrecetv/index.m3u8) | <img height="20" src="https://i.imgur.com/ZK7AQFg.png"/> | ElTrece.ar |
+| 35.1 | El Nueve       | [>](http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8) | <img height="20" src="https://i.imgur.com/EtcVSm4.png"/> | ElNueve.ar |
 | 34.1 | Telefe Ⓨ       | [>](https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8) | <img height="20" src="https://i.imgur.com/wrZfMXn.png"/> | Telefe.ar |
-| 36.1 | América Ⓨ      | [>](https://www.youtube.com/c/americaenvivo/live) | <img height="20" src="https://i.imgur.com/Jt7dOQm.png"/> | AmericaTV.ar |
+| 36.1 | América      | [>](https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8) | <img height="20" src="https://i.imgur.com/Jt7dOQm.png"/> | AmericaTV.ar |
 | 36.2 | A24 Ⓨ          | [>](https://www.youtube.com/c/A24com/live) | <img height="20" src="https://i.imgur.com/OdhF7ym.png"/> | A24.ar |
 <h2>Invalid</h2>
 
