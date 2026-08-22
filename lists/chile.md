@@ -5,7 +5,7 @@
 | 1  | UCV Televisión | [>](https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2VL4Pts.png"/> | UCVTV.cl |
 | 2  | TVN Ⓖ | [>](https://iptv2.intersurtv.cl/TVN/index.m3u8) | <img height="20" src="https://i.imgur.com/WoN1dai.png"/> | TVN.cl |
 | 3  | 24 horas | [>](https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8) | <img height="20" src="https://i.imgur.com/0rF6Kub.png"/> | 24Horas.cl |
-| 4  | NTV Ⓖ | [>](https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8) | <img height="20" src="https://i.imgur.com/pt2Kj1A.png"/> | NTV.cl |
+| 4  | NTV Ⓖ | [>](https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8) | <img height="20" src="https://i.imgur.com/pt2Kj1A.png"/> | NTV.cl |
 | 5  | TV Chile Ⓖ | [>](https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8) | <img height="20" src="https://i.imgur.com/yCL888l.png"/> | TVChile.cl |
 | 6  | Canal 13 | [>](https://redirector.dps.live/hls/13cl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JIo1HBs.png"/> | Canal13.cl |
 | 7  | TV+ | [>](https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/NtuZIEJ.png"/> | TVPlus.cl |
