@@ -21,7 +21,7 @@ https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
 https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
 #EXTINF:-1 tvg-name="CPAC (EN)" tvg-logo="https://i.imgur.com/AbdFD0S.png" tvg-id="CPACEnglish.ca" tvg-chno="30" tvg-country="CA" group-title="Canada",CPAC (EN)
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" tvg-chno="1" tvg-country="CA" group-title="Canada",ICI RDI
+#EXTINF:-1 tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/500px-ICI_RDI_logo.svg.png" tvg-id="IciRDI.ca" tvg-chno="1" tvg-country="CA" group-title="Canada",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-name="ICI Télé HD" tvg-logo="https://i.imgur.com/HsSi3NV.png" tvg-chno="2" tvg-country="CA" group-title="Canada",ICI Télé HD Ⓖ
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8

@@ -7,7 +7,7 @@ https://lcp.fr/le-live-lcp-tnt-5433
 https://www.publicsenat.fr/direct
 #EXTINF:-1 tvg-name="CNews" tvg-logo="https://i.imgur.com/UMRGAHx.png" tvg-id="CNews.fr" tvg-chno="16" tvg-country="FR" group-title="France",CNews Ⓓ
 https://www.dailymotion.com/video/x3b68jn
-#EXTINF:-1 tvg-name="franceinfo:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/640px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" tvg-chno="27" tvg-country="FR" group-title="France",franceinfo: Ⓨ
+#EXTINF:-1 tvg-name="franceinfo:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/500px-Franceinfo.svg.png" tvg-id="Franceinfo.fr" tvg-chno="27" tvg-country="FR" group-title="France",franceinfo: Ⓨ
 https://www.youtube.com/c/franceinfo/live
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24French.fr" tvg-chno="28" tvg-country="FR" group-title="France",France 24 Ⓨ
 https://www.youtube.com/c/FRANCE24/live
@@ -15,7 +15,7 @@ https://www.youtube.com/c/FRANCE24/live
 https://www.youtube.com/euronewsfr/live
 #EXTINF:-1 tvg-name="Africanews" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" tvg-chno="33" tvg-country="FR" group-title="France",Africanews Ⓨ
 https://www.youtube.com/c/Africanewsfr/live
-#EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" tvg-chno="21" tvg-country="FR" group-title="France",L'Équipe ⒹⒼ
+#EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/500px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" tvg-chno="21" tvg-country="FR" group-title="France",L'Équipe ⒹⒼ
 https://www.dailymotion.com/video/x2lefik
 #EXTINF:-1 tvg-name="France Inter" tvg-logo="https://i.imgur.com/d9Ncl8m.png" tvg-id="FranceInter.fr" tvg-chno="32" tvg-country="FR" group-title="France",France Inter Ⓨ
 https://www.youtube.com/c/FranceInter/live
@@ -27,7 +27,7 @@ http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-name="Handicap TV" tvg-logo="" tvg-id="HandicapTV.fr" tvg-chno="-" tvg-country="FR" group-title="France",Handicap TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
-#EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png" tvg-id="TF1.fr" tvg-chno="1" tvg-country="FR" group-title="France",TF1
+#EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/500px-TF1_%282013%29.svg.png" tvg-id="TF1.fr" tvg-chno="1" tvg-country="FR" group-title="France",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/899px-France_3_2018.svg.png" tvg-id="France3.fr" tvg-chno="3" tvg-country="FR" group-title="France",France 3
 http://89.187.185.76:8080/France3/index.m3u8
@@ -37,7 +37,7 @@ http://176.65.146.100:8047/play/a074/index.m3u8
 http://145.239.5.177/305/index.m3u8
 #EXTINF:-1 tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/500px-TMC_logo_2016.svg.png" tvg-id="TMC.fr" tvg-chno="10" tvg-country="FR" group-title="France",TMC
 http://151.80.18.177:86/TMC/index.m3u8
-#EXTINF:-1 tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/640px-TFX_logo_2018.svg.png" tvg-id="TFX.fr" tvg-chno="11" tvg-country="FR" group-title="France",TFX
+#EXTINF:-1 tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/500px-TFX_logo_2018.svg.png" tvg-id="TFX.fr" tvg-chno="11" tvg-country="FR" group-title="France",TFX
 http://145.239.5.177/315/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-id="TV5MondeInfo.fr" tvg-chno="29" tvg-country="FR" group-title="France",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
@@ -59,7 +59,7 @@ http://99.27.51.147:8080/M6/index.m3u8
 http://145.239.5.177/331a/index.m3u8
 #EXTINF:-1 tvg-name="CStar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/80px-Logo_projet_CStar.svg.png" tvg-id="CStar.fr" tvg-chno="17" tvg-country="FR" group-title="France",CStar
 http://145.239.5.177/361/index.m3u8
-#EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" tvg-chno="21" tvg-country="FR" group-title="France",L'Équipe Ⓨ
+#EXTINF:-1 tvg-name="L'Équipe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/500px-L%27%C3%89quipe_wordmark.svg.png" tvg-id="LEquipe.fr" tvg-chno="21" tvg-country="FR" group-title="France",L'Équipe Ⓨ
 https://www.youtube.com/@lequipe/live
 #EXTINF:-1 tvg-name="RMC Life (ex-Chérie 25)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/51px-Ch%C3%A9rie_25_logo_2015.svg.png" tvg-id="RMCLife.fr" tvg-chno="25" tvg-country="FR" group-title="France",RMC Life (ex-Chérie 25)
 http://145.239.5.177/333/index.m3u8

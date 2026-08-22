@@ -773,7 +773,7 @@ https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 https://www.youtube.com/radiocolonna/live
 #EXTINF:-1 tvg-name="TRM h24" tvg-logo="https://i.imgur.com/d47CdYU.png" tvg-id="TRMh24.it" tvg-chno="519" tvg-country="IT" group-title="Italy",TRM h24 Ⓨ
 https://www.youtube.com/user/trmh24/live
-#EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsItalian.fr" tvg-chno="59" tvg-country="IT" group-title="Italy",Euronews Italian Ⓨ
+#EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png" tvg-id="EuronewsItalian.fr" tvg-chno="59" tvg-country="IT" group-title="Italy",Euronews Italian Ⓨ
 https://www.youtube.com/user/euronewsit/live
 #EXTINF:-1 tvg-name="Teleroma 56" tvg-logo="https://i.imgur.com/wGfpUj8.png" tvg-country="IT" group-title="Italy",Teleroma 56 Ⓣ
 https://www.twitch.tv/teleroma_56

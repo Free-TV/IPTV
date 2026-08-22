@@ -5,11 +5,11 @@ https://www.youtube.com/c/twctvnews/live
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-name="PTS (公視主頻)" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/PTS_Taiwan.svg/630px-PTS_Taiwan.svg.png" tvg-id="PTS.tw" tvg-chno="5" tvg-country="TW" group-title="Taiwan",PTS (公視主頻) Ⓨ
 https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live
-#EXTINF:-1 tvg-name="PTS Taigi (公視台語台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/640px-PTS_Taigi.svg.png" tvg-id="PTSTaigi.tw" tvg-chno="6" tvg-country="TW" group-title="Taiwan",PTS Taigi (公視台語台) Ⓨ Ⓖ
+#EXTINF:-1 tvg-name="PTS Taigi (公視台語台) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/500px-PTS_Taigi.svg.png" tvg-id="PTSTaigi.tw" tvg-chno="6" tvg-country="TW" group-title="Taiwan",PTS Taigi (公視台語台) Ⓨ Ⓖ
 https://www.youtube.com/watch?v=6KlRR_DGhmI
-#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/Taiwan_Plus_logo.svg/640px-Taiwan_Plus_logo.svg.png" tvg-id="TaiwanPlus.tv" tvg-chno="7" tvg-country="TW" group-title="Taiwan",TaiwanPlus Ⓨ
+#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/79/Taiwan_Plus_logo.svg/500px-Taiwan_Plus_logo.svg.png" tvg-id="TaiwanPlus.tv" tvg-chno="7" tvg-country="TW" group-title="Taiwan",TaiwanPlus Ⓨ
 https://www.youtube.com/watch?v=dZp87qnWelE
-#EXTINF:-1 tvg-name="民視無線台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/640px-FTV_HD_Logo.svg.png" tvg-id="FTV.tw" tvg-chno="8" tvg-country="TW" group-title="Taiwan",民視無線台
+#EXTINF:-1 tvg-name="民視無線台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/FTV_HD_Logo.svg/500px-FTV_HD_Logo.svg.png" tvg-id="FTV.tw" tvg-chno="8" tvg-country="TW" group-title="Taiwan",民視無線台
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-name="FTV One (民視第一台)" tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-id="FTVOne.tw" tvg-chno="9" tvg-country="TW" group-title="Taiwan",FTV One (民視第一台)
 http://seb.sason.top/ptv/ftv.php?id=dy

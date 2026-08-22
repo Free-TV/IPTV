@@ -3,7 +3,7 @@
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AZTV" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-id="AZTV.az" tvg-country="AZ" group-title="Azerbaijan",AZTV Ⓢ
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azerbaijan",Baku TV
+#EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azerbaijan",Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az" tvg-country="AZ" group-title="Azerbaijan",CBC Sport Ⓖ
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8

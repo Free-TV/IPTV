@@ -21,9 +21,9 @@ https://onic.dublin.live.stream.broadcasting.news/stream-q102
 https://stream.audioxi.com/CLASSIC
 #EXTINF:-1 tvg-name="Sunshine 106.8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sunshine_106.8_logo.png" tvg-id="sunshineradio.ie" tvg-chno="9" tvg-country="IE" group-title="Ireland",Sunshine 106.8
 https://live-bauerie.sharp-stream.com/SUN
-#EXTINF:-1 tvg-name="RTÉ One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/640px-RT%C3%89_One_2014.svg.png" tvg-id="RTEOne.ie" tvg-chno="1" tvg-country="IE" group-title="Ireland",RTÉ One
+#EXTINF:-1 tvg-name="RTÉ One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/500px-RT%C3%89_One_2014.svg.png" tvg-id="RTEOne.ie" tvg-chno="1" tvg-country="IE" group-title="Ireland",RTÉ One
 https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
-#EXTINF:-1 tvg-name="RTÉ2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png" tvg-id="RTE2.ie" tvg-chno="2" tvg-country="IE" group-title="Ireland",RTÉ2
+#EXTINF:-1 tvg-name="RTÉ2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/500px-RT%C3%892_logo.svg.png" tvg-id="RTE2.ie" tvg-chno="2" tvg-country="IE" group-title="Ireland",RTÉ2
 https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
 #EXTINF:-1 tvg-name="Virgin Media 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/1024px-Virgin_Media_One_logo_2018.svg.png" tvg-id="VirginMediaOne.ie" tvg-chno="3" tvg-country="IE" group-title="Ireland",Virgin Media 1
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8

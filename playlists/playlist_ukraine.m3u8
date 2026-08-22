@@ -3,7 +3,7 @@
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-name="1+1 Ukraina" tvg-logo="https://i.imgur.com/FlG7npq.png" tvg-id="1Plus1Ukraina.ua" tvg-chno="2" tvg-country="UA" group-title="Ukraine",1+1 Ukraina Ⓢ
 http://stream.mcquack.net/219/index.m3u8
-#EXTINF:-1 tvg-name="Suspilne Kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png" tvg-id="SuspilneKultura.ua" tvg-chno="4" tvg-country="UA" group-title="Ukraine",Suspilne Kultura
+#EXTINF:-1 tvg-name="Suspilne Kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/500px-Suspilne_Kultura_%282022%29.svg.png" tvg-id="SuspilneKultura.ua" tvg-chno="4" tvg-country="UA" group-title="Ukraine",Suspilne Kultura
 http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-id="SuspilneSport.ua" tvg-chno="5" tvg-country="UA" group-title="Ukraine",Suspilne Sport
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
@@ -13,23 +13,23 @@ http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 #EXTINF:-1 tvg-name="Inter" tvg-logo="https://i.imgur.com/R06gbuT.png" tvg-id="Inter.ua" tvg-chno="8" tvg-country="UA" group-title="Ukraine",Inter
 http://stream.mcquack.net/174/index.m3u8
-#EXTINF:-1 tvg-name="Армія ТБ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ArmyTV_logo_%282023%29.svg/640px-ArmyTV_logo_%282023%29.svg.png" tvg-id="ArmyTV.ua" tvg-chno="11" tvg-country="UA" group-title="Ukraine",Армія ТБ
+#EXTINF:-1 tvg-name="Армія ТБ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ArmyTV_logo_%282023%29.svg/500px-ArmyTV_logo_%282023%29.svg.png" tvg-id="ArmyTV.ua" tvg-chno="11" tvg-country="UA" group-title="Ukraine",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-name="Novyi Kanal" tvg-logo="https://i.imgur.com/4JhqpPM.png" tvg-id="NovyKanal.ua" tvg-chno="12" tvg-country="UA" group-title="Ukraine",Novyi Kanal
 http://stream.mcquack.net/157/index.m3u8
-#EXTINF:-1 tvg-name="TET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/640px-TET_logo.svg.png" tvg-id="TET.ua" tvg-chno="13" tvg-country="UA" group-title="Ukraine",TET Ⓢ
+#EXTINF:-1 tvg-name="TET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/500px-TET_logo.svg.png" tvg-id="TET.ua" tvg-chno="13" tvg-country="UA" group-title="Ukraine",TET Ⓢ
 http://stream.mcquack.net/338/index.m3u8
-#EXTINF:-1 tvg-name="2+2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/640px-2%2B2_logo_2017.svg.png" tvg-id="2Plus2.ua" tvg-chno="14" tvg-country="UA" group-title="Ukraine",2+2 Ⓢ
+#EXTINF:-1 tvg-name="2+2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/500px-2%2B2_logo_2017.svg.png" tvg-id="2Plus2.ua" tvg-chno="14" tvg-country="UA" group-title="Ukraine",2+2 Ⓢ
 http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 tvg-name="M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/768px-M1_%28Ukraine%29_%282001-2021%29.svg.png" tvg-id="M1.ua" tvg-chno="15" tvg-country="UA" group-title="Ukraine",M1
 http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 tvg-name="M2" tvg-logo="https://i.imgur.com/AfcBWCg.png" tvg-id="M2.ua" tvg-chno="16" tvg-country="UA" group-title="Ukraine",M2
 http://stream.mcquack.net/330/index.m3u8
-#EXTINF:-1 tvg-name="NTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/640px-NTNUA_logo_%282013%29.svg.png" tvg-id="NTN.ua" tvg-chno="17" tvg-country="UA" group-title="Ukraine",NTN
+#EXTINF:-1 tvg-name="NTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/500px-NTNUA_logo_%282013%29.svg.png" tvg-id="NTN.ua" tvg-chno="17" tvg-country="UA" group-title="Ukraine",NTN
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Mega" tvg-logo="https://i.imgur.com/F1v69tn.png" tvg-id="Mega.ua" tvg-chno="18" tvg-country="UA" group-title="Ukraine",Mega
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:-1 tvg-name="ПлюсПлюс" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/640px-PLUSPLUSUA.svg.png" tvg-id="PlusPlus.ua" tvg-chno="19" tvg-country="UA" group-title="Ukraine",ПлюсПлюс Ⓢ
+#EXTINF:-1 tvg-name="ПлюсПлюс" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/500px-PLUSPLUSUA.svg.png" tvg-id="PlusPlus.ua" tvg-chno="19" tvg-country="UA" group-title="Ukraine",ПлюсПлюс Ⓢ
 http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1 tvg-name="K1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/655px-K1_Logo_2014.svg.png" tvg-id="K1.ua" tvg-chno="22" tvg-country="UA" group-title="Ukraine",K1
 http://stream.mcquack.net/270/index.m3u8
@@ -37,11 +37,11 @@ http://stream.mcquack.net/270/index.m3u8
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 #EXTINF:-1 tvg-name="Enter-Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/819px-Enter-FilmUA_%282013%29.png" tvg-id="EnterFilm.ua" tvg-chno="24" tvg-country="UA" group-title="Ukraine",Enter-Film
 http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 tvg-name="Піксель TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/PixelUalogo.svg/640px-PixelUalogo.svg.png" tvg-id="PixelTV.ua" tvg-chno="25" tvg-country="UA" group-title="Ukraine",Піксель TV
+#EXTINF:-1 tvg-name="Піксель TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/PixelUalogo.svg/500px-PixelUalogo.svg.png" tvg-id="PixelTV.ua" tvg-chno="25" tvg-country="UA" group-title="Ukraine",Піксель TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-name="5 Kanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/480px-Logo_5_Channel.svg.png" tvg-id="5Kanal.ua" tvg-chno="26" tvg-country="UA" group-title="Ukraine",5 Kanal
 http://stream.mcquack.net/291/index.m3u8
-#EXTINF:-1 tvg-name="Суспільне Київ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/640px-Suspilne_Kyiv_%282022%29.svg.png" tvg-id="SuspilneKyiv.ua" tvg-chno="1" tvg-country="UA" group-title="Ukraine",Суспільне Київ
+#EXTINF:-1 tvg-name="Суспільне Київ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/500px-Suspilne_Kyiv_%282022%29.svg.png" tvg-id="SuspilneKyiv.ua" tvg-chno="1" tvg-country="UA" group-title="Ukraine",Суспільне Київ
 https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
 #EXTINF:-1 tvg-name="Суспільне Дніпро" tvg-logo="https://i.imgur.com/nMHd9FK.png" tvg-id="SuspilneDnipro.ua" tvg-chno="2" tvg-country="UA" group-title="Ukraine",Суспільне Дніпро
 http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
