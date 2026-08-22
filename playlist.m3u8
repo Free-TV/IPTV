@@ -1188,17 +1188,27 @@ https://www.youtube.com/@AsianetSuvarnaNews/live
 #EXTINF:-1 tvg-name="Asianet News Telugu" tvg-logo="https://i.imgur.com/9wJvDMn.jpeg" tvg-id="Telugu.AsianetNews.com" tvg-chno="21" tvg-country="IN" group-title="India",Asianet News Telugu Ⓨ
 https://www.youtube.com/@AsianetNewsTelugu/live
 #EXTINF:-1 tvg-name="News18 India" tvg-logo="https://i.imgur.com/BR4BUAw.png" tvg-id="News18.com" tvg-chno="22" tvg-country="IN" group-title="India",News18 India Ⓨ
-https://www.youtube.com/@news18india/live
-#EXTINF:-1 tvg-name="CNN-News18" tvg-logo="https://i.imgur.com/K3M8MoK.png" tvg-id="News18.com" tvg-chno="23" tvg-country="IN" group-title="India",CNN-News18 Ⓨ
-https://www.youtube.com/@cnnnews18/live
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="CNN-News18" tvg-logo="https://i.imgur.com/K3M8MoK.png" tvg-id="News18.com" tvg-chno="23" tvg-country="IN" group-title="India",CNN-News18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="News18 UP Uttarakhand" tvg-logo="https://i.imgur.com/nKwoe8n.png" tvg-id="News18.com" tvg-chno="24" tvg-country="IN" group-title="India",News18 UP Uttarakhand Ⓨ
 https://www.youtube.com/@News18UPUttarakhand/live
-#EXTINF:-1 tvg-name="News18 Kannada" tvg-logo="https://i.imgur.com/CQUGLoK.png" tvg-id="News18.com" tvg-chno="25" tvg-country="IN" group-title="India",News18 Kannada Ⓨ
-https://www.youtube.com/@News18Kannada/live
+#EXTINF:-1 tvg-name="News18 Kannada" tvg-logo="https://i.imgur.com/CQUGLoK.png" tvg-id="News18.com" tvg-chno="25" tvg-country="IN" group-title="India",News18 Kannada
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="News18 Telugu" tvg-logo="https://i.imgur.com/NsieorM.jpeg" tvg-id="News18.com" tvg-chno="26" tvg-country="IN" group-title="India",News18 Telugu Ⓨ
 https://www.youtube.com/@News18Telugu/live
 #EXTINF:-1 tvg-name="News18 Marathi" tvg-logo="https://i.imgur.com/orxCvCa.png" tvg-id="News18.com" tvg-chno="27" tvg-country="IN" group-title="India",News18 Marathi Ⓨ
 https://www.youtube.com/@News18Marathi/live
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://i.imgur.com/E8MCz6e.png" tvg-id="wionews.com" tvg-chno="28" tvg-country="IN" group-title="India",WION Ⓨ
+https://www.youtube.com/@WION/live
+#EXTINF:-1 tvg-name="Mirror Now" tvg-logo="https://i.imgur.com/R4rxBNu.jpeg" tvg-id="timesnownews.com" tvg-chno="29" tvg-country="IN" group-title="India",Mirror Now Ⓨ
+https://www.youtube.com/@mirrornow/live
+#EXTINF:-1 tvg-name="ZEE News" tvg-logo="https://i.imgur.com/lmgtjqw.jpeg" tvg-id="zeenews.india.com" tvg-chno="30" tvg-country="IN" group-title="India",ZEE News Ⓨ
+https://www.youtube.com/@ZEENews/live
+#EXTINF:-1 tvg-name="News24" tvg-logo="https://i.imgur.com/N5BbEek.jpeg" tvg-id="news24online.com" tvg-chno="31" tvg-country="IN" group-title="India",News24 Ⓨ
+https://www.youtube.com/@News24thinkfirst/live
+#EXTINF:-1 tvg-name="Good News Today" tvg-logo="https://i.imgur.com/vbSR4cA.png" tvg-id="gnttv.com" tvg-chno="32" tvg-country="IN" group-title="India",Good News Today Ⓨ
+https://www.youtube.com/@GoodNewsTodayOfficial/live
 #EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://imgur.com/ie2zSTY" tvg-id="CNBCIndonesia.am" tvg-chno="1" tvg-country="ID" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://imgur.com/MpxTMiP" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
