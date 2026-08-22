@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 (https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 ) | <img height="20" src="https://i.imgur.com/5pAaVih.png"/> | Canal26.ar |
 | 24.4 | Crónica TV Ⓨ   | [>](https://www.youtube.com/c/cronicatv/live) | <img height="20" src="https://i.imgur.com/k2Ku8Ib.png"/> | CronicaTV.ar |
-|24.5 | Argentina 12 Ⓨ | [>](https://www.youtube.com/c/IPNoticiasEnVivo/live)| <img height="20" src="https://i.imgur.com/atGKPhi.png" />|Argentina13.ar|
+|24.5 | Argentina 12 Ⓨ | [>](https://www.youtube.com/c/IPNoticiasEnVivo/live)| <img height="20" src="https://i.imgur.com/atGKPhi.png" />|Argentina12.ar|
 |24.6| El Destape Ⓨ|[>](https://www.youtube.com/c/eldestapetv/live)|<img height="20" src="https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no"/>|ElDestape.ar|
 | 25.2 | C5N Ⓨ          | [>](https://www.youtube.com/c/c5n/live) | <img height="20" src="https://i.imgur.com/E3pamA5.png"/> | C5N.ar |
 | 25.3 | LN+ Ⓨ          | [>](https://www.youtube.com/c/LaNacionMas/live) | <img height="20" src="https://i.imgur.com/vJYzGt1.png"/> | LaNacionPlus.ar |
