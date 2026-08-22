@@ -22,7 +22,7 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 | 18 | Osječka televizija (OSTV) Ⓢ | [>](https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8) | <img height="20" src="https://i.imgur.com/o9JgEyG.png"/> | OSTV.hr |
 | 21 | SBTV | [>](https://live.leveex.hr/hls/live.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/480px-SBTV_Logo.svg.png"/> | SBTV.hr |
 | 22 | Plava TV | [x]() | <img height="20" src="https://i.imgur.com/kJjcNlG.jpg"/> | PlavaTV.hr |
-| 27 | VTV Televizija | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/VTV_televizija_Logo.svg/640px-VTV_televizija_Logo.svg.png"/> | VTV.hr |
+| 27 | VTV Televizija | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/VTV_televizija_Logo.svg/500px-VTV_televizija_Logo.svg.png"/> | VTV.hr |
 | 31 | OTV | [>](https://stream.agatin.hr:3559/live/otvlive.m3u8) | <img height="20" src="https://i.imgur.com/67zVdu2.png"/> | OTV.hr |
 | 32 | Mreža TV | [x]() | <img height="20" src="https://i.imgur.com/IdvKUp9.png"/> | MrezaTV.hr |
 | 33 | Z1 Ⓨ | [>](https://www.youtube.com/@z1televizija/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png"/> | Z1.hr |

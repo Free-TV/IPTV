@@ -38,7 +38,7 @@
 
 | #   | Channel      | Link   | Logo | EPG id |
 |:---:|:------------:|:------:|:----:|:------:|
-| 1   | ICI RDI      | [>](https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png"/> | IciRDI.ca |
+| 1   | ICI RDI      | [>](https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/500px-ICI_RDI_logo.svg.png"/> | IciRDI.ca |
 | 2   | ICI Télé HD Ⓖ | [>](https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8) | <img height="20" src="https://i.imgur.com/HsSi3NV.png"/> |
 | 3   | TVA Ⓖ       | [>](https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8) | <img height="20" src="https://i.imgur.com/1GR8Szn.png"/> |
 | 4   | Noovo        | [>](https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd) | <img height="20" src="https://i.imgur.com/BL9ziSJ.png"/> |

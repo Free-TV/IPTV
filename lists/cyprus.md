@@ -4,10 +4,10 @@
 
 | #   | Channel           | Link  | Logo | EPG id |
 |:---:|:-----------------:|:-----:|:----:|:------:|
-| 1   | RIK 1 Ⓢ | [>](http://213.7.216.229:8888/udp/239.23.0.1:1234) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/640px-Logo_RIK_1_2017.svg.png"/> | RIK1.cy |
-| 2   | RIK 2 Ⓢ | [>](http://213.7.216.229:8888/udp/239.23.0.2:1234) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/640px-Logo_RIK_2_2017.svg.png"/> | RIK2.cy |
+| 1   | RIK 1 Ⓢ | [>](http://213.7.216.229:8888/udp/239.23.0.1:1234) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/500px-Logo_RIK_1_2017.svg.png"/> | RIK1.cy |
+| 2   | RIK 2 Ⓢ | [>](http://213.7.216.229:8888/udp/239.23.0.2:1234) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/500px-Logo_RIK_2_2017.svg.png"/> | RIK2.cy |
 | 3   | RIK HD | [>](http://213.7.216.229:8888/udp/239.23.0.5:1234) | <img height="20" src="https://upload.wikimedia.org/wikipedia/el/7/7d/RIKHD2.png"/> | RIKHD.cy |
-| 4   | RIK Sat | [>](https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/640px-Logo_RIK_Sat_2017.svg.png"/> | RIKSat.cy |
+| 4   | RIK Sat | [>](https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/500px-Logo_RIK_Sat_2017.svg.png"/> | RIKSat.cy |
 
 <h2>Northern Cyprus</h2>
 

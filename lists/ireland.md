@@ -28,8 +28,8 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | RTÉ One | [>](https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/640px-RT%C3%89_One_2014.svg.png"/> | RTEOne.ie |
-| 2   | RTÉ2 | [>](https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/640px-RT%C3%892_logo.svg.png"/> | RTE2.ie |
+| 1   | RTÉ One | [>](https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/500px-RT%C3%89_One_2014.svg.png"/> | RTEOne.ie |
+| 2   | RTÉ2 | [>](https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/500px-RT%C3%892_logo.svg.png"/> | RTE2.ie |
 | 3   | Virgin Media 1 | [>](https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/1024px-Virgin_Media_One_logo_2018.svg.png"/> | VirginMediaOne.ie |
 | 5   | Virgin Media 2 | [>](https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/1024px-Virgin_Media_Two_logo_2018.svg.png"/> | VirginMediaTwo.ie |
 | 6   | Virgin Media 3 | [>](https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/1024px-Virgin_Media_Three_logo_2018.svg.png"/> | VirginMediaThree.ie |

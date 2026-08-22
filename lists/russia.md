@@ -30,7 +30,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 22 |        РБК         | [>](http://92.50.128.180/utv/1358/index.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
 | 23 |     RT Д Русский Ⓖ   | [>](https://hls.rt.com/hls/rtdru.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
 | 24 |    CGTN Pусский    | [>](https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
-| 25 | Euronews по-русски Ⓨ | [>](https://www.youtube.com/euronewsru/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/> | EuronewsRussian.fr |
+| 25 | Euronews по-русски Ⓨ | [>](https://www.youtube.com/euronewsru/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png"/> | EuronewsRussian.fr |
 | 26 | РТР-Планета Ⓢ | [>](https://player.smotrim.ru/iframe/stream/live_id/63251) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/85/RTR_Planeta_Europe.png"/> | RTRPlaneta.ru |
 | 27 |         Че         | [>](https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8) | | PeretzInternational.ru |
 

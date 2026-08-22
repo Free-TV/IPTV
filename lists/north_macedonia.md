@@ -12,7 +12,7 @@
 | 4   | MRT5 Ⓖ | [>](https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDM6NDI6NDMgUE0maGFzaF92YWx1ZT0wZXRxNHh1UnMyVStVZnU3K0RNZUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY4M2YzYzIyYmI=) | <img height="20" src="https://i.imgur.com/zcvKu1h.png"/> | MRT5.mk |
 | 5   | Kanal 5 Ⓢ Ⓖ | [>](https://teve.mk/tvstanici/2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Qw7N3S2.png"/> | Kanal5.mk |
 | 28  | Alfa TV Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8) | <img height="20" src="https://i.imgur.com/5BSyXfr.png"/> | AlfaTV.mk |
-| 100 | Alsat M Ⓢ Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/640px-Logo_of_Alsat_TV_%282020-%29.svg.png"/> | Alsat.mk |
+| 100 | Alsat M Ⓢ Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/500px-Logo_of_Alsat_TV_%282020-%29.svg.png"/> | Alsat.mk |
 | 101 | Sitel Ⓢ Ⓖ | [>](https://teve.mk/tvstanici/s1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pdobwKt.png"/> | Sitel.mk |
 | 102 | Telma Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_of_Telma_%282016-%29.svg/497px-Logo_of_Telma_%282016-%29.svg.png"/> | TelmaTV.mk |
 
