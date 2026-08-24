@@ -4,7 +4,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | SVT 1 Ⓖ | [>](https://ed2.cdn.svt.se/ed7/d1/c/se/svt1/manifest.mpd?defaultSubLang=1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SVT1_logo_2016.svg/800px-SVT1_logo_2016.svg.png"/> | SVT1.se |
+| 1   | SVT 1 Ⓖ | [>](https://ed2.cdn.svt.se/ed7/d1/c/se/svt1/manifest.mpd?defaultSubLang=1) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SVT1_logo_2016.svg/960px-SVT1_logo_2016.svg.png"/> | SVT1.se |
 | 2   | SVT 2 Ⓖ | [>](https://ed2.cdn.svt.se/ed7/d1/c/se/svt2/manifest.mpd?defaultSubLang=1) | <img height="20" src="https://i.imgur.com/iB3veGx.png"/> | SVT2.se |
 | 4   | TV4 | [x]() | <img height="20" src="https://i.imgur.com/nyLmev6.png"/> | TV4.se |
 | 18  | ATG Live Ⓢ | [>](https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8) | <img height="20" src="https://i.imgur.com/bPWFXkL.png"/> | ATGLive.se |

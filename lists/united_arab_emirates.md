@@ -30,8 +30,8 @@
 | #   |            Channel            | Link  | Logo | EPG id |
 |:---:|:-----------------------------:|:-----:|:----:|:------:|
 | 1   |         Abu Dhabi TV          | [>](http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8) | <img height="20" src="https://i.imgur.com/7cNke07.png"/> | AbuDhabiTV.ae |
-| 2   |      Abu Dhabi Sports 1       | [>](https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/2560px-Abu_Dhabi_Sports_logo_2023.svg.png"/> | AbuDhabiSports2.ae |
-| 3   |      Abu Dhabi Sports 2       | [>](https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/2560px-Abu_Dhabi_Sports_logo_2023.svg.png"/> | AbuDhabiSports2.ae |
+| 2   |      Abu Dhabi Sports 1       | [>](https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/1920px-Abu_Dhabi_Sports_logo_2023.svg.png"/> | AbuDhabiSports2.ae |
+| 3   |      Abu Dhabi Sports 2       | [>](https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/1920px-Abu_Dhabi_Sports_logo_2023.svg.png"/> | AbuDhabiSports2.ae |
 | 4   | National Geographic Abu Dhabi | [>](https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fNA00VF.png"/> | NationalGeographicAbuDhabi.ae |
 
 <h2>Ajman</h2>

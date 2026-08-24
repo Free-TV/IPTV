@@ -14,7 +14,7 @@
 | 28  | Alfa TV Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8) | <img height="20" src="https://i.imgur.com/5BSyXfr.png"/> | AlfaTV.mk |
 | 100 | Alsat M Ⓢ Ⓖ | [>](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/500px-Logo_of_Alsat_TV_%282020-%29.svg.png"/> | Alsat.mk |
 | 101 | Sitel Ⓢ Ⓖ | [>](https://teve.mk/tvstanici/s1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/pdobwKt.png"/> | Sitel.mk |
-| 102 | Telma Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_of_Telma_%282016-%29.svg/497px-Logo_of_Telma_%282016-%29.svg.png"/> | TelmaTV.mk |
+| 102 | Telma Ⓢ Ⓖ | [x](https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_of_Telma_%282016-%29.svg/500px-Logo_of_Telma_%282016-%29.svg.png"/> | TelmaTV.mk |
 
 <h2>DVB-S</h2>
 

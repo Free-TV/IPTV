@@ -18,7 +18,7 @@
 | 0  | Alpo TV | [>](https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Pr4ixiA.png"/> | AlpoTV.al |
 | 0  | CNA | [>](https://live1.mediadesk.al/cnatvlive.m3u8) | <img height="20" src="https://i.imgur.com/X3ukD5t.png"/> | CNA.al |
 | 0  | Euronews Albania Ⓨ | [>](https://www.youtube.com/@EuronewsAlbania/live) | <img height="20" src="https://i.imgur.com/Skf6vdi.png"/> | EuronewsAlbania.al |
-| 0  | News 24 Ⓢ | [>](https://tv.balkanweb.com/news24/livestream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png"/> | News24.al |
+| 0  | News 24 Ⓢ | [>](https://tv.balkanweb.com/news24/livestream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/960px-News_24_%28Albania%29.svg.png"/> | News24.al |
 | 0  | Ora News | [>](https://live1.mediadesk.al/oranews.m3u8) | <img height="20" src="https://i.imgur.com/ILZY5bJ.png"/> | OraNews.al |
 | 0  | Panorama TV Ⓢ | [>](http://198.244.188.94/panorama/livestream/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png"/> | PanoramaTV.al |
 | 0  | Report TV | [>](https://deb10stream.duckdns.org/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/yuRDJYY.png"/> | ReportTV.al |

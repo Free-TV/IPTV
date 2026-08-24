@@ -20,7 +20,7 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 | 16 | Plava Vinkovačka | [>](https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8) | <img height="20" src="https://i.imgur.com/WJJNtQ3.jpg"/> | PlavaVinkovacka.hr |
 | 17 | Televizija Slavonije i Baranje (STV) | [>](http://89.201.163.244:8080/hls/hdmi.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG"/> | STV.hr |
 | 18 | Osječka televizija (OSTV) Ⓢ | [>](https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8) | <img height="20" src="https://i.imgur.com/o9JgEyG.png"/> | OSTV.hr |
-| 21 | SBTV | [>](https://live.leveex.hr/hls/live.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/480px-SBTV_Logo.svg.png"/> | SBTV.hr |
+| 21 | SBTV | [>](https://live.leveex.hr/hls/live.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/500px-SBTV_Logo.svg.png"/> | SBTV.hr |
 | 22 | Plava TV | [x]() | <img height="20" src="https://i.imgur.com/kJjcNlG.jpg"/> | PlavaTV.hr |
 | 27 | VTV Televizija | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/VTV_televizija_Logo.svg/500px-VTV_televizija_Logo.svg.png"/> | VTV.hr |
 | 31 | OTV | [>](https://stream.agatin.hr:3559/live/otvlive.m3u8) | <img height="20" src="https://i.imgur.com/67zVdu2.png"/> | OTV.hr |

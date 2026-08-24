@@ -3,8 +3,8 @@
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | BNT1 | [>](https://shift03.isp.bg/BNT1_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/7JU9b5j.png"/> | BNT1.bg |
-| 2   | bTV | [>](http://213.91.179.28:8000/play/a03w) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/320px-BTV_Bulgaria_logo.svg.png"/> | bTV.bg |
-| 3   | Nova TV | [>](http://213.91.179.28:8000/play/a03l) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/167px-NOVA_logo.svg.png"/> | NovaTV.bg |
+| 2   | bTV | [>](http://213.91.179.28:8000/play/a03w) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BTV_Bulgaria_logo.svg/330px-BTV_Bulgaria_logo.svg.png"/> | bTV.bg |
+| 3   | Nova TV | [>](http://213.91.179.28:8000/play/a03l) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/NOVA_logo.svg/120px-NOVA_logo.svg.png"/> | NovaTV.bg |
 | 5   | Bulgaria On Air | [>](http://213.91.179.28:8000/play/a05x) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Bulgariaonair.png"/> | BulgariaOnAir.bg |
 | 7   | BNT2 | [>](https://shift03.isp.bg/BNT2_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/FyTUr9Q.png"/> | BNT2.bg |
 | 64  | BNT3 | [>](https://shift03.isp.bg/BNT3_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/pPpSJ4u.png"/> | BNT3.bg |

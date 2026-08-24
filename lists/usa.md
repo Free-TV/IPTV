@@ -4,7 +4,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | Buzzr Ⓖ        | [>](http://23.237.104.106:8080/USA_BUZZR/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/768px-Buzzr_logo.svg.png"/> | Buzzr.us |
+| 1   | Buzzr Ⓖ        | [>](http://23.237.104.106:8080/USA_BUZZR/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png"/> | Buzzr.us |
 | 2   | Retro TV       | [>](https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8) | <img height="20" src="https://i.imgur.com/PNTYOgg.png" /> | RetroTVEast.us |
 | 3   | Stadium        | [>](https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8) | <img height="30" src="https://i.imgur.com/6ae9E8d.png"/> | Stadium.us |
 | 4   | Biz TV         | [>](https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/cbGvXyF.jpg"/> | BizTV.us |

@@ -4,4 +4,4 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | KCTV           | [>](https://kctv.koryofront.org/stream/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/500px-Logo_of_the_Korean_Central_Television.svg.png"/> | KCTV.kp |
 | 2   | Mansudae TV    | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mansudae_TV_Logo_NK.svg/500px-Mansudae_TV_Logo_NK.svg.png"/> | MansudaeTV.kp |
-| 3   | Ryongnamsan TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RyongnamsanTV_DPRK.png/613px-RyongnamsanTV_DPRK.png"/> | RyongnamsanTV.kp |
+| 3   | Ryongnamsan TV | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RyongnamsanTV_DPRK.png/500px-RyongnamsanTV_DPRK.png"/> | RyongnamsanTV.kp |

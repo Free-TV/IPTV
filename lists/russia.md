@@ -7,7 +7,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  # |      Channel       | Link  | Logo | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
 |  1 |   Первый канал   | [>](https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
-|  2 |     Россия 1     | [>](https://player.smotrim.ru/iframe/stream/live_id/2961) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png"/> | Russia1.ru |
+|  2 |     Россия 1     | [>](https://player.smotrim.ru/iframe/stream/live_id/2961) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/960px-Russia-1.svg.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ      | [>](https://streaming.televizor-24-tochka.ru/live/6.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](http://ott-cdn.ucom.am/s17/index.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал Ⓢ    | [>](https://streaming.televizor-24-tochka.ru/live/8.m3u8) | <img height="20" src="https://i.imgur.com/u8Q69D9.png"/> | 5Kanal.ru |
@@ -21,7 +21,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 13 |       Спас Ⓢ       | [>](https://spas.mediacdn.ru/cdn/spas/playlist.m3u8) | <img height="20" src="https://i.imgur.com/A6Cqsom.jpeg"/> | TelekanalSpas.ru |
 | 14 |       СТС Ⓢ        | [>](http://ott-cdn.ucom.am/s52/04.m3u8) | <img height="20" src="https://i.imgur.com/y9bpqUD.png"/> | STS.ru |
 | 15 |     Домашний Ⓢ     | [>](http://ott-cdn.ucom.am/s88/index.m3u8) | <img height="20" src="https://i.imgur.com/e8wlMIt.png"/> | Domashniy.ru |
-| 16 |       ТВ-3 Ⓢ       | [>](https://streaming.televizor-24-tochka.ru/live/18.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/556px-%D0%A2V3_logo_2023.svg.png"/> | TV3.ru |
+| 16 |       ТВ-3 Ⓢ       | [>](https://streaming.televizor-24-tochka.ru/live/18.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/500px-%D0%A2V3_logo_2023.svg.png"/> | TV3.ru |
 | 17 |     Пятница! Ⓢ     | [>](https://streaming.televizor-24-tochka.ru/live/19.m3u8) | <img height="20" src="https://i.imgur.com/rS11zVB.png"/> | Pyatnitsa.ru |
 | 18 |      Звезда      | [>](https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
 | 19 |        Мир         | [>](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
