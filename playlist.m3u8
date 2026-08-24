@@ -19,6 +19,625 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-name="Panorama TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/500px-Panorama_logo.svg.png" tvg-id="PanoramaTV.al" tvg-country="AL" group-title="Albania",Panorama TV Ⓢ
 http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="Afrca24.fr" tvg-name="Africa 24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_Africa_24.jpg/150px-Logo_Africa_24.jpg?20220802124649" group-title="ACTUALITES",Africa 24
+plugin://plugin.video.vavooto/?name=AFRICA+24&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/BFMBUSINESS-2023.svg/langfr-250px-BFMBUSINESS-2023.svg.png" group-title="ACTUALITES",BFM BUSINESS
+plugin://plugin.video.vavooto/?name=BFM+BUSINESS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" group-title="ACTUALITES",BFM TV
+plugin://plugin.video.vavooto/?name=BFM&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/CGTN_-_fran%C3%A7ais.png" group-title="ACTUALITES",CGTN
+plugin://plugin.video.vavooto/?name=CGTN&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-226.png" group-title="ACTUALITES",CNews
+plugin://plugin.video.vavooto/?name=C+NEWS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/a/ab/Euronews_2016_logo.svg.png/revision/latest?cb=20190722173431&path-prefix=fr" group-title="ACTUALITES",EURONEWS
+plugin://plugin.video.vavooto/?name=EURONEWS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France24" tvg-logo="https://i.postimg.cc/TPwp9d9B/640px-France24.png" group-title="ACTUALITES",France24
+plugin://plugin.video.vavooto/?name=FRANCE 24&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FranceInfo" tvg-logo="https://i.postimg.cc/9QDT35Nq/franceinfo-en-journee-speciale-A-quoi-ressemblera-votre-ete-vendredi-1er-juillet-edit-510848289542.jpg" group-title="ACTUALITES",FranceInfo
+plugin://plugin.video.vavooto/?name=FRANCEINFO&type=vavoo&group=France
+#EXTINF:-1 tvg-id="I24news.fr" tvg-name="I24news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="ACTUALITES",I24news
+plugin://plugin.video.vavooto/?name=I24+NEWS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="ACTUALITES",LCI
+plugin://plugin.video.vavooto/?name=LCI&type=vavoo&group=France
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP" tvg-logo="https://i.postimg.cc/dtNWFqXk/IMG-20240318-015448.png" group-title="ACTUALITES",LCP
+plugin://plugin.video.vavooto/?name=LCP+ASSEMBLEE+NATIONALE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="publicsenat.fr" tvg-name="Public Senat" tvg-logo="https://www.lyngsat.com/logo/tv/pp/public-senat-fr.png" group-title="ACTUALITES",Public Senat
+plugin://plugin.video.vavooto/?name=PUBLIC+SENAT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="https://i.postimg.cc/rwfJhp1k/RT-France-svg.png" group-title="ACTUALITES",RT France
+plugin://plugin.video.vavooto/?name=RT+FRANCE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="Tech And Co" tvg-logo="https://static.s-sfr.fr/techandcologo.png" group-title="ACTUALITES",Tech And Co
+plugin://plugin.video.vavooto/?name=TECH+%26+CO&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 Monde Europe" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-europe-fr.png" group-title="ACTUALITES",TV5 Monde Europe
+plugin://plugin.video.vavooto/?name=TV5MONDE+EUROPE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiqueMonaco.fr" tvg-name="TV5 Monde France Belgique Monaco" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/MonacoInfo.jpg" group-title="ACTUALITES",TV5 Monde France Belgique Monaco
+plugin://plugin.video.vavooto/?name=TV5MONDE+FRANCE+BELGIQUE+MONACO&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5 Monde Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/langfr-250px-Logo_TV5_Monde_-_2021.svg.png" group-title="ACTUALITES",TV5 Monde Info
+plugin://plugin.video.vavooto/?name=TV5MONDE+INFO&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" tvg-name="TV5 Monde Maghreb Orient" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5monde-maghreb-orient-fr.png" group-title="ACTUALITES",TV5 Monde Maghreb Orient
+plugin://plugin.video.vavooto/?name=TV5MONDE+MAGHREB+ORIENT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+1" tvg-name="A LA CARTE 1" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 1
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+10" tvg-name="A LA CARTE 10" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 10
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+10&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+11" tvg-name="A LA CARTE 11" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 11
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+11&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+2" tvg-name="A LA CARTE 2" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 2
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+3" tvg-name="A LA CARTE 3" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 3
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+4" tvg-name="A LA CARTE 4" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 4
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+5" tvg-name="A LA CARTE 5" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 5
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+6" tvg-name="A LA CARTE 6" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 6
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+7" tvg-name="A LA CARTE 7" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 7
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+8" tvg-name="A LA CARTE 8" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 8
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="A+LA+CARTE+9" tvg-name="A LA CARTE 9" tvg-logo="https://i.ytimg.com/vi/zj4KkKcUwd0/maxresdefault.jpg" group-title="CINE A LA CARTE",A LA CARTE 9
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+1" tvg-name="AMAZON PRIME 1" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 1
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+10" tvg-name="AMAZON PRIME 10" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 10
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+10&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+11" tvg-name="AMAZON PRIME 11" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 11
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+11&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+12" tvg-name="AMAZON PRIME 12" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 12
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+12&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+1" tvg-name="AMAZON PRIME 2" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 2
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+3" tvg-name="AMAZON PRIME 3" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 3
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+4" tvg-name="AMAZON PRIME 4" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 4
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+5" tvg-name="AMAZON PRIME 5" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 5
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+6" tvg-name="AMAZON PRIME 6" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 6
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+7" tvg-name="AMAZON PRIME 7" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 7
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+8" tvg-name="AMAZON PRIME 8" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 8
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+9" tvg-name="AMAZON PRIME 9" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="CINE AMAZON PRIME",AMAZON PRIME 9
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 1" tvg-name="BOX OFFICE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 1
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 2" tvg-name="BOX OFFICE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 2
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 3" tvg-name="BOX OFFICE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 3
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 4" tvg-name="BOX OFFICE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 4
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 5" tvg-name="BOX OFFICE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 5
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 6" tvg-name="BOX OFFICE 6" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 6
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 7" tvg-name="BOX OFFICE 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 7
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 8" tvg-name="BOX OFFICE 8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 8
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BOX OFFICE 9" tvg-name="BOX OFFICE 9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/55/C%2B_Box_Office.png" group-title="CINE BOX OFFICE",BOX OFFICE 9
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY" tvg-name="CANAL PLAY" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY
+plugin://plugin.video.vavooto/?name=CANAL+PLAY&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY1" tvg-name="CANAL PLAY 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 1
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY10" tvg-name="CANAL PLAY 10" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 10
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+10&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY14" tvg-name="CANAL PLAY 14" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 14
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+14&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY15" tvg-name="CANAL PLAY 15" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 15
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+15&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY2" tvg-name="CANAL PLAY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 2
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY3" tvg-name="CANAL PLAY 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 3
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY4" tvg-name="CANAL PLAY 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 4
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY5" tvg-name="CANAL PLAY 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 5
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY6" tvg-name="CANAL PLAY 6" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 6
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY7" tvg-name="CANAL PLAY 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 7
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY8" tvg-name="CANAL PLAY 8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 8
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLAY9" tvg-name="CANAL PLAY 9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-200px-Canalplay.svg.png" group-title="CINE CANAL PLAY",CANAL PLAY 9
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="OCSChoc.ch" tvg-name="OCS Choc (Suisse)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/2560px-OCS_Choc.svg.png" group-title="CINE OCS",OCS Choc (Suisse)
+plugin://plugin.video.vavooto/?name=OCS+CHOC&type=vavoo&group=France
+#EXTINF:-1 tvg-id="OCSCity.ch" tvg-name="OCS City (Suisse)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/OCS_City.svg/2560px-OCS_City.svg.png" group-title="CINE OCS",OCS City (Suisse)
+plugin://plugin.video.vavooto/?name=OCS+CITY
+#EXTINF:-1 tvg-id="OCS+FRANCEBOX+4" tvg-name="OCS Francebox  4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/langfr-250px-OCS.svg.png" group-title="CINE OCS",OCS Francebox  4
+plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="OCS+FRANCEBOX+1" tvg-name="OCS Francebox 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/langfr-250px-OCS.svg.png" group-title="CINE OCS",OCS Francebox 1
+plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OCS Francebox 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/langfr-250px-OCS.svg.png" group-title="CINE OCS",OCS Francebox 2
+plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="OCS+FRANCEBOX+3" tvg-name="OCS Francebox 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/langfr-250px-OCS.svg.png" group-title="CINE OCS",OCS Francebox 3
+plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="OCS+FRANCEBOX+5" tvg-name="OCS Francebox 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/OCS.svg/langfr-250px-OCS.svg.png" group-title="CINE OCS",OCS Francebox 5
+plugin://plugin.video.vavooto/?name=OCS+FRANCEBOX+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="OCS Geants" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/OCS_geants.png" group-title="CINE OCS",OCS Geants
+plugin://plugin.video.vavooto/?name=OCS+GEANET
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="OCS Geants" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/OCS_geants.png" group-title="CINE OCS",OCS Geants
+plugin://plugin.video.vavooto/?name=OCS+GEANTS
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS Max" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/2560px-OCS_Max.svg.png" group-title="CINE OCS",OCS Max
+plugin://plugin.video.vavooto/?name=OCS+MAX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Francebox 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/langfr-250px-Orange_logo.svg.png" group-title="CINE OCS",Orange Francebox 1
+plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Francebox 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/langfr-250px-Orange_logo.svg.png" group-title="CINE OCS",Orange Francebox 2
+plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Francebox 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/langfr-250px-Orange_logo.svg.png" group-title="CINE OCS",Orange Francebox 3
+plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+&type=vavoo&group=France
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange FRancebox 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/langfr-250px-Orange_logo.svg.png" group-title="CINE OCS",Orange FRancebox 4
+plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange FRancebox 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Orange_logo.svg/langfr-250px-Orange_logo.svg.png" group-title="CINE OCS",Orange FRancebox 5
+plugin://plugin.video.vavooto/?name=ORANGE+FRANCEBOX+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/b7/Canal%2B_Cinema_Action_%282019-.n.v.%29.png/revision/latest?cb=20200430160614" group-title="CINEMA",Action
+plugin://plugin.video.vavooto/?name=CINE%2B+ACTION&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+FILM" tvg-name="Canal Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Canal%2B_Film_HD.png" group-title="CINEMA",Canal Film
+plugin://plugin.video.vavooto/?name=CANAL%2B+FILM&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png" group-title="CINEMA",CANAL+
+plugin://plugin.video.vavooto/?name=CANAL%2B&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+" tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png" group-title="CINEMA",CANAL+
+plugin://plugin.video.vavooto/?name=CANAL%2B+ULTRA&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+ CINEMA" tvg-name="Canal+ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="CINEMA",Canal+ Cinema
+plugin://plugin.video.vavooto/?name=CANAL%2b%20CINEMA&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PLUS+C+NEMA" tvg-name="Canal+ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/C%2B_Cin%C3%A9ma%28s%29.png" group-title="CINEMA",Canal+ Cinema
+plugin://plugin.video.vavooto/?name=CANAL+PLUS+C+NEMA&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="Canal+ Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87283_dark_360w_270h.png" group-title="CINEMA",Canal+ Family
+plugin://plugin.video.vavooto/?name=CANAL+FAMILY&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="Canal+ Grand Ecran" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/C%2B_Grand_%C3%89cran.png" group-title="CINEMA",Canal+ Grand Ecran
+plugin://plugin.video.vavooto/?name=CANAL%2B+GRAND+ECRAN&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PL" tvg-name="Canal+ PL" tvg-logo="" group-title="CINEMA",Canal+ PL
+plugin://plugin.video.vavooto/?name=CANAL%2B+PL&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="Canal+ Series" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="CINEMA",Canal+ Series
+plugin://plugin.video.vavooto/?name=CANAL%2B+SERIES&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlus.fr" tvg-name="Cine+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Cine%2B_2021.png" group-title="CINEMA",Cine+
+plugin://plugin.video.vavooto/?name=CINE%2B&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Cine+ Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f3/Cin%C3%A9_Cin%C3%A9ma_Classic.png" group-title="CINEMA",Cine+ Classic
+plugin://plugin.video.vavooto/?name=CINA%2B+CLASSIC&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="Cine+ Club" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/77/Cin%C3%A9Cin%C3%A9ma_Club_logo_2008.png" group-title="CINEMA",Cine+ Club
+plugin://plugin.video.vavooto/?name=CINE%2B+CLUB&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="Cine+ Club" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/77/Cin%C3%A9Cin%C3%A9ma_Club_logo_2008.png" group-title="CINEMA",Cine+ Club
+plugin://plugin.video.vavooto/?name=CINE+CLUB&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Cine+ Emotion" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_396.PNG" group-title="CINEMA",Cine+ Emotion
+plugin://plugin.video.vavooto/?name=CINE%2B+EMOTION&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="Cine+ Emotion" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_396.PNG" group-title="CINEMA",Cine+ Emotion
+plugin://plugin.video.vavooto/?name=CINE+EMOTION&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="Cine+ Famiz" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/6/64/CinePlusFamiz_Logo.svg.png" group-title="CINEMA",Cine+ Famiz
+plugin://plugin.video.vavooto/?name=CINE%2B+FAMIZ&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinéPlusFrisson.fr" tvg-name="Cine+ Frisson" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineplus-frisson-fr.svg" group-title="CINEMA",Cine+ Frisson
+plugin://plugin.video.vavooto/?name=CINE%2B+FRISSON&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinéPlusFrisson.fr" tvg-name="Cine+ Frisson" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineplus-frisson-fr.svg" group-title="CINEMA",Cine+ Frisson
+plugin://plugin.video.vavooto/?name=CINE+FRISSON&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinéPlusFrisson.fr" tvg-name="Cine+ Frisson" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineplus-frisson-fr.svg" group-title="CINEMA",Cine+ Frisson
+plugin://plugin.video.vavooto/?name=CINE%2B+ISSON&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CINE MAX" tvg-name="Cine+ Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png" group-title="CINEMA",Cine+ Max
+plugin://plugin.video.vavooto/?name=CINE+MAX&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="Cine+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CINEMA",Cine+ Premier
+plugin://plugin.video.vavooto/?name=CINA%2B+PREMIER&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="Cine+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CINEMA",Cine+ Premier
+plugin://plugin.video.vavooto/?name=CINE+PREMIER&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="CINEMA",Paramount Channel
+plugin://plugin.video.vavooto/?name=PARAMOUNT+CHANNEL&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="Paramount Channel Decale" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/parcd.png" group-title="CINEMA",Paramount Channel Decale
+plugin://plugin.video.vavooto/?name=PARAMOUNT+CHANNEL+DECALE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="PolarPlus.fr" tvg-name="Polar+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Polar%2B_%28Logo%29.png" group-title="CINEMA",Polar+
+plugin://plugin.video.vavooto/?name=CIN+POLAR&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="Warner Tv" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" group-title="CINEMA",Warner Tv
+plugin://plugin.video.vavooto/?name=WARNER&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalD.ca" tvg-name="Canal D" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/68/Canal_D_%282009%29.png?20090901195514" group-title="DOCUMENTAIRES",Canal D
+plugin://plugin.video.vavooto/?name=CANAL+D&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="Canal+ Docs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png" group-title="DOCUMENTAIRES",Canal+ Docs
+plugin://plugin.video.vavooto/?name=CANAL%2B+DOCS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal+ Savoir" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Canal_Savoir_logo.png/2524px-Canal_Savoir_logo.png" group-title="DOCUMENTAIRES",Canal+ Savoir
+plugin://plugin.video.vavooto/?name=CANAL+SAVOIR&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ChasseEtPeche.fr" tvg-name="Chasse Et Peche" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/1280px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="DOCUMENTAIRES",Chasse Et Peche
+plugin://plugin.video.vavooto/?name=CHASSE+ET+PECHE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="Crime District" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_district_fr.png" group-title="DOCUMENTAIRES",Crime District
+plugin://plugin.video.vavooto/?name=CRIME+DISTRICT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png" group-title="DOCUMENTAIRES",Discovery Channel
+plugin://plugin.video.vavooto/?name=DISCOVERY&type=vavoo&group=France
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-160px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTAIRES",Discovery Investigation
+plugin://plugin.video.vavooto/?name=DISCOVERY+INVESTIGATION&type=vavoo&group=France
+#EXTINF:-1 tvg-id="EEntertainment.fr" tvg-name="E! Entertainment" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-405.png" group-title="DOCUMENTAIRES",E! Entertainment
+plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire" tvg-logo="https://www.lyngsat.com/logo/tv/hh/histoire-tv-fr.png" group-title="DOCUMENTAIRES",Histoire
+plugin://plugin.video.vavooto/?name=HISTOIRE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Histoire_TV_logo_2019.svg/2560px-Histoire_TV_logo_2019.svg.png" group-title="DOCUMENTAIRES",Histoire Tv
+plugin://plugin.video.vavooto/?name=HISTOIRE+TV&type=vavoo&group=France
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="National Geographic" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-243.png" group-title="DOCUMENTAIRES",National Geographic
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC&type=vavoo&group=France
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="Planete+" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-147.png" group-title="DOCUMENTAIRES",Planete+
+plugin://plugin.video.vavooto/?name=PLANET&type=vavoo&group=France
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="Planete+ Crime" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planete-plus-crime-fr.png" group-title="DOCUMENTAIRES",Planete+ Crime
+plugin://plugin.video.vavooto/?name=PLANETE%2B+CRIME&type=vavoo&group=France
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="Planete+ Crime" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planete-plus-crime-fr.png" group-title="DOCUMENTAIRES",Planete+ Crime
+plugin://plugin.video.vavooto/?name=PLANETE%2B+CI&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Découverte" tvg-logo="https://www.teleboy.ch/assets/stations/380/icon320_light.png" group-title="DOCUMENTAIRES",RMC Découverte
+plugin://plugin.video.vavooto/?name=RMC+DECOUVERTE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-name="RMC Story" tvg-logo="https://www.teleboy.ch/assets/stations/376/icon320_light.png?v2023_48_0" group-title="DOCUMENTAIRES",RMC Story
+plugin://plugin.video.vavooto/?name=RMC+STORY&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="Science et Vie TV" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-63.png" group-title="DOCUMENTAIRES",Science et Vie TV
+plugin://plugin.video.vavooto/?name=SCIENCE+%26+VIE+TV&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="Science et Vie TV" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-63.png" group-title="DOCUMENTAIRES",Science et Vie TV
+plugin://plugin.video.vavooto/?name=SCIENCE+%26+VIE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="Seasons" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-173.png" group-title="DOCUMENTAIRES",Seasons
+plugin://plugin.video.vavooto/?name=SEASON&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="Toute L'Histoire" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toute_histoire_fr.png" group-title="DOCUMENTAIRES",Toute L'Histoire
+plugin://plugin.video.vavooto/?name=TOUTE+HISTOIRE&type=vavoo&group=France&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="TREK" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1776.png" group-title="DOCUMENTAIRES",TREK
+plugin://plugin.video.vavooto/?name=TREK&type=vavoo&group=France
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="Ushuaia TV" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-451.png" group-title="DOCUMENTAIRES",Ushuaia TV
+plugin://plugin.video.vavooto/?name=USHUAIA
+#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="Altice Studio" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/71/Altice_studio_logo.png" group-title="GENERALISTE",Altice Studio
+plugin://plugin.video.vavooto/?name=ALTICE+STUDIO&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CDIRECT" tvg-name="C Direct" tvg-logo="https://www.lebouquetafricain.com/medias/chaines/logos/cdirect.png" group-title="GENERALISTE",C Direct
+plugin://plugin.video.vavooto/?name=CDIRECT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/C8_t%C3%A9l%C3%A9.png" group-title="GENERALISTE",C8
+plugin://plugin.video.vavooto/?name=C8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+ALPHA" tvg-name="Canal Alpha" tvg-logo="https://static.canalalpha.ch/app/assets/default/og-image-canal-alpha.png" group-title="GENERALISTE",Canal Alpha
+plugin://plugin.video.vavooto/?name=CANAL+ALPHA&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="Canal+ Decale" tvg-logo="https://www.staderochelais.com/sites/stade-rochelais/files/logos/canal-decale-1622622027.png" group-title="GENERALISTE",Canal+ Decale
+plugin://plugin.video.vavooto/?name=CANAL+DECALE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+ELLES" tvg-name="Canal+ Elles" tvg-logo="https://i0.wp.com/mimimefoinfos.com/wp-content/uploads/2023/10/photo1697129921.jpeg?fit=360%2C270&ssl=1" group-title="GENERALISTE",Canal+ Elles
+plugin://plugin.video.vavooto/?name=CANAL%2B+ELLES&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="Comedie+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Com%C3%A9die%2B_logo_%C3%A0_l%27antenne.png" group-title="GENERALISTE",Comedie+
+plugin://plugin.video.vavooto/?name=COMEDIE%2B&type=vavoo&group=France
+#EXTINF:-1 tvg-id="generationtv.fr" tvg-name="Generation Tv" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/gene.png" group-title="GENERALISTE",Generation Tv
+plugin://plugin.video.vavooto/?name=GENERATIONS+TV&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/43/18._Gulli.png" group-title="GENERALISTE",Gulli
+plugin://plugin.video.vavooto/?name=GULLI&type=vavoo&group=France
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="La Trois" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTBF_La_Trois_logo.svg/800px-RTBF_La_Trois_logo.svg.png" group-title="GENERALISTE",La Trois
+plugin://plugin.video.vavooto/?name=LA+TROIS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="La Une" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RTBF_La_Une_logo.svg/1200px-RTBF_La_Une_logo.svg.png" group-title="GENERALISTE",La Une
+plugin://plugin.video.vavooto/?name=LA+UNE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MS+COMEDY" tvg-name="MS Comedy" tvg-logo="" group-title="GENERALISTE",MS Comedy
+plugin://plugin.video.vavooto/?name=MS+COMEDY&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MtvCatfishTvShow.fr" tvg-name="Mtv Catfish Tv Show" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="GENERALISTE",Mtv Catfish Tv Show
+plugin://plugin.video.vavooto/?name=CATFISH&type=vavoo&group=France
+#EXTINF:-1 tvg-id="LaDeux.be" tvg-name="Tipik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxrO1rmEw_aeT1yCzzdzwizJG-xvv0NkHUqpx6HEthJx3_iJEUS7-j71-d1w&s" group-title="GENERALISTE",Tipik
+plugin://plugin.video.vavooto/?name=TIPIK&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="TV Breizh" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" group-title="GENERALISTE",TV Breizh
+plugin://plugin.video.vavooto/?name=TV+BREIZH&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-321.png" group-title="JEUNES & ENFANTS",Boomerang
+plugin://plugin.video.vavooto/?name=BOOMERANG&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="Canal J" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/69/Logo_canal_J.png" group-title="JEUNES & ENFANTS",Canal J
+plugin://plugin.video.vavooto/?name=CANAL+J&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusKIDS.fr" tvg-name="Canal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="JEUNES & ENFANTS",Canal Kids
+plugin://plugin.video.vavooto/?name=CANAL%2B+KIDS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="JEUNES & ENFANTS",Cartoon Network
+plugin://plugin.video.vavooto/?name=CARTOON+NETWORK&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="JEUNES & ENFANTS",Disney Channel
+plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL&type=vavoo&group=France
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="GameOne" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Game_One_%281998%29_Logo.svg/1280px-Game_One_%281998%29_Logo.svg.png" group-title="JEUNES & ENFANTS",GameOne
+plugin://plugin.video.vavooto/?name=GAME+ONE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="Gong" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="JEUNES & ENFANTS",Gong
+plugin://plugin.video.vavooto/?name=GONG&type=vavoo&group=France
+#EXTINF:-1 tvg-id="GongMax.fr" tvg-name="Gong Max" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/Gong_max_logo-1.png" group-title="JEUNES & ENFANTS",Gong Max
+plugin://plugin.video.vavooto/?name=GONG+MAX&type=vavoo&group=France
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="J One" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1585.png" group-title="JEUNES & ENFANTS",J One
+plugin://plugin.video.vavooto/?name=J-ONE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="J One" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-1585.png" group-title="JEUNES & ENFANTS",J One
+plugin://plugin.video.vavooto/?name=J+ONE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBITj8D4ehy326isxvvHDFUivw37wiREtViWbndOOtqIoq8ykrTbVbQQADg&amp;amp;s" group-title="JEUNES & ENFANTS",Mangas
+plugin://plugin.video.vavooto/?name=MANGAS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Nickelodeon_logo_2009.png" group-title="JEUNES & ENFANTS",Nickelodeon
+plugin://plugin.video.vavooto/?name=NICKELODEON&type=vavoo&group=France
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="NickelodeonJunior" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Nickelodeon_Junior.svg/1135px-Nickelodeon_Junior.svg.png" group-title="JEUNES & ENFANTS",NickelodeonJunior
+plugin://plugin.video.vavooto/?name=NICK+JUNIOR&type=vavoo&group=France
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="Piwi+" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-344.png" group-title="JEUNES & ENFANTS",Piwi+
+plugin://plugin.video.vavooto/?name=PIWI%2B&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="TéléToon+" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-197.png" group-title="JEUNES & ENFANTS",TéléToon+
+plugin://plugin.video.vavooto/?name=TELETOON%2B&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TIJI.fr" tvg-name="TIJI" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-229.png" group-title="JEUNES & ENFANTS",TIJI
+plugin://plugin.video.vavooto/?name=TIJI&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title="JEUNES & ENFANTS",Toonami
+plugin://plugin.video.vavooto/?name=TOONAMI&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_CStar_2016.svg/2560px-Logo_CStar_2016.svg.png" group-title="MUSIQUE",CStar
+plugin://plugin.video.vavooto/?name=CINE%2B+STAR&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CStar.Hit" tvg-name="CStar Hit" tvg-logo="https://i.vimeocdn.com/video/780708812-d4a394916024a2db7c35f5c92ff6699ac7eb0ff049732dcb1e6d21c32db5b91a-d_640?f=webp" group-title="MUSIQUE",CStar Hit
+plugin://plugin.video.vavooto/?name=C+STAR+HIT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CStarHitsFrance.fr" tvg-name="CStar Hits France" tvg-logo="https://www.telesatellite.com/images/actu/c/cstar-hits-france.jpg" group-title="MUSIQUE",CStar Hits France
+plugin://plugin.video.vavooto/?name=C+STAR+HITS+FRANCE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="MUSIQUE",M6 Music
+plugin://plugin.video.vavooto/?name=M6+MUSIC&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/MCM_logo_2017.svg/1280px-MCM_logo_2017.svg.png" group-title="MUSIQUE",MCM
+plugin://plugin.video.vavooto/?name=MCM&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/MCM_Pop_logo_2003.png" group-title="MUSIQUE",MCM Pop
+plugin://plugin.video.vavooto/?name=MCM+POP&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-name="MCM Top" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="MUSIQUE",MCM Top
+plugin://plugin.video.vavooto/?name=MCM+TOP&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Melody.fr" tvg-name="Melody" tvg-logo="" group-title="MUSIQUE",Melody
+plugin://plugin.video.vavooto/?name=MELODY&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://logowik.com/content/uploads/images/mezzo-tv3186.logowik.com.webp" group-title="MUSIQUE",Mezzo
+plugin://plugin.video.vavooto/?name=MEZZO&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="MezzoLive" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="MUSIQUE",MezzoLive
+plugin://plugin.video.vavooto/?name=MEZZO+LIVE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/langfr-200px-MTV-2021.svg.png" group-title="MUSIQUE",MTV
+plugin://plugin.video.vavooto/?name=MTV+FRANCE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="MTV80s.fr" tvg-name="MTV 80S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="MUSIQUE",MTV 80S
+plugin://plugin.video.vavooto/?name=MTV+80S&type=vavoo&group=United+Kingdom
+#EXTINF:-1 tvg-id="MTV90s.fr" tvg-name="MTV 90S" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-90s-us.svg" group-title="MUSIQUE",MTV 90S
+plugin://plugin.video.vavooto/?name=MTV+90S&type=vavoo&group=United+Kingdom
+#EXTINF:-1 tvg-id="NOW70s.uk" tvg-name="NOW 70S" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-70s-uk.svg" group-title="MUSIQUE",NOW 70S
+plugin://plugin.video.vavooto/?name=NOW+70S&type=vavoo&group=United+Kingdom
+#EXTINF:-1 tvg-id="NOW80s.uk" tvg-name="NOW 80S" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-80s-uk.svg" group-title="MUSIQUE",NOW 80S
+plugin://plugin.video.vavooto/?name=NOW+80S&type=vavoo&group=United+Kingdom
+#EXTINF:-1 tvg-id="NOW90s.uk" tvg-name="NOW 90S" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-90s-uk.svg" group-title="MUSIQUE",NOW 90S
+plugin://plugin.video.vavooto/?name=NOW+90S&type=vavoo&group=United+Kingdom
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png" group-title="MUSIQUE",NRJ Hits
+plugin://plugin.video.vavooto/?name=NRJ+HITS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="OlympiaTv.fr" tvg-name="Olympia Tv" tvg-logo="" group-title="MUSIQUE",Olympia Tv
+plugin://plugin.video.vavooto/?name=OLYMPIA+TV&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="RFMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b0/RFM_TV_logo_2014.png" group-title="MUSIQUE",RFMTV
+plugin://plugin.video.vavooto/?name=RFM+TV&type=vavoo&group=France
+#EXTINF:-1 tvg-id="StingrayCmusic.fr" tvg-name="Stingray Cmusic" tvg-logo="" group-title="MUSIQUE",Stingray Cmusic
+plugin://plugin.video.vavooto/?name=STINGRAY+CMUSIC&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TRaceAfrica.fr" tvg-name="Trace Africa" tvg-logo="" group-title="MUSIQUE",Trace Africa
+plugin://plugin.video.vavooto/?name=TRACE+AFRICA&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-name="Trace Caribbean" tvg-logo="" group-title="MUSIQUE",Trace Caribbean
+plugin://plugin.video.vavooto/?name=TRACE+CARIBBEAN&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="" group-title="MUSIQUE",Trace Urban
+plugin://plugin.video.vavooto/?name=TRACE+URBAN&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" group-title="SPORTS",beIn Sports 1
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" group-title="SPORTS",beIn Sports 1
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1+HD+%5BLIVE+DURING+EVENTS+ONLY%5D&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="beIn Sports 1" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" group-title="SPORTS",beIn Sports 1
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+1+FHD+%5BLIVE+DURING+EVENTS+ONLY%5D&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="beIn Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",beIn Sports 2
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTS3.fr" tvg-name="beIn Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS",beIn Sports 3
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTSMAX10.fr" tvg-name="beIn Sports MAX 10" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-bein-sports-max-10.png" group-title="SPORTS",beIn Sports MAX 10
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+10&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="beIn Sports MAX 4" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/bein-sports-max-4.png" group-title="SPORTS",beIn Sports MAX 4
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="beIn Sports MAX 5" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/bein-sports-max-5.png" group-title="SPORTS",beIn Sports MAX 5
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="beIn Sports MAX 6" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/bein-sports-max-6.png" group-title="SPORTS",beIn Sports MAX 6
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="beIn Sports MAX 7" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/bein-sports-max-7.png" group-title="SPORTS",beIn Sports MAX 7
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="BbeINSPORTSMAX8.fr" tvg-name="beIn Sports MAX 8" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/bein-sports-max-8.png" group-title="SPORTS",beIn Sports MAX 8
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="beIn Sports MAX 9" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/bein-sports-max-9.png" group-title="SPORTS",beIn Sports MAX 9
+plugin://plugin.video.vavooto/?name=BEIN+SPORTS+MAX+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="Canal+ Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="SPORTS",Canal+ Foot
+plugin://plugin.video.vavooto/?name=CANAL%2B+FOOT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="Canal+ Formula 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/Logo_C%2BFormule_1.png" group-title="SPORTS",Canal+ Formula 1
+plugin://plugin.video.vavooto/?name=CANAL%2B+FORMULA+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusMotoGP.fr" tvg-name="Canal+ MotoGP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f5/C%2BMoto_GP.png" group-title="SPORTS",Canal+ MotoGP
+plugin://plugin.video.vavooto/?name=CANAL%2B+MOTOGP&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="Canal+ Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORTS",Canal+ Sport
+plugin://plugin.video.vavooto/?name=CANAL+SPORT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+SPORT2" tvg-name="Canal+ Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="SPORTS",Canal+ Sport 2
+plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+SPORT3" tvg-name="Canal+ Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canal%2B_Sport_3_PL.svg/2560px-Canal%2B_Sport_3_PL.svg.png" group-title="SPORTS",Canal+ Sport 3
+plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="Canal+ Sport 360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="SPORTS",Canal+ Sport 360
+plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+360&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+SPORT4" tvg-name="Canal+ Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="SPORTS",Canal+ Sport 4
+plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+SPORT5" tvg-name="Canal+ Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png" group-title="SPORTS",Canal+ Sport 5
+plugin://plugin.video.vavooto/?name=CANAL%2B+SPORT+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CanalPlusTop14.fr" tvg-name="Canal+ Top 14" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Canal_Top14BetaLatest.png/revision/latest?cb=20200321215014" group-title="SPORTS",Canal+ Top 14
+plugin://plugin.video.vavooto/?name=CANAL%2B+TOP+14&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ElevenSports1FR.be" tvg-name="Eleven Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORTS",Eleven Sports 1
+plugin://plugin.video.vavooto/?name=BE%3A+ELEVENSPORT+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="SPORTS",Eurosport 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="SPORTS",Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Eurosport3601.fr" tvg-name="Eurosport 360 - 1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/05/eurosport-360-1.png" group-title="SPORTS",Eurosport 360 - 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+360+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Eurosport3602.fr" tvg-name="Eurosport 360 - 2" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/05/la-chaine-tv-eurosport-360-2.png" group-title="SPORTS",Eurosport 360 - 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+360+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Eurosport3603.fr" tvg-name="Eurosport 360 - 3" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/05/chaine-tv-eurosport-360-3.png" group-title="SPORTS",Eurosport 360 - 3
+plugin://plugin.video.vavooto/?name=EUROSPORT+360+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+" tvg-logo="https://www.lyngsat.com/logo/tv/ii/infosport-plus-fr.png" group-title="SPORTS",Infosport+
+plugin://plugin.video.vavooto/?name=INFOSPORT%2B&type=vavoo&group=France
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="Infosport+" tvg-logo="https://www.lyngsat.com/logo/tv/ii/infosport-plus-fr.png" group-title="SPORTS",Infosport+
+plugin://plugin.video.vavooto/?name=INFOSPORT&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="SPORTS",RMC Sport 1
+plugin://plugin.video.vavooto/?name=RMC+SPORT+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+10" tvg-name="RMC SPORT 10" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 10
+plugin://plugin.video.vavooto/?name=RMC+SPORT+10&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+11" tvg-name="RMC SPORT 11" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 11
+plugin://plugin.video.vavooto/?name=RMC+SPORT+11&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+12" tvg-name="RMC SPORT 12" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 12
+plugin://plugin.video.vavooto/?name=RMC+SPORT+12&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+13" tvg-name="RMC SPORT 13" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 13
+plugin://plugin.video.vavooto/?name=RMC+SPORT+13&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="RMC Sport 2" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC Sport 2
+plugin://plugin.video.vavooto/?name=RMC+SPORT+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="RMC Sport 3" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC Sport 3
+plugin://plugin.video.vavooto/?name=RMC+SPORT+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="RMC Sport 4" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC Sport 4
+plugin://plugin.video.vavooto/?name=RMC+SPORT+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+5" tvg-name="RMC SPORT 5" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 5
+plugin://plugin.video.vavooto/?name=RMC+SPORT+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+6" tvg-name="RMC SPORT 6" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 6
+plugin://plugin.video.vavooto/?name=RMC+SPORT+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+7" tvg-name="RMC SPORT 7" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 7
+plugin://plugin.video.vavooto/?name=RMC+SPORT+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+8" tvg-name="RMC SPORT 8" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 8
+plugin://plugin.video.vavooto/?name=RMC+SPORT+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMC+SPORT+9" tvg-name="RMC SPORT 9" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC SPORT 9
+plugin://plugin.video.vavooto/?name=RMC+SPORT+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="RMC Sport Access 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="SPORTS",RMC Sport Access 1
+plugin://plugin.video.vavooto/?name=RMC+SPORT+1+ACCESS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="RMC Sport Access 2" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC Sport Access 2
+plugin://plugin.video.vavooto/?name=RMC+SPORT+2+ACCESS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="RMC Sport Access 3" tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png" group-title="SPORTS",RMC Sport Access 3
+plugin://plugin.video.vavooto/?name=RMC+SPORT+3+ACCESS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive10" tvg-name="RMC Sport Live 10" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~11bd6201e10fb7b6.png/1200x630/crop-from/top/quality/80/rmc-sport-live-10.png" group-title="SPORTS",RMC Sport Live 10
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+10&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive11" tvg-name="RMC Sport Live 11" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~11bd6201e10fb7b6.png/1200x630/crop-from/top/quality/80/rmc-sport-live-10.png" group-title="SPORTS",RMC Sport Live 11
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+11&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive12" tvg-name="RMC Sport Live 12" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmc-sport-live-12.png" group-title="SPORTS",RMC Sport Live 12
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+12&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive13" tvg-name="RMC Sport Live 13" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-rmc-sport-live-13.png" group-title="SPORTS",RMC Sport Live 13
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+13&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive14" tvg-name="RMC Sport Live 14" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-rmc-sport-live-14.png" group-title="SPORTS",RMC Sport Live 14
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+14
+#EXTINF:-1 tvg-id="RMCSportLive15" tvg-name="RMC Sport Live 15" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmc-sport-live-15-regarder.png" group-title="SPORTS",RMC Sport Live 15
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+15&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="RMC Sport Live 5" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive52.png" group-title="SPORTS",RMC Sport Live 5
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive6" tvg-name="RMC Sport Live 6" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive62.png" group-title="SPORTS",RMC Sport Live 6
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive7" tvg-name="RMC Sport Live 7" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive72.png" group-title="SPORTS",RMC Sport Live 7
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive8" tvg-name="RMC Sport Live 8" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive82.png" group-title="SPORTS",RMC Sport Live 8
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive9" tvg-name="RMC Sport Live 9" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~d57067f1262232bf.png/1200x630/crop-from/top/quality/80/rmc-sport-live-9.png" group-title="SPORTS",RMC Sport Live 9
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportLive16" tvg-name="RMC Sport Live16" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmc-sport-live-16.png" group-title="SPORTS",RMC Sport Live16
+plugin://plugin.video.vavooto/?name=RMC+SPORT+LIVE+16&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RMCSportNews.fr" tvg-name="RMC Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_RMC_Sport_News_2018.png" group-title="SPORTS",RMC Sport News
+plugin://plugin.video.vavooto/?name=RMC+SPORT+NEWS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-name="Sport En France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Sport_en_France_2L_RVB.png/250px-Sport_en_France_2L_RVB.png" group-title="SPORTS",Sport En France
+plugin://plugin.video.vavooto/?name=SPORT+EN+FRANCE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AMAZON+PRIME+MULTIPLEX" tvg-name="Amazon Prime Multiplex" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/11/amazon_prime_video_logo-freelogovectors.net_.png" group-title="SPORTS CANAL+ FOOT",Amazon Prime Multiplex
+plugin://plugin.video.vavooto/?name=AMAZON%2B+PRIME+MULTIPLEX&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIGUE1" tvg-name="Canal+ Ligue 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Logo_Ligue_1%2B_%28Ic%C3%B4ne%29.svg/langfr-250px-Logo_Ligue_1%2B_%28Ic%C3%B4ne%29.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Ligue 1
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIGUE1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE1" tvg-name="Canal+ Live 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 1
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE10" tvg-name="Canal+ Live 10" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 10
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+10&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE5" tvg-name="Canal+ Live 11" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 11
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+11&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE12" tvg-name="Canal+ Live 12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 12
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+12&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE13" tvg-name="Canal+ Live 13" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 13
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+13&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE14" tvg-name="Canal+ Live 14" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 14
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+14&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE15" tvg-name="Canal+ Live 15" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 15
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+15&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE16" tvg-name="Canal+ Live 16" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 16
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+16&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE17" tvg-name="Canal+ Live 17" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 17
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+17&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE18" tvg-name="Canal+ Live 18" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 18
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+18&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE19" tvg-name="Canal+ Live 19" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 19
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+19&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE2" tvg-name="Canal+ Live 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 2
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE3" tvg-name="Canal+ Live 3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 3
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE4" tvg-name="Canal+ Live 4" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 4
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE5" tvg-name="Canal+ Live 5" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 5
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE6" tvg-name="Canal+ Live 6" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 6
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE7" tvg-name="Canal+ Live 7" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 7
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE8" tvg-name="Canal+ Live 8" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 8
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+LIVE9" tvg-name="Canal+ Live 9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Live 9
+plugin://plugin.video.vavooto/?name=CANAL%2B+LIVE+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="CANAL+PREMIERLIGUE" tvg-name="Canal+ Premier Ligue" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Canal%2B_Live.svg/langfr-250px-Canal%2B_Live.svg.png" group-title="SPORTS CANAL+ FOOT",Canal+ Premier Ligue
+plugin://plugin.video.vavooto/?name=CANAL%2B+PREMIER+LEAGUE
+#EXTINF:-1 tvg-id="DAZN.fr" tvg-name="DAZN 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M4.fr" tvg-name="DAZN Ligue 1 - Dimanche 1er match" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Ligue 1 - Dimanche 1er match
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M8.fr" tvg-name="DAZN Ligue 1 - Dimanche dernier match" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Ligue 1 - Dimanche dernier match
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+8&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M5.fr" tvg-name="DAZN Ligue 1 - Dimanche Multiplex 17h - 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Ligue 1 - Dimanche Multiplex 17h - 1
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M6.fr" tvg-name="DAZN Ligue 1 - Dimanche Multiplex 17h - 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Ligue 1 - Dimanche Multiplex 17h - 2
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M7.fr" tvg-name="DAZN Ligue 1 - Dimanche Multiplex 17h - 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Ligue 1 - Dimanche Multiplex 17h - 3
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+7&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1" tvg-name="DAZN Ligue 1 - Multiplex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="SPORTS DAZN",DAZN Ligue 1 - Multiplex
+plugin://plugin.video.vavooto/?name=DAZN+1+LEAUGE+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1" tvg-name="DAZN Ligue 1 - Multiplex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="SPORTS DAZN",DAZN Ligue 1 - Multiplex
+plugin://plugin.video.vavooto/?name=DAZN+2+LEAUGE+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1" tvg-name="DAZN Ligue 1 - Multiplex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="SPORTS DAZN",DAZN Ligue 1 - Multiplex
+plugin://plugin.video.vavooto/?name=DAZN+3+LEAUGE+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1" tvg-name="DAZN Ligue 1 - Multiplex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="SPORTS DAZN",DAZN Ligue 1 - Multiplex
+plugin://plugin.video.vavooto/?name=DAZN+4+LEAUGE+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M2.fr" tvg-name="DAZN Ligue 1 - Samedi 1er match" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Ligue 1 - Samedi 1er match
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M3.fr" tvg-name="DAZN Ligue 1 - Samedi 2e match" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Ligue 1 - Samedi 2e match
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M1.fr" tvg-name="DAZN Ligue 1 - Vendredi" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Ligue 1 - Vendredi
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="DAZNLigue1M9.fr" tvg-name="DAZN Live9" tvg-logo="https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/filters:quality(%7BimageQualityPercentage%7D)/canalplus-cdn.canal-plus.io/p1/channel/1077/canal-ouah/CHN43FB/CHN43FB_1077_20231002" group-title="SPORTS DAZN",DAZN Live9
+plugin://plugin.video.vavooto/?name=DAZN+LIGUE+1+LIVE+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="13eRue.fr" tvg-name="13ème Rue" tvg-logo="https://www.lyngsat.com/logo/tv/num/13eme_rue_fr.png" group-title="TNT",13ème Rue
+plugin://plugin.video.vavooto/?name=13EME+RUE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="6TER" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a9/6ter_2012.png" group-title="TNT",6TER
+plugin://plugin.video.vavooto/?name=6TER&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png" group-title="TNT",AB1
+plugin://plugin.video.vavooto/?name=AB+1&type=vavoo&group=France
+#EXTINF:-1 tvg-id="AB3" tvg-name="AB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AB3_logo.svg/1200px-AB3_logo.svg.png" group-title="TNT",AB3
+plugin://plugin.video.vavooto/?name=AB+3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ABXploreFR.fr" tvg-name="ABXplore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ABXplore_logo.svg/2560px-ABXplore_logo.svg.png" group-title="TNT",ABXplore
+plugin://plugin.video.vavooto/?name=AB+XPLORE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="ABXploreFR.fr" tvg-name="ABXplore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ABXplore_logo.svg/2560px-ABXplore_logo.svg.png" group-title="TNT",ABXplore
+plugin://plugin.video.vavooto/?name=AB+EXPLORE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPdxSas0cWbgadzbAuhDjqLEd_Y4iMG0odsUoZy8ch1NJYK3ZVez_yrHCoAA&amp;amp;s" group-title="TNT",Action
+plugin://plugin.video.vavooto/?name=ACTION&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="TNT",Arte
+plugin://plugin.video.vavooto/?name=ARTE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Chérie.25.fr" tvg-name="Chérie 25" tvg-logo="https://logowik.com/content/uploads/images/cherie-255806.logowik.com.webp" group-title="TNT",Chérie 25
+plugin://plugin.video.vavooto/?name=CHERIE+25&type=vavoo&group=France
+#EXTINF:-1 tvg-id="France 2" tvg-name="FRANCE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75gfTDfdL-e43D2R2awmntB05mvURFDuhcYJEKY5oEXm4LIK9aVcRFzTl6g&amp;amp;s" group-title="TNT",FRANCE 2
+plugin://plugin.video.vavooto/?name=FRANCE 2&type=vavoo&group=France
+#EXTINF:-1 tvg-id="FRANCE 3" tvg-name="FRANCE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzqYO9_z_y5FUVRULr1t8ipW_n54umAWj0H-H4qe1ZnsSzNDxcPKVUUuYx_o&amp;amp;s" group-title="TNT",FRANCE 3
+plugin://plugin.video.vavooto/?name=FRANCE 3&type=vavoo&group=France
+#EXTINF:-1 tvg-id="FRANCE 4" tvg-name="FRANCE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8D8hHa8tQzvCzrieu8ozDp__dYDN4slllfTkTPqRh9eKmoK9g9ECfY_WRE_M&amp;amp;s" group-title="TNT",FRANCE 4
+plugin://plugin.video.vavooto/?name=FRANCE 4&type=vavoo&group=France
+#EXTINF:-1 tvg-id="FRANCE 5" tvg-name="FRANCE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehdtMEkCHAK6KKKpveJBKxfujkvTwOJ87tZMWQw9bpUEzTHBPb_vKAc2gRK0&amp;amp;s" group-title="TNT",FRANCE 5
+plugin://plugin.video.vavooto/?name=FRANCE 5&type=vavoo&group=France
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcqsTWUc0GnTr8FLzPJ93DpIIa4OGlWVNFRWV0KtnFCTmU3MH2pSPOpXrYXbY&amp;amp;s" group-title="TNT",M6
+plugin://plugin.video.vavooto/?name=M6&type=vavoo&group=France
+#EXTINF:-1 tvg-id="M6International.fr" tvg-name="M6 International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/M6_International_logo.svg/2560px-M6_International_logo.svg.png" group-title="TNT",M6 International
+plugin://plugin.video.vavooto/?name=M6+INTERNATIONAL&type=vavoo&group=France
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="TNT",NRJ12
+plugin://plugin.video.vavooto/?name=NRJ+12&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="https://www.rtl9.com/upload/media/logo-rtl9-rvb-64784327dd675.png" group-title="TNT",RTL9
+plugin://plugin.video.vavooto/?name=RTL+9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RTSDeux.ch" tvg-name="RTS Deux" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/RTS2_logo_20.png" group-title="TNT",RTS Deux
+plugin://plugin.video.vavooto/?name=RTS+DEUX&type=vavoo&group=France
+#EXTINF:-1 tvg-id="RTSUn.ch" tvg-name="RTS Un" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RTS1_logo_20.png" group-title="TNT",RTS Un
+plugin://plugin.video.vavooto/?name=RTS+UNE&type=vavoo&group=France
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="Serie Club" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Serie_club_hd.png" group-title="TNT",Serie Club
+plugin://plugin.video.vavooto/?name=SERIE+CLUB&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png" group-title="TNT",Syfy
+plugin://plugin.video.vavooto/?name=SYFY&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TCM+CINEMA" tvg-name="Tcm+ Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/TCM_Cin%C3%A9ma.svg/2560px-TCM_Cin%C3%A9ma.svg.png" group-title="TNT",Tcm+ Cinema
+plugin://plugin.video.vavooto/?name=TCM+CINEMA&type=vavoo&group=France
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Téva" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1280px-TMC_logo_2016.svg.png" group-title="TNT",Téva
+plugin://plugin.video.vavooto/?name=TEVA&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TF1" tvg-name="TF1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4u3EMdVyFA2uqIpbnwKBT1GRW9U-mA2jyCz28L2ieGx4vB9bKhpInhHCIqmk&amp;amp;s" group-title="TNT",TF1
+plugin://plugin.video.vavooto/?name=TF1
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/2560px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="TNT",TF1 Series Films
+plugin://plugin.video.vavooto/?name=TF+1+SERIES+FILMS&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/2560px-TF1_S%C3%A9ries_Films_logo_2020.svg.png" group-title="TNT",TF1 Series Films
+plugin://plugin.video.vavooto/?name=TF1+SERIES+%26+FILM&type=vavoo&group=France
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/1200px-TFX_logo_2018.svg.png" group-title="TNT",TFX
+plugin://plugin.video.vavooto/?name=TFX&type=vavoo&group=France
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1280px-TMC_logo_2016.svg.png" group-title="TNT",TMC
+plugin://plugin.video.vavooto/?name=TMC&type=vavoo&group=France
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/2560px-W9-Logo.svg.png" group-title="TNT",W9
+plugin://plugin.video.vavooto/?name=W9&type=vavoo&group=France
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="WarnerTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Warner_TV_Poland_Logo.png" group-title="TNT",WarnerTV
+plugin://plugin.video.vavooto/?name=WARNER&type=vavoo&group=France
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="WarnerTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Warner_TV_Poland_Logo.png" group-title="TNT",WarnerTV
+plugin://plugin.video.vavooto/?name=WARNER+TV&type=vavoo&group=France
 #EXTINF:-1 tvg-name="Report TV" tvg-logo="https://i.imgur.com/yuRDJYY.png" tvg-id="ReportTV.al" tvg-country="AL" group-title="Albania",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Syri" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-id="Syri.al" tvg-country="AL" group-title="Albania",Syri
