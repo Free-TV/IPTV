@@ -33,7 +33,7 @@
 | 3   | Virgin Media 1 | [>](https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/960px-Virgin_Media_One_logo_2018.svg.png"/> | VirginMediaOne.ie |
 | 5   | Virgin Media 2 | [>](https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/960px-Virgin_Media_Two_logo_2018.svg.png"/> | VirginMediaTwo.ie |
 | 6   | Virgin Media 3 | [>](https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/960px-Virgin_Media_Three_logo_2018.svg.png"/> | VirginMediaThree.ie |
-| 7   | Virgin Media 4 | [>](https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Virgin_Media_Four_logo.svg/1024px-Virgin_Media_Four_logo.svg.png"/> | VirginMediaFour.ie |
+| 7   | Virgin Media 4 | [>](https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8) | <img height="20" src="https://i.imgur.com/x4VsyIm.png"/> | VirginMediaFour.ie |
 | 17  | RTÉjr | [x]() | <img height="20" src="https://i.imgur.com/2rhsMFF.png"/> | Cula4.ie |
 | 18  | Cúla4 | [x]() | <img height="20" src="https://i.imgur.com/E3jxqu9.png"/> | RTEjr.ie |
 | 21  | RTE News | [>](https://live.rte.ie/live/a/channel3/channel3.isml/channel3.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png"/> | RTENews.ie |
