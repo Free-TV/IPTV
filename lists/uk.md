@@ -11,7 +11,7 @@
 |  2   |     BBC Two Ⓖ      |                                    [>](https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8)                                    |               <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/500px-BBC_Two_logo_2021.svg.png"/>               |     BBCTwo.uk     |
 |  3   |       ITV 1        |                        [>](http://45.14.84.37/itv1/index.m3u8)                         |              <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/500px-ITV1_logo_%282022%29.svg.png"/>               |      ITV1.uk      |
 |  4   |       STV Ⓖ        | [>](https://csm-e-stv-eb.tls1.yospace.com/csm/live/139900483.m3u8) |                       <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/STV_logo_2014.png/500px-STV_logo_2014.png"/>                        |      STV.uk       |
-|  5   |       UTV          | [x](http://92.114.85.81:8000/play/a04s/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/500px-UTV_2016.svg.png"/> | UTV.uk |
+|  5   |       UTV          | [x](http://92.114.85.81:8000/play/a04s/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/UTV_Logo.png/250px-UTV_Logo.png"/> | UTV.uk |
 |  6   |    Channel 4 Ⓢ     |                                                              [x](http://176.65.146.105:8011/play/a07w/index.m3u8)                                                              |    <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/500px-Channel_4_%28On_Demand%29_2023.svg.png"/>     |    Channel4.uk    |
 |  7   |       S4C Ⓖ        |                                            [>](https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8)                                             |                                                       <img height="20" src="https://i.imgur.com/vrcbnBv.png"/>                                                       |      S4C.uk       |
 |  8   |    Channel 5 Ⓢ     |                                                         [>](http://193.46.58.239:8080/Channel5/index.m3u8)                                                         |           <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/500px-Channel_5_%28UK%29_2016.svg.png"/>            |    Channel5.uk    |
@@ -145,7 +145,7 @@
 
 | #   | Channel        |                        Link                        | Logo | EPG id |
 |:---:|:--------------:|:--------------------------------------------------:|:----:|:------:|
-| 3   |          UTV          | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/500px-UTV_2016.svg.png"/> | UTV.uk |
+| 3   |          UTV          | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/UTV_Logo.png/250px-UTV_Logo.png"/> | UTV.uk |
 | 7   | London Live |                       [x]()                        | <img height="20" src="https://i.imgur.com/2I8RBhY.png"/> |
 | 11  |      Sky Arts Ⓢ       | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/9/9c/Sky_Arts_2020.png"/> | SkyArts.uk |
 | 12  |       Quest UK        | [x]() | <img height="20" src="https://i.imgur.com/9IFXXNc.png"/> | QuestUK.uk |

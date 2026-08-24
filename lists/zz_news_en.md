@@ -33,7 +33,7 @@
 | 29 |      USA Today      |  [>](https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/37K0AZX.png"/>  |  USATODAY.us  |
 | 30 |      TVC News Ⓨ    |  [>](https://www.youtube.com/tvcnewsnigeria/live)  |  <img height="20" src="https://i.imgur.com/jaSq18B.png"/>  |  TVCNews.ng  |
 | 31 |     Channels 24 Ⓨ  |  [>](https://www.youtube.com/channelstelevision/live)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg"/>  |  Channels24.ng  |
-| 32 |  Sky News Now (AU)  |  [>](https://i.mjh.nz/sky-news-now.m3u8)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png"/> |  SkyNewsAustralia.au  |
+| 32 |  Sky News Now (AU)  |  [>](https://i.mjh.nz/sky-news-now.m3u8)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Sky_News_Australia_logo_%282018%29.svg/500px-Sky_News_Australia_logo_%282018%29.svg.png"/> |  SkyNewsAustralia.au  |
 | 33 |     Global News     |  [>](https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8)  |  <img height="20" src="https://i.imgur.com/xk1QOhW.png"/>  |  GlobalNews.ca  |
 | 34 |   Russia Today Ⓖ    |  [>](https://rt-glb.rttv.com/live/rtnews/playlist.m3u8)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png"/>  |  RT.ru  |
 | 35 |    Pluto TV News    |  [x]() | <img height="20" src="https://i.imgur.com/JdqA4r9.png"/>  |  PlutoTVNews.us |

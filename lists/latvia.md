@@ -2,7 +2,7 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 11  | ReTV | [>](https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/lv/thumb/d/db/ReTV_Logo_2022.svg/320px-ReTV_Logo_2022.svg.png"/> | ReTV.lv |
+| 11  | ReTV | [>](https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ReTV_Zals.svg/500px-ReTV_Zals.svg.png"/> | ReTV.lv |
 
 <h3>Local channels</h3>
 
