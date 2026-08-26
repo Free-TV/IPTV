@@ -8,8 +8,7 @@
 | 1  | ERT 1 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.mpd)       | <img height="20" src="https://i.imgur.com/WWMe8IY.png"/> | ERT1.gr       |
 | 2  | ERT 2 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd)          | <img height="20" src="https://i.imgur.com/pcusPFl.png"/> | ERT2.gr       |
 | 3  | ERT 3 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd)       | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/> | ERT3.gr       |
-| 4  | ERT News     | [>](https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/index.mpd)  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> | ERTNews.gr    |
-| 5  | ERT World    | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd)   | <img height="20" src="https://i.imgur.com/KsMTWYw.png"/> | ERTWorld.gr   |
+| 4  | ERT News     | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd)  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> | ERTNews.gr    |
 | 6  | ERT Sports 1 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports1.gr |
 | 7  | ERT Sports 2 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports2.gr |
 | 8  | ERT Sports 3 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports3.gr |
@@ -42,7 +41,6 @@
 |:--:|:----------------|:------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|:------------------|
 | 31 | Action24        | [>](https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8)                                                       | <img height="20" src="https://i.imgur.com/Zi1YohT.png"/> | Action24TV.gr     |
 | 32 | Alert           | [>](https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8)                                                                      | <img height="20" src="https://i.imgur.com/xqa87lG.png"/> | alert.gr          |
-| 33 | ART             | [>](https://rumble.com/live-hls-dvr/73h8c2/playlist.m3u8)                                                                     | <img height="20" src="https://i.imgur.com/7TyUxLj.png"/> | arttv.gr          |
 | 34 | Blue Sky        | [>](https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live)                                                        | <img height="20" src="https://i.imgur.com/rzuQslM.png"/> | BlueSky.gr        |
 | 35 | High TV         | [>](https://live.streams.ovh/hightv/hightv/playlist.m3u8)                                                                     | <img height="20" src="https://i.imgur.com/wHzCGry.png"/> | hightv.gr         |
 | 36 | Kontra          | [>](https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8)                                                            | <img height="20" src="https://i.imgur.com/ROZ9VfV.png"/> | KontraChannel.gr  |
@@ -87,7 +85,6 @@
 | #  | Channel             | Link                                                                                       |                           Logo                            |     EPG id     |
 |:--:|:--------------------|--------------------------------------------------------------------------------------------|:---------------------------------------------------------:|:--------------:|
 | 71 | Epsilon             | [>](https://neon.streams.gr:8081/epsilontv/index.m3u8)                                     | <img height="20" src="https://i.imgur.com/vUQSDvZ.png"/>  |   epsilon.gr   |
-| 72 | Star Central Greece | [>](https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash)   | <img height="20" src="https://i.imgur.com/BTUEvxg.png"/>  | digitalstar.gr |
 | 73 | 91NRG               | [>](http://tv.nrg91.gr:1935/onweb/live/master.m3u8)                                        |  <img height="20" src="https://i.imgur.com/g1pCRRG.png">  |    nrg91.gr    |
 
 
@@ -130,7 +127,6 @@
 | 112 | Kriti 1   | [>](https://livetv.streams.ovh:8081/kriti/index.m3u8)                 | <img height="20" src="https://i.imgur.com/C1ucQeC.png"/>   | Kriti1Tv.gr  |
 | 113 | Kriti TV  | [>](https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/eLhYMmc.png"/>   | KritiTv.gr   |
 | 114 | NEA       | [>](https://live.neatv.gr:8888/hls/neatv_high/index.m3u8)             | <img height="20" src="https://i.imgur.com/nvNW8G7.png"/>   | NeaTV.gr     |
-| 115 | TeleKriti | [>](https://neon.streams.gr:8081/telekriti/index.m3u8)                | <img height="20" src="https://i.imgur.com/18ZYiyi.png"/>   | TeleKriti.gr |
 
 
 
@@ -140,13 +136,3 @@
 |:---:|:-----------|-----------------------------------------------------------------------|:---------------------------------------------------------|:------------|
 | 121 | Samiaki TV | [>](http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8)   | <img height="20" src="https://i.imgur.com/aV5QoNG.png"/> | CenterTV.gr |
 | 102 | Syros TV1  | [>](https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8)     | <img height="20" src="https://i.imgur.com/duXHyvN.png"/> | SyrosTV1.gr |
-
-
-
-
-
-<h2>Radio</h2>
-
-|  #  |      Channel       |                                    Link                                    |                                                            Logo                                                             |    EPG id    |
-|:---:|:------------------:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:------------:|
-| 201 | Η Φωνή της Ελλάδας | [>](https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd) | <img height="20" src="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/500px-VoiceOfGreece.svg.png"/> | ERTWorld1.gr |
