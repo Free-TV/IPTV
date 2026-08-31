@@ -86,7 +86,6 @@
 | #  | Channel             | Link                                                                                       |                           Logo                            |     EPG id     |
 |:--:|:--------------------|--------------------------------------------------------------------------------------------|:---------------------------------------------------------:|:--------------:|
 | 71 | Epsilon             | [>](https://neon.streams.gr:8081/epsilontv/index.m3u8)                                     | <img height="20" src="https://i.imgur.com/vUQSDvZ.png"/>  |   epsilon.gr   |
-| 72 | Star Central Greece | [>](https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash)   | <img height="20" src="https://i.imgur.com/BTUEvxg.png"/>  | digitalstar.gr |
 | 73 | 91NRG               | [>](http://tv.nrg91.gr:1935/onweb/live/master.m3u8)                                        |  <img height="20" src="https://i.imgur.com/g1pCRRG.png">  |    nrg91.gr    |
 
 
