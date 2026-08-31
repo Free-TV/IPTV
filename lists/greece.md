@@ -9,6 +9,7 @@
 | 2  | ERT 2 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd)          | <img height="20" src="https://i.imgur.com/pcusPFl.png"/> | ERT2.gr       |
 | 3  | ERT 3 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd)       | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/> | ERT3.gr       |
 | 4  | ERT News     | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd)  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> | ERTNews.gr    |
+| 5  | ERT Cosmos   | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd) | <img height="20" src="https://i.imgur.com/KsMTWYw.png"/> | ERTWorld.gr   |
 | 6  | ERT Sports 1 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports1.gr |
 | 7  | ERT Sports 2 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports2.gr |
 | 8  | ERT Sports 3 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports3.gr |
@@ -85,6 +86,7 @@
 | #  | Channel             | Link                                                                                       |                           Logo                            |     EPG id     |
 |:--:|:--------------------|--------------------------------------------------------------------------------------------|:---------------------------------------------------------:|:--------------:|
 | 71 | Epsilon             | [>](https://neon.streams.gr:8081/epsilontv/index.m3u8)                                     | <img height="20" src="https://i.imgur.com/vUQSDvZ.png"/>  |   epsilon.gr   |
+| 72 | Star Central Greece | [>](https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash)   | <img height="20" src="https://i.imgur.com/BTUEvxg.png"/>  | digitalstar.gr |
 | 73 | 91NRG               | [>](http://tv.nrg91.gr:1935/onweb/live/master.m3u8)                                        |  <img height="20" src="https://i.imgur.com/g1pCRRG.png">  |    nrg91.gr    |
 
 

@@ -7,6 +7,8 @@ https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd
 https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd
 #EXTINF:-1 tvg-name="ERT News" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews.gr" tvg-chno="4" tvg-country="GR" group-title="Greece",ERT News
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
+#EXTINF:-1 tvg-name="ERT Cosmos" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld.gr" tvg-chno="5" tvg-country="GR" group-title="Greece",ERT Cosmos
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd
 #EXTINF:-1 tvg-name="ERT Sports 1" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports1.gr" tvg-chno="6" tvg-country="GR" group-title="Greece",ERT Sports 1
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd
 #EXTINF:-1 tvg-name="ERT Sports 2" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports2.gr" tvg-chno="7" tvg-country="GR" group-title="Greece",ERT Sports 2
@@ -87,6 +89,8 @@ https://thor.mental-media.gr:19360/imp/imp.m3u8
 https://rtmp.win:3793/live/mesogeiostvlive.m3u8
 #EXTINF:-1 tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" tvg-id="epsilon.gr" tvg-chno="71" tvg-country="GR" group-title="Greece",Epsilon
 https://neon.streams.gr:8081/epsilontv/index.m3u8
+#EXTINF:-1 tvg-name="Star Central Greece" tvg-logo="https://i.imgur.com/BTUEvxg.png" tvg-id="digitalstar.gr" tvg-chno="72" tvg-country="GR" group-title="Greece",Star Central Greece
+https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash
 #EXTINF:-1 tvg-name="91NRG" tvg-logo="https://i.imgur.com/g1pCRRG.png" tvg-id="nrg91.gr" tvg-chno="73" tvg-country="GR" group-title="Greece",91NRG
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-name="Astra" tvg-logo="https://i.imgur.com/oYRPfZm.png" tvg-id="astratv.gr" tvg-chno="81" tvg-country="GR" group-title="Greece",Astra
