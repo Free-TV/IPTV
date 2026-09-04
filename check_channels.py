@@ -51,6 +51,7 @@ Usage:
 """
 
 import argparse
+import http.client
 import json
 import os
 import re
@@ -139,7 +140,10 @@ def probe(url, timeout):
         if error.code in REFUSING_CODES:
             return REFUSED
         return UNREACHABLE
-    except (urllib.error.URLError, OSError, ValueError):
+    except (urllib.error.URLError, OSError, ValueError, http.client.HTTPException):
+        # http.client.HTTPException covers a server that started a chunked
+        # response and then hung up mid-chunk (IncompleteRead) and similar
+        # low-level protocol violations - a broken connection, not a bad URL
         return UNREACHABLE
     return OK if looks_like_a_playlist(head) else GONE
 
