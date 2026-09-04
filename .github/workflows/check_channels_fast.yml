@@ -1,0 +1,88 @@
+name: Channel check (fast)
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  check-fast:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Run the fast check (HTTP probes only, no ffprobe)
+        run: |
+          python3 check_channels.py --attempts 3 --timeout 12 --pause 5 --workers 40 --json run.jsonl | tee check_summary.txt
+
+      - name: Append to history and prune entries older than 90 days
+        run: |
+          mkdir -p .github/checker-history
+          history=".github/checker-history/history.jsonl"
+          touch "$history"
+          cat run.jsonl >> "$history"
+          cutoff=$(date -u -d '90 days ago' +%Y-%m-%dT%H:%M:%SZ)
+          python3 - "$history" "$cutoff" <<'PYEOF'
+          import json, sys
+          path, cutoff = sys.argv[1], sys.argv[2]
+          kept = []
+          with open(path, encoding="utf-8") as f:
+              for line in f:
+                  line = line.strip()
+                  if line and json.loads(line)["checked_at"] >= cutoff:
+                      kept.append(line)
+          with open(path, "w", encoding="utf-8") as f:
+              f.write("\n".join(kept) + ("\n" if kept else ""))
+          PYEOF
+
+      - name: Commit history
+        run: |
+          git config user.name "ChannelCheckerBot" || true
+          git config user.email "channelcheckerbot@users.noreply.github.com" || true
+          git add .github/checker-history/history.jsonl
+          git diff --staged --quiet || git commit --quiet -m "Channel check (fast) - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git pull --rebase origin master || true
+          git diff --quiet HEAD @{u} || git push origin HEAD
+
+      - name: Build the status dashboard
+        run: python3 generate_dashboard.py --history .github/checker-history/history.jsonl --out docs/index.html
+
+      - name: Upload dashboard for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Summarize
+        if: always()
+        run: |
+          {
+            echo "## Fast channel check - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo ""
+            echo "Every channel probed 3x over HTTP; no ffprobe confirmation (see the *Channel check (deep)* workflow for that). \`blocked\` means geo-restricted, not broken - see \`check_channels.py\` for what each state means."
+            echo ""
+            echo '```'
+            cat check_summary.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+  deploy-pages:
+    needs: check-fast
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
