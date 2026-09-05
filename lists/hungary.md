@@ -94,6 +94,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 27  | Pannon RTV    | [>](https://stream2.nmih.hu:4102/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
 | 28  | Tisza TV      | [x](https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
 | 29  | Hegyvidék TV (Buda TV) | [>](http://budatv.streaming.aiproduction.hu/playlist.m3u) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" /> |
+| 30  | ES TV (Esztergom) | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8) | | EsztergomTV.hu |
+| 31  | Komáromi Televízió | [>](https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8) | | KomaromiTelevizio.hu |
 
 
 <h2>Invalid</h2>
