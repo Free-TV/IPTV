@@ -124,6 +124,17 @@ def looks_like_a_playlist(head):
     return "<MPD" in text[:2000]
 
 
+# some radio stations serve the live audio itself at the listed URL rather than
+# a playlist that points to one - that is a legitimate live source too, and a
+# station is not "gone" just because it skipped the manifest step
+STREAM_CONTENT_TYPES = ("audio/", "video/mp2t", "video/mpeg")
+
+
+def looks_like_a_raw_stream(content_type):
+    """Return True if `content_type` is a direct audio/video stream, not a manifest."""
+    return content_type.lower().startswith(STREAM_CONTENT_TYPES)
+
+
 def probe(url, timeout):
     """Open `url` once and report what the server did."""
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -133,6 +144,7 @@ def probe(url, timeout):
     context.verify_mode = ssl.CERT_NONE
     try:
         with urllib.request.urlopen(request, timeout=timeout, context=context) as response:
+            content_type = response.headers.get("Content-Type", "")
             head = response.read(3000).decode("utf-8", "ignore")
     except urllib.error.HTTPError as error:
         if error.code in GONE_CODES:
@@ -145,6 +157,8 @@ def probe(url, timeout):
         # response and then hung up mid-chunk (IncompleteRead) and similar
         # low-level protocol violations - a broken connection, not a bad URL
         return UNREACHABLE
+    if looks_like_a_raw_stream(content_type):
+        return OK
     return OK if looks_like_a_playlist(head) else GONE
 
 
