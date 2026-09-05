@@ -14,15 +14,15 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1 | Today FM | [>](https://stream.audioxi.com/TDAAC) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg"> | todayfm.com |
-|2 | 98FM | [>](https://stream.audioxi.com/98) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/98FM_2022.svg/1920px-98FM_2022.svg.png" /> | 98fm.com |
+| 1 | Today FM | [>](https://live-bauerie.sharp-stream.com/TDAAC) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Today_FM_Logo_2017.jpg"> | todayfm.com |
+|2 | 98FM | [>](https://live-bauerie.sharp-stream.com/98) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/98FM_2022.svg/1920px-98FM_2022.svg.png" /> | 98fm.com |
 | 3 | FM104 | [>](https://onic.dublin.live.stream.broadcasting.news/stream-fm104) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" /> | fm104.ie |
 | 4 | Radio Nova | [>](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" /> | www.nova.ie |
-| 5 | Spin 103.8 | [>](https://stream.audioxi.com/SP) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" /> | spin1038.com |
-| 6 | Newstalk | [>](https://stream.audioxi.com/NT) | <img height="20" src="" /> | newstalk.com
+| 5 | Spin 103.8 | [>](https://live-bauerie.sharp-stream.com/SP) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Spin_400x400.png" /> | spin1038.com |
+| 6 | Newstalk | [>](https://live-bauerie.sharp-stream.com/NT) | <img height="20" src="" /> | newstalk.com
 | 7 | Dublin's Q102  | [>](https://onic.dublin.live.stream.broadcasting.news/stream-q102) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" /> | q102.ie |
-| 8 | Classic Hits | [>](https://stream.audioxi.com/CLASSIC) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Classichits2023.jpg" /> | classichits.ie |
-| 9 | Sunshine 106.8 | [>](https://live-bauerie.sharp-stream.com/SUN) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/9/97/Sunshine_106.8_logo.png" /> | sunshineradio.ie |
+| 8 | Classic Hits | [>](https://live-bauerie.sharp-stream.com/CLASSIC) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Classichits2023.jpg" /> | classichits.ie |
+| 9 | Sunshine 106.8 | [>](https://playerservices.streamtheworld.com/api/livestream-redirect/SUNSHINE_106_8.mp3) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/9/97/Sunshine_106.8_logo.png" /> | sunshineradio.ie |
 
 <h2>Invalid</h2>
 
