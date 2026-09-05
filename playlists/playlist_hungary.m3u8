@@ -56,7 +56,7 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="CityTV (Belváros Lipótváros)" tvg-logo="https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png" tvg-chno="6" tvg-country="HU" group-title="Hungary",CityTV (Belváros Lipótváros)
 https://citytv.hu/playlist.m3u8
 #EXTINF:-1 tvg-name="FehérvárTV" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" tvg-chno="7" tvg-country="HU" group-title="Hungary",FehérvárTV
-https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Gyöngyös TV" tvg-logo="https://i.imgur.com/RHgaPCk.png" tvg-id="GyongyosiTV.hu" tvg-chno="9" tvg-country="HU" group-title="Hungary",Gyöngyös TV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Halom TV" tvg-logo="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" tvg-chno="10" tvg-country="HU" group-title="Hungary",Halom TV
