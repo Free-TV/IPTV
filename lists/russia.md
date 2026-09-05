@@ -7,11 +7,11 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |  # |      Channel       | Link  | Logo | EPG id |
 |:--:|:------------------:|:-----:|:----:|:------:|
 |  1 |   Первый канал   | [>](https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
-|  2 |     Россия 1     | [>](https://player.smotrim.ru/iframe/stream/live_id/2961) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/960px-Russia-1.svg.png"/> | Russia1.ru |
+|  2 |     Россия 1     | [>](https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/960px-Russia-1.svg.png"/> | Russia1.ru |
 |  3 |     Матч ТВ Ⓢ      | [>](https://streaming.televizor-24-tochka.ru/live/6.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](http://ott-cdn.ucom.am/s17/index.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал Ⓢ    | [>](https://streaming.televizor-24-tochka.ru/live/8.m3u8) | <img height="20" src="https://i.imgur.com/u8Q69D9.png"/> | 5Kanal.ru |
-|  6 | Россия-Культура Ⓢ  | [>](https://player.smotrim.ru/iframe/stream/live_id/19201) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
+|  6 | Россия-Культура Ⓢ  | [>](https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
 |  7 |    Россия-24 (1080p)     | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
 |  8 |    Россия-24 (720p)     | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8) | <img height="20" src="https://i.imgur.com/tpqsFzm.png"/> | Russia24.ru |
 |  9 |     Карусель Ⓢ     | [>](https://streaming102.interskytech.com/live/232.m3u8) | <img height="20" src="https://i.imgur.com/4fFMlVq.png"/> | Karusel.ru |
@@ -56,7 +56,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | 0   | Кубань 24 Ⓞ | [>](https://ok.ru/video/4157442498242) | <img height="20" src="https://i.imgur.com/atzrXcz.png"/> | Kuban24.ru |
 | 0   | Луганск 24 | [>](https://tv.gtrklnr.ru/hls/Lugansk24.m3u8) | <img height="20" src="https://i.imgur.com/YnLFQnt.png"/> | Lugansk24.ua |
 | 0   | Мир Белогорья | [>](http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8) | <img height="20" src="https://i.imgur.com/CCNAg7R.png"/> | MirBelogorya.ru |
-| 0   | Москва 24 | [>](https://player.smotrim.ru/iframe/stream/live_id/1661) | <img height="20" src="https://i.imgur.com/gXbUMVy.png"/> | Moskva24.ru |
+| 0   | Москва 24 | [>](https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21) | <img height="20" src="https://i.imgur.com/gXbUMVy.png"/> | Moskva24.ru |
 | 0   | Нижний Новгород 24 | [>](https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZWgPVIC.png"/> | NizhniyNovgorod24.ru |
 | 0   | Самара 24 | [>](https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8) | <img height="20" src="https://i.imgur.com/Xg7Xzna.png"/> | Samara24.ru |
 | 0   | Саратов 24 | [>](https://saratov24.tv/online/playlist.php) | <img height="20" src="https://i.imgur.com/Y5G3ET6.png"/> | Saratov24.ru |
@@ -72,14 +72,14 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | 360 Новости | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YXDeX8q.png"/> | 360News.ru |
-| 0   | Вести ФМ | [>](https://player.smotrim.ru/iframe/stream/live_id/52035) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png"/> |
+| 0   | Вести ФМ | [>](https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png"/> |
 | 0   | Небеса ТВ7 Ⓢ | [>](https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8) | <img height="20" src="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png"/> | NebesaTV7.ru |
 | 0   | Север | [>](https://live.mediacdn.ru/sr1/sever/playlist.m3u8) | <img height="20" src="https://i.imgur.com/sTOQLYl.png"/> | Sever.ru |
 | 0   | Смотрим - Детям | [x]() | <img height="20" src="https://cdn-st1.smotrim.ru/vh/pictures/r/424/215/2.png"/> |
 | 0   | Смотрим: Мелодрамы | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8) | <img height="20" src="https://cdn-st1.smotrim.ru/vh/pictures/r/456/967/6.png"/> |
 | 0   | Смотрим: Тайны | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/456/396/2.png"/> |
 | 0   | Смотрим: Честный Детектив | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png"/> |
-| 0   | Соловьёв Live | [>](https://player.smotrim.ru/iframe/stream/live_id/63338) | <img height="20" src="https://i.imgur.com/v0OYe1d.png"/> | SolovyovLive.ru |
+| 0   | Соловьёв Live | [>](https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37) | <img height="20" src="https://i.imgur.com/v0OYe1d.png"/> | SolovyovLive.ru |
 | 0   | Ю Ⓢ | [>](https://strm.yandex.ru/kal/utv/utv0.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/ru/a/ac/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%AE%C2%BB_%28%D1%81_3_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0%29.png"/> | U.ru |
 
 <h2>DVB-S</h2>
