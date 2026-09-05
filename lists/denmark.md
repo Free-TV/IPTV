@@ -13,8 +13,8 @@ https://en.wikipedia.org/wiki/TV_2_(Denmark)#Regions
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | TV Syd+ | [>](http://grevsen.dk/live/catchuptv/catchuptv/15.m3u8) | <img height="20" src="https://i.imgur.com/k2jf591.png"/> | TVSYD.dk |
-| 2   | TV 2/Fyn | [>](http://grevsen.dk/live/catchuptv/catchuptv/11.m3u8) | <img height="20" src="https://i.imgur.com/4L6AIMH.png"/> | TV2Fyn.dk |
+| 1   | TV Syd+ | [>](https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8) | <img height="20" src="https://i.imgur.com/k2jf591.png"/> | TVSYD.dk |
+| 2   | TV 2/Fyn | [>](https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd) | <img height="20" src="https://i.imgur.com/4L6AIMH.png"/> | TV2Fyn.dk |
 | 3   | TV 2/Øst | [>](http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8) | <img height="20" src="https://i.imgur.com/H9l6Ulw.png"/> | TV2Ost.dk |
 | 4   | TV 2/Nord | [>](http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8) | <img height="20" src="https://i.imgur.com/tEJ22UW.png"/> | TV2Nord.dk |
 | 5   | TV 2 Kosmopol | [x](https://cdn-lt-live.tv2lorry.dk/env/cluster-1-d.live.nvp1/live/hls/p/2045321/e/1_grusx1zd/tl/main/st/0/t/rCct87c-v2SFFCvQK1BBOg/index-s32.m3u8) | <img height="20" src="https://i.imgur.com/oVmCoKY.png"/> | TV2Kosmopol.dk |
