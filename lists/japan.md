@@ -17,15 +17,15 @@
 | # |       Channel        |                                                       Link                                                       |                           Logo                           |    EPG id     |
 |:-:|:--------------------:|:----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:-------------:|
 | BS101 |        NHK BS        |                   [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8)                   | <img height="30" src="https://i.imgur.com/t0uZcSR.png"/> |   NHKBS.jp    |
-| BS4K101 |      NHK BSP4K       |                   [>]([NO PUBLIC STREAM])                   | <img height="30" src="https://i.imgur.com/uvPpFo5.png"/> |  NHKBSP4K.jp  |
+| BS4K101 |      NHK BSP4K       |                   [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8)                   | <img height="30" src="https://i.imgur.com/uvPpFo5.png"/> |  NHKBSP4K.jp  |
 | BS141 |       BS日テレ        |                   [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8)                   | <img height="30" src="https://i.imgur.com/26ATUNc.png"/> | BSNipponTV.jp |
 | BS151 |       BS朝日       | [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8) | <img height="30" src="https://i.imgur.com/Cl68ZMA.png"/> |  BSAsahi.jp   |
 | BS161 |        BS-TBS        |                   [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8)                   | <img height="30" src="https://i.imgur.com/BSt9UG2.png"/> |   BSTBS.jp    |
 | BS171 |     BSテレ東      | [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8) | <img height="30" src="https://i.imgur.com/LsQlNcz.png"/> | BSTVTokyo.jp  |
 | BS181 |     BSフジ        |                   [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8)                   | <img height="30" src="https://i.imgur.com/N4xeDxJ.png"/> |   BSFuji.jp   |
-| BS191 |  WOWOWプライム     |    [>]([NO PUBLIC STREAM]) | <img height="30" src="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png"/> | WOWOWPrime.jp |
+| BS191 |  WOWOWプライム     |    [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8) | <img height="30" src="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png"/> | WOWOWPrime.jp |
 | BS192 |  WOWOWライブ         |     [>]([NO PUBLIC STREAM]) |  <img height="30" src="https://www.lyngsat.com/logo/tv/ww/wowow_live.png"/> | WOWOWLive.jp |
-| BS193 |  WOWOWシネマ　     |     [>]([NO PUBLIC STREAM]) |  <img height="30" src="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png"/> | WOWOWCinema.jp |
+| BS193 |  WOWOWシネマ　     |     [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8) |  <img height="30" src="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png"/> | WOWOWCinema.jp |
 | BS200 |     BS10        |      [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs10#.m3u8) |  <img height="30" src="https://i.imgur.com/KPZiuHl.png"/> | jcom_120_110_4 |
 | BS201 | BS10スターチャンネル  |      [>](https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8) |  <img height="30" src="https://i.imgur.com/SN0ED0U.png"/> | jcom_120_200_4 |
 | BS236 |  アニマックス  |      [>]([NO PUBLIC STREAM]) |  <img height="30" src="https://i.imgur.com/jO0qUvj.png"/> | AnimaxAsia.sg@Japan |
