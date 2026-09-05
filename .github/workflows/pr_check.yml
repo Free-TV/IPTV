@@ -14,77 +14,104 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node
-        uses: actions/setup-node@v6
-        with:
-          node-version: "20.10.x"
-
-      - name: Extract added/changed channel links from the PR diff
+      - name: Find which lists this PR touches, and which URLs it added or changed
         run: |
           git fetch origin "${{ github.event.pull_request.base.sha }}" --depth=1 || true
           python3 - "${{ github.event.pull_request.base.sha }}" <<'PYEOF'
-          import re, subprocess, sys
+          import json
+          import os
+          import re
+          import subprocess
+          import sys
 
           base = sys.argv[1]
+          changed_files = subprocess.run(
+              ["git", "diff", "--name-only", base, "HEAD", "--", "lists/*.md"],
+              capture_output=True, text=True, check=True,
+          ).stdout.split()
+          # skip lists the PR deletes - nothing left to check them against
+          lists = sorted({
+              f[len("lists/"):-3] for f in changed_files if os.path.exists(f)
+          })
+
           diff = subprocess.run(
               ["git", "diff", "--unified=0", base, "HEAD", "--", "lists/*.md"],
-              capture_output=True, text=True
+              capture_output=True, text=True, check=True,
           ).stdout
+          row = re.compile(r"^\|[^|]*\|([^|]+)\|[^|]*\[(?:>|x)\]\((https?://[^)\s]+)\)")
+          changed_urls = sorted({
+              m.group(2).strip()
+              for line in diff.splitlines()
+              if line.startswith("+") and not line.startswith("+++")
+              for m in [row.match(line[1:].strip())] if m
+          })
 
-          rows = []
-          for line in diff.splitlines():
-              if not line.startswith('+') or line.startswith('+++'):
-                  continue
-              content = line[1:]
-              m = re.search(r'\|\s*([^|]+?)\s*\|\s*\[(?:>|x)\]\(([^)]*)\)', content)
-              if m:
-                  name = m.group(1).strip() or "Unnamed channel"
-                  url = m.group(2).strip()
-                  if url.startswith('http'):
-                      rows.append((name, url))
+          with open("pr_lists.json", "w", encoding="utf-8") as handle:
+              json.dump({"lists": lists, "changed_urls": changed_urls}, handle)
 
-          with open('pr_test.m3u8', 'w') as f:
-              f.write('#EXTM3U\n')
-              for name, url in rows:
-                  f.write(f'#EXTINF:-1,{name}\n{url}\n')
-
-          print(f'Found {len(rows)} channel link(s) added or changed in this PR.')
+          print(f"Lists touched: {', '.join(lists) or '(none)'}")
+          print(f"URLs added or changed: {len(changed_urls)}")
           PYEOF
 
-      - name: Check the PR's changed links
+      - name: Check every channel in the touched lists (existing + new)
         if: success()
         run: |
-          if [ ! -s pr_test.m3u8 ] || [ "$(grep -c '^#EXTINF' pr_test.m3u8 || true)" = "0" ]; then
-            {
-              echo "## PR channel check"
-              echo ""
-              echo "No new or modified stream links (\`[>](...)\` / \`[x](...)\`) were found in this PR's diff — nothing to check."
-            } >> "$GITHUB_STEP_SUMMARY"
+          lists=$(python3 -c "import json; print(' '.join(json.load(open('pr_lists.json'))['lists']))")
+          if [ -z "$lists" ]; then
+            echo "## PR channel check" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "No list files exist to check (this PR only removed lists) - nothing to do." >> "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
+          # shellcheck disable=SC2086
+          python3 check_channels.py $lists --attempts 2 --timeout 10 --pause 2 --workers 30 --json pr_run.jsonl
 
-          npm install -g iptv-checker || true
-          sudo apt-get update && sudo apt-get install -y ffmpeg
-          mkdir -p pr_output
-          iptv-checker -o pr_output -p 20 -t 20000 -r 1 ./pr_test.m3u8 || true
+      - name: Summarize, separating what this PR touched from what was already there
+        if: always()
+        run: |
+          python3 - <<'PYEOF'
+          import json
+          import os
 
-          total=$(grep -c '^#EXTINF' pr_test.m3u8 || echo 0)
-          online=$(grep -c '^#EXTINF' pr_output/online.m3u 2>/dev/null || echo 0)
-          failed=$(grep -c '^#EXTINF' pr_output/failed.m3u 2>/dev/null || echo 0)
+          summary_path = os.environ["GITHUB_STEP_SUMMARY"]
+          if not os.path.exists("pr_run.jsonl"):
+              with open(summary_path, "a", encoding="utf-8") as handle:
+                  handle.write("## PR channel check\n\nNothing was checked.\n")
+              raise SystemExit(0)
 
-          {
-            echo "## PR channel check"
-            echo ""
-            echo "Checked $total link(s) added or changed by this PR:"
-            echo "- ✅ Online: $online"
-            echo "- ❌ Failed: $failed"
-            if [ "$failed" -gt 0 ]; then
-              echo ""
-              echo "### Failed links"
-              echo '```'
-              grep '^#EXTINF\|^http' pr_output/failed.m3u
-              echo '```'
-              echo ""
-              echo "_A failed check here doesn't automatically mean the PR is wrong — some channels are geo-blocked and only work from within their own country, which this CI runner isn't. Use your judgment._"
-            fi
-          } >> "$GITHUB_STEP_SUMMARY"
+          changed_urls = set()
+          if os.path.exists("pr_lists.json"):
+              with open("pr_lists.json", encoding="utf-8") as handle:
+                  changed_urls = set(json.load(handle)["changed_urls"])
+
+          with open("pr_run.jsonl", encoding="utf-8") as handle:
+              rows = [json.loads(line) for line in handle if line.strip()]
+
+          touched = [r for r in rows if r["url"] in changed_urls]
+          others = [r for r in rows if r["url"] not in changed_urls and r["state"] != "alive"]
+
+          def fmt(rows):
+              ordered = sorted(rows, key=lambda r: (r["state"] != "dead", r["list"], r["channel"]))
+              lines = [f'{r["state"]:12} {r["list"]:12} {r["channel"]} -> {r["url"]}' for r in ordered]
+              return "\n".join(lines) or "(none)"
+
+          lists_seen = ", ".join(sorted({r["list"] for r in rows})) or "(none)"
+          with open(summary_path, "a", encoding="utf-8") as handle:
+              handle.write("## PR channel check\n\n")
+              handle.write(f"Lists checked in full (existing + new channels): {lists_seen}\n\n")
+              handle.write("### Channels this PR added or changed\n\n```\n")
+              handle.write(fmt(touched) + "\n```\n\n")
+              if others:
+                  handle.write(f"### Already broken before this PR ({len(others)})\n\n")
+                  handle.write(
+                      "_Not caused by this PR - shown because you're already touching this file, "
+                      "so it's a good time to notice.\n\n```\n"
+                  )
+                  handle.write(fmt(others) + "\n```\n\n")
+              handle.write(
+                  "_`blocked` usually means geo-restricted on purpose (the Ⓖ marker in the lists), "
+                  "not broken. This is a quick pass (no ffprobe second opinion) - the scheduled "
+                  "*Channel check (deep)* workflow gives channels that look `dead` here one more "
+                  "chance before anyone acts on it. Use your judgment either way._\n"
+              )
+          PYEOF
