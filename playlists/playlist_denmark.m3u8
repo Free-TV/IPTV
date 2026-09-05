@@ -8,9 +8,9 @@ https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
 #EXTINF:-1 tvg-name="Folketinget TV" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-id="TVfromtheDanishParliament.dk" tvg-chno="37" tvg-country="DK" group-title="Denmark",Folketinget TV
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="TV Syd+" tvg-logo="https://i.imgur.com/k2jf591.png" tvg-id="TVSYD.dk" tvg-chno="1" tvg-country="DK" group-title="Denmark",TV Syd+
-http://grevsen.dk/live/catchuptv/catchuptv/15.m3u8
+https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
 #EXTINF:-1 tvg-name="TV 2/Fyn" tvg-logo="https://i.imgur.com/4L6AIMH.png" tvg-id="TV2Fyn.dk" tvg-chno="2" tvg-country="DK" group-title="Denmark",TV 2/Fyn
-http://grevsen.dk/live/catchuptv/catchuptv/11.m3u8
+https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd
 #EXTINF:-1 tvg-name="TV 2/Øst" tvg-logo="https://i.imgur.com/H9l6Ulw.png" tvg-id="TV2Ost.dk" tvg-chno="3" tvg-country="DK" group-title="Denmark",TV 2/Øst
 http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8
 #EXTINF:-1 tvg-name="TV 2/Nord" tvg-logo="https://i.imgur.com/tEJ22UW.png" tvg-id="TV2Nord.dk" tvg-chno="4" tvg-country="DK" group-title="Denmark",TV 2/Nord
