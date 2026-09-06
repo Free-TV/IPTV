@@ -36,7 +36,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Argentina#Major_bro
 |32.3 | Comarca TV | [>](https://www.youtube.com/c/ComarcaTV/live)|<img height="20" src="http://directostv.teleame.com/wp-content/uploads/2020/10/Comarca-TV-en-vivo-Online.png" />|ComarcaTV.ar|
 | 33.1 | El Trece       | [>](https://livetrx01.vodgc.net/eltrecetv/index.m3u8) | <img height="20" src="https://i.imgur.com/ZK7AQFg.png"/> | ElTrece.ar |
 | 35.1 | El Nueve       | [>](http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8) | <img height="20" src="https://i.imgur.com/EtcVSm4.png"/> | ElNueve.ar |
-| 34.1 | Telefe Ⓨ       | [>](https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8) | <img height="20" src="https://i.imgur.com/wrZfMXn.png"/> | Telefe.ar |
+| 34.1 | Telefe         | [>](http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/wrZfMXn.png"/> | Telefe.ar |
 | 36.1 | América      | [>](https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8) | <img height="20" src="https://i.imgur.com/Jt7dOQm.png"/> | AmericaTV.ar |
 | 36.2 | A24 Ⓨ          | [>](https://www.youtube.com/c/A24com/live) | <img height="20" src="https://i.imgur.com/OdhF7ym.png"/> | A24.ar |
 <h2>Invalid</h2>
