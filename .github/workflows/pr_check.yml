@@ -63,8 +63,12 @@ jobs:
             echo "No list files exist to check (this PR only removed lists) - nothing to do." >> "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
+          # check_channels.py's own exit code reflects every dead channel in these lists,
+          # including ones this PR never touched - that's not this job's call to make, so
+          # it's deliberately ignored here. The next step decides pass/fail from the
+          # PR-touched channels only.
           # shellcheck disable=SC2086
-          python3 check_channels.py $lists --attempts 2 --timeout 10 --pause 2 --workers 30 --json pr_run.jsonl
+          python3 check_channels.py $lists --attempts 2 --timeout 10 --pause 2 --workers 30 --json pr_run.jsonl || true
 
       - name: Summarize, separating what this PR touched from what was already there
         if: always()
@@ -95,6 +99,12 @@ jobs:
               lines = [f'{r["state"]:12} {r["list"]:12} {r["channel"]} -> {r["url"]}' for r in ordered]
               return "\n".join(lines) or "(none)"
 
+          # only a channel this PR itself added or changed can fail the check - and only
+          # for a clear-cut `dead` verdict. `blocked`/`unreachable`/`flaky` have too many
+          # false positives from this runner's own network (geo-blocks, a datacenter IP
+          # some providers reject, one slow probe) to gate a merge on.
+          newly_dead = [r for r in touched if r["state"] == "dead"]
+
           lists_seen = ", ".join(sorted({r["list"] for r in rows})) or "(none)"
           with open(summary_path, "a", encoding="utf-8") as handle:
               handle.write("## PR channel check\n\n")
@@ -114,4 +124,12 @@ jobs:
                   "*Channel check (deep)* workflow gives channels that look `dead` here one more "
                   "chance before anyone acts on it. Use your judgment either way._\n"
               )
+              if newly_dead:
+                  handle.write(
+                      f"\n**This check fails: {len(newly_dead)} channel(s) added or changed by "
+                      "this PR look dead.** See the list above.\n"
+                  )
+
+          if newly_dead:
+              raise SystemExit(1)
           PYEOF
