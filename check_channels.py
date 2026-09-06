@@ -135,6 +135,29 @@ def looks_like_a_raw_stream(content_type):
     return content_type.lower().startswith(STREAM_CONTENT_TYPES)
 
 
+# some geo-gated broadcasters (RAI's relinker is the known case) answer an
+# out-of-territory request with a plain HTTP 200 and a real video file - not an
+# error, a decoy: a short "this content is not available in your country" clip.
+# A player never notices anything is wrong; our probe would call it alive. The
+# redirect chain gives it away: it always lands on the same well-known asset,
+# regardless of which channel was asked for.
+GEOBLOCK_PLACEHOLDER_MARKERS = ("video_no_available.mp4",)
+
+
+def is_geoblock_placeholder(final_url):
+    """Return True if `final_url` is a known geo-block decoy, not a real stream."""
+    return any(marker in final_url for marker in GEOBLOCK_PLACEHOLDER_MARKERS)
+
+
+def classify_response(final_url, content_type, head):
+    """Turn a completed HTTP response into an outcome: OK, REFUSED, or GONE."""
+    if is_geoblock_placeholder(final_url):
+        return REFUSED
+    if looks_like_a_raw_stream(content_type):
+        return OK
+    return OK if looks_like_a_playlist(head) else GONE
+
+
 def probe(url, timeout):
     """Open `url` once and report what the server did."""
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -144,6 +167,7 @@ def probe(url, timeout):
     context.verify_mode = ssl.CERT_NONE
     try:
         with urllib.request.urlopen(request, timeout=timeout, context=context) as response:
+            final_url = response.geturl()
             content_type = response.headers.get("Content-Type", "")
             head = response.read(3000).decode("utf-8", "ignore")
     except urllib.error.HTTPError as error:
@@ -157,9 +181,7 @@ def probe(url, timeout):
         # response and then hung up mid-chunk (IncompleteRead) and similar
         # low-level protocol violations - a broken connection, not a bad URL
         return UNREACHABLE
-    if looks_like_a_raw_stream(content_type):
-        return OK
-    return OK if looks_like_a_playlist(head) else GONE
+    return classify_response(final_url, content_type, head)
 
 
 def ffprobe_finds_a_stream(url):
