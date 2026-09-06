@@ -449,6 +449,8 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://i.imgur.com/SORrhtE.png" tvg-id="CCTV14.cn" tvg-chno="15" tvg-country="CN" group-title="China",CCTV-14 少儿
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://i.imgur.com/V9I1ZyB.png" tvg-id="CCTV15.cn" tvg-chno="16" tvg-country="CN" group-title="China",CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://i.imgur.com/gaA4Cjy.png" tvg-id="CCTV16.cn" tvg-chno="17" tvg-country="CN" group-title="China",CCTV-16 奥林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/XMsoHut.png" tvg-id="CCTV17.cn" tvg-chno="18" tvg-country="CN" group-title="China",CCTV-17 农业农村
