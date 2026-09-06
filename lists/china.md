@@ -21,7 +21,7 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 | 13  | CCTV-12 社会与法 | [>](http://74.91.26.218:82/live/cctv12hd.m3u8) | <img height="20" src="https://i.imgur.com/gZNwF1a.png"/> | CCTV12.cn |
 | 14  | CCTV-13 新闻 | [>](http://74.91.26.218:82/live/cctv13hd.m3u8) | <img height="20" src="https://i.imgur.com/pPO8uJN.png"/> | CCTV13.cn |
 | 15  | CCTV-14 少儿 | [>](http://74.91.26.218:82/live/cctv14hd.m3u8) | <img height="20" src="https://i.imgur.com/SORrhtE.png"/> | CCTV14.cn |
-| 16  | CCTV-15 音乐 | [x]() | <img height="20" src="https://i.imgur.com/V9I1ZyB.png"/> | CCTV15.cn |
+| 16  | CCTV-15 音乐 | [>](http://74.91.26.218:82/live/cctv15hd.m3u8) | <img height="20" src="https://i.imgur.com/V9I1ZyB.png"/> | CCTV15.cn |
 | 17  | CCTV-16 奥林匹克 | [>](http://74.91.26.218:82/live/cctv16hd.m3u8) | <img height="20" src="https://i.imgur.com/gaA4Cjy.png"/> | CCTV16.cn |
 | 18  | CCTV-17 农业农村 | [>](http://74.91.26.218:82/live/cctv17hd.m3u8) | <img height="20" src="https://i.imgur.com/XMsoHut.png"/> | CCTV17.cn |
 | 19  | FZTV-1 News 新闻综合频道 | [>](http://live.zohi.tv/video/s10001-fztv-1/index.m3u8) | <img height="20" src="https://i.imgur.com/QvBxGw3.png"/> | FZTV1.cn |
