@@ -3,6 +3,8 @@
 https://i.mjh.nz/.r/10-nsw.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" tvg-id="ABCTV.au" tvg-chno="1" tvg-country="AU" group-title="Australia",ABC
 https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://i.imgur.com/GBl1ynA.png" tvg-id="SBSTV.au" tvg-chno="5" tvg-country="AU" group-title="Australia",SBS Ⓖ
+https://i.mjh.nz/.r/sbs-sbst.m3u8
 #EXTINF:-1 tvg-name="Seven" tvg-logo="https://i.imgur.com/6zwKJaa.png" tvg-id="SevenNetwork.au" tvg-chno="5" tvg-country="AU" group-title="Australia",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8
 #EXTINF:-1 tvg-name="Nine" tvg-logo="https://i.imgur.com/SMXwfr5.png" tvg-id="NineNetwork.au" tvg-chno="5" tvg-country="AU" group-title="Australia",Nine
@@ -23,6 +25,14 @@ https://c.mjh.nz/abc-me.m3u8
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-name="M4TV" tvg-logo="https://i.imgur.com/HZohlNk.png" tvg-id="M4TV.au" tvg-chno="8" tvg-country="AU" group-title="Australia",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SBS Viceland" tvg-logo="https://i.imgur.com/WMKCkD0.png" tvg-id="SBSViceland.au" tvg-chno="5" tvg-country="AU" group-title="Australia",SBS Viceland Ⓖ
+https://i.mjh.nz/.r/sbs-2syd.m3u8
+#EXTINF:-1 tvg-name="SBS World Movies" tvg-logo="https://i.imgur.com/V6hhtCx.png" tvg-id="SBSWorldMovies.au" tvg-chno="5" tvg-country="AU" group-title="Australia",SBS World Movies Ⓖ
+https://i.mjh.nz/.r/sbs-4syd.m3u8
+#EXTINF:-1 tvg-name="SBS Food" tvg-logo="https://i.imgur.com/qN9p4h0.png" tvg-id="SBSFood.au" tvg-chno="5" tvg-country="AU" group-title="Australia",SBS Food Ⓖ
+https://i.mjh.nz/.r/sbs-3syd.m3u8
+#EXTINF:-1 tvg-name="NITV" tvg-logo="https://i.imgur.com/YR7sXaN.png" tvg-id="NITV.au" tvg-chno="5" tvg-country="AU" group-title="Australia",NITV Ⓖ
+https://i.mjh.nz/.r/sbs-5nsw.m3u8
 #EXTINF:-1 tvg-name="7two" tvg-logo="https://i.imgur.com/6pyIg02.png" tvg-id="7two.au" tvg-chno="5" tvg-country="AU" group-title="Australia",7two
 https://i.mjh.nz/.r/7two-syd.m3u8
 #EXTINF:-1 tvg-name="7mate" tvg-logo="https://i.imgur.com/zpr12HP.png" tvg-id="7mate.au" tvg-chno="5" tvg-country="AU" group-title="Australia",7mate
@@ -32,10 +42,12 @@ https://i.mjh.nz/.r/7flix-syd.m3u8
 #EXTINF:-1 tvg-name="Racing.com" tvg-logo="https://i.imgur.com/pma0OCf.png" tvg-id="Racingcom.au" tvg-chno="5" tvg-country="AU" group-title="Australia",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-name="9Gem" tvg-logo="https://i.imgur.com/sWmE1kq.png" tvg-id="9Gem.au" tvg-chno="5" tvg-country="AU" group-title="Australia",9Gem Ⓖ
-https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+https://i.mjh.nz/.r/gem-nsw.m3u8
 #EXTINF:-1 tvg-name="9Go!" tvg-logo="https://i.imgur.com/1CFGu5O.png" tvg-id="9Go.au" tvg-chno="5" tvg-country="AU" group-title="Australia",9Go! Ⓖ
-https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+https://i.mjh.nz/.r/go-nsw.m3u8
 #EXTINF:-1 tvg-name="9Life" tvg-logo="https://i.imgur.com/ZCUiqlL.png" tvg-id="9Life.au" tvg-chno="5" tvg-country="AU" group-title="Australia",9Life Ⓖ
-https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+https://i.mjh.nz/.r/life-nsw.m3u8
 #EXTINF:-1 tvg-name="9Rush" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png" tvg-id="9Rush.au" tvg-chno="5" tvg-country="AU" group-title="Australia",9Rush Ⓖ
-https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+https://i.mjh.nz/.r/rush-nsw.m3u8
+#EXTINF:-1 tvg-name="C31 Melbourne" tvg-logo="https://i.imgur.com/dXwkFei.png" tvg-id="C31Melbourne.au" tvg-chno="5" tvg-country="AU" group-title="Australia",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
