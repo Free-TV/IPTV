@@ -37,6 +37,6 @@
 | 33 | Šlágr Muzika Ⓢ | [>](https://stream-23.mazana.tv/slagrmuzika.m3u8s) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png"/> | SlagrMuzika.cz |
 | 34 | Šlágr Premium Ⓢ | [>](https://stream-15.mazana.tv/slagrpremium.m3u) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png"/> | SlagrPremium.cz |
 | 35 | Retro Music TV Ⓢ | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png"/> | RetroMusicTV.cz |
-| 36 | Praha TV | [>](https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png"/> | PrahaTV.cz |
+| 36 | Praha TV | [>](https://1977134029.rsc.cdn77.org/1977134029/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png"/> | PrahaTV.cz |
 | 37 | Východoceská TV | [>](https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png"/> | V1.cz |
 | 38 | UTV | [>](https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8) | <img height="20" src="https://imgur.com/ulfeIwM.png"/> | utv.cz |

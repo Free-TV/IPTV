@@ -463,16 +463,16 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-name="88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" tvg-id="88stereo.cr" tvg-chno="88" tvg-country="CR" group-title="Costa Rica",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-id="HRT1.hr" tvg-chno="1" tvg-country="HR" group-title="Croatia",HRT 1
-https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
-#EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" tvg-id="HRT2.hr" tvg-chno="2" tvg-country="HR" group-title="Croatia",HRT 2
-https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
+#EXTINF:-1 tvg-name="HRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png" tvg-id="HRT1.hr" tvg-chno="1" tvg-country="HR" group-title="Croatia",HRT 1 Ⓖ
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 tvg-name="HRT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png" tvg-id="HRT2.hr" tvg-chno="2" tvg-country="HR" group-title="Croatia",HRT 2 Ⓖ
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
 #EXTINF:-1 tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" tvg-id="RTLCroatia.hr" tvg-chno="3" tvg-country="HR" group-title="Croatia",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 tvg-name="Nova TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/500px-Nova_TV_Croatia_logo.png" tvg-id="NovaTV.hr" tvg-chno="4" tvg-country="HR" group-title="Croatia",Nova TV
 http://176.61.157.250/NovaTV/index.m3u8
-#EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" tvg-chno="5" tvg-country="HR" group-title="Croatia",HRT 3
-https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
+#EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" tvg-chno="5" tvg-country="HR" group-title="Croatia",HRT 3 Ⓖ
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
 #EXTINF:-1 tvg-name="HRT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png" tvg-id="HRT4.hr" tvg-chno="6" tvg-country="HR" group-title="Croatia",HRT 4 Ⓖ
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" tvg-chno="7" tvg-country="HR" group-title="Croatia",RTL 2
@@ -596,7 +596,7 @@ https://stream-15.mazana.tv/slagrpremium.m3u
 #EXTINF:-1 tvg-name="Retro Music TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" tvg-id="RetroMusicTV.cz" tvg-chno="35" tvg-country="CZ" group-title="Czech Republic",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Praha TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png" tvg-id="PrahaTV.cz" tvg-chno="36" tvg-country="CZ" group-title="Czech Republic",Praha TV
-https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+https://1977134029.rsc.cdn77.org/1977134029/index.m3u8
 #EXTINF:-1 tvg-name="Východoceská TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png" tvg-id="V1.cz" tvg-chno="37" tvg-country="CZ" group-title="Czech Republic",Východoceská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-name="UTV" tvg-logo="https://imgur.com/ulfeIwM.png" tvg-id="utv.cz" tvg-chno="38" tvg-country="CZ" group-title="Czech Republic",UTV
