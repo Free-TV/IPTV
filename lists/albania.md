@@ -25,6 +25,6 @@
 | 0  | Syri | [>](https://stream.syritv.al/live/syritv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4zVyj1M.png"/> | Syri.al |
 | 0  | Top News Ⓣ | [>](https://www.twitch.tv/topnewsal) | <img height="20" src="https://i.imgur.com/tBAXkOW.png"/> | TopNews.al |
 | 0  | Tropoja | [>](https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/D3hNOVS.png"/> | TropojaTelevizion.al |
-| 0  | TV 7 Albania | [>](https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8) | <img height="20" src="https://i.imgur.com/k9WqPLZ.png"/> | TV7Albania.al |
-| 0  | TV Apollon Ⓢ | [>](https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2) | <img height="20" src="https://i.imgur.com/gUz2AjM.png"/> | TVApollon.al |
+| 0  | TV 7 Albania | [>](https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8) | <img height="20" src="https://i.imgur.com/k9WqPLZ.png"/> | TV7Albania.al |
+| 0  | TV Apollon Ⓢ | [>](https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1) | <img height="20" src="https://i.imgur.com/gUz2AjM.png"/> | TVApollon.al |
 | 0  | Vizion Plus | [>](https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png"/> | VizionPlus.al |
