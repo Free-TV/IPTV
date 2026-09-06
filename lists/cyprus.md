@@ -23,5 +23,5 @@
 | 2   | BRT 2 | [x](https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/t5kbIuj.png"/> | BRT2.cy |
 | 4   | Kibris Genc TV | [x](https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/eBdQn9h.png"/> | KibrisGencTV.cy |
 | 5   | Kanal T | [x](https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4bA4pXT.png"/> | KibrisKanalT.cy |
-| 6   | Kibris TV | [x](https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5MJZPTo.png"/> | KibrisTV.cy |
-| 7   | TV 2020 | [x](https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rtfsNdd.png"/> | TV2020.cy |
+| 6   | Kibris TV | [>](https://old.kuzeykibris.tv/m3u8/kktv.m3u8) | <img height="20" src="https://i.imgur.com/5MJZPTo.png"/> | KibrisTV.cy |
+| 7   | TV 2020 Ⓨ | [>](https://www.youtube.com/@TV2020KIBRIS/live) | <img height="20" src="https://i.imgur.com/rtfsNdd.png"/> | TV2020.cy |

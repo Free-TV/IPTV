@@ -9,3 +9,7 @@ http://213.7.216.229:8888/udp/239.23.0.5:1234
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Ada TV" tvg-logo="https://i.imgur.com/LPQfdz2.png" tvg-id="AdaTV.cy" tvg-chno="3" tvg-country="CY" group-title="Cyprus",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Kibris TV" tvg-logo="https://i.imgur.com/5MJZPTo.png" tvg-id="KibrisTV.cy" tvg-chno="6" tvg-country="CY" group-title="Cyprus",Kibris TV
+https://old.kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:-1 tvg-name="TV 2020" tvg-logo="https://i.imgur.com/rtfsNdd.png" tvg-id="TV2020.cy" tvg-chno="7" tvg-country="CY" group-title="Cyprus",TV 2020 Ⓨ
+https://www.youtube.com/@TV2020KIBRIS/live
