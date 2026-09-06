@@ -15,7 +15,7 @@
 | 11 |    The Guardian     |  [>](https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/o9AYq9V.png"/>  |  TheGuardian.uk |
 | 12 |      CBS News       |  [>](https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png"/>  |  CBSNews.us |
 | 13 |    ABC News Live    |  [>](https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png"/>  |  ABCNewsLive.us |
-| 14 |  LiveNOW from FOX   |  [>](https://lnc-fox-live-now.tubi.video/index.m3u8)  |  <img height="20" src="https://i.imgur.com/1JnyzHv.png"/>  |  LiveNOWFromFOX.us |
+| 14 |  LiveNOW from FOX   |  [>](https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/1JnyzHv.png"/>  |  LiveNOWFromFOX.us |
 | 15 |  CBC News Network   |  [>](https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/SjTdhvJ.png"/>  |  CBCNewsNetwork.ca |
 | 16 |     Ticker News     |  [>](https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/z7M0QxV.png"/>   |  tickerNews.au  |
 | 17 |     India Today     |  [>](https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/koFYddE.png"/>  |  IndiaToday.in |
