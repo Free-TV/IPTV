@@ -2396,7 +2396,7 @@ https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-name="One" tvg-logo="https://i.imgur.com/UPlfzFx.png" tvg-id="One.mt" tvg-chno="4" tvg-country="MT" group-title="Malta",One
 https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-name="Smash TV" tvg-logo="https://i.imgur.com/ZKF0fG3.png" tvg-id="SmashTV.mt" tvg-chno="5" tvg-country="MT" group-title="Malta",Smash TV
-http://a3.smashmalta.com/hls/smash/smash.m3u8
+https://stream.smashmalta.com/live/webplayer/livestream/1.m3u8
 #EXTINF:-1 tvg-name="TVM Ⓢ" tvg-logo="https://i.imgur.com/6jaNiUi.png" tvg-id="TVM.mt" tvg-chno="1" tvg-country="MT" group-title="Malta",TVM Ⓢ Ⓨ
 https://www.youtube.com/channel/UChlf9r1rzhJ_SVM_WCKFL1g/live
 #EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://i.imgur.com/zNSuxVZ.jpg" tvg-id="AlcarriaTV.es" tvg-chno="1" tvg-country="MX" group-title="Mexico",Alcarria TV
@@ -2585,6 +2585,8 @@ https://wazobia.live:8333/channel/wmax.m3u8
 https://wazobia.live:8333/channel/wmaxph.m3u8
 #EXTINF:-1 tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/500px-Logo_of_the_Korean_Central_Television.svg.png" tvg-id="KCTV.kp" tvg-chno="1" tvg-country="KP" group-title="North Korea",KCTV
 https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:-1 tvg-name="Ryongnamsan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RyongnamsanTV_DPRK.png/500px-RyongnamsanTV_DPRK.png" tvg-id="RyongnamsanTV.kp" tvg-chno="3" tvg-country="KP" group-title="North Korea",Ryongnamsan TV
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-name="MRT1" tvg-logo="https://i.imgur.com/EkkyAE0.png" tvg-id="MRT1.mk" tvg-chno="1" tvg-country="MK" group-title="North Macedonia",MRT1 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=
 #EXTINF:-1 tvg-name="MRT2" tvg-logo="https://i.imgur.com/YvOrUnN.png" tvg-id="MRT2.mk" tvg-chno="2" tvg-country="MK" group-title="North Macedonia",MRT2 Ⓖ
