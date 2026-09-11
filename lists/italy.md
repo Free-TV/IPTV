@@ -47,9 +47,11 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 44  | Frisbee        | [>](https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> | Frisbee.it |
 | 46  | Cartoonito Ⓖ  | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/oK2DcDJ.png"/> | Cartoonito.it |
 | 47  | Super!        | [>](https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1124YEp.png"/> | Super!.it |
+| 48  | Rai News 24   | [>](https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8) | <img height="20" src="https://i.imgur.com/gdzGwB6.png"/> | RaiNews24.it |
 | 48  | Rai News 24 Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/gdzGwB6.png"/> | RaiNews24.it |
 | 49  | Italia 2 Ⓖ    | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/nq48sjO.png"/> | Italia.2.it |
 | 50  | Sky TG24 Ⓖ    | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556) | <img height="20" src="https://i.imgur.com/q4d3Dah.png"/> | Sky.TG24.it |
+| 51  | TGCOM 24      | [>](https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8) | <img height="20" src="https://i.imgur.com/xautVD8.png"/> | TGCom.it |
 | 51  | TGCOM 24 Ⓖ  | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/xautVD8.png"/> | TGCom.it |
 | 52  | DMAX           | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/dmEmRX7.png"/> | DMAX.it |
 | 54  | Rai Storia    | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> | RaiStoria.it |
@@ -79,19 +81,27 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 258 | RadioFreccia   | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8) | <img height="20" src="https://i.imgur.com/J5N9F7Z.png"/> | RadioFrecciaTV.it |
 | 265 | RDS Social TV | [>](https://stream.rdstv.radio/index.m3u8) | <img height="20" src="https://i.imgur.com/TY6FhqI.png"/> | RDSSocialTV.it |
 | 266 | Radio ZETA     | [>](https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8) | <img height="20" src="https://i.imgur.com/0MgCm1n.png"/> | RadioZetaTV.it |
-| 899 | Radio TV Serie A con RDS | [>](https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8) | <img height="20" src="https://i.imgur.com/NzDeCIx.png"/> | RadioTVSerieA.it |
+| 899 | Radio TV Serie A | [>](https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8) | <img height="20" src="https://i.imgur.com/2AvxGJF.png"/> | RadioTVSerieA.it |
 
 <h2>Satellite</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 58  | Sportitalia SOLOCALCIO | [>](https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
-| 61  | BIKE Channel   | [>](https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
+| 0   | Mediaset Italia - America | [>](https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8) | <img height="20" src="https://i.imgur.com/oh8ihqr.png"/> | Mediaset.Italia.-.America.it |
+| 0   | Mediaset Italia - Australia e Asia | [>](https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8) | <img height="20" src="https://i.imgur.com/oh8ihqr.png"/> | Mediaset.Italia.-.Australia.e.Asia.it |
+| 0   | Mediaset Italia - Europa e Africa | [>](https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8) | <img height="20" src="https://i.imgur.com/oh8ihqr.png"/> | Mediaset.Italia.-.Europa.e.Africa.it |
+| 0   | Rai Italia Asia e Australia | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8) | <img height="20" src="https://i.imgur.com/riXPOTh.png"/> |
+| 0   | Rai Italia Europa e Africa | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8) | <img height="20" src="https://i.imgur.com/riXPOTh.png"/> |
+| 0   | Rai Italia Nord America | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8) | <img height="20" src="https://i.imgur.com/riXPOTh.png"/> | RaiItaliaAmerica.it |
+| 0   | Rai Italia Sud America | [>](https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8) | <img height="20" src="https://i.imgur.com/riXPOTh.png"/> |
+| 0   | Rai World Premium | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8) | <img height="20" src="https://i.imgur.com/q1EHOhz.png"/> |
+| 58  | Sportitalia SOLOCALCIO Ⓖ | [>](https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/hu56Ya5.png"/> | SportitaliaSolocalcio.it |
 | 67  | Radio Montecarlo TV Ⓖ | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/3TMMXmS.png"/> | RadioMonteCarloTV.it |
 | 68  | Virgin Radio TV Ⓖ | [>](https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/7Im3HI1.png"/> | VirginRadioTV.it |
 | 89  | Senato TV      | [>](https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FoQoNZW.png"/> | SenatoTV.it |
 | 90  | Camera dei Deputati Ⓢ | [>](https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fqGn1k9.png"/> | CameradeiDeputati.it |
 | 210 | Rai 4K Ⓖ       | [>](https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5gkt9DD.png"/> | Rai4K.it |
+| 507 | Class CNBC Ⓖ | [>](https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | ClassCNBC.it |
 | 701 | UniNettuno University TV Ⓖ | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BOGMeio.png"/> | UniNettunoUniversityTV.it |
 
 <h2>Regional DVB-T</h2>
@@ -428,11 +438,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 63  | GM24 Ⓢ         | [x](https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCntSA3.png"/> | GM24.it |
+| 61  | BIKE Channel   | [x](https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
 | 167 | VH1            | [x](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> | VH1Italia.it |
-| 1  | RAI Italia America   | [>](http://210.210.155.69/s/s63/S4/mnf.m3u8) | <img height="20" src="https://www.tvdream.net/img/rai-italia-bg.jpg"/> | RaiItaliaAmerica.it |
-| 3  | RAI Italia Asia   | [x](http://210.210.155.37/x6bnqe/s/s63/index2.m3u8) | <img height="20" src="https://www.tvdream.net/img/rai-italia-bg.jpg"/> | RaiItaliaAsia.it |
 | 176 | Explorer HD Channel | [x](https://59d7d6f47d7fc.streamlock.net/explorerhdch/explorerhdch/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gFwhIZC.png"/> | ExplorerHDChannel.it |
-| 507 | Class CNBC Ⓖ | [>](https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | ClassCNBC.it |
 | 511 | BFC            | [x](https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3OOsLu6.png"/> | BFCForbes.it |
 | 0   | Antenna Sud Sport | [x](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | Antenna Sud Sport 2 | [x](https://live.antennasudwebtv.it:9443/hls/vodsport2.m3u8) | <img height="20" src="https://i.imgur.com/dl86FW1.png"/> |
