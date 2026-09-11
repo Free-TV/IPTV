@@ -101,7 +101,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 89  | Senato TV      | [>](https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/FoQoNZW.png"/> | SenatoTV.it |
 | 90  | Camera dei Deputati Ⓢ | [>](https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8) | <img height="20" src="https://i.imgur.com/fqGn1k9.png"/> | CameradeiDeputati.it |
 | 210 | Rai 4K Ⓖ       | [>](https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5gkt9DD.png"/> | Rai4K.it |
-| 507 | Class CNBC Ⓖ | [>](https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | ClassCNBC.it |
+| 507 | Class CNBC Ⓖ | [>](https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/oAiSU8O.png"/> | Class.CNBC.it |
 | 701 | UniNettuno University TV Ⓖ | [>](https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BOGMeio.png"/> | UniNettunoUniversityTV.it |
 
 <h2>Regional DVB-T</h2>
