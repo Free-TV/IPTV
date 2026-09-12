@@ -47,54 +47,10 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
 [NO PUBLIC STREAM]
 #EXTINF:-1 tvg-name="J SPORTS 4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg" tvg-id="JSPORTS4.jp" tvg-chno="BS245" tvg-country="JP" group-title="日本 / Japan",J SPORTS 4
 [NO PUBLIC STREAM]
-#EXTINF:-1 tvg-name="釣りビジョン" tvg-logo="https://i.imgur.com/Yc7JvSK.png" tvg-id="FishingVision.jp" tvg-chno="BS251" tvg-country="JP" group-title="日本 / Japan",釣りビジョン
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://i.imgur.com/HdC3Hdc.png" tvg-id="NihonEigaSenmonChannel.jp" tvg-chno="BS255" tvg-country="JP" group-title="日本 / Japan",日本映画専門チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="ショップチャンネル" tvg-logo="https://i.imgur.com/CCMAF7W.png" tvg-id="ShopChannel.jp" tvg-chno="CS055" tvg-country="JP" group-title="日本 / Japan",ショップチャンネル
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-logo="https://i.imgur.com/FznYA39.png" tvg-id="QVC.jp" tvg-chno="CS161" tvg-country="JP" group-title="日本 / Japan",QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-name="東映チャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" tvg-id="ToeiChannel.jp" tvg-chno="CS218" tvg-country="JP" group-title="日本 / Japan",東映チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="チャンネルNECO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png" tvg-id="ChannelNECO.jp" tvg-chno="CS223" tvg-country="JP" group-title="日本 / Japan",チャンネルNECO
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ムービープラス" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" tvg-id="MoviePlus.jp" tvg-chno="CS240" tvg-country="JP" group-title="日本 / Japan",ムービープラス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="GAORA" tvg-logo="https://i.imgur.com/Myh0PWD.png" tvg-id="GAORASPORTS.jp" tvg-chno="CS254" tvg-country="JP" group-title="日本 / Japan",GAORA
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="日テレジータス" tvg-logo="https://i.imgur.com/xq1VG0E.png" tvg-id="NitteleGPlus.jp" tvg-chno="CS257" tvg-country="JP" group-title="日本 / Japan",日テレジータス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ゴルフネットワーク" tvg-logo="https://i.imgur.com/EVd8Vvp.png" tvg-id="GolfNetwork.jp" tvg-chno="CS262" tvg-country="JP" group-title="日本 / Japan",ゴルフネットワーク
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="時代劇専門チャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png" tvg-id="JidaigekiSenmonChannel.jp" tvg-chno="CS292" tvg-country="JP" group-title="日本 / Japan",時代劇専門チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ファミリー劇場" tvg-logo="https://i.postimg.cc/k5fXKzj3/o023302751417597653027.jpg" tvg-id="FamilyGekijyo.jp" tvg-chno="CS293" tvg-country="JP" group-title="日本 / Japan",ファミリー劇場
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="ホームドラマチャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" tvg-id="HomeDramaChannel.jp" tvg-chno="CS294" tvg-country="JP" group-title="日本 / Japan",ホームドラマチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="チャンネル銀河" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png" tvg-id="ChannelGinga.jp" tvg-chno="CS305" tvg-country="JP" group-title="日本 / Japan",チャンネル銀河
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="スーパー！ドラマTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_drama_tv.png" tvg-id="SuperDramaTV.jp" tvg-chno="CS310" tvg-country="JP" group-title="日本 / Japan",スーパー！ドラマTV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="アクションチャンネル" tvg-logo="https://i.imgur.com/K0YyPwC.png" tvg-id="AXN.jp" tvg-chno="CS311" tvg-country="JP" group-title="日本 / Japan",アクションチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="Dlife" tvg-logo="https://i.imgur.com/6gJZHPv.png" tvg-id="FOX.jp" tvg-chno="CS312" tvg-country="JP" group-title="日本 / Japan",Dlife
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="LaLa TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" tvg-id="LaLaTV.jp" tvg-chno="CS314" tvg-country="JP" group-title="日本 / Japan",LaLa TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png" tvg-id="MnetJapan.jp" tvg-chno="CS318" tvg-country="JP" group-title="日本 / Japan",Mnet
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="Music ON TV!（エムオン）" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" tvg-id="MUSICONTV.jp" tvg-chno="CS325" tvg-country="JP" group-title="日本 / Japan",Music ON TV!（エムオン）
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="歌謡ポップスチャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png" tvg-id="KayoPops.jp" tvg-chno="CS329" tvg-country="JP" group-title="日本 / Japan",歌謡ポップスチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="キッズステーション" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" tvg-id="KidsStation.jp" tvg-chno="CS330" tvg-country="JP" group-title="日本 / Japan",キッズステーション
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="日テレNEWS24" tvg-logo="https://i.imgur.com/jtSYegn.png" tvg-id="NTVNEWS24.jp" tvg-chno="CS349" tvg-country="JP" group-title="日本 / Japan",日テレNEWS24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="囲碁・将棋チャンネル" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" tvg-id="IgoShogiChannel.jp" tvg-chno="CS363" tvg-country="JP" group-title="日本 / Japan",囲碁・将棋チャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-id="GSTV.jp" tvg-chno="スカパー！プレミアム527" tvg-country="JP" group-title="日本 / Japan",GSTV
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
 #EXTINF:-1 tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" tvg-chno="JCOM307" tvg-country="JP" group-title="日本 / Japan",NHK WORLD JAPAN
