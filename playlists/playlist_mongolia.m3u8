@@ -7,7 +7,7 @@ https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-name="MNB International" tvg-logo="" tvg-id="MNBWorld.mn" tvg-chno="4" tvg-country="MN" group-title="Mongolia",MNB International
 https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
-#EXTINF:-1 tvg-name="MNB Гэр бүл" tvg-logo="" tvg-id="" tvg-chno="5" tvg-country="MN" group-title="Mongolia",MNB Гэр бүл
+#EXTINF:-1 tvg-name="MNB Гэр бүл" tvg-logo="" tvg-chno="5" tvg-country="MN" group-title="Mongolia",MNB Гэр бүл
 https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
 #EXTINF:-1 tvg-name="MN25" tvg-logo="" tvg-id="TV25.mn" tvg-chno="6" tvg-country="MN" group-title="Mongolia",MN25
 https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8
@@ -31,7 +31,7 @@ https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
 https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8
 #EXTINF:-1 tvg-name="MovieBox" tvg-logo="" tvg-id="MovieBox.mn" tvg-chno="16" tvg-country="MN" group-title="Mongolia",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
-#EXTINF:-1 tvg-name="CNBC MGL" tvg-logo="" tvg-id="" tvg-chno="17" tvg-country="MN" group-title="Mongolia",CNBC MGL
+#EXTINF:-1 tvg-name="CNBC MGL" tvg-logo="" tvg-chno="17" tvg-country="MN" group-title="Mongolia",CNBC MGL
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 #EXTINF:-1 tvg-name="AsianBox" tvg-logo="" tvg-id="AsianBox.mn" tvg-chno="18" tvg-country="MN" group-title="Mongolia",AsianBox
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
@@ -67,9 +67,9 @@ https://cdn4.skygo.mn/live/disk1/TV7/HLS-FTA/TV7.m3u8
 https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
 #EXTINF:-1 tvg-name="MNC" tvg-logo="" tvg-id="MongolianNewsChannel.mn" tvg-chno="34" tvg-country="MN" group-title="Mongolia",MNC
 https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
-#EXTINF:-1 tvg-name="Bantan" tvg-logo="" tvg-id="" tvg-chno="35" tvg-country="MN" group-title="Mongolia",Bantan
+#EXTINF:-1 tvg-name="Bantan" tvg-logo="" tvg-chno="35" tvg-country="MN" group-title="Mongolia",Bantan
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
-#EXTINF:-1 tvg-name="Auto TV (720p)" tvg-logo="" tvg-id="" tvg-chno="36" tvg-country="MN" group-title="Mongolia",Auto TV (720p)
+#EXTINF:-1 tvg-name="Auto TV (720p)" tvg-logo="" tvg-chno="36" tvg-country="MN" group-title="Mongolia",Auto TV (720p)
 https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Mongolia HD (720p)" tvg-logo="" tvg-id="BloombergTVMongolia.mn" tvg-chno="37" tvg-country="MN" group-title="Mongolia",Bloomberg TV Mongolia HD (720p)
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
@@ -77,7 +77,7 @@ https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 #EXTINF:-1 tvg-name="Mongolian Plus1" tvg-logo="" tvg-id="Volplus.mn" tvg-chno="39" tvg-country="MN" group-title="Mongolia",Mongolian Plus1
 https://cdn4.skygo.mn/live/disk1/VolumePlus/HLSv3-FTA/VolumePlus.m3u8
-#EXTINF:-1 tvg-name="Mongolia Music" tvg-logo="" tvg-id="" tvg-chno="40" tvg-country="MN" group-title="Mongolia",Mongolia Music
+#EXTINF:-1 tvg-name="Mongolia Music" tvg-logo="" tvg-chno="40" tvg-country="MN" group-title="Mongolia",Mongolia Music
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
-#EXTINF:-1 tvg-name="Mongol TV" tvg-logo="" tvg-id="" tvg-chno="7" tvg-country="MN" group-title="Mongolia",Mongol TV Ⓨ
+#EXTINF:-1 tvg-name="Mongol TV" tvg-logo="" tvg-chno="7" tvg-country="MN" group-title="Mongolia",Mongol TV Ⓨ
 https://www.youtube.com/c/MONGOLTVnow/live
