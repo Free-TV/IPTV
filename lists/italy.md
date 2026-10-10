@@ -27,7 +27,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 25  | Rai Premium   | [>](https://d3k8wzt41aflvx.cloudfront.net/RaiPremium/Live.m3u8) | <img height="20" src="https://i.imgur.com/RKI4nFy.png"/> | RaiPremium.it |
 | 25  | Rai Premium Ⓖ | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/RKI4nFy.png"/> | RaiPremium.it |
 | 26  | Cielo Ⓖ       | [>](https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556) | <img height="20" src="https://i.imgur.com/cPluF03.png"/> | cielo.it |
-| 27  | 27 Twentyseven Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/y2PdPCK.png"/> | 27Twentyseven.it |
+| 27  | 27 Twentyseven Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/y2PdPCK.png"/> | 27.Twentyseven.it |
 | 28  | TV 2000        | [>](https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> | TV2000.va |
 | 29  | La7 Cinema     | [>](https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8) | <img height="20" src="https://i.imgur.com/khPweok.png"/> | LA7.Cinema.it |
 | 30  | La 5 Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> | La5.it |
