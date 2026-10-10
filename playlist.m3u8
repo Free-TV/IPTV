@@ -2286,7 +2286,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-id="GSTV.jp" tvg-chno="スカパー！プレミアム527" tvg-country="JP" group-title="日本 / Japan",GSTV
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
 #EXTINF:-1 tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-id="NHKWorldJapan.jp" tvg-chno="JCOM307" tvg-country="JP" group-title="日本 / Japan",NHK WORLD JAPAN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-name="ウェザーニュースLiVE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png" tvg-id="rch_45" tvg-chno="CH 106" tvg-country="JP" group-title="日本 / Japan",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 tvg-name="TOKYO MX チャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" tvg-chno="CH 108" tvg-country="JP" group-title="日本 / Japan",TOKYO MX チャンネル
