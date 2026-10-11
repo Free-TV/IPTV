@@ -150,8 +150,8 @@ def main():  # pylint: disable=too-many-locals
 
     with open(base_dir / "playlist.m3u8", "w", encoding='utf-8') as playlist:
         playlist.write(head_playlist)
-        for filename in sorted(p.name for p in lists_dir.iterdir()):
-            if filename == "README.md" or not filename.endswith(".md"):
+        for filename in sorted(p.name for p in lists_dir.iterdir() if p.suffix == ".md"):
+            if filename == "README.md":
                 continue
             markup_path = lists_dir / filename
             country_path = dir_playlists / f"playlist_{filename[:-3]}.m3u8"
