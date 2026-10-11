@@ -154,7 +154,7 @@ def main():  # pylint: disable=too-many-locals
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
             markup_path = lists_dir / filename
-            country_path = dir_playlists / ("playlist_" + filename[:-3] + ".m3u8")
+            country_path = dir_playlists / f"playlist_{filename[:-3]}.m3u8"
             country_key = filename[:-3]
             group = country_key.replace("_", " ").title()
             country_code = COUNTRY_CODES.get(country_key, "")
