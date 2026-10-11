@@ -140,8 +140,7 @@ def main():  # pylint: disable=too-many-locals
     lists_dir = base_dir / "lists"
     dir_playlists = base_dir / "playlists"
 
-    if not dir_playlists.is_dir():
-        dir_playlists.mkdir()
+    dir_playlists.mkdir(exist_ok=True)
 
     with open(base_dir / "epglist.txt", encoding='utf-8') as epg_file:
         epg_urls = [line.strip() for line in epg_file if line.strip()]
