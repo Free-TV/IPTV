@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """Generate M3U playlists from the markdown channel lists in lists/."""
 
-import os
 import re
+from pathlib import Path
 
 COUNTRY_CODES = {
     "albania": "AL",
@@ -135,25 +135,26 @@ class Channel:  # pylint: disable=too-few-public-methods,too-many-instance-attri
 
 def main():  # pylint: disable=too-many-locals
     """Build the combined playlist.m3u8 and one per-country playlist."""
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    lists_dir = os.path.join(base_dir, "lists")
-    dir_playlists = os.path.join(base_dir, "playlists")
+    base_dir = Path(__file__).resolve().parent
 
-    if not os.path.isdir(dir_playlists):
-        os.mkdir(dir_playlists)
+    lists_dir = base_dir / "lists"
+    dir_playlists = base_dir / "playlists"
 
-    with open(os.path.join(base_dir, "epglist.txt"), encoding='utf-8') as epg_file:
+    if not dir_playlists.is_dir():
+        dir_playlists.mkdir()
+
+    with open(base_dir / "epglist.txt", encoding='utf-8') as epg_file:
         epg_urls = [line.strip() for line in epg_file if line.strip()]
     processed_epg_list = ", ".join(epg_urls)
     head_playlist = f'#EXTM3U x-tvg-url="{processed_epg_list}"\n'
 
-    with open(os.path.join(base_dir, "playlist.m3u8"), "w", encoding='utf-8') as playlist:
+    with open(base_dir / "playlist.m3u8", "w", encoding='utf-8') as playlist:
         playlist.write(head_playlist)
-        for filename in sorted(os.listdir(lists_dir)):
+        for filename in sorted(p.name for p in lists_dir.iterdir()):
             if filename == "README.md" or not filename.endswith(".md"):
                 continue
-            markup_path = os.path.join(lists_dir, filename)
-            country_path = os.path.join(dir_playlists, "playlist_" + filename[:-3] + ".m3u8")
+            markup_path = lists_dir / filename
+            country_path = dir_playlists / ("playlist_" + filename[:-3] + ".m3u8")
             country_key = filename[:-3]
             group = country_key.replace("_", " ").title()
             country_code = COUNTRY_CODES.get(country_key, "")
