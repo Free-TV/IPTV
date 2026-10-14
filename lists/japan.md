@@ -63,7 +63,7 @@
 
 | # |       Channel        |                                                       Link                                                       |                           Logo                           |    EPG id     |
 |:-:|:--------------------:|:----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:-------------:|
-| JCOM307  |    NHK WORLD JAPAN    |                                           [>](https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8)                                            |                  <img height="30" src="https://i.imgur.com/Mhw1Ihk.png"/>                   |    NHKWorldJapan.jp    |
+| JCOM307  |    NHK WORLD JAPAN    |                                           [>](https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8)                                            |                  <img height="30" src="https://i.imgur.com/Mhw1Ihk.png"/>                   |    NHKWorldJapan.jp    |
 
 <h2> Rチャンネル / ONLINE TV SERVICE by RAKUTEN  </h2>      
 Channels in this category are Internet video streams intended for Japanese residents living in Japan.
