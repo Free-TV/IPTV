@@ -27,11 +27,11 @@ http://88.212.15.19/live/viasat6/index.m3u8
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1 tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" tvg-id="ApostolTV.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" tvg-chno="1" tvg-country="HU" group-title="Hungary",Oxygen Music
+#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-chno="1" tvg-country="HU" group-title="Hungary",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-id="" tvg-chno="2" tvg-country="HU" group-title="Hungary",Dance TV
+#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-chno="2" tvg-country="HU" group-title="Hungary",Dance TV
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-name="Radio 1" tvg-logo="" tvg-id="" tvg-chno="3" tvg-country="HU" group-title="Hungary",Radio 1 Ⓨ
+#EXTINF:-1 tvg-name="Radio 1" tvg-logo="" tvg-chno="3" tvg-country="HU" group-title="Hungary",Radio 1 Ⓨ
 https://www.youtube.com/@radio1hungary/live
 #EXTINF:-1 tvg-name="DikhTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Dikhtv.png" tvg-id="DikhTV.hu" tvg-chno="4" tvg-country="HU" group-title="Hungary",DikhTv Ⓨ
 https://www.youtube.com/c/DikhTvGipsyTv/live
@@ -75,17 +75,17 @@ https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-chno="20" tvg-country="HU" group-title="Hungary",Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Berente TV" tvg-logo="" tvg-id="" tvg-chno="21" tvg-country="HU" group-title="Hungary",Berente TV
+#EXTINF:-1 tvg-name="Berente TV" tvg-logo="" tvg-chno="21" tvg-country="HU" group-title="Hungary",Berente TV
 https://stream.streaming4u.hu/BerenteTV/index.m3u8
-#EXTINF:-1 tvg-name="Budapest Európa TV" tvg-logo="" tvg-id="" tvg-chno="22" tvg-country="HU" group-title="Hungary",Budapest Európa TV
+#EXTINF:-1 tvg-name="Budapest Európa TV" tvg-logo="" tvg-chno="22" tvg-country="HU" group-title="Hungary",Budapest Európa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Héviz TV" tvg-logo="" tvg-id="" tvg-chno="23" tvg-country="HU" group-title="Hungary",Héviz TV
+#EXTINF:-1 tvg-name="Héviz TV" tvg-logo="" tvg-chno="23" tvg-country="HU" group-title="Hungary",Héviz TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Jászsági Térségi TV" tvg-logo="" tvg-id="" tvg-chno="24" tvg-country="HU" group-title="Hungary",Jászsági Térségi TV
+#EXTINF:-1 tvg-name="Jászsági Térségi TV" tvg-logo="" tvg-chno="24" tvg-country="HU" group-title="Hungary",Jászsági Térségi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanizsa TV" tvg-logo="" tvg-id="" tvg-chno="25" tvg-country="HU" group-title="Hungary",Kanizsa TV
+#EXTINF:-1 tvg-name="Kanizsa TV" tvg-logo="" tvg-chno="25" tvg-country="HU" group-title="Hungary",Kanizsa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Líceum TV" tvg-logo="" tvg-id="" tvg-chno="26" tvg-country="HU" group-title="Hungary",Líceum TV
+#EXTINF:-1 tvg-name="Líceum TV" tvg-logo="" tvg-chno="26" tvg-country="HU" group-title="Hungary",Líceum TV
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" tvg-chno="27" tvg-country="HU" group-title="Hungary",Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8

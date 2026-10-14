@@ -57,7 +57,7 @@ https://skyfolk.mk/live.m3u8
 http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 #EXTINF:-1 tvg-name="Folk Club TV" tvg-logo="https://i.imgur.com/vkGFSl8.png" tvg-id="FolkClubTV.mk" tvg-chno="10" tvg-country="MK" group-title="North Macedonia",Folk Club TV
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 tvg-name="INTV" tvg-logo="https://i.imgur.com/K7BSjqY.png" tvg-id="" tvg-chno="11" tvg-country="MK" group-title="North Macedonia",INTV
+#EXTINF:-1 tvg-name="INTV" tvg-logo="https://i.imgur.com/K7BSjqY.png" tvg-chno="11" tvg-country="MK" group-title="North Macedonia",INTV
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 tvg-name="Вистел" tvg-logo="https://i.imgur.com/MbM0E6L.png" tvg-id="" tvg-chno="13" tvg-country="MK" group-title="North Macedonia",Вистел
+#EXTINF:-1 tvg-name="Вистел" tvg-logo="https://i.imgur.com/MbM0E6L.png" tvg-chno="13" tvg-country="MK" group-title="North Macedonia",Вистел
 https://live.vtv.mk/live/vtv/chunks.m3u8

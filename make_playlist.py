@@ -123,7 +123,7 @@ class Channel:  # pylint: disable=too-few-public-methods,too-many-instance-attri
         """Render this channel as a #EXTINF entry followed by its URL."""
         country = f' tvg-country="{self.country_code}"' if self.country_code else ""
         chno = f' tvg-chno="{self.chno}"' if self.chno else ""
-        epg = f' tvg-id="{self.epg}"' if self.epg is not None else ""
+        epg = f' tvg-id="{self.epg}"' if self.epg else ""
         # Strip trailing in-list markers (Ⓖ/Ⓢ/Ⓨ/...) from tvg-name so EPG
         # matching isn't broken by a symbol meant for human readers.
         tvg_name = re.sub(r'\s*[Ⓐ-ⓩ]+\s*$', '', self.name)
