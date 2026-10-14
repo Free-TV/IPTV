@@ -22,12 +22,10 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 | 14  | CCTV-13 新闻 | [>](http://74.91.26.218:82/live/cctv13hd.m3u8) | <img height="20" src="https://i.imgur.com/pPO8uJN.png"/> | CCTV13.cn |
 | 15  | CCTV-14 少儿 | [>](http://74.91.26.218:82/live/cctv14hd.m3u8) | <img height="20" src="https://i.imgur.com/SORrhtE.png"/> | CCTV14.cn |
 | 16  | CCTV-15 音乐 | [>](http://74.91.26.218:82/live/cctv15hd.m3u8) | <img height="20" src="https://i.imgur.com/V9I1ZyB.png"/> | CCTV15.cn |
-| 17  | CCTV-16 奥林匹克 | [>](http://74.91.26.218:82/live/cctv16hd.m3u8) | <img height="20" src="https://i.imgur.com/gaA4Cjy.png"/> | CCTV16.cn |
-| 18  | CCTV-17 农业农村 | [>](http://74.91.26.218:82/live/cctv17hd.m3u8) | <img height="20" src="https://i.imgur.com/XMsoHut.png"/> | CCTV17.cn |
-| 19  | FZTV-1 News 新闻综合频道 | [>](http://live.zohi.tv/video/s10001-fztv-1/index.m3u8) | <img height="20" src="https://i.imgur.com/QvBxGw3.png"/> | FZTV1.cn |
-| 20  | FZTV-2 Movie & Drama Channel 影视频道 | [x](http://live.zohi.tv/video/s10001-fztv-2/index.m3u8) | <img height="20" src="https://i.imgur.com/xRP80XS.png"/> | FZTV2.cn |
-| 21  | FZTV-3 Lifestyle Channel 生活频道 | [>](http://live.zohi.tv/video/s10001-fztv-3/index.m3u8) | <img height="20" src="https://i.imgur.com/jt7CWDT.png"/> | FZTV3.cn |
-| 22  | FZTV-4 Children 少儿频道  | [>](http://live.zohi.tv/video/s10001-fztv-4/index.m3u8) | <img height="20" src="https://i.imgur.com/J4WtNTX.png"/> | FZTVkids.cn |
+| 17  | CCTV-17 农业农村 | [>](http://74.91.26.218:82/live/cctv17hd.m3u8) | <img height="20" src="https://i.imgur.com/XMsoHut.png"/> | CCTV17.cn |
+| 18  | FZTV-1 News 新闻综合频道 | [>](http://live.zohi.tv/video/s10001-fztv-1/index.m3u8) | <img height="20" src="https://i.imgur.com/QvBxGw3.png"/> | FZTV1.cn |
+| 19  | FZTV-3 Lifestyle Channel 生活频道 | [>](http://live.zohi.tv/video/s10001-fztv-3/index.m3u8) | <img height="20" src="https://i.imgur.com/jt7CWDT.png"/> | FZTV3.cn |
+| 20  | FZTV-4 Children 少儿频道  | [>](http://live.zohi.tv/video/s10001-fztv-4/index.m3u8) | <img height="20" src="https://i.imgur.com/J4WtNTX.png"/> | FZTVkids.cn |
 
 <h2>Provincial and prefectural networks</h2>
 
@@ -50,3 +48,5 @@ https://en.wikipedia.org/wiki/List_of_Chinese-language_television_channels
 | 4   | CETV-2 | [x](http://txycsbl.centv.cn/zb/0822cetv2.m3u8) | <img height="20" src="https://i.imgur.com/a9mvoeP.png"/> | CETV2.cn |
 | 5   | CETV-3 | [x](http://txycsbl.centv.cn/zb/0822cetv3.m3u8) | <img height="20" src="https://i.imgur.com/t8o5ZKt.png"/> | CETV3.cn |
 | 6   | CETV-4 | [x](http://txycsbl.centv.cn/zb/0822cetv4.m3u8) | <img height="20" src="https://i.imgur.com/BRe0ybV.png"/> | CETV4.cn |
+| 7   | CCTV-16 奥林匹克 | [x](http://74.91.26.218:82/live/cctv16hd.m3u8) | <img height="20" src="https://i.imgur.com/gaA4Cjy.png"/> | CCTV16.cn |
+| 8   | FZTV-2 Movie & Drama Channel 影视频道 | [x](http://live.zohi.tv/video/s10001-fztv-2/index.m3u8) | <img height="20" src="https://i.imgur.com/xRP80XS.png"/> | FZTV2.cn |
