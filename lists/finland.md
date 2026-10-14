@@ -26,7 +26,7 @@
 | 33  | OnniTV | [>](https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780) | <img height="20" src="https://i.imgur.com/HzILf2H.png"/> | KotiTV.fi |
 | 45  | Taivas TV7 | [>](https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a4iNVXA.png"/> | TaivasTV7.fi |
 | 46  | Himlen TV7 | [>](https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a4iNVXA.png"/> | HimlenTV7.fi |
-| 99  | MTV Uutiset Live | [>](https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8) | <img height="20" src="https://i.imgur.com/IyB6mIb.png"/> | MTVUutiset.fi |
+| 99  | MTV Uutiset Live | [>](https://live.streaming.a2d.tv/content/channels/uutiset/cmaf.m3u8) | <img height="20" src="https://i.imgur.com/IyB6mIb.png"/> | MTVUutiset.fi |
 
 <h2>Local channels</h2>
 
