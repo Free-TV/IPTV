@@ -79,6 +79,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 24  | Jászsági Térségi TV | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8) | | |
 | 25  | Kanizsa TV    | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8) | | |
 | 26  | Líceum TV     | [>](http://193.225.32.62:8890/live.m3u8) | | |
+| 27  | Pannon RTV    | [>](https://stream2.nmih.hu:4102/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
 | 28  | Tisza TV      | [x](https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
 | 29  | Hegyvidék TV (Buda TV) | [>](http://budatv.streaming.aiproduction.hu/playlist.m3u) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" /> |
 | 30  | ES TV (Esztergom) | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8) | | EsztergomTV.hu |
@@ -94,9 +95,9 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 3   | MUSICPlus      | [x](http://s02.diazol.hu:10192/stream.m3u8) | | |
 | 4   | Budakalász     | [x](https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MGkvVQg.png" /> |
 | 5   | VTV Füzesabony | [x](https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> | VTVFuzesabony.hu |
-| 6   | Putnok Városi TV | [x](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 | 7   | Miskolc TV     | [x](https://video.mhzrt.hu/live/mitv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/IoiNus2.png" /> | MiskolcTV.hu |
 | 8   | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
+| 9   | Putnok Városi TV | [>](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 
 | 9   | M1 Ⓖ           | [x](http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
 | 10  | M2 / Petőfi TV Ⓖ | [x](http://88.212.15.19/live/m2_hun/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
@@ -110,4 +111,3 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 18  | Viasat 6       | [x](http://88.212.15.19/live/viasat6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |
 | 19  | Izaura TV      | [x](http://88.212.15.19/live/izaura/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" /> | IzauraTV.hu |
 | 20  | DTV            | [x](http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8) | <img height="20" src="https://i.imgur.com/YSpqmSO.png" /> | DTV.hu |
-| 21  | Pannon RTV    | [x](https://stream2.nmih.hu:4102/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
