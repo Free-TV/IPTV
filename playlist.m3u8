@@ -2185,6 +2185,8 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" tvg-country="JP" group-title="日本 / Japan",フジテレビ
 https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-id="JOAXDTV.jp" tvg-chno="D041" tvg-country="JP" group-title="日本 / Japan",日本テレビ
+https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-name="WOWOWライブ" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png" tvg-id="WOWOWLive.jp" tvg-chno="BS192" tvg-country="JP" group-title="日本 / Japan",WOWOWライブ
 [NO PUBLIC STREAM]
 #EXTINF:-1 tvg-name="アニマックス" tvg-logo="https://i.imgur.com/jO0qUvj.png" tvg-id="AnimaxAsia.sg@Japan" tvg-chno="BS236" tvg-country="JP" group-title="日本 / Japan",アニマックス
