@@ -30,7 +30,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 27  | 27 Twentyseven Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/y2PdPCK.png"/> | 27.Twentyseven.it |
 | 28  | TV 2000        | [>](https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8) | <img height="20" src="https://i.imgur.com/x7RaK3a.png"/> | TV2000.va |
 | 29  | La7 Cinema     | [>](https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8) | <img height="20" src="https://i.imgur.com/khPweok.png"/> | LA7.Cinema.it |
-| 30  | La 5 Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> | La5.it |
+| 30  | La 5 Ⓖ     | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/UNyJaho.png"/> | La.5.it |
 | 31  | Real Time      | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/9dcTYg1.png"/> | Real.Time.it |
 | 32  | QVC            | [>](https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8) | <img height="20" src="https://i.imgur.com/Ea7iUX2.png"/> | QVC.it |
 | 33  | Food Network   | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/i60OYr9.png"/> | Food.Network.it |
@@ -55,7 +55,7 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 54  | Rai Storia    | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> | RaiStoria.it |
 | 54  | Rai Storia Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/K8y5q8x.png"/> | RaiStoria.it |
 | 55  | Mediaset Extra Ⓖ | [>](https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8) | <img height="20" src="https://i.imgur.com/mM8lopo.png"/> | Mediaset.Extra.it |
-| 56  | HGTV – Home & Garden Tv  | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTVItaly.it |
+| 56  | HGTV – Home & Garden Tv  | [>](https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8) | <img height="20" src="https://i.imgur.com/emLNC0U.png"/> | HGTV.it |
 | 57  | Rai Scuola    | [>](https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> | RaiScuola.it |
 | 57  | Rai Scuola Ⓖ  | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/tmtJW6s.png"/> | RaiScuola.it |
 | 58  | Rai Sport Ⓖ   | [>](https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5) | <img height="20" src="https://i.imgur.com/xsGljsb.png"/> | RaiSport.it |
