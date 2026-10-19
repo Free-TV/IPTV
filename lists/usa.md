@@ -47,3 +47,5 @@
 |9    | America's Voice | [>](https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8) | <img height="20" src="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200"/> | AmericasVoice.us |
 |10   | Newsmax TV     | [>](https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8) | <img height="20" src="https://graph.facebook.com/newsmax/picture?width=200&height=200"/> | Newsmax.us |
 |11   | America TeVe   | [>](https://live.gideo.video/americateve2/master.m3u8) | <img height="20" src="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg"/> | AmericaTeVe.us |
+|12   | Botflix TV     | [>](https://hls.botflix.tv/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/JBEM8lP.png"/> | |
+|13   | Botflix Radioo | [>](https://hls.botflix.tv/radioo/index.m3u8) | <img height="20" src="https://i.imgur.com/JBEM8lP.png"/> | |
