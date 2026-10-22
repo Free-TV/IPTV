@@ -73,6 +73,7 @@ https://ru.wikipedia.org/wiki/Цифровое_телевидение_в_Рос�
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | 360 Новости | [>](https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YXDeX8q.png"/> | 360News.ru |
 | 0   | Вести ФМ | [>](https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417) | <img height="20" src="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png"/> |
+| 0   | Министерство Идей | [>](https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8) | <img height="20" src="https://minidey.ru/media/images/logo_minidey_tv.png"/> | tv.minidey.ru |
 | 0   | Небеса ТВ7 Ⓢ | [>](https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8) | <img height="20" src="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png"/> | NebesaTV7.ru |
 | 0   | Север | [>](https://live.mediacdn.ru/sr1/sever/playlist.m3u8) | <img height="20" src="https://i.imgur.com/sTOQLYl.png"/> | Sever.ru |
 | 0   | Смотрим - Детям | [x]() | <img height="20" src="https://cdn-st1.smotrim.ru/vh/pictures/r/424/215/2.png"/> |
