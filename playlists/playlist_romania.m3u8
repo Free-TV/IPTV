@@ -17,6 +17,8 @@ https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 tvg-name="Euronews România" tvg-logo="https://i.imgur.com/jUOVUXt.png" tvg-id="EuronewsRomania.ro" tvg-chno="10" tvg-country="RO" group-title="Romania",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
+#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" tvg-id="Antena3CNN.ro" tvg-chno="11" tvg-country="RO" group-title="Romania",Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-name="TVR Cluj" tvg-logo="https://i.imgur.com/8DqsGHO.png" tvg-id="TVRCluj.ro" tvg-chno="1" tvg-country="RO" group-title="Romania",TVR Cluj Ⓖ
 https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Craiova" tvg-logo="https://i.imgur.com/vxWbQiy.png" tvg-id="TVRCraiova.ro" tvg-chno="2" tvg-country="RO" group-title="Romania",TVR Craiova Ⓖ

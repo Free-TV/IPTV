@@ -1041,6 +1041,10 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:-1 tvg-name="Sport2" tvg-logo="" tvg-id="Sport2.hu" tvg-chno="7" tvg-country="HU" group-title="Hungary",Sport2 Ⓖ
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
+#EXTINF:-1 tvg-name="FEM3 (TV2 Klub)" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" tvg-id="FEM3.hu" tvg-chno="8" tvg-country="HU" group-title="Hungary",FEM3 (TV2 Klub)
+http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat 6" tvg-logo="https://i.imgur.com/kypSbFX.png" tvg-id="Viasat6.hu" tvg-chno="9" tvg-country="HU" group-title="Hungary",Viasat 6
+http://88.212.15.17/live/viasat6/index.m3u8
 #EXTINF:-1 tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" tvg-id="BonumTV.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1 tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" tvg-id="ApostolTV.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Apostol TV
@@ -2611,6 +2615,8 @@ https://wazobia.live:8333/channel/wmaxph.m3u8
 https://kctv.koryofront.org/stream/index.m3u8
 #EXTINF:-1 tvg-name="Ryongnamsan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RyongnamsanTV_DPRK.png/500px-RyongnamsanTV_DPRK.png" tvg-id="RyongnamsanTV.kp" tvg-chno="3" tvg-country="KP" group-title="North Korea",Ryongnamsan TV
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+#EXTINF:-1 tvg-name="Sports Television (not 24/7, Sat/Sun 18:00-22:00 KST)" tvg-logo="https://i.imgur.com/HvFpGeH.png" tvg-id="SportsTelevision.kp" tvg-chno="4" tvg-country="KP" group-title="North Korea",Sports Television (not 24/7, Sat/Sun 18:00-22:00 KST)
+https://live.koryocdn.org/sports/index.m3u8
 #EXTINF:-1 tvg-name="MRT1" tvg-logo="https://i.imgur.com/EkkyAE0.png" tvg-id="MRT1.mk" tvg-chno="1" tvg-country="MK" group-title="North Macedonia",MRT1 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=
 #EXTINF:-1 tvg-name="MRT2" tvg-logo="https://i.imgur.com/YvOrUnN.png" tvg-id="MRT2.mk" tvg-chno="2" tvg-country="MK" group-title="North Macedonia",MRT2 Ⓖ
@@ -2777,6 +2783,8 @@ https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 tvg-name="Euronews România" tvg-logo="https://i.imgur.com/jUOVUXt.png" tvg-id="EuronewsRomania.ro" tvg-chno="10" tvg-country="RO" group-title="Romania",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
+#EXTINF:-1 tvg-name="Antena 3 CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" tvg-id="Antena3CNN.ro" tvg-chno="11" tvg-country="RO" group-title="Romania",Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-name="TVR Cluj" tvg-logo="https://i.imgur.com/8DqsGHO.png" tvg-id="TVRCluj.ro" tvg-chno="1" tvg-country="RO" group-title="Romania",TVR Cluj Ⓖ
 https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVR Craiova" tvg-logo="https://i.imgur.com/vxWbQiy.png" tvg-id="TVRCraiova.ro" tvg-chno="2" tvg-country="RO" group-title="Romania",TVR Craiova Ⓖ

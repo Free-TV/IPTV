@@ -15,6 +15,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Romania
 | 8   | România TV Ⓖ      | [>](https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZIfEp5I.png"/> | RomaniaTV.ro |
 | 9   | Telestar1         | [>](https://dvb.tennet.ro/mobile_tv/telestar.m3u8) | <img height="20" src="https://i.imgur.com/UZQjEsd.png"/> | Telestar1.ro |
 | 10  | Euronews România Ⓨ | [>](https://www.youtube.com/euronewsro/live) | <img height="20" src="https://i.imgur.com/jUOVUXt.png"/> | EuronewsRomania.ro |
+| 11  | Antena 3 CNN      | [>](https://live3vox.antenaplay.ro/a3free/a3free.m3u8) | <img height="20" src="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512"/> | Antena3CNN.ro |
 
 <h2>Local</h2>
 

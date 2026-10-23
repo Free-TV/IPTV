@@ -37,6 +37,10 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:-1 tvg-name="Sport2" tvg-logo="" tvg-id="Sport2.hu" tvg-chno="7" tvg-country="HU" group-title="Hungary",Sport2 Ⓖ
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
+#EXTINF:-1 tvg-name="FEM3 (TV2 Klub)" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" tvg-id="FEM3.hu" tvg-chno="8" tvg-country="HU" group-title="Hungary",FEM3 (TV2 Klub)
+http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat 6" tvg-logo="https://i.imgur.com/kypSbFX.png" tvg-id="Viasat6.hu" tvg-chno="9" tvg-country="HU" group-title="Hungary",Viasat 6
+http://88.212.15.17/live/viasat6/index.m3u8
 #EXTINF:-1 tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" tvg-id="BonumTV.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1 tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" tvg-id="ApostolTV.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Apostol TV

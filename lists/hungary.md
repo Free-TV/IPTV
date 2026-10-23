@@ -35,6 +35,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 5   | DTV Ⓖ          | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YSpqmSO.png" /> | DTV.hu |
 | 6   | Sport1 Ⓖ       | [>](http://141.94.193.53:80/Sport_1_HD/index.m3u8) | | Sport1.hu |
 | 7   | Sport2 Ⓖ       | [>](http://141.94.193.53:80/Sport_2_HD/index.m3u8) | | Sport2.hu |
+| 8   | FEM3 (TV2 Klub) | [>](http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
+| 9   | Viasat 6       | [>](http://88.212.15.17/live/viasat6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |
 
 <h2>Religion</h2>
 
@@ -135,5 +137,3 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 8   | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
 | 9   | Putnok Városi TV | [>](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 
-| 17  | FEM3 (TV2 Klub) | [x](http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
-| 18  | Viasat 6       | [x](http://88.212.15.19/live/viasat6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |
