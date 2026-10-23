@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 2   | M1 Hiradó Ⓨ    | [>](https://www.youtube.com/@M1-Hirado/live) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
-| 4   | M4 Sport       | [x](https://c402-node61-cdn.connectmedia.hu/150104/aaef1a354b4ad88351bbc3f3b781c3c0/6a8153af/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
+| 4   | M4 Sport Ⓖ     | [>](http://141.94.193.53:80/M4_Sport_HD/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
 | 9   | M1 Ⓖ           | [>](http://141.94.193.53:80/M1_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
 | 10  | M2 / Petőfi TV Ⓖ | [>](http://141.94.193.53:80/M2_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
 | 11  | M5 Hungary Ⓖ   | [>](http://141.94.193.53:80/M5_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
@@ -29,6 +29,12 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | Cool           | [>](http://141.94.193.53:80/Cool_HD/index.m3u8) | | Cool.hu |
+| 2   | Spektrum Ⓖ     | [>](http://141.94.193.53:80/Spektrum_HD/index.m3u8) | | Spektrum.hu |
+| 3   | Spektrum Home Ⓖ | [>](http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" /> | SpektrumHome.hu |
+| 4   | Galaxy4 Ⓖ      | [>](http://141.94.193.53:80/Galaxy4_HD/index.m3u8) | | Galaxy4.hu |
+| 5   | DTV Ⓖ          | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YSpqmSO.png" /> | DTV.hu |
+| 6   | Sport1 Ⓖ       | [>](http://141.94.193.53:80/Sport_1_HD/index.m3u8) | | Sport1.hu |
+| 7   | Sport2 Ⓖ       | [>](http://141.94.193.53:80/Sport_2_HD/index.m3u8) | | Sport2.hu |
 
 <h2>Religion</h2>
 
@@ -43,20 +49,40 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | Oxygen Music   | [>](https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8) | | |
 | 2   | Dance TV       | [>](https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8) | | |
-| 3   | Radio 1 Ⓨ      | [>](https://www.youtube.com/@radio1hungary/live) | | |
-| 4   | DikhTv Ⓨ       | [>](https://www.youtube.com/c/DikhTvGipsyTv/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Dikhtv.png" /> | DikhTV.hu |
+| 3   | DikhTv Ⓨ       | [>](https://www.youtube.com/c/DikhTvGipsyTv/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Dikhtv.png" /> | DikhTV.hu |
+
+<h2>Radio</h2>
+
+| #   | Channel        | Link  | Logo | EPG id|
+|:---:|:--------------:|:-----:|:----:|:-----:|
+| 1   | Kossuth Rádió  | [>](https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8) | | KossuthRadio.hu |
+| 2   | Petőfi Rádió   | [>](https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8) | | PetofiRadio.hu |
+| 3   | Bartók Rádió   | [>](https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8) | | BartokRadio.hu |
+| 4   | Dankó Rádió    | [>](https://icast.connectmedia.hu/4747/mr7.aac) | | DankoRadio.hu |
+| 5   | Rádió1         | [>](https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8) | | |
+| 6   | Retró Rádió    | [>](https://budapest-cache-1.antik.sk/live/retro/index.m3u8) | | |
+| 7   | 90.9 Jazzy FM  | [>](https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8) | | |
+| 8   | Youventus Rádió | [>](https://budapest-cache-1.antik.sk/live/juventus/index.m3u8) | | |
+| 9   | Hír FM         | [>](https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8) | | |
+| 10  | Spirit FM      | [>](https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8) | | |
+| 11  | Sláger FM      | [>](https://budapest-cache-1.antik.sk/live/slager/index.m3u8) | | |
 
 <h2>Series</h2>
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | Film+          | [>](http://141.94.193.53:80/Film+_HD/index.m3u8) | | Film+.hu |
+| 2   | Izaura TV Ⓖ    | [>](http://141.94.193.53:80/Izaura_TV_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" /> | IzauraTV.hu |
+| 3   | Film4 Ⓖ        | [>](http://141.94.193.53:80/Film4_HD/index.m3u8) | | Film4.hu |
+| 4   | Mozi+ Ⓖ        | [>](http://141.94.193.53:80/Mozi+_HD/index.m3u8) | | MoziPlus.hu |
+| 5   | AMC Ⓖ          | [>](http://141.94.193.53:80/AMC_HD/index.m3u8) | | AMC.hu |
+| 6   | TV Paprika Ⓖ   | [>](http://141.94.193.53:80/TV_Paprika_HD/index.m3u8) | | TVPaprika.hu |
 
 <h2>News</h2>
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 1   | Euronews Hungarian Ⓨ  | [>](https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" /> | EuronewsHungarian.fr |
+| 1   | Euronews Hungarian | [>](https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" /> | EuronewsHungarian.fr |
 | 2   | Parlamenti közvetítés | [>](https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8) |
 | 3   | Parlamenti TAB közvetítés | [>](https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8) |
 
@@ -109,8 +135,5 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 8   | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
 | 9   | Putnok Városi TV | [>](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 
-| 16  | Spektrum Home  | [x](http://88.212.15.19/live/spektrum_home_hun/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" /> | SpektrumHome.hu |
 | 17  | FEM3 (TV2 Klub) | [x](http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
 | 18  | Viasat 6       | [x](http://88.212.15.19/live/viasat6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |
-| 19  | Izaura TV      | [x](http://88.212.15.19/live/izaura/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" /> | IzauraTV.hu |
-| 20  | DTV            | [x](http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8) | <img height="20" src="https://i.imgur.com/YSpqmSO.png" /> | DTV.hu |
