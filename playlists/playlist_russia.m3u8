@@ -99,6 +99,8 @@ https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Вести ФМ" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png" tvg-country="RU" group-title="Russia",Вести ФМ
 https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
+#EXTINF:-1 tvg-name="Министерство Идей" tvg-logo="https://minidey.ru/media/images/logo_minidey_tv.png" tvg-id="tv.minidey.ru" tvg-country="RU" group-title="Russia",Министерство Идей
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-name="Небеса ТВ7" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" tvg-id="NebesaTV7.ru" tvg-country="RU" group-title="Russia",Небеса ТВ7 Ⓢ
 https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Север" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-id="Sever.ru" tvg-country="RU" group-title="Russia",Север

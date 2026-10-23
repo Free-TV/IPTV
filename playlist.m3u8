@@ -359,52 +359,56 @@ http://102.131.58.110/out_1/index.m3u8
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-name="UCV Televisión" tvg-logo="https://i.imgur.com/2VL4Pts.png" tvg-id="UCVTV.cl" tvg-chno="1" tvg-country="CL" group-title="Chile",UCV Televisión
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVN" tvg-logo="https://i.imgur.com/WoN1dai.png" tvg-id="TVN.cl" tvg-chno="2" tvg-country="CL" group-title="Chile",TVN Ⓖ
-https://iptv2.intersurtv.cl/TVN/index.m3u8
-#EXTINF:-1 tvg-name="24 horas" tvg-logo="https://i.imgur.com/0rF6Kub.png" tvg-id="24Horas.cl" tvg-chno="3" tvg-country="CL" group-title="Chile",24 horas
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.imgur.com/pt2Kj1A.png" tvg-id="NTV.cl" tvg-chno="4" tvg-country="CL" group-title="Chile",NTV Ⓖ
-https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
-#EXTINF:-1 tvg-name="TV Chile" tvg-logo="https://i.imgur.com/yCL888l.png" tvg-id="TVChile.cl" tvg-chno="5" tvg-country="CL" group-title="Chile",TV Chile Ⓖ
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://i.imgur.com/JIo1HBs.png" tvg-id="Canal13.cl" tvg-chno="6" tvg-country="CL" group-title="Chile",Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8
-#EXTINF:-1 tvg-name="TV+" tvg-logo="https://i.imgur.com/NtuZIEJ.png" tvg-id="TVPlus.cl" tvg-chno="7" tvg-country="CL" group-title="Chile",TV+
+#EXTINF:-1 tvg-name="TV+" tvg-logo="https://i.imgur.com/NtuZIEJ.png" tvg-id="TVPlus.cl" tvg-chno="2" tvg-country="CL" group-title="Chile",TV+
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/2Pu8yXf.png" tvg-id="ChileVision.cl" tvg-chno="8" tvg-country="CL" group-title="Chile",Chilevisión Ⓖ
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="UChile TV" tvg-logo="https://i.imgur.com/mF2W8Uh.png" tvg-id="UChileTV.cl" tvg-chno="9" tvg-country="CL" group-title="Chile",UChile TV
+#EXTINF:-1 tvg-name="UChile TV" tvg-logo="https://i.imgur.com/mF2W8Uh.png" tvg-id="UChileTV.cl" tvg-chno="3" tvg-country="CL" group-title="Chile",UChile TV
 https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" tvg-chno="10" tvg-country="CL" group-title="Chile",T13 en vivo
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://i.imgur.com/1vTno0m.png" tvg-id="13E.cl" tvg-chno="11" tvg-country="CL" group-title="Chile",13 Entretención
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/49QkKWv.png" tvg-id="13C.cl" tvg-chno="12" tvg-country="CL" group-title="Chile",13 Cultura
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" tvg-chno="13" tvg-country="CL" group-title="Chile",13 Prime
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13Kids.cl" tvg-chno="14" tvg-country="CL" group-title="Chile",13 Kids
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://i.imgur.com/p1Qpljw.png" tvg-id="13Realities.cl" tvg-chno="15" tvg-country="CL" group-title="Chile",13 Realities
-https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-name="13 Teleseries" tvg-logo="https://i.imgur.com/aJMBnse.png" tvg-id="13T.cl" tvg-chno="16" tvg-country="CL" group-title="Chile",13 Teleseries
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" tvg-chno="17" tvg-country="CL" group-title="Chile",El Pingüino TV
+#EXTINF:-1 tvg-name="El Pingüino TV" tvg-logo="https://i.imgur.com/ohXs2NV.png" tvg-id="ElPinguinoTV.cl" tvg-chno="4" tvg-country="CL" group-title="Chile",El Pingüino TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/JxqVHPX.png" tvg-id="UCL.uy" tvg-chno="18" tvg-country="CL" group-title="Chile",UCL
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportes13" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" tvg-chno="19" tvg-country="CL" group-title="Chile",Deportes13 Ⓖ
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" tvg-id="TVN3.cl" tvg-chno="20" tvg-country="CL" group-title="Chile",TVN 3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" tvg-chno="21" tvg-country="CL" group-title="Chile",Chilevisión Noticias
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="SoloTV" tvg-logo="https://i.imgur.com/Ad2ueID.png" tvg-id="SoloTV.cl" tvg-chno="22" tvg-country="CL" group-title="Chile",SoloTV
+#EXTINF:-1 tvg-name="SoloTV" tvg-logo="https://i.imgur.com/Ad2ueID.png" tvg-id="SoloTV.cl" tvg-chno="5" tvg-country="CL" group-title="Chile",SoloTV
 https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
-#EXTINF:-1 tvg-name="Mega" tvg-logo="https://i.imgur.com/CYdWSDb.png" tvg-id="mega.cl" tvg-chno="23" tvg-country="CL" group-title="Chile",Mega
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Bio Bio TV" tvg-logo="https://i.imgur.com/wrRufts.png" tvg-id="biobiochile.cl" tvg-chno="24" tvg-country="CL" group-title="Chile",Bio Bio TV
+#EXTINF:-1 tvg-name="Bio Bio TV" tvg-logo="https://i.imgur.com/wrRufts.png" tvg-id="biobiochile.cl" tvg-chno="6" tvg-country="CL" group-title="Chile",Bio Bio TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://i.imgur.com/WoN1dai.png" tvg-id="TVN.cl" tvg-chno="7" tvg-country="CL" group-title="Chile",TVN Ⓖ
+https://iptv2.intersurtv.cl/TVN/index.m3u8
+#EXTINF:-1 tvg-name="24 horas" tvg-logo="https://i.imgur.com/0rF6Kub.png" tvg-id="24Horas.cl" tvg-chno="8" tvg-country="CL" group-title="Chile",24 horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.imgur.com/pt2Kj1A.png" tvg-id="NTV.cl" tvg-chno="9" tvg-country="CL" group-title="Chile",NTV Ⓖ
+https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
+#EXTINF:-1 tvg-name="TV Chile" tvg-logo="https://i.imgur.com/yCL888l.png" tvg-id="TVChile.cl" tvg-chno="10" tvg-country="CL" group-title="Chile",TV Chile Ⓖ
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" tvg-id="TVN3.cl" tvg-chno="11" tvg-country="CL" group-title="Chile",TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/2Pu8yXf.png" tvg-id="ChileVision.cl" tvg-chno="12" tvg-country="CL" group-title="Chile",Chilevisión Ⓖ
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Noticias" tvg-logo="https://i.imgur.com/Qh6d0A9.png" tvg-id="CHVNoticias.cl" tvg-chno="13" tvg-country="CL" group-title="Chile",Chilevisión Noticias
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Chilevisión Deportes" tvg-logo="https://i.imgur.com/eWCXl6a.jpeg" tvg-id="ChileVision.cl" tvg-chno="14" tvg-country="CL" group-title="Chile",Chilevisión Deportes Ⓖ
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://i.imgur.com/JIo1HBs.png" tvg-id="Canal13.cl" tvg-chno="15" tvg-country="CL" group-title="Chile",Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+#EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" tvg-chno="16" tvg-country="CL" group-title="Chile",T13 en vivo
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="13 Entretención" tvg-logo="https://i.imgur.com/1vTno0m.png" tvg-id="13E.cl" tvg-chno="17" tvg-country="CL" group-title="Chile",13 Entretención
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-name="13 Cultura" tvg-logo="https://i.imgur.com/49QkKWv.png" tvg-id="13C.cl" tvg-chno="18" tvg-country="CL" group-title="Chile",13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" tvg-chno="19" tvg-country="CL" group-title="Chile",13 Prime
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13Kids.cl" tvg-chno="20" tvg-country="CL" group-title="Chile",13 Kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 tvg-name="13 Realities" tvg-logo="https://i.imgur.com/p1Qpljw.png" tvg-id="13Realities.cl" tvg-chno="21" tvg-country="CL" group-title="Chile",13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1 tvg-name="13 Teleseries" tvg-logo="https://i.imgur.com/aJMBnse.png" tvg-id="13T.cl" tvg-chno="22" tvg-country="CL" group-title="Chile",13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-name="Deportes13" tvg-logo="https://i.imgur.com/GRpxoPf.png" tvg-id="D13.cl" tvg-chno="23" tvg-country="CL" group-title="Chile",Deportes13 Ⓖ
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://i.imgur.com/CYdWSDb.png" tvg-id="Mega.cl" tvg-chno="24" tvg-country="CL" group-title="Chile",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Mega 2" tvg-logo="https://i.imgur.com/c1ME00r.png" tvg-id="Mega2.cl" tvg-chno="25" tvg-country="CL" group-title="Chile",Mega 2
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-name="Meganoticias" tvg-logo="https://i.imgur.com/JCVEqTc.png" tvg-id="MeganoticiasAhora.cl" tvg-chno="26" tvg-country="CL" group-title="Chile",Meganoticias
+http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" tvg-chno="1" tvg-country="CN" group-title="China",CCTV-1 综合
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://i.imgur.com/6C9JEYt.png" tvg-id="CCTV2.cn" tvg-chno="2" tvg-country="CN" group-title="China",CCTV-2 财经
@@ -2813,6 +2817,8 @@ https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Вести ФМ" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png" tvg-country="RU" group-title="Russia",Вести ФМ
 https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
+#EXTINF:-1 tvg-name="Министерство Идей" tvg-logo="https://minidey.ru/media/images/logo_minidey_tv.png" tvg-id="tv.minidey.ru" tvg-country="RU" group-title="Russia",Министерство Идей
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-name="Небеса ТВ7" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" tvg-id="NebesaTV7.ru" tvg-country="RU" group-title="Russia",Небеса ТВ7 Ⓢ
 https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Север" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-id="Sever.ru" tvg-country="RU" group-title="Russia",Север
@@ -3505,6 +3511,10 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="America TeVe" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" tvg-id="AmericaTeVe.us" tvg-chno="11" tvg-country="US" group-title="USA",America TeVe
 https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-name="Botflix TV" tvg-logo="https://i.imgur.com/JBEM8lP.png" tvg-chno="12" tvg-country="US" group-title="USA",Botflix TV
+https://hls.botflix.tv/tv/index.m3u8
+#EXTINF:-1 tvg-name="Botflix Radioo" tvg-logo="https://i.imgur.com/JBEM8lP.png" tvg-chno="13" tvg-country="US" group-title="USA",Botflix Radioo
+https://hls.botflix.tv/radioo/index.m3u8
 #EXTINF:-1 tvg-name="Venevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Venevisi%C3%B3n2007.svg/500px-Venevisi%C3%B3n2007.svg.png" tvg-id="Venevision.ve" tvg-chno="1" tvg-country="VE" group-title="Venezuela",Venevisión
 http://177.234.249.178:8888/VENEVISION/index.m3u8
 #EXTINF:-1 tvg-name="Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" tvg-id="Televen.ve" tvg-chno="4" tvg-country="VE" group-title="Venezuela",Televen

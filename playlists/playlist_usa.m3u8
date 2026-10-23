@@ -55,3 +55,7 @@ https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="America TeVe" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" tvg-id="AmericaTeVe.us" tvg-chno="11" tvg-country="US" group-title="USA",America TeVe
 https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-name="Botflix TV" tvg-logo="https://i.imgur.com/JBEM8lP.png" tvg-chno="12" tvg-country="US" group-title="USA",Botflix TV
+https://hls.botflix.tv/tv/index.m3u8
+#EXTINF:-1 tvg-name="Botflix Radioo" tvg-logo="https://i.imgur.com/JBEM8lP.png" tvg-chno="13" tvg-country="US" group-title="USA",Botflix Radioo
+https://hls.botflix.tv/radioo/index.m3u8
