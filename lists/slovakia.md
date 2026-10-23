@@ -3,12 +3,7 @@
 | # | Channel | Link | Logo | EPG id |
 |:-:|:-------:|:----:|:----:|:------:|
 | 1 | Markíza | [>](https://cdnsk003.panaccess.com/local/Markiza/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> | Markiza.sk |
-| 2 | Doma | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Doma) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png"/> | MarkizaDoma.sk |
-| 3 | Dajto | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Dajto) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png"/> | MarkizaDajto.sk |
-| 4 | Krimi | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Krimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png"/> | MarkizaKrimi.sk |
 | 5 | Klasik | [>](https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> |  |
-| 6 | Markíza TN Live | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> |  |
-| 12 | Jojko | [>](https://sktv.mxnticek.eu/new/stream.php?ch=Jojko) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png"/> | Jojko.sk |
 | 15 | STVR :24 | [>](https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png"/> | RTVS24.sk |
 | 16 | Šport | [>](https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png"/> | RTVSSport.sk |
 | 17 | STVR :O | [>](https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO) | STVR :O |  |
@@ -27,3 +22,8 @@
 | 5  | JOJ Šport | [x](https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sport-sk.png"/> | JOJSport.sk |
 | 6  | Jednotka | [x](http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jednotka-sk.png"/> | STV1.sk |
 | 7  | Dvojka | [x](http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/dvojka-sk.png"/> | STV2.sk |
+| 8  | Doma | [x](https://sktv.mxnticek.eu/new/stream.php?ch=Doma) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png"/> | MarkizaDoma.sk |
+| 9  | Dajto | [x](https://sktv.mxnticek.eu/new/stream.php?ch=Dajto) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png"/> | MarkizaDajto.sk |
+| 10 | Krimi | [x](https://sktv.mxnticek.eu/new/stream.php?ch=Krimi) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png"/> | MarkizaKrimi.sk |
+| 11 | Markíza TN Live | [x](https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png"/> |  |
+| 12 | Jojko | [x](https://sktv.mxnticek.eu/new/stream.php?ch=Jojko) | <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png"/> | Jojko.sk |

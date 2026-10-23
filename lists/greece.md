@@ -106,7 +106,6 @@
 | 92 | ART TV      | [>](https://rtmp.win:3696/live/arttvgrlive.m3u8)                          | <img height="20" src="https://i.imgur.com/LyCqQvx.png" />  | arttv.gr      |
 | 93 | Corfu       | [>](https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8) | <img height="20" src="https://i.imgur.com/dCMqo8w.jpeg" /> | corfutv.gr    |
 | 94 | Epirus TV 1 | [>](https://rtmp.win:3929/live/epiruslive.m3u8)                           | <img height="20" src="https://i.imgur.com/QB3aSl1.png" />  | epirustv1.gr  |
-| 95 | Start       | [>](https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8)     | <img height="20" src="https://i.imgur.com/nrEtmBN.png" />  | starttv.gr    |
 
 
 <h2>Thrace and Eastern Macedonia Channels</h2>
@@ -115,7 +114,13 @@
 |:---:|:--------------|---------------------------------------------------------------------------|:---------------------------------------------------------|:---------------|
 | 101 | Center TV     | [>](https://eu1.streams.gr:8081/centertv/index.m3u8)                      | <img height="20" src="https://i.imgur.com/52JW71Q.png"/> | CenterTV.gr    |
 | 102 | Delta Evros   | [>](http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8) | <img height="20" src="https://i.imgur.com/PDfSkRF.png"/> | DeltaTV.gr     |
-| 103 | Thraki Net TV | [>](https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8)   | <img height="20" src="https://i.imgur.com/DV0I0ed.png"/> | ThrakiNetTV.gr |
+
+<h2>Invalid</h2>
+
+|  #  | Channel       | Link  | Logo | EPG id |
+|:---:|:--------------|:-----:|:----:|:-------|
+| 95  | Start         | [x](https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8)   | <img height="20" src="https://i.imgur.com/nrEtmBN.png" />  | starttv.gr |
+| 103 | Thraki Net TV | [x](https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DV0I0ed.png"/>  | ThrakiNetTV.gr |
 
 
 

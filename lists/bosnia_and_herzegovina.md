@@ -11,7 +11,7 @@
 | 5   | RTV HB Ⓢ | [>](https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png"/> | RTVHB.ba |
 | 6   | RTV BN | [>](https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8) | <img height="20" src="https://i.imgur.com/DUBvfWb.png"/> | BNTV.ba |
 | 7   | RTV Glas Drine | [>](http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9NgxOdb.png"/> | RTVGlasDrine.ba |
-| 8   | Sevdah Ⓢ | [>](https://restreamer2.tnt.ba/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/V6W3yEp.png"/> | SevdahTV.ba |
+| 8   | Sevdah Ⓢ | [x](https://restreamer2.tnt.ba/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/V6W3yEp.png"/> | SevdahTV.ba |
 | 9   | TNT Kids | [>](https://restreamer1.tnt.ba/hls/tntkids.m3u8) | <img height="20" src="https://i.imgur.com/irTDbpn.png"/> | TNTKidsTV.ba |
 | 10  | Televizija 5 | [>](https://balkanmedia.dynu.net/hls/tv5web.m3u8) | <img height="20" src="https://i.imgur.com/znpvJys.png"/> | Televizija5.ba |
 | 11  | Kanal 6 | [>](https://restreamer1.tnt.ba/hls/kanal6.m3u8) | <img height="20" src="https://i.imgur.com/GGhvR0l.png"/> | Kanal6.ba |
