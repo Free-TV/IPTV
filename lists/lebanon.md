@@ -15,14 +15,14 @@
 | 11  | Al Ittihad | [>](http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8) | | AlIttihadTV.lb |
 | 12  | CharityTV | [>](http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8) | | CharityTV.lb |
 | 13  | Falestinona Channel | [>](https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8) | | FalestinonaChannel.lb |
+| 14  | ALWifak News TV | [>](http://alwifaklive.info:1935/live/myStream/playlist.m3u8) | | ALWifakNewsTV.lb |
+| 15  | Arabica TV | [>](http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8) | | ArabicaTV.lb |
 
 <h2>Invalid</h2>
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 0   | Aghani Aghani TV | [x](https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8) | | AghaniAghaniTV.lb |
-| 0   | ALWifak News TV | [x](http://alwifaklive.info:1935/live/myStream/playlist.m3u8) | | ALWifakNewsTV.lb |
-| 0   | Arabica TV | [x](http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8) | | ArabicaTV.lb |
 | 0   | Nabaa TV | [x](https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8) | | NabaaTV.lb |
 | 0   | NBN | [x](https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8) | | NBN.lb |
 | 0   | Nour El Shabeb | [x](https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8) | | NourElShabeb.lb |

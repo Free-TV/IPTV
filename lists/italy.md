@@ -460,6 +460,9 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Radio Colonna Tv Ⓨ | [>](https://www.youtube.com/radiocolonna/live) | <img height="20" src="https://i.imgur.com/EcQvDfq.png"/> |
 | 519 | TRM h24 Ⓨ     | [>](https://www.youtube.com/user/trmh24/live) | <img height="20" src="https://i.imgur.com/d47CdYU.png"/> | TRMh24.it |
 | 59  | Euronews Italian Ⓨ | [>](https://www.youtube.com/user/euronewsit/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png"/> | EuronewsItalian.fr |
+| 41  | K2             | [>](https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> | K2.it |
+| 44  | Frisbee        | [>](https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> | Frisbee.it |
+| 0   | Canale 58 | [>](https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8) | <img height="20" src="https://i.imgur.com/RlFc74C.png"/> |
 
 <h2>Twitch Live</h2>
 
@@ -472,8 +475,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 41  | K2             | [x](https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8) | <img height="20" src="https://i.imgur.com/wlLgSiA.png"/> | K2.it |
-| 44  | Frisbee        | [x](https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8) | <img height="20" src="https://i.imgur.com/9y1zIAe.png"/> | Frisbee.it |
 | 63  | GM24 Ⓢ         | [x](https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8) | <img height="20" src="https://i.imgur.com/UCntSA3.png"/> | GM24.it |
 | 61  | BIKE Channel   | [x](https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8) | <img height="20" src="https://i.imgur.com/4IzVSQI.png"/> | Bike.it |
 | 167 | VH1            | [x](https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8) | <img height="20" src="https://i.imgur.com/5ONlZGS.png"/> | VH1Italia.it |
@@ -482,7 +483,6 @@ https://www.tivusat.tv/sat-eng/tivusat/multicanale.aspx
 | 0   | Antenna Sud Sport | [x](https://live.antennasudwebtv.it:9443/hls/vodsport.m3u8) | <img height="20" src="https://i.imgur.com/cEyZnhJ.png"/> |
 | 0   | Antenna Sud Sport 2 | [x](https://live.antennasudwebtv.it:9443/hls/vodsport2.m3u8) | <img height="20" src="https://i.imgur.com/dl86FW1.png"/> |
 | 0   | Apulia Web Tv | [x](https://cp1.server89.com:19360/apuliawebtv/apuliawebtv.m3u8) | <img height="20" src="https://i.imgur.com/AnU4g2J.png"/> |
-| 0   | Canale 58 | [x](https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8) | <img height="20" src="https://i.imgur.com/RlFc74C.png"/> |
 | 0   | Canale Uno Tivù Ⓣ | [x](https://www.twitch.tv/canaleunotivu) | <img height="20" src="https://i.imgur.com/hfqNw92.png"/> |
 | 0   | Cilento Channel | [x](https://streaming.dimind.it/live/cilentocnn/index.m3u8) | <img height="20" src="https://i.imgur.com/4k9Su8j.png"/> |
 | 0   | HUB Tv | [x](https://5c483b9d1019c.streamlock.net/8004/8004/playlist.m3u8) | <img height="20" src="https://i.imgur.com/46GTBEW.png"/> |

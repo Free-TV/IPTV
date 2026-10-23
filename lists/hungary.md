@@ -8,13 +8,20 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 2   | M1 Hiradó Ⓨ    | [>](https://www.youtube.com/@M1-Hirado/live) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> |
 | 4   | M4 Sport       | [x](https://c402-node61-cdn.connectmedia.hu/150104/aaef1a354b4ad88351bbc3f3b781c3c0/6a8153af/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
+| 9   | M1 Ⓖ           | [>](http://141.94.193.53:80/M1_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
+| 10  | M2 / Petőfi TV Ⓖ | [>](http://141.94.193.53:80/M2_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
+| 11  | M5 Hungary Ⓖ   | [>](http://141.94.193.53:80/M5_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
+| 12  | Duna TV Ⓖ      | [>](http://141.94.193.53:80/Duna_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
 
 <h2>Commercial</h2>
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 4   | Hír TV         | [x](https://onlinestream.live/play.m3u?id=4740&ext=.m3u) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg" /> | HirTV.hu |
+| 4   | Hír TV         | [>](https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg" /> | HirTV.hu |
 | 7   | ErdélyTV Ⓨ     | [>](https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live) | <img height="20" src="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" /> |
+| 13  | RTL Klub       | [>](http://141.94.193.53:80/RTL_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/ruRshE1.png" /> | RTLKlub.hu |
+| 14  | TV2            | [>](http://141.94.193.53:80/TV2_HD/index.m3u8) | <img height="20" src="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" /> | TV2.hu |
+| 15  | ATV            | [>](http://141.94.193.53:80/ATV_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" /> | ATV.hu |
 
 <h2>Entertainment</h2>
 
@@ -99,13 +106,6 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 8   | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
 | 9   | Putnok Városi TV | [>](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 
-| 9   | M1 Ⓖ           | [x](http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
-| 10  | M2 / Petőfi TV Ⓖ | [x](http://88.212.15.19/live/m2_hun/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
-| 11  | M5 Hungary Ⓖ   | [x](http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
-| 12  | Duna TV Ⓖ      | [x](http://88.212.15.19/live/duna_hun/index.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
-| 13  | RTL Klub       | [x](http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ruRshE1.png" /> | RTLKlub.hu |
-| 14  | TV2            | [x](http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" /> | TV2.hu |
-| 15  | ATV            | [x](http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" /> | ATV.hu |
 | 16  | Spektrum Home  | [x](http://88.212.15.19/live/spektrum_home_hun/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" /> | SpektrumHome.hu |
 | 17  | FEM3 (TV2 Klub) | [x](http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
 | 18  | Viasat 6       | [x](http://88.212.15.19/live/viasat6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |

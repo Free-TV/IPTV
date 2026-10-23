@@ -25,3 +25,7 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-name="Falestinona Channel" tvg-logo="" tvg-id="FalestinonaChannel.lb" tvg-chno="13" group-title="Lebanon",Falestinona Channel
 https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="ALWifak News TV" tvg-logo="" tvg-id="ALWifakNewsTV.lb" tvg-chno="14" group-title="Lebanon",ALWifak News TV
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Arabica TV" tvg-logo="" tvg-id="ArabicaTV.lb" tvg-chno="15" group-title="Lebanon",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
