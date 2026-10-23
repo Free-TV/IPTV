@@ -43,11 +43,24 @@ does real network I/O per candidate, on top of the HTTP probes already spent fin
 that candidate, and only makes sense where that time is available (a weekly run),
 not where it is not (a PR check blocking on a handful of changed links).
 
+By default this only probes the `[>]` rows - the channels currently listed as working.
+A row already marked `[x]` (Invalid) is never looked at again once it is marked, so a
+source that comes back online stays listed as dead forever. --invalid flips that
+around: it probes only the `[x]` rows, and anything that now answers `alive` or
+`flaky` is printed as a recovery candidate instead of being judged dead/unreachable -
+which is the expected, uninteresting outcome for a row that is supposed to be broken.
+--include-invalid runs both passes together, in one pool of workers, so a dashboard or
+history file sees the whole list rather than just the working half of it. The exit
+code only ever reflects dead `[>]` channels - a dead `[x]` channel is not a
+regression, it is the status quo - so --invalid on its own always exits 0.
+
 Usage:
-    ./check_channels.py                          # every list
+    ./check_channels.py                          # every list, working channels only
     ./check_channels.py greece italy             # only those lists
     ./check_channels.py --attempts 5 greece      # more attempts per channel
     ./check_channels.py --confirm-dead greece    # + ffprobe second opinion on dead ones
+    ./check_channels.py --invalid greece         # only the channels already flagged Invalid
+    ./check_channels.py --include-invalid        # working channels + Invalid ones, one run
 """
 
 import argparse
@@ -73,8 +86,9 @@ ProbeSettings = namedtuple(
     "ProbeSettings", ["attempts", "timeout", "pause", "workers", "confirm_dead"],
 )
 
-# `| 1 | Channel name | [>](url) | ...` is the row format used by every list
-ROW = re.compile(r"^\|[^|]*\|([^|]+)\|[^|]*\[>\]\((https?://[^)\s]+)\)")
+# `| 1 | Channel name | [>](url) | ...` (working) or `| 1 | Channel name | [x](url) | ...`
+# (flagged Invalid) is the row format used by every list
+ROW = re.compile(r"^\|[^|]*\|([^|]+)\|[^|]*\[([>x])\]\((https?://[^)\s]+)\)")
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -103,15 +117,19 @@ GONE_CODES = (404, 410)
 FFPROBE_TIMEOUT = 25
 
 
-def read_channels(name):
-    """Return the `(channel, url)` pairs of the list called `name`."""
+def read_channels(name, markers):
+    """Return the `(channel, url, marker)` triples of the list called `name`.
+
+    `markers` selects which rows to pull: `>` for the ones currently listed as
+    working, `x` for the ones already flagged Invalid.
+    """
     path = os.path.join(LISTS_DIR, name + ".md")
     channels = []
     with open(path, encoding="utf-8") as handle:
         for line in handle:
             match = ROW.match(line.strip())
-            if match:
-                channels.append((match.group(1).strip(), match.group(2)))
+            if match and match.group(2) in markers:
+                channels.append((match.group(1).strip(), match.group(3), match.group(2)))
     return channels
 
 
@@ -231,7 +249,7 @@ def check(channel, settings):
     chance through ffprobe before reporting it as dead - see the module docstring
     for why this can only pull a verdict out of `dead`, never push one into it.
     """
-    name, url = channel
+    name, url, marker = channel
     outcomes = []
     for attempt in range(settings.attempts):
         outcomes.append(probe(url, settings.timeout))
@@ -241,19 +259,24 @@ def check(channel, settings):
     if state == DEAD and settings.confirm_dead:
         if ffprobe_finds_a_stream(url):
             state = DISPUTED
-    return name, url, state, outcomes
+    return name, url, marker, state, outcomes
 
 
-def check_all(names, settings):
-    """Probe every channel of every named list and return `{list_name: [results]}`.
+def check_all(names, markers, settings):
+    """Probe every selected channel of every named list and return `{list_name: [results]}`.
 
-    All channels of all lists share one pool of `settings.workers`, so a run across
-    many lists is not slower per list than a run of one - a list with two channels
-    does not pay the same wall-clock floor as a list with two hundred just because
-    it was handed its own pool that then sits mostly idle.
+    `markers` is passed straight through to `read_channels` - `{">"}` for the default
+    working-channels-only run, `{"x"}` for an Invalid-only recovery scan, or both at
+    once for --include-invalid. All channels of all lists share one pool of
+    `settings.workers`, so a run across many lists is not slower per list than a run
+    of one - a list with two channels does not pay the same wall-clock floor as a list
+    with two hundred just because it was handed its own pool that then sits mostly idle.
     """
     channels_by_list = {
-        name: [c for c in read_channels(name) if not c[1].startswith("https://www.youtube.com")]
+        name: [
+            c for c in read_channels(name, markers)
+            if not c[1].startswith("https://www.youtube.com")
+        ]
         for name in names
     }
 
@@ -270,18 +293,32 @@ def check_all(names, settings):
 
 
 def report(name, results, attempts):
-    """Print the results of one list and return how many channels are dead."""
+    """Print the results of one list; return `(dead, recovered)` for this list.
+
+    `dead` only counts `[>]` (working) channels - a dead `[x]` channel is the status
+    quo, not a regression, so it never counts here. `recovered` counts `[x]` channels
+    that answered `alive` or `flaky` this run: the opposite of the usual case, so it
+    gets printed even though `report` otherwise skips `alive` as uninteresting.
+    """
     states = {}
-    for _, _, state, _ in results:
+    for _, _, _, state, _ in results:
         states[state] = states.get(state, 0) + 1
     summary = ", ".join(f"{states[s]} {s}" for s in sorted(states))
     print(f"{name}: {len(results)} checked, {summary}")
-    for channel, url, state, outcomes in results:
-        if state == ALIVE:
-            continue
+    dead = 0
+    recovered = 0
+    for channel, url, marker, state, outcomes in results:
         detail = "/".join(outcomes) if state != FLAKY else f"{outcomes.count(OK)}/{attempts} ok"
-        print(f"  {state:12} {channel} [{detail}] -> {url}")
-    return states.get(DEAD, 0)
+        if marker == "x":
+            if state in (ALIVE, FLAKY):
+                recovered += 1
+                print(f"  RECOVERED?   {channel} now looks {state} [{detail}] -> {url}")
+            continue
+        if state == DEAD:
+            dead += 1
+        if state != ALIVE:
+            print(f"  {state:12} {channel} [{detail}] -> {url}")
+    return dead, recovered
 
 
 def as_records(list_name, results, checked_at, confirm_dead):
@@ -297,11 +334,12 @@ def as_records(list_name, results, checked_at, confirm_dead):
             "list": list_name,
             "channel": channel,
             "url": url,
+            "marker": marker,
             "state": state,
             "outcomes": outcomes,
             "confirm_dead": confirm_dead,
         }
-        for channel, url, state, outcomes in results
+        for channel, url, marker, state, outcomes in results
     ]
 
 
@@ -318,6 +356,16 @@ def parse_args():
     parser.add_argument(
         "--confirm-dead", action="store_true",
         help="give ffprobe a second opinion on channels that look dead (slower; needs ffmpeg)",
+    )
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
+        "--invalid", action="store_true",
+        help="check only the channels already flagged Invalid ([x]), to find ones that "
+             "work again - never affects the exit code",
+    )
+    mode.add_argument(
+        "--include-invalid", action="store_true",
+        help="check the working channels and the ones flagged Invalid together, in one run",
     )
     parser.add_argument(
         "--json", metavar="PATH",
@@ -351,10 +399,23 @@ def main():
     settings = ProbeSettings(
         args.attempts, args.timeout, args.pause, args.workers, args.confirm_dead,
     )
+    markers = {"x"} if args.invalid else ({">", "x"} if args.include_invalid else {">"})
 
-    results_by_list = check_all(names, settings)
+    results_by_list = check_all(names, markers, settings)
 
-    dead_total = sum(report(name, results_by_list[name], args.attempts) for name in names)
+    dead_total = 0
+    recovered_total = 0
+    for name in names:
+        dead, recovered = report(name, results_by_list[name], args.attempts)
+        dead_total += dead
+        recovered_total += recovered
+
+    if recovered_total:
+        print(
+            f"\n{recovered_total} channel(s) flagged Invalid answered like a live stream "
+            "this run - worth a human look before restoring them."
+        )
+
     if args.json:
         with open(args.json, "w", encoding="utf-8") as handle:
             write_json_records(handle, names, results_by_list, checked_at, args.confirm_dead)
