@@ -1065,7 +1065,7 @@ https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8
 https://budapest-cache-1.antik.sk/live/retro/index.m3u8
 #EXTINF:-1 tvg-name="90.9 Jazzy FM" tvg-logo="" tvg-chno="7" tvg-country="HU" group-title="Hungary",90.9 Jazzy FM
 https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8
-#EXTINF:-1 tvg-name="Youventus Rádió" tvg-logo="" tvg-chno="8" tvg-country="HU" group-title="Hungary",Youventus Rádió
+#EXTINF:-1 tvg-name="Juventus Rádió" tvg-logo="" tvg-chno="8" tvg-country="HU" group-title="Hungary",Juventus Rádió
 https://budapest-cache-1.antik.sk/live/juventus/index.m3u8
 #EXTINF:-1 tvg-name="Hír FM" tvg-logo="" tvg-chno="9" tvg-country="HU" group-title="Hungary",Hír FM
 https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8

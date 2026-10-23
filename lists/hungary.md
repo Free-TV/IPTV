@@ -62,7 +62,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 5   | Rádió1         | [>](https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8) | | |
 | 6   | Retró Rádió    | [>](https://budapest-cache-1.antik.sk/live/retro/index.m3u8) | | |
 | 7   | 90.9 Jazzy FM  | [>](https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8) | | |
-| 8   | Youventus Rádió | [>](https://budapest-cache-1.antik.sk/live/juventus/index.m3u8) | | |
+| 8   | Juventus Rádió | [>](https://budapest-cache-1.antik.sk/live/juventus/index.m3u8) | | |
 | 9   | Hír FM         | [>](https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8) | | |
 | 10  | Spirit FM      | [>](https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8) | | |
 | 11  | Sláger FM      | [>](https://budapest-cache-1.antik.sk/live/slager/index.m3u8) | | |
