@@ -15,7 +15,7 @@
 | 11 | TVN 3 | [>](https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8) | <img height="20" src="https://i.imgur.com/84lWqRi.png"/> | TVN3.cl |
 | 12 | Chilevisión Ⓖ | [>](https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/2Pu8yXf.png"/> | ChileVision.cl |
 | 13 | Chilevisión Noticias | [>](https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Qh6d0A9.png"/> | CHVNoticias.cl |
-| 14 | Chilevisión Deportes | [>](https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/eWCXl6a.jpeg"/> | ChileVision.cl |
+| 14 | Chilevisión Deportes Ⓖ | [>](https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/eWCXl6a.jpeg"/> | ChileVision.cl |
 | 15 | Canal 13 | [>](https://redirector.dps.live/hls/13cl/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JIo1HBs.png"/> | Canal13.cl |
 | 16 | T13 en vivo | [>](https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/3CEijac.png"/> | T13.cl |
 | 17 | 13 Entretención | [>](https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8) | <img height="20" src="https://i.imgur.com/1vTno0m.png"/> | 13E.cl |
