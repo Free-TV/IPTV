@@ -12,9 +12,19 @@ The page shows:
   - a trend of the alive share across every run kept in the history
   - one row per list (country) with its current breakdown
   - every channel that is not currently `alive`, searchable and filterable by state
+  - any channel flagged Invalid in the lists that answered like a live stream again,
+    if the history has rows for those (see check_channels.py's --invalid/--include-invalid)
 
 "Currently" means: for each (list, channel), the most recent row in the history -
 older rows for the same channel are trend data, not part of today's snapshot.
+
+A row's `marker` says whether it came from a working (`>`) or an Invalid (`x`) list
+entry; older history written before that field existed has no `marker` and is always
+treated as `>`, since only working channels were ever checked back then. Every count
+above - the state breakdown, the trend, the by-list table, "needs attention" - is
+built from `>` rows only, so turning on --include-invalid in a workflow never changes
+what those numbers mean; the `x` rows only ever feed the separate "flagged Invalid"
+section below them.
 
 Usage:
     ./generate_dashboard.py                          # reads the default history path
@@ -31,6 +41,15 @@ from html import escape
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_HISTORY = os.path.join(BASE_DIR, ".github", "checker-history", "history.jsonl")
 DEFAULT_OUT = os.path.join(BASE_DIR, "docs", "index.html")
+
+# history written before check_channels.py recorded `marker` has none - it only ever
+# checked working channels back then, so the absence of the field means `>` too
+WORKING = ">"
+
+
+def marker_of(row):
+    """Return `row`'s marker, treating pre-`marker` history as a working (`>`) row."""
+    return row.get("marker", WORKING)
 
 # rendering order and the CSS custom property carrying each state's color
 STATE_ORDER = ["alive", "flaky", "blocked", "unreachable", "disputed", "dead"]
@@ -236,13 +255,43 @@ def build_problem_rows(current):
     return "".join(rows)
 
 
-def render(history_path, generated_at):
+def build_recovered_rows(recovered):
+    """Return one `<tr>` per Invalid-flagged channel that answered like a live stream.
+
+    Unlike `build_problem_rows`, every row here is worth printing - there is no
+    `alive` case to skip, since being `alive`/`flaky` again is exactly what makes a
+    row belong in this table in the first place.
+    """
+    ordered = sorted(recovered, key=lambda r: (r["list"], r["channel"]))
+    rows = []
+    for row in ordered:
+        rows.append(
+            f"<tr>"
+            f'<td>{escape(row["list"])}</td>'
+            f'<td>{escape(row["channel"])}</td>'
+            f'<td><span class="pill" style="background:{STATE_VAR[row["state"]]}">'
+            f'{escape(row["state"])}</span></td>'
+            f'<td class="url"><a href="{escape(row["url"])}">{escape(row["url"])}</a></td>'
+            f'<td class="dim">{escape(row["checked_at"][:10])}</td>'
+            "</tr>"
+        )
+    return "".join(rows)
+
+
+def render(history_path, generated_at):  # pylint: disable=too-many-locals
     """Build the full dashboard page for the history found at `history_path`."""
     rows = read_history(history_path)
     if not rows:
         return EMPTY_PAGE.format(path=escape(history_path))
 
-    current = latest_snapshot(rows)
+    # every top-of-page count, the trend, and "needs attention" are built from working
+    # (`>`) rows only, so turning --include-invalid on in a workflow can only ever add
+    # the separate "flagged Invalid" section below - it never changes what these numbers
+    # mean, and never hides a dead working channel behind hundreds of expected-dead
+    # Invalid ones.
+    working_rows = [row for row in rows if marker_of(row) == WORKING]
+
+    current = latest_snapshot(working_rows)
     overall_counts = defaultdict(int)
     for row in current:
         overall_counts[row["state"]] += 1
@@ -252,17 +301,28 @@ def render(history_path, generated_at):
     for row in current:
         by_list[row["list"]].append(row)
 
-    trend = run_trend(rows)
+    trend = run_trend(working_rows)
     last_checked = rows[-1]["checked_at"]
     alive_pct_overall = (
         overall_counts.get("alive", 0) / total_channels * 100 if total_channels else 0
     )
 
+    # the opposite case from "needs attention": a channel that is *supposed* to be
+    # dead (it is sitting on an `[x]` row) but just answered like a live stream -
+    # recorded only when a workflow actually ran check_channels.py with --invalid or
+    # --include-invalid, so this is empty rather than wrong on a history that never did
+    invalid_current = latest_snapshot([row for row in rows if marker_of(row) != WORKING])
+    recovered = [row for row in invalid_current if row["state"] in ("alive", "flaky")]
+
     cards = build_cards(overall_counts)
     list_rows = build_list_rows(by_list)
     problem_rows = build_problem_rows(current)
+    recovered_rows = build_recovered_rows(recovered)
     state_options = "".join(
         f'<option value="{s}">{s}</option>' for s in STATE_ORDER if s != "alive"
+    )
+    recovered_subline = (
+        f" &middot; {len(recovered)} flagged Invalid now answering again" if recovered else ""
     )
 
     # pylint: disable=line-too-long
@@ -418,7 +478,7 @@ footer a {{ color: var(--accent); }}
   <div class="masthead">
     <h1>Channel Signal <span class="on-air">&mdash; {alive_pct_overall:.0f}% on air</span></h1>
   </div>
-  <p class="subline">{total_channels} channels &middot; {len(by_list)} lists &middot; last swept {escape(last_checked)} &middot; page built {escape(generated_at)}</p>
+  <p class="subline">{total_channels} channels &middot; {len(by_list)} lists{recovered_subline} &middot; last swept {escape(last_checked)} &middot; page built {escape(generated_at)}</p>
 
   <div class="cards">{cards}</div>
 
@@ -453,6 +513,17 @@ footer a {{ color: var(--accent); }}
     <table id="problems">
       <thead><tr><th>List</th><th>Channel</th><th>State</th><th>URL</th><th>Last checked</th></tr></thead>
       <tbody>{"".join(problem_rows)}</tbody>
+    </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Flagged Invalid, answering again</h2>
+    <p class="section-note">Channels sitting on an <code>[x]</code> row that answered like a live stream when a workflow last ran <code>check_channels.py</code> with <code>--invalid</code> or <code>--include-invalid</code>. Not proof the source is back for good - a single good answer can be a flaky CDN having a moment, not a restored channel - so this is a shortlist to look at by hand, not something to auto-restore.</p>
+    <div class="table-wrap">
+    <table>
+      <thead><tr><th>List</th><th>Channel</th><th>State</th><th>URL</th><th>Last checked</th></tr></thead>
+      <tbody>{"".join(recovered_rows) or '<tr><td colspan="5" class="dim">none right now</td></tr>'}</tbody>
     </table>
     </div>
   </section>

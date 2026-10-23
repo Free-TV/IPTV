@@ -28,7 +28,7 @@ jobs:
 
       - name: Run the deep check (HTTP probes + ffprobe confirmation on dead channels)
         run: |
-          python3 check_channels.py --attempts 3 --timeout 12 --pause 5 --workers 40 --confirm-dead --json run.jsonl | tee check_summary.txt
+          python3 check_channels.py --attempts 3 --timeout 12 --pause 5 --workers 40 --confirm-dead --include-invalid --json run.jsonl | tee check_summary.txt
 
       - name: Append to history and prune entries older than 90 days
         run: |
@@ -73,7 +73,7 @@ jobs:
           {
             echo "## Deep channel check - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             echo ""
-            echo "Channels that looked \`dead\` over HTTP were given a second opinion by \`ffprobe\`. A channel still reported \`dead\` here survived both checks and is safe to act on; one reported \`disputed\` looked dead over HTTP but ffprobe found a real stream behind it - needs a human look, not an automatic edit."
+            echo "Channels that looked \`dead\` over HTTP were given a second opinion by \`ffprobe\`. A channel still reported \`dead\` here survived both checks and is safe to act on; one reported \`disputed\` looked dead over HTTP but ffprobe found a real stream behind it - needs a human look, not an automatic edit. This run also re-checks every channel already flagged Invalid (\`--include-invalid\`) - one reported \`RECOVERED?\` answered like a live stream again and shows up on the dashboard's own 'Flagged Invalid, answering again' section, also pending a human look before anyone restores it."
             echo ""
             echo '```'
             cat check_summary.txt
