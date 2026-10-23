@@ -29,6 +29,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | Cool           | [>](http://141.94.193.53:80/Cool_HD/index.m3u8) | | Cool.hu |
+| 2   | Spektrum Home  | [>](http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" /> | SpektrumHome.hu |
 
 <h2>Religion</h2>
 
@@ -51,6 +52,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | Film+          | [>](http://141.94.193.53:80/Film+_HD/index.m3u8) | | Film+.hu |
+| 2   | Izaura TV      | [>](http://141.94.193.53:80/Izaura_TV_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" /> | IzauraTV.hu |
 
 <h2>News</h2>
 
@@ -109,8 +111,6 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 8   | Hatoscsatorna  | [x](https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8) | <img height="20" src="https://i.imgur.com/vraAfd7.png" /> | Hatoscsatorna.hu |
 | 9   | Putnok Városi TV | [>](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 
-| 16  | Spektrum Home  | [x](http://88.212.15.19/live/spektrum_home_hun/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" /> | SpektrumHome.hu |
 | 17  | FEM3 (TV2 Klub) | [x](http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
 | 18  | Viasat 6       | [x](http://88.212.15.19/live/viasat6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |
-| 19  | Izaura TV      | [x](http://88.212.15.19/live/izaura/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" /> | IzauraTV.hu |
 | 20  | DTV            | [x](http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8) | <img height="20" src="https://i.imgur.com/YSpqmSO.png" /> | DTV.hu |

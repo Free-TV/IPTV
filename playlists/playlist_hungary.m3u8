@@ -23,6 +23,8 @@ http://141.94.193.53:80/ATV_HD/index.m3u8
 http://141.94.193.53:80/TV4_HD/index.m3u8
 #EXTINF:-1 tvg-name="Cool" tvg-logo="" tvg-id="Cool.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",Cool
 http://141.94.193.53:80/Cool_HD/index.m3u8
+#EXTINF:-1 tvg-name="Spektrum Home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" tvg-id="SpektrumHome.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Spektrum Home
+http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8
 #EXTINF:-1 tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" tvg-id="BonumTV.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1 tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" tvg-id="ApostolTV.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Apostol TV
@@ -37,6 +39,8 @@ https://www.youtube.com/@radio1hungary/live
 https://www.youtube.com/c/DikhTvGipsyTv/live
 #EXTINF:-1 tvg-name="Film+" tvg-logo="" tvg-id="Film+.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",Film+
 http://141.94.193.53:80/Film+_HD/index.m3u8
+#EXTINF:-1 tvg-name="Izaura TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" tvg-id="IzauraTV.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Izaura TV
+http://141.94.193.53:80/Izaura_TV_HD/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="EuronewsHungarian.fr" tvg-chno="1" tvg-country="HU" group-title="Hungary",Euronews Hungarian Ⓨ
 https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
 #EXTINF:-1 tvg-name="Parlamenti közvetítés" tvg-logo="" tvg-chno="2" tvg-country="HU" group-title="Hungary",Parlamenti közvetítés
