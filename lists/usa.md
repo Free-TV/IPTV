@@ -15,14 +15,14 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | CNN            | [>](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> | CNN.us |
+| 1   | CNN            | [x](https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8) | <img height="20" src="https://i.imgur.com/vyrc1I1.png"/> | CNN.us |
 | 2   | CNBC Ⓨ         | [>](https://www.youtube.com/c/CNBC/live) | <img height="20" src="https://i.imgur.com/BTasyOy.png"/> | CNBC.us |
 | 3   | Bloomberg      | [>](https://bloomberg.com/media-manifest/streams/us.m3u8) | <img height="20" src="https://i.imgur.com/VnCcH73.png"/> | BloombergTelevision.us |
 | 4   | ABC News       | [>](https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8) | <img height="20" src="https://i.imgur.com/7sJLzKi.png"/> | ABCNews.us |
 | 5   | CBS News       | [>](https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8) | <img height="20" src="https://i.imgur.com/nki2HDQ.png"/> | CBSNews.us |
 | 6   | NBC News       | [>](https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003) | <img height="20" src="https://i.imgur.com/v48mMRT.png"/> | NBCNewsNow.us |
 | 7   | Reuters TV     | [>](https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AbvCnoH.png"/> | ReutersTV.us |
-| 8   | NASA TV Public | [>](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVPublic.us |
+| 8   | NASA TV Public | [x](https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVPublic.us |
 | 9   | NASA TV Media  | [>](https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8) | <img height="20" src="https://i.imgur.com/rmyfoOI.png"/> | NASATVMedia.us |
 
 <h2>Pluto</h2>

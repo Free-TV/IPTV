@@ -259,8 +259,6 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 tvg-name="RTV Glas Drine" tvg-logo="https://i.imgur.com/9NgxOdb.png" tvg-id="RTVGlasDrine.ba" tvg-chno="7" tvg-country="BA" group-title="Bosnia and Herzegovina",RTV Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 tvg-name="Sevdah" tvg-logo="https://i.imgur.com/V6W3yEp.png" tvg-id="SevdahTV.ba" tvg-chno="8" tvg-country="BA" group-title="Bosnia and Herzegovina",Sevdah Ⓢ
-https://restreamer2.tnt.ba/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TNT Kids" tvg-logo="https://i.imgur.com/irTDbpn.png" tvg-id="TNTKidsTV.ba" tvg-chno="9" tvg-country="BA" group-title="Bosnia and Herzegovina",TNT Kids
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" tvg-id="Televizija5.ba" tvg-chno="10" tvg-country="BA" group-title="Bosnia and Herzegovina",Televizija 5
@@ -975,14 +973,10 @@ https://rtmp.win:3696/live/arttvgrlive.m3u8
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="Epirus TV 1" tvg-logo="https://i.imgur.com/QB3aSl1.png" tvg-id="epirustv1.gr" tvg-chno="94" tvg-country="GR" group-title="Greece",Epirus TV 1
 https://rtmp.win:3929/live/epiruslive.m3u8
-#EXTINF:-1 tvg-name="Start" tvg-logo="https://i.imgur.com/nrEtmBN.png" tvg-id="starttv.gr" tvg-chno="95" tvg-country="GR" group-title="Greece",Start
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-name="Center TV" tvg-logo="https://i.imgur.com/52JW71Q.png" tvg-id="CenterTV.gr" tvg-chno="101" tvg-country="GR" group-title="Greece",Center TV
 https://eu1.streams.gr:8081/centertv/index.m3u8
 #EXTINF:-1 tvg-name="Delta Evros" tvg-logo="https://i.imgur.com/PDfSkRF.png" tvg-id="DeltaTV.gr" tvg-chno="102" tvg-country="GR" group-title="Greece",Delta Evros
 http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8
-#EXTINF:-1 tvg-name="Thraki Net TV" tvg-logo="https://i.imgur.com/DV0I0ed.png" tvg-id="ThrakiNetTV.gr" tvg-chno="103" tvg-country="GR" group-title="Greece",Thraki Net TV
-https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-name="Creta" tvg-logo="https://i.imgur.com/x0qK8IE.png" tvg-id="CretaTV.gr" tvg-chno="111" tvg-country="GR" group-title="Greece",Creta
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-name="Kriti 1" tvg-logo="https://i.imgur.com/C1ucQeC.png" tvg-id="Kriti1Tv.gr" tvg-chno="112" tvg-country="GR" group-title="Greece",Kriti 1
@@ -2199,17 +2193,17 @@ https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
 https://www.twitch.tv/teleroma_56
 #EXTINF:-1 tvg-name="TeleRadioStereo" tvg-logo="https://i.imgur.com/eRNgqnA.png" tvg-country="IT" group-title="Italy",TeleRadioStereo Ⓣ
 https://www.twitch.tv/teleradiostereo
-#EXTINF:-1 tvg-name="NHK総合 (東京)" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" tvg-country="JP" group-title="日本 / Japan",NHK総合 (東京)
+#EXTINF:-1 tvg-name="NHK総合 (東京)" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-id="JOAKDTV.jp" tvg-chno="D011" tvg-country="JP" group-title="日本 / Japan",NHK総合 (東京) Ⓖ
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-id="JOAXDTV.jp" tvg-chno="D041" tvg-country="JP" group-title="日本 / Japan",日本テレビ
+#EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-id="JOAXDTV.jp" tvg-chno="D041" tvg-country="JP" group-title="日本 / Japan",日本テレビ Ⓖ
 https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://i.imgur.com/5XnMfcR.png" tvg-id="JOEXDTV.jp" tvg-chno="D051" tvg-country="JP" group-title="日本 / Japan",テレビ朝日
+#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://i.imgur.com/5XnMfcR.png" tvg-id="JOEXDTV.jp" tvg-chno="D051" tvg-country="JP" group-title="日本 / Japan",テレビ朝日 Ⓖ
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" tvg-country="JP" group-title="日本 / Japan",TBSテレビ
+#EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-id="JORXDTV.jp" tvg-chno="D061" tvg-country="JP" group-title="日本 / Japan",TBSテレビ Ⓖ
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://i.imgur.com/U8jBxEi.png" tvg-id="JOTXDTV.jp" tvg-chno="D071" tvg-country="JP" group-title="日本 / Japan",テレビ東京
+#EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://i.imgur.com/U8jBxEi.png" tvg-id="JOTXDTV.jp" tvg-chno="D071" tvg-country="JP" group-title="日本 / Japan",テレビ東京 Ⓖ
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
-#EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" tvg-country="JP" group-title="日本 / Japan",フジテレビ
+#EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-id="JOCXDTV.jp" tvg-chno="D081" tvg-country="JP" group-title="日本 / Japan",フジテレビ Ⓖ
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-name="WOWOWライブ" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png" tvg-id="WOWOWLive.jp" tvg-chno="BS192" tvg-country="JP" group-title="日本 / Japan",WOWOWライブ
 [NO PUBLIC STREAM]
@@ -2919,18 +2913,8 @@ rtmp://212.200.230.50:1935/RTV/rtv1
 rtmp://212.200.230.50:1935/RTV/rtv2
 #EXTINF:-1 tvg-name="Markíza" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" tvg-id="Markiza.sk" tvg-chno="1" tvg-country="SK" group-title="Slovakia",Markíza
 https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
-#EXTINF:-1 tvg-name="Doma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png" tvg-id="MarkizaDoma.sk" tvg-chno="2" tvg-country="SK" group-title="Slovakia",Doma
-https://sktv.mxnticek.eu/new/stream.php?ch=Doma
-#EXTINF:-1 tvg-name="Dajto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png" tvg-id="MarkizaDajto.sk" tvg-chno="3" tvg-country="SK" group-title="Slovakia",Dajto
-https://sktv.mxnticek.eu/new/stream.php?ch=Dajto
-#EXTINF:-1 tvg-name="Krimi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png" tvg-id="MarkizaKrimi.sk" tvg-chno="4" tvg-country="SK" group-title="Slovakia",Krimi
-https://sktv.mxnticek.eu/new/stream.php?ch=Krimi
 #EXTINF:-1 tvg-name="Klasik" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" tvg-chno="5" tvg-country="SK" group-title="Slovakia",Klasik
 https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
-#EXTINF:-1 tvg-name="Markíza TN Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" tvg-chno="6" tvg-country="SK" group-title="Slovakia",Markíza TN Live
-https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live
-#EXTINF:-1 tvg-name="Jojko" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png" tvg-id="Jojko.sk" tvg-chno="12" tvg-country="SK" group-title="Slovakia",Jojko
-https://sktv.mxnticek.eu/new/stream.php?ch=Jojko
 #EXTINF:-1 tvg-name="STVR :24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png" tvg-id="RTVS24.sk" tvg-chno="15" tvg-country="SK" group-title="Slovakia",STVR :24
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24
 #EXTINF:-1 tvg-name="Šport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png" tvg-id="RTVSSport.sk" tvg-chno="16" tvg-country="SK" group-title="Slovakia",Šport
@@ -3027,8 +3011,6 @@ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-name="Neox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png" tvg-id="Neox.es" tvg-chno="11" tvg-country="ES" group-title="Spain",Neox Ⓢ
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1 tvg-name="Nova" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png" tvg-id="Nova.es" tvg-chno="12" tvg-country="ES" group-title="Spain",Nova Ⓢ
-http://40.160.24.55/Nova/index.m3u8
 #EXTINF:-1 tvg-name="Mega" tvg-logo="https://i.imgur.com/Udrt2eK.png" tvg-id="Mega.es" tvg-chno="13" tvg-country="ES" group-title="Spain",Mega Ⓢ
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1 tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png" tvg-id="FactoriadeFiccion.es" tvg-chno="15" tvg-country="ES" group-title="Spain",FDF
@@ -3041,8 +3023,6 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-logo="https://i.imgur.com/WcVOXPr.png" tvg-id="CanalSurAndalucia.es" tvg-chno="3" tvg-country="ES" group-title="Spain",Canal Sur Andalucía
 https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-name="La 7 CYLTV" tvg-logo="https://i.imgur.com/o2FlMXP.png" tvg-id="La7deCyLTV.es" tvg-chno="4" tvg-country="ES" group-title="Spain",La 7 CYLTV
-http://nws.nice264.com/ilive/cyl/cyl_cyltvlivem_MB_348/playlist.m3u8
 #EXTINF:-1 tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" tvg-id="La8Mediterraneo.es" tvg-chno="5" tvg-country="ES" group-title="Spain",La 8 Mediterráneo
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 #EXTINF:-1 tvg-name="Televisión Canaria" tvg-logo="https://i.imgur.com/68LNS8e.png" tvg-id="TVCanaria.es" tvg-chno="6" tvg-country="ES" group-title="Spain",Televisión Canaria Ⓨ
@@ -3069,8 +3049,6 @@ https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-name="Esport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1280px-Esport3.svg.png" tvg-id="Esport3.es" tvg-chno="15" tvg-country="ES" group-title="Spain",Esport3 Ⓖ
 https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-name="Canal TE24" tvg-logo="https://i.ibb.co/3ynghbW/logox2.png" tvg-id="CanalTerresdelEbre.es" tvg-chno="15" tvg-country="ES" group-title="Spain",Canal TE24
-https://ingest1-video.streaming-pro.com/esportsteABR/etestream/playlist.m3u8
 #EXTINF:-1 tvg-name="À Punt TV" tvg-logo="https://i.imgur.com/M88LoNl.png" tvg-id="APunt.es" tvg-chno="16" tvg-country="ES" group-title="Spain",À Punt TV
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="7 Región de Murcia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/120px-La_7_logo.svg.png" tvg-id="La7.es" tvg-chno="17" tvg-country="ES" group-title="Spain",7 Región de Murcia Ⓢ
@@ -3499,8 +3477,6 @@ https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
 #EXTINF:-1 tvg-name="Rev'n" tvg-logo="https://i.imgur.com/VUhqVgG.png" tvg-id="RevnTV.us" tvg-chno="6" tvg-country="US" group-title="USA",Rev'n
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" tvg-chno="1" tvg-country="US" group-title="USA",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="CNBC.us" tvg-chno="2" tvg-country="US" group-title="USA",CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" tvg-id="BloombergTelevision.us" tvg-chno="3" tvg-country="US" group-title="USA",Bloomberg
@@ -3513,8 +3489,6 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" tvg-id="ReutersTV.us" tvg-chno="7" tvg-country="US" group-title="USA",Reuters TV
 https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="NASATVPublic.us" tvg-chno="8" tvg-country="US" group-title="USA",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="NASATVMedia.us" tvg-chno="9" tvg-country="US" group-title="USA",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-id="BBCFood.us" tvg-chno="1" tvg-country="US" group-title="USA",BBC Food
@@ -3717,10 +3691,6 @@ https://i.mjh.nz/sky-news-now.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RT.ru" tvg-chno="34" group-title="News",Russia Today Ⓖ
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" tvg-chno="36" group-title="News",CNN
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" tvg-chno="37" group-title="News",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" tvg-chno="38" group-title="News",GB News Ⓨ
 https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
 #EXTINF:-1 tvg-name="TalkTV" tvg-logo="https://i.imgur.com/KxHWpQB.png" tvg-id="TalkTV.uk" tvg-chno="39" group-title="News",TalkTV

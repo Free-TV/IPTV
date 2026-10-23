@@ -17,8 +17,6 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 #EXTINF:-1 tvg-name="RTV Glas Drine" tvg-logo="https://i.imgur.com/9NgxOdb.png" tvg-id="RTVGlasDrine.ba" tvg-chno="7" tvg-country="BA" group-title="Bosnia and Herzegovina",RTV Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 tvg-name="Sevdah" tvg-logo="https://i.imgur.com/V6W3yEp.png" tvg-id="SevdahTV.ba" tvg-chno="8" tvg-country="BA" group-title="Bosnia and Herzegovina",Sevdah Ⓢ
-https://restreamer2.tnt.ba/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TNT Kids" tvg-logo="https://i.imgur.com/irTDbpn.png" tvg-id="TNTKidsTV.ba" tvg-chno="9" tvg-country="BA" group-title="Bosnia and Herzegovina",TNT Kids
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" tvg-id="Televizija5.ba" tvg-chno="10" tvg-country="BA" group-title="Bosnia and Herzegovina",Televizija 5
