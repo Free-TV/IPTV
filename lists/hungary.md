@@ -22,11 +22,13 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 13  | RTL Klub       | [>](http://141.94.193.53:80/RTL_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/ruRshE1.png" /> | RTLKlub.hu |
 | 14  | TV2            | [>](http://141.94.193.53:80/TV2_HD/index.m3u8) | <img height="20" src="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" /> | TV2.hu |
 | 15  | ATV            | [>](http://141.94.193.53:80/ATV_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" /> | ATV.hu |
+| 16  | TV4            | [>](http://141.94.193.53:80/TV4_HD/index.m3u8) | | TV4.hu |
 
 <h2>Entertainment</h2>
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
+| 1   | Cool           | [>](http://141.94.193.53:80/Cool_HD/index.m3u8) | | Cool.hu |
 
 <h2>Religion</h2>
 
@@ -48,6 +50,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
+| 1   | Film+          | [>](http://141.94.193.53:80/Film+_HD/index.m3u8) | | Film+.hu |
 
 <h2>News</h2>
 
