@@ -23,7 +23,7 @@
 | 5   | Omroep Gelderland  | [>](https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8) | <img height="20" src="https://i.imgur.com/TPlyvUQ.png"/> | OmroepGelderlandTV.nl |
 | 6   | RTV Utrecht        | [>](http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8) | <img height="20" src="https://i.imgur.com/c0I24N6.png"/> | RTVUtrecht.nl |
 | 7   | Omroep Flevoland Ⓢ | [>](https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/d1CmTcI.png"/> | OmroepFlevolandTV.nl |
-| 8   | NH Nieuws          | [>](https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8) | <img height="20" src="https://i.imgur.com/SQPVOwn.png"/> |
+| 8   | NH Nieuws          | [>](https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8) | <img height="20" src="https://i.imgur.com/SQPVOwn.png"/> | NH.nl |
 | 9   | RTV Rijnmond       | [>](https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/TNhUVEm.png"/> | RTVRijnmond.nl |
 | 10  | Omroep West        | [>](https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/aax1HPH.png"/> | OmroepWestTV.nl |
 | 11  | Omroep Zeeland     | [>](http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8) | <img height="20" src="https://i.imgur.com/8aLDyUI.png"/> | OmroepZeelandTV.nl |
