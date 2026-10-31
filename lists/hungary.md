@@ -37,6 +37,12 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 7   | Sport2 Ⓖ       | [>](http://141.94.193.53:80/Sport_2_HD/index.m3u8) | | Sport2.hu |
 | 8   | FEM3 (TV2 Klub) | [>](http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
 | 9   | Viasat 6       | [>](http://88.212.15.17/live/viasat6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |
+| 10  | PRIME HD       | [>](http://141.94.193.53:80/PRIME_HD/index.m3u8) | | |
+| 11  | SuperTV2 HD    | [>](http://141.94.193.53:80/SuperTV2_HD/index.m3u8) | | |
+| 12  | Travel Channel HD | [>](http://141.94.193.53:80/Travel_Channel_HD/index.m3u8) | | |
+| 13  | Nick Jr        | [>](http://141.94.193.53:80/Nick_Jr/index.m3u8) | | |
+| 14  | Match 4 HD     | [>](http://141.94.193.53:80/Match4_HD/index.m3u8) | | |
+| 15  | Story 4 HD     | [>](http://141.94.193.53:80/Story4_HD/index.m3u8) | | |
 
 <h2>Religion</h2>
 
@@ -79,6 +85,15 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 4   | Mozi+ Ⓖ        | [>](http://141.94.193.53:80/Mozi+_HD/index.m3u8) | | MoziPlus.hu |
 | 5   | AMC Ⓖ          | [>](http://141.94.193.53:80/AMC_HD/index.m3u8) | | AMC.hu |
 | 6   | TV Paprika Ⓖ   | [>](http://141.94.193.53:80/TV_Paprika_HD/index.m3u8) | | TVPaprika.hu |
+| 7   | AXN HD         | [>](http://141.94.193.53:80/AXN_HD/index.m3u8) | | |
+| 8   | AXN Black      | [>](http://141.94.193.53:80/axn_black/index.m3u8) | | |
+| 9   | Moziverzum HD  | [>](http://141.94.193.53:80/Moziverzum_HD/index.m3u8) | | |
+| 10  | FilmBox        | [>](http://141.94.193.53:80/FilmBox/index.m3u8) | | |
+| 11  | Cinemax HD     | [>](http://141.94.193.53:80/Cinemax_HD/index.m3u8) | | |
+| 12  | Cinemax 2 HD   | [>](http://141.94.193.53:80/Cinemax_2_HD/index.m3u8) | | |
+| 13  | HBO HD         | [>](http://141.94.193.53:80/HBO_HD/index.m3u8) | | |
+| 14  | HBO 2 HD       | [>](http://141.94.193.53:80/HBO2_HD/index.m3u8) | | |
+| 15  | HBO 3 HD       | [>](http://141.94.193.53:80/HBO3_HD/index.m3u8) | | |
 
 <h2>News</h2>
 
