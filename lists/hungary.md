@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 3  | Duna TV Ⓖ      | [>](http://141.94.193.53:80/Duna_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
 | 4   | M4 Sport Ⓖ     | [>](http://141.94.193.53:80/M4_Sport_HD/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
 | 5  | M5 Hungary Ⓖ   | [>](http://141.94.193.53:80/M5_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
-| 6   | Duna World / M4+ Sport | [>](http://88.212.15.19/live/duna_world_hun/index.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
+| 6   | Duna World / M4+ Sport | [>](http://141.94.193.53:80/Duna_World_M4_Sport+_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/DciAdFF.png" /> | DunaWorld.hu |
 
 <h2>Commercial</h2>
 
