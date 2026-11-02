@@ -1005,148 +1005,172 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 https://tvp22.sky4k.top/index1.php
 #EXTINF:-1 tvg-name="TVB Finance (Sports & Information Channel)" tvg-logo="https://i.imgur.com/Fkkp7x7.png" tvg-id="TVBFinanceSportsInformationChannel.hk" tvg-chno="84" tvg-country="HK" group-title="Hong Kong",TVB Finance (Sports & Information Channel)
 https://tvp22.sky4k.top/index2.php
-#EXTINF:-1 tvg-name="M1 Hiradó" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-chno="2" tvg-country="HU" group-title="Hungary",M1 Hiradó Ⓨ
-https://www.youtube.com/@M1-Hirado/live
+#EXTINF:-1 tvg-name="M1" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",M1 Ⓖ
+http://141.94.193.53:80/M1_HD/index.m3u8
+#EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",M2 / Petőfi TV Ⓖ
+http://141.94.193.53:80/M2_HD/index.m3u8
+#EXTINF:-1 tvg-name="Duna TV" tvg-logo="https://i.imgur.com/b4RXacY.png" tvg-id="DunaTV.hu" tvg-chno="3" tvg-country="HU" group-title="Hungary",Duna TV Ⓖ
+http://141.94.193.53:80/Duna_HD/index.m3u8
 #EXTINF:-1 tvg-name="M4 Sport" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" tvg-id="M4Sport.hu" tvg-chno="4" tvg-country="HU" group-title="Hungary",M4 Sport Ⓖ
 http://141.94.193.53:80/M4_Sport_HD/index.m3u8
-#EXTINF:-1 tvg-name="M1" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" tvg-chno="9" tvg-country="HU" group-title="Hungary",M1 Ⓖ
-http://141.94.193.53:80/M1_HD/index.m3u8
-#EXTINF:-1 tvg-name="M2 / Petőfi TV" tvg-logo="https://i.imgur.com/CzaDhmA.png" tvg-id="M2.hu" tvg-chno="10" tvg-country="HU" group-title="Hungary",M2 / Petőfi TV Ⓖ
-http://141.94.193.53:80/M2_HD/index.m3u8
-#EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" tvg-id="M5.hu" tvg-chno="11" tvg-country="HU" group-title="Hungary",M5 Hungary Ⓖ
+#EXTINF:-1 tvg-name="M5 Hungary" tvg-logo="https://i.imgur.com/qLQz2V6.png" tvg-id="M5.hu" tvg-chno="5" tvg-country="HU" group-title="Hungary",M5 Hungary Ⓖ
 http://141.94.193.53:80/M5_HD/index.m3u8
-#EXTINF:-1 tvg-name="Duna TV" tvg-logo="https://i.imgur.com/b4RXacY.png" tvg-id="DunaTV.hu" tvg-chno="12" tvg-country="HU" group-title="Hungary",Duna TV Ⓖ
-http://141.94.193.53:80/Duna_HD/index.m3u8
-#EXTINF:-1 tvg-name="Hír TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg" tvg-id="HirTV.hu" tvg-chno="4" tvg-country="HU" group-title="Hungary",Hír TV
-https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
-#EXTINF:-1 tvg-name="ErdélyTV" tvg-logo="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" tvg-chno="7" tvg-country="HU" group-title="Hungary",ErdélyTV Ⓨ
-https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
-#EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://i.imgur.com/ruRshE1.png" tvg-id="RTLKlub.hu" tvg-chno="13" tvg-country="HU" group-title="Hungary",RTL Klub
+#EXTINF:-1 tvg-name="Duna World / M4+ Sport" tvg-logo="https://i.imgur.com/DciAdFF.png" tvg-id="DunaWorld.hu" tvg-chno="6" tvg-country="HU" group-title="Hungary",Duna World / M4+ Sport
+http://141.94.193.53:80/Duna_World_M4_Sport+_HD/index.m3u8
+#EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://i.imgur.com/ruRshE1.png" tvg-id="RTLKlub.hu" tvg-chno="7" tvg-country="HU" group-title="Hungary",RTL Klub
 http://141.94.193.53:80/RTL_HD/index.m3u8
-#EXTINF:-1 tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" tvg-id="TV2.hu" tvg-chno="14" tvg-country="HU" group-title="Hungary",TV2
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" tvg-id="TV2.hu" tvg-chno="8" tvg-country="HU" group-title="Hungary",TV2
 http://141.94.193.53:80/TV2_HD/index.m3u8
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" tvg-id="ATV.hu" tvg-chno="15" tvg-country="HU" group-title="Hungary",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" tvg-id="ATV.hu" tvg-chno="9" tvg-country="HU" group-title="Hungary",ATV
 http://141.94.193.53:80/ATV_HD/index.m3u8
-#EXTINF:-1 tvg-name="TV4" tvg-logo="" tvg-id="TV4.hu" tvg-chno="16" tvg-country="HU" group-title="Hungary",TV4
+#EXTINF:-1 tvg-name="Hír TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg" tvg-id="HirTV.hu" tvg-chno="10" tvg-country="HU" group-title="Hungary",Hír TV
+https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
+#EXTINF:-1 tvg-name="ErdélyTV" tvg-logo="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" tvg-chno="11" tvg-country="HU" group-title="Hungary",ErdélyTV Ⓨ
+https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
+#EXTINF:-1 tvg-name="TV4" tvg-logo="https://www.tvmustra.hu/logok/csatikon/tv4.gif" tvg-id="TV4.hu" tvg-chno="12" tvg-country="HU" group-title="Hungary",TV4
 http://141.94.193.53:80/TV4_HD/index.m3u8
-#EXTINF:-1 tvg-name="Cool" tvg-logo="" tvg-id="Cool.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",Cool
+#EXTINF:-1 tvg-name="Cool" tvg-logo="https://media.port.hu/images/001/591/100x100/760.jpg" tvg-id="Cool.hu" tvg-chno="13" tvg-country="HU" group-title="Hungary",Cool
 http://141.94.193.53:80/Cool_HD/index.m3u8
-#EXTINF:-1 tvg-name="Spektrum" tvg-logo="" tvg-id="Spektrum.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Spektrum Ⓖ
+#EXTINF:-1 tvg-name="Spektrum" tvg-logo="https://media.port.hu/images/001/591/100x100/776.jpg" tvg-id="Spektrum.hu" tvg-chno="14" tvg-country="HU" group-title="Hungary",Spektrum Ⓖ
 http://141.94.193.53:80/Spektrum_HD/index.m3u8
-#EXTINF:-1 tvg-name="Spektrum Home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" tvg-id="SpektrumHome.hu" tvg-chno="3" tvg-country="HU" group-title="Hungary",Spektrum Home Ⓖ
+#EXTINF:-1 tvg-name="Spektrum Home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" tvg-id="SpektrumHome.hu" tvg-chno="15" tvg-country="HU" group-title="Hungary",Spektrum Home Ⓖ
 http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8
-#EXTINF:-1 tvg-name="Galaxy4" tvg-logo="" tvg-id="Galaxy4.hu" tvg-chno="4" tvg-country="HU" group-title="Hungary",Galaxy4 Ⓖ
+#EXTINF:-1 tvg-name="Galaxy4" tvg-logo="https://www.tvmustra.hu/logok/csatikon/galaxy4.gif" tvg-id="Galaxy4.hu" tvg-chno="16" tvg-country="HU" group-title="Hungary",Galaxy4 Ⓖ
 http://141.94.193.53:80/Galaxy4_HD/index.m3u8
-#EXTINF:-1 tvg-name="DTV" tvg-logo="https://i.imgur.com/YSpqmSO.png" tvg-id="DTV.hu" tvg-chno="5" tvg-country="HU" group-title="Hungary",DTV Ⓖ
+#EXTINF:-1 tvg-name="DTV" tvg-logo="https://i.imgur.com/YSpqmSO.png" tvg-id="DTV.hu" tvg-chno="17" tvg-country="HU" group-title="Hungary",DTV Ⓖ
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Sport1" tvg-logo="" tvg-id="Sport1.hu" tvg-chno="6" tvg-country="HU" group-title="Hungary",Sport1 Ⓖ
+#EXTINF:-1 tvg-name="Sport1" tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport1.gif" tvg-id="Sport1.hu" tvg-chno="18" tvg-country="HU" group-title="Hungary",Sport1 Ⓖ
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
-#EXTINF:-1 tvg-name="Sport2" tvg-logo="" tvg-id="Sport2.hu" tvg-chno="7" tvg-country="HU" group-title="Hungary",Sport2 Ⓖ
+#EXTINF:-1 tvg-name="Sport2" tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport2.gif" tvg-id="Sport2.hu" tvg-chno="19" tvg-country="HU" group-title="Hungary",Sport2 Ⓖ
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
-#EXTINF:-1 tvg-name="FEM3 (TV2 Klub)" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" tvg-id="FEM3.hu" tvg-chno="8" tvg-country="HU" group-title="Hungary",FEM3 (TV2 Klub)
-http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Viasat 6" tvg-logo="https://i.imgur.com/kypSbFX.png" tvg-id="Viasat6.hu" tvg-chno="9" tvg-country="HU" group-title="Hungary",Viasat 6
-http://88.212.15.17/live/viasat6/index.m3u8
-#EXTINF:-1 tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" tvg-id="BonumTV.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",EWTN TV
-https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
-#EXTINF:-1 tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" tvg-id="ApostolTV.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Apostol TV
-https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-chno="1" tvg-country="HU" group-title="Hungary",Oxygen Music
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-chno="2" tvg-country="HU" group-title="Hungary",Dance TV
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-name="DikhTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Dikhtv.png" tvg-id="DikhTV.hu" tvg-chno="3" tvg-country="HU" group-title="Hungary",DikhTv Ⓨ
-https://www.youtube.com/c/DikhTvGipsyTv/live
-#EXTINF:-1 tvg-name="Kossuth Rádió" tvg-logo="" tvg-id="KossuthRadio.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",Kossuth Rádió
-https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8
-#EXTINF:-1 tvg-name="Petőfi Rádió" tvg-logo="" tvg-id="PetofiRadio.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Petőfi Rádió
-https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8
-#EXTINF:-1 tvg-name="Bartók Rádió" tvg-logo="" tvg-id="BartokRadio.hu" tvg-chno="3" tvg-country="HU" group-title="Hungary",Bartók Rádió
-https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8
-#EXTINF:-1 tvg-name="Dankó Rádió" tvg-logo="" tvg-id="DankoRadio.hu" tvg-chno="4" tvg-country="HU" group-title="Hungary",Dankó Rádió
-https://icast.connectmedia.hu/4747/mr7.aac
-#EXTINF:-1 tvg-name="Rádió1" tvg-logo="" tvg-chno="5" tvg-country="HU" group-title="Hungary",Rádió1
-https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8
-#EXTINF:-1 tvg-name="Retró Rádió" tvg-logo="" tvg-chno="6" tvg-country="HU" group-title="Hungary",Retró Rádió
-https://budapest-cache-1.antik.sk/live/retro/index.m3u8
-#EXTINF:-1 tvg-name="90.9 Jazzy FM" tvg-logo="" tvg-chno="7" tvg-country="HU" group-title="Hungary",90.9 Jazzy FM
-https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8
-#EXTINF:-1 tvg-name="Juventus Rádió" tvg-logo="" tvg-chno="8" tvg-country="HU" group-title="Hungary",Juventus Rádió
-https://budapest-cache-1.antik.sk/live/juventus/index.m3u8
-#EXTINF:-1 tvg-name="Hír FM" tvg-logo="" tvg-chno="9" tvg-country="HU" group-title="Hungary",Hír FM
-https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8
-#EXTINF:-1 tvg-name="Spirit FM" tvg-logo="" tvg-chno="10" tvg-country="HU" group-title="Hungary",Spirit FM
-https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8
-#EXTINF:-1 tvg-name="Sláger FM" tvg-logo="" tvg-chno="11" tvg-country="HU" group-title="Hungary",Sláger FM
-https://budapest-cache-1.antik.sk/live/slager/index.m3u8
-#EXTINF:-1 tvg-name="Film+" tvg-logo="" tvg-id="Film+.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",Film+
+#EXTINF:-1 tvg-name="Viasat3." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Viasat3_%281%29.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="Viasat3.hu" tvg-chno="20" tvg-country="HU" group-title="Hungary",Viasat3.
+http://141.94.193.53:80/VIASAT3_HD/index.m3u8
+#EXTINF:-1 tvg-name="Story4." tvg-logo="https://www.tvmustra.hu/logok/csatikon/story4.gif" tvg-id="Story4.hu" tvg-chno="21" tvg-country="HU" group-title="Hungary",Story4.
+http://141.94.193.53:80/Story4_HD/index.m3u8
+#EXTINF:-1 tvg-name="Minimax." tvg-logo="https://www.tvmustra.hu/logok/csatikon/minimax3d.gif" tvg-id="Minimax.hu" tvg-chno="22" tvg-country="HU" group-title="Hungary",Minimax.
+http://141.94.193.53:80/Minimax/index.m3u8
+#EXTINF:-1 tvg-name="RTL Kettő" tvg-logo="https://media.port.hu/images/001/707/100x100/203.jpg" tvg-chno="23" tvg-country="HU" group-title="Hungary",RTL Kettő
+http://88.212.7.14/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="FEM3 (TV2 Klub)" tvg-logo="https://i.imgur.com/AF4Sz8Z.png" tvg-id="FEM3.hu" tvg-chno="24" tvg-country="HU" group-title="Hungary",FEM3 (TV2 Klub)
+http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat 6" tvg-logo="https://i.imgur.com/kypSbFX.png" tvg-id="Viasat6.hu" tvg-chno="25" tvg-country="HU" group-title="Hungary",Viasat 6
+http://88.212.7.14/live/viasat6/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="ViasatExplore.hu" tvg-chno="26" tvg-country="HU" group-title="Hungary",Viasat Explore
+http://141.94.193.53:80/Viasat_Explore_HD/index.m3u8
+#EXTINF:-1 tvg-name="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="ViasatHistory.hu" tvg-chno="27" tvg-country="HU" group-title="Hungary",Viasat History
+http://141.94.193.53:80/Viasat_History_HD/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Viasat_Nature_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-chno="28" tvg-country="HU" group-title="Hungary",Viasat Nature
+http://141.94.193.53:80/Viasat_Nature_HD/index.m3u8
+#EXTINF:-1 tvg-name="EuroSport1" tvg-logo="https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png" tvg-id="Eurosport1.hu" tvg-chno="29" tvg-country="HU" group-title="Hungary",EuroSport1
+http://141.94.193.53:80/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 tvg-name="Max4." tvg-logo="https://www.tvmustra.hu/logok/csatikon/max4.gif" tvg-chno="30" tvg-country="HU" group-title="Hungary",Max4.
+http://141.94.193.53:80/MAX4_HD/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://www.tvmustra.hu/logok/csatikon/nghd.gif" tvg-chno="31" tvg-country="HU" group-title="Hungary",Nat Geo
+http://141.94.193.53:80/Nat_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-name="Film+" tvg-logo="https://www.tvmustra.hu/logok/csatikon/filmplussz.gif" tvg-id="Film+.hu" tvg-chno="30" tvg-country="HU" group-title="Hungary",Film+
 http://141.94.193.53:80/Film+_HD/index.m3u8
-#EXTINF:-1 tvg-name="Izaura TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" tvg-id="IzauraTV.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Izaura TV Ⓖ
+#EXTINF:-1 tvg-name="Izaura TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" tvg-id="IzauraTV.hu" tvg-chno="31" tvg-country="HU" group-title="Hungary",Izaura TV Ⓖ
 http://141.94.193.53:80/Izaura_TV_HD/index.m3u8
-#EXTINF:-1 tvg-name="Film4" tvg-logo="" tvg-id="Film4.hu" tvg-chno="3" tvg-country="HU" group-title="Hungary",Film4 Ⓖ
+#EXTINF:-1 tvg-name="Film4" tvg-logo="https://www.tvmustra.hu/logok/csatikon/film4.gif" tvg-id="Film4.hu" tvg-chno="32" tvg-country="HU" group-title="Hungary",Film4 Ⓖ
 http://141.94.193.53:80/Film4_HD/index.m3u8
-#EXTINF:-1 tvg-name="Mozi+" tvg-logo="" tvg-id="MoziPlus.hu" tvg-chno="4" tvg-country="HU" group-title="Hungary",Mozi+ Ⓖ
+#EXTINF:-1 tvg-name="Mozi+" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/mozi.png" tvg-id="MoziPlus.hu" tvg-chno="33" tvg-country="HU" group-title="Hungary",Mozi+ Ⓖ
 http://141.94.193.53:80/Mozi+_HD/index.m3u8
-#EXTINF:-1 tvg-name="AMC" tvg-logo="" tvg-id="AMC.hu" tvg-chno="5" tvg-country="HU" group-title="Hungary",AMC Ⓖ
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://www.tvmustra.hu/logok/csatikon/amc.gif" tvg-id="AMC.hu" tvg-chno="34" tvg-country="HU" group-title="Hungary",AMC Ⓖ
 http://141.94.193.53:80/AMC_HD/index.m3u8
-#EXTINF:-1 tvg-name="TV Paprika" tvg-logo="" tvg-id="TVPaprika.hu" tvg-chno="6" tvg-country="HU" group-title="Hungary",TV Paprika Ⓖ
+#EXTINF:-1 tvg-name="TV Paprika" tvg-logo="https://www.tvmustra.hu/logok/csatikon/tvpaprika.gif" tvg-id="TVPaprika.hu" tvg-chno="35" tvg-country="HU" group-title="Hungary",TV Paprika Ⓖ
 http://141.94.193.53:80/TV_Paprika_HD/index.m3u8
-#EXTINF:-1 tvg-name="Euronews Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="EuronewsHungarian.fr" tvg-chno="1" tvg-country="HU" group-title="Hungary",Euronews Hungarian
+#EXTINF:-1 tvg-name="RTL Három" tvg-logo="https://www.tvmustra.hu/logok/csatikon/rtl_harom.gif" tvg-id="RTL3.hu" tvg-chno="36" tvg-country="HU" group-title="Hungary",RTL Három
+http://88.212.7.14/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Sorozat+" tvg-logo="https://www.tvmustra.hu/logok/csatikon/sorozatplussz.gif" tvg-chno="37" tvg-country="HU" group-title="Hungary",Sorozat+
+http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" tvg-id="BonumTV.hu" tvg-chno="38" tvg-country="HU" group-title="Hungary",EWTN TV
+https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
+#EXTINF:-1 tvg-name="Apostol TV" tvg-logo="https://www.apostoltv.hu/images/header-logo.png" tvg-id="ApostolTV.hu" tvg-chno="39" tvg-country="HU" group-title="Hungary",Apostol TV
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-chno="40" tvg-country="HU" group-title="Hungary",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-name="Dance TV" tvg-logo="" tvg-chno="41" tvg-country="HU" group-title="Hungary",Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-name="DikhTv" tvg-logo="TV.h" tvg-chno="42" tvg-country="HU" group-title="Hungary",DikhTv Ⓨ
+http://88.212.7.14/live/dikh/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="EuronewsHungarian.fr" tvg-chno="43" tvg-country="HU" group-title="Hungary",Euronews Hungarian
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
-#EXTINF:-1 tvg-name="Parlamenti közvetítés" tvg-logo="" tvg-chno="2" tvg-country="HU" group-title="Hungary",Parlamenti közvetítés
+#EXTINF:-1 tvg-name="Parlamenti közvetítés" tvg-logo="" tvg-chno="44" tvg-country="HU" group-title="Hungary",Parlamenti közvetítés
 https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Parlamenti TAB közvetítés" tvg-logo="" tvg-chno="3" tvg-country="HU" group-title="Hungary",Parlamenti TAB közvetítés
+#EXTINF:-1 tvg-name="Parlamenti TAB közvetítés" tvg-logo="" tvg-chno="45" tvg-country="HU" group-title="Hungary",Parlamenti TAB közvetítés
 https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" tvg-id="BalatonTV.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",Balaton TV
+#EXTINF:-1 tvg-name="Balaton TV" tvg-logo="https://i.imgur.com/ip8L5Vt.jpg" tvg-id="BalatonTV.hu" tvg-chno="46" tvg-country="HU" group-title="Hungary",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
-#EXTINF:-1 tvg-name="Komlos TV" tvg-logo="https://i.imgur.com/MDYb5yz.png" tvg-id="KomlosTV.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Komlos TV
+#EXTINF:-1 tvg-name="Komlos TV" tvg-logo="https://i.imgur.com/MDYb5yz.png" tvg-id="KomlosTV.hu" tvg-chno="47" tvg-country="HU" group-title="Hungary",Komlos TV
 https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" tvg-id="OzdiVarosiTV.hu" tvg-chno="3" tvg-country="HU" group-title="Hungary",Ózdi Városi TV
+#EXTINF:-1 tvg-name="Ózdi Városi TV" tvg-logo="https://i.imgur.com/5cOpdRp.jpg" tvg-id="OzdiVarosiTV.hu" tvg-chno="48" tvg-country="HU" group-title="Hungary",Ózdi Városi TV
 http://stream.nmih.hu:7980/live.m3u8
-#EXTINF:-1 tvg-name="TV7 Békéscsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" tvg-chno="4" tvg-country="HU" group-title="Hungary",TV7 Békéscsaba
+#EXTINF:-1 tvg-name="TV7 Békéscsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" tvg-chno="49" tvg-country="HU" group-title="Hungary",TV7 Békéscsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
-#EXTINF:-1 tvg-name="16TV" tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" tvg-chno="5" tvg-country="HU" group-title="Hungary",16TV
+#EXTINF:-1 tvg-name="16TV" tvg-logo="https://i.imgur.com/7ZPYJJ0.jpg" tvg-chno="50" tvg-country="HU" group-title="Hungary",16TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="CityTV (Belváros Lipótváros)" tvg-logo="https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png" tvg-chno="6" tvg-country="HU" group-title="Hungary",CityTV (Belváros Lipótváros)
+#EXTINF:-1 tvg-name="CityTV (Belváros Lipótváros)" tvg-logo="https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png" tvg-chno="51" tvg-country="HU" group-title="Hungary",CityTV (Belváros Lipótváros)
 https://citytv.hu/playlist.m3u8
-#EXTINF:-1 tvg-name="FehérvárTV" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" tvg-chno="7" tvg-country="HU" group-title="Hungary",FehérvárTV
+#EXTINF:-1 tvg-name="FehérvárTV" tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" tvg-chno="52" tvg-country="HU" group-title="Hungary",FehérvárTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Gyöngyös TV" tvg-logo="https://i.imgur.com/RHgaPCk.png" tvg-id="GyongyosiTV.hu" tvg-chno="9" tvg-country="HU" group-title="Hungary",Gyöngyös TV
+#EXTINF:-1 tvg-name="Gyöngyös TV" tvg-logo="https://i.imgur.com/RHgaPCk.png" tvg-id="GyongyosiTV.hu" tvg-chno="54" tvg-country="HU" group-title="Hungary",Gyöngyös TV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Halom TV" tvg-logo="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" tvg-chno="10" tvg-country="HU" group-title="Hungary",Halom TV
+#EXTINF:-1 tvg-name="Halom TV" tvg-logo="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" tvg-chno="55" tvg-country="HU" group-title="Hungary",Halom TV
 rtmp://212.92.13.108/live/livestream1
-#EXTINF:-1 tvg-name="Kapos TV" tvg-logo="https://kapos.hu/static/keptar/13/b/9490.jpg" tvg-id="KaposTV.hu" tvg-chno="11" tvg-country="HU" group-title="Hungary",Kapos TV
+#EXTINF:-1 tvg-name="Kapos TV" tvg-logo="https://kapos.hu/static/keptar/13/b/9490.jpg" tvg-id="KaposTV.hu" tvg-chno="56" tvg-country="HU" group-title="Hungary",Kapos TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Kecskemét TV" tvg-logo="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" tvg-id="KecskemetiTV.hu" tvg-chno="12" tvg-country="HU" group-title="Hungary",Kecskemét TV
+#EXTINF:-1 tvg-name="Kecskemét TV" tvg-logo="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" tvg-id="KecskemetiTV.hu" tvg-chno="57" tvg-country="HU" group-title="Hungary",Kecskemét TV
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
-#EXTINF:-1 tvg-name="Zalaegerszeg TV" tvg-logo="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" tvg-id="ZalaegerszegiTV.hu" tvg-chno="14" tvg-country="HU" group-title="Hungary",Zalaegerszeg TV
+#EXTINF:-1 tvg-name="Zalaegerszeg TV" tvg-logo="https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png" tvg-id="ZalaegerszegiTV.hu" tvg-chno="59" tvg-country="HU" group-title="Hungary",Zalaegerszeg TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Vásárhelyi Televízió" tvg-logo="https://i.imgur.com/WOEqdmx.png" tvg-id="VasarhelyiTelevizio.hu" tvg-chno="18" tvg-country="HU" group-title="Hungary",Vásárhelyi Televízió
+#EXTINF:-1 tvg-name="Vásárhelyi Televízió" tvg-logo="https://i.imgur.com/WOEqdmx.png" tvg-id="VasarhelyiTelevizio.hu" tvg-chno="62" tvg-country="HU" group-title="Hungary",Vásárhelyi Televízió
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
-#EXTINF:-1 tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" tvg-id="TVEger.hu" tvg-chno="19" tvg-country="HU" group-title="Hungary",TV Eger
+#EXTINF:-1 tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" tvg-id="TVEger.hu" tvg-chno="63" tvg-country="HU" group-title="Hungary",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
-#EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-chno="20" tvg-country="HU" group-title="Hungary",Oroszlányi Városi Televízió
+#EXTINF:-1 tvg-name="Oroszlányi Városi Televízió" tvg-logo="https://i.imgur.com/P0fxUH5.png" tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-chno="64" tvg-country="HU" group-title="Hungary",Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Berente TV" tvg-logo="" tvg-chno="21" tvg-country="HU" group-title="Hungary",Berente TV
+#EXTINF:-1 tvg-name="Berente TV" tvg-logo="" tvg-chno="65" tvg-country="HU" group-title="Hungary",Berente TV
 https://stream.streaming4u.hu/BerenteTV/index.m3u8
-#EXTINF:-1 tvg-name="Budapest Európa TV" tvg-logo="" tvg-chno="22" tvg-country="HU" group-title="Hungary",Budapest Európa TV
+#EXTINF:-1 tvg-name="Budapest Európa TV" tvg-logo="" tvg-chno="66" tvg-country="HU" group-title="Hungary",Budapest Európa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Héviz TV" tvg-logo="" tvg-chno="23" tvg-country="HU" group-title="Hungary",Héviz TV
+#EXTINF:-1 tvg-name="Héviz TV" tvg-logo="" tvg-chno="67" tvg-country="HU" group-title="Hungary",Héviz TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Jászsági Térségi TV" tvg-logo="" tvg-chno="24" tvg-country="HU" group-title="Hungary",Jászsági Térségi TV
+#EXTINF:-1 tvg-name="Jászsági Térségi TV" tvg-logo="" tvg-chno="68" tvg-country="HU" group-title="Hungary",Jászsági Térségi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanizsa TV" tvg-logo="" tvg-chno="25" tvg-country="HU" group-title="Hungary",Kanizsa TV
+#EXTINF:-1 tvg-name="Kanizsa TV" tvg-logo="" tvg-chno="69" tvg-country="HU" group-title="Hungary",Kanizsa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Líceum TV" tvg-logo="" tvg-chno="26" tvg-country="HU" group-title="Hungary",Líceum TV
+#EXTINF:-1 tvg-name="Líceum TV" tvg-logo="" tvg-chno="70" tvg-country="HU" group-title="Hungary",Líceum TV
 http://193.225.32.62:8890/live.m3u8
-#EXTINF:-1 tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" tvg-chno="27" tvg-country="HU" group-title="Hungary",Pannon RTV
+#EXTINF:-1 tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" tvg-chno="71" tvg-country="HU" group-title="Hungary",Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
-#EXTINF:-1 tvg-name="Hegyvidék TV (Buda TV)" tvg-logo="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" tvg-chno="29" tvg-country="HU" group-title="Hungary",Hegyvidék TV (Buda TV)
+#EXTINF:-1 tvg-name="Hegyvidék TV (Buda TV)" tvg-logo="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" tvg-chno="73" tvg-country="HU" group-title="Hungary",Hegyvidék TV (Buda TV)
 http://budatv.streaming.aiproduction.hu/playlist.m3u
-#EXTINF:-1 tvg-name="ES TV (Esztergom)" tvg-logo="" tvg-id="EsztergomTV.hu" tvg-chno="30" tvg-country="HU" group-title="Hungary",ES TV (Esztergom)
+#EXTINF:-1 tvg-name="ES TV (Esztergom)" tvg-logo="" tvg-id="EsztergomTV.hu" tvg-chno="74" tvg-country="HU" group-title="Hungary",ES TV (Esztergom)
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Komáromi Televízió" tvg-logo="" tvg-id="KomaromiTelevizio.hu" tvg-chno="31" tvg-country="HU" group-title="Hungary",Komáromi Televízió
+#EXTINF:-1 tvg-name="Komáromi Televízió" tvg-logo="" tvg-id="KomaromiTelevizio.hu" tvg-chno="75" tvg-country="HU" group-title="Hungary",Komáromi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Kossuth Rádió" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/6/69/Mr1.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="KossuthRadio.hu" tvg-chno="101" tvg-country="HU" group-title="Hungary",Kossuth Rádió
+https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8
+#EXTINF:-1 tvg-name="Petőfi Rádió" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/0/0c/MR2-Pet%C5%91fi.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="PetofiRadio.hu" tvg-chno="102" tvg-country="HU" group-title="Hungary",Petőfi Rádió
+https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8
+#EXTINF:-1 tvg-name="Bartók Rádió" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/c/ce/MR3-BARTOK.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="BartokRadio.hu" tvg-chno="103" tvg-country="HU" group-title="Hungary",Bartók Rádió
+https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8
+#EXTINF:-1 tvg-name="Dankó Rádió" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/c/c4/Danko-radio-logo.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="DankoRadio.hu" tvg-chno="104" tvg-country="HU" group-title="Hungary",Dankó Rádió
+https://icast.connectmedia.hu/4747/mr7.aac
+#EXTINF:-1 tvg-name="Rádió1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Radio1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-chno="105" tvg-country="HU" group-title="Hungary",Rádió1
+https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8
+#EXTINF:-1 tvg-name="Retró Rádió" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Retroradio.svg/revision/latest?cb=20210520195847" tvg-chno="106" tvg-country="HU" group-title="Hungary",Retró Rádió
+https://budapest-cache-1.antik.sk/live/retro/index.m3u8
+#EXTINF:-1 tvg-name="90.9 Jazzy FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Jazzy.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-chno="107" tvg-country="HU" group-title="Hungary",90.9 Jazzy FM
+https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8
+#EXTINF:-1 tvg-name="Juventus Rádió" tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/juventus-radio/play_250_250.webp" tvg-chno="108" tvg-country="HU" group-title="Hungary",Juventus Rádió
+https://budapest-cache-1.antik.sk/live/juventus/index.m3u8
+#EXTINF:-1 tvg-name="Hír FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/HirFM_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-chno="109" tvg-country="HU" group-title="Hungary",Hír FM
+https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8
+#EXTINF:-1 tvg-name="Spirit FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Spiritfm876logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-chno="110" tvg-country="HU" group-title="Hungary",Spirit FM
+https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8
+#EXTINF:-1 tvg-name="Sláger FM" tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/slager-fm/play_250_250.webp" tvg-chno="111" tvg-country="HU" group-title="Hungary",Sláger FM
+https://budapest-cache-1.antik.sk/live/slager/index.m3u8
 #EXTINF:-1 tvg-name="Putnok Városi TV" tvg-logo="https://i.imgur.com/eKXPBFb.png" tvg-id="PVTV.hu" tvg-chno="9" tvg-country="HU" group-title="Hungary",Putnok Városi TV
 http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8
 #EXTINF:-1 tvg-name="RÚV" tvg-logo="https://i.imgur.com/vxaSn1K.png" tvg-id="RUV.is" tvg-chno="1" tvg-country="IS" group-title="Iceland",RÚV
