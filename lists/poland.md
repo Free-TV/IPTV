@@ -8,7 +8,7 @@
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 3 | TVP3 Warszawa | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TVP3Warszawa) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVP3_Warszawa_2016.svg/500px-TVP3_Warszawa_2016.svg.png"/> | TVP3Warszawa.pl |
 | 28 | Alfa TVP | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alfa_TVP_%282022%29.svg/500px-Alfa_TVP_%282022%29.svg.png"/> | AlfaTVP.pl |
-| 36 | Belsat | [>](https://iptv.prosto.tv/ch171/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/960px-Belsat_%282022%29.svg.png"/> | BelsatTV.pl |
+ 36  | Belsat | [>](https://iptv.prosto.tv/ch171/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/960px-Belsat_%282022%29.svg.png"/> | BelsatTV.pl |
 | 92 | TVP ABC 2 | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TVP_ABC_2_%282022%29.svg/500px-TVP_ABC_2_%282022%29.svg.png"/> | TVPABC2.pl |
 | 93 | TVP Historia 2 | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/500px-TVP_Historia_2_%282021%29.svg.png"/> | TVPHistoria2.pl |
 
