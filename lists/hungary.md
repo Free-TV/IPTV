@@ -28,8 +28,8 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
-| 13   | Cool           | [>](http://141.94.193.53:80/Cool_HD/index.m3u8) |  <img height="20" src="https://media.port.hu/images/001/591/100x100/760.jpg" | Cool.hu |
-| 14   | Spektrum Ⓖ     | [>](http://141.94.193.53:80/Spektrum_HD/index.m3u8) |  <img height="20" src="https://media.port.hu/images/001/591/100x100/776.jpg" | Spektrum.hu |
+| 13   | Cool           | [>](http://141.94.193.53:80/Cool_HD/index.m3u8) |  <img height="20" src="https://media.port.hu/images/001/591/100x100/760.jpg" /> | Cool.hu |
+| 14   | Spektrum Ⓖ     | [>](http://141.94.193.53:80/Spektrum_HD/index.m3u8) |  <img height="20" src="https://media.port.hu/images/001/591/100x100/776.jpg" /> | Spektrum.hu |
 | 15   | Spektrum Home Ⓖ | [>](http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" /> | SpektrumHome.hu |
 | 16   | Galaxy4 Ⓖ      | [>](http://141.94.193.53:80/Galaxy4_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/galaxy4.gif" /> | Galaxy4.hu |
 | 17   | DTV Ⓖ          | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/YSpqmSO.png" /> | DTV.hu |
