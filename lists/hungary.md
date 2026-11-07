@@ -47,6 +47,11 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 29   | EuroSport1      | [>](http://141.94.193.53:80/Eurosport_1_HD/index.m3u8) |    <img height="20" src="https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png" /> | Eurosport1.hu |
 | 30   | Max4.            | [>](http://141.94.193.53:80/MAX4_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/max4.gif" /> | Max4.hu
 | 31   | Nat Geo          | [>](http://141.94.193.53:80/Nat_Geo_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/nghd.gif" /> | NatGeo.hu
+| 32   | PRIME HD       | [>](http://141.94.193.53:80/PRIME_HD/index.m3u8) | | |
+| 33   | SuperTV2 HD    | [>](http://141.94.193.53:80/SuperTV2_HD/index.m3u8) | | |
+| 34   | Travel Channel HD | [>](http://141.94.193.53:80/Travel_Channel_HD/index.m3u8) | | |
+| 35   | Nick Jr        | [>](http://141.94.193.53:80/Nick_Jr/index.m3u8) | | |
+| 36   | Match 4 HD     | [>](http://141.94.193.53:80/Match4_HD/index.m3u8) | | |
 
 <h2>Series</h2>
 
@@ -60,6 +65,15 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 35   | TV Paprika Ⓖ   | [>](http://141.94.193.53:80/TV_Paprika_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/tvpaprika.gif" /> | TVPaprika.hu |
 | 36   | RTL Három       | [>](http://88.212.7.14/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8) |   <img height="20" src="https://www.tvmustra.hu/logok/csatikon/rtl_harom.gif" /> | RTL3.hu |
 | 37   | Sorozat+        | [>](http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/sorozatplussz.gif" /> | Sorozat+.hu
+| 38   | AXN HD         | [>](http://141.94.193.53:80/AXN_HD/index.m3u8) | | |
+| 39   | AXN Black      | [>](http://141.94.193.53:80/axn_black/index.m3u8) | | |
+| 40   | Moziverzum HD  | [>](http://141.94.193.53:80/Moziverzum_HD/index.m3u8) | | |
+| 41   | FilmBox        | [>](http://141.94.193.53:80/FilmBox/index.m3u8) | | |
+| 42   | Cinemax HD     | [>](http://141.94.193.53:80/Cinemax_HD/index.m3u8) | | |
+| 43   | Cinemax 2 HD   | [>](http://141.94.193.53:80/Cinemax_2_HD/index.m3u8) | | |
+| 44   | HBO HD         | [>](http://141.94.193.53:80/HBO_HD/index.m3u8) | | |
+| 45   | HBO 2 HD       | [>](http://141.94.193.53:80/HBO2_HD/index.m3u8) | | |
+| 46   | HBO 3 HD       | [>](http://141.94.193.53:80/HBO3_HD/index.m3u8) | | |
 
 <h2>Religion</h2>
 
