@@ -146,7 +146,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 207   | 90.9 Jazzy FM  | [>](https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8) |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Jazzy.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" /> | |
 | 208   | Juventus Rádió | [>](https://budapest-cache-1.antik.sk/live/juventus/index.m3u8) |  <img height="20" src="https://myonlineradio.hu/public/uploads/radio_img/juventus-radio/play_250_250.webp" /> | |
 | 209   | Hír FM         | [>](https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8) |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/HirFM_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" /> | |
-| 210  | Spirit FM      | [>](https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8) |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Spiritfm876logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" /> | |
+| 210  | Spirit FM      | [>](https://s01.diazol.hu:10052/spweb1.mp3) |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Spiritfm876logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" /> | |
 | 211  | Sláger FM      | [>](https://budapest-cache-1.antik.sk/live/slager/index.m3u8) |  <img height="20" src="https://myonlineradio.hu/public/uploads/radio_img/slager-fm/play_250_250.webp" /> | |
 
 <h2>Invalid</h2>
