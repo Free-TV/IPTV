@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 1   | M1 Ⓖ           | [>](http://141.94.193.53:80/M1_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/neddXUd.png" /> | M1.hu |
-| 2  | M2 / Petőfi TV Ⓖ | [>](http://141.94.193.53:80/M2_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
+| 2  | M2 / Petőfi TV Ⓖ | [>](http://193.33.39.108:9005/play/a021) | <img height="20" src="https://i.imgur.com/CzaDhmA.png" /> | M2.hu |
 | 3  | Duna TV Ⓖ      | [>](http://141.94.193.53:80/Duna_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/b4RXacY.png" /> | DunaTV.hu |
 | 4   | M4 Sport Ⓖ     | [>](http://141.94.193.53:80/M4_Sport_HD/index.m3u8) | <img height="20" src="https://nb1.hu/uploads/news/3/31023.jpg" /> | M4Sport.hu |
 | 5  | M5 Hungary Ⓖ   | [>](http://141.94.193.53:80/M5_HD/index.m3u8) | <img height="20" src="https://i.imgur.com/qLQz2V6.png" /> | M5.hu |
@@ -37,7 +37,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 19   | Sport2 Ⓖ       | [>](http://141.94.193.53:80/Sport_2_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/sport2.gif" /> | Sport2.hu |
 | 20  | Viasat3.        | [>](http://141.94.193.53:80/VIASAT3_HD/index.m3u8) |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Viasat3_%281%29.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" />| Viasat3.hu |
 | 21  | Story4.         | [>](http://141.94.193.53:80/Story4_HD/index.m3u8) | <img height="20" src="https://www.tvmustra.hu/logok/csatikon/story4.gif" /> | Story4.hu |
-| 22  | Minimax.        | [>](http://141.94.193.53:80/Minimax/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/minimax3d.gif" /> | Minimax.hu |
+| 22  | Minimax.        | [>](http://193.33.39.108:9002/play/a01y) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/minimax3d.gif" /> | Minimax.hu |
 | 23   | RTL Kettő       | [>](http://141.94.193.53:80/RTL_KETTO_HD/index.m3u8) |  <img height="20" src="https://media.port.hu/images/001/707/100x100/203.jpg" /> | RTL2.hu
 | 24   | FEM3 (TV2 Klub) | [>](http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/AF4Sz8Z.png" /> | FEM3.hu |
 | 25   | Viasat 6       | [>](http://141.94.193.53/VIASAT_6/index.m3u8) | <img height="20" src="https://i.imgur.com/kypSbFX.png" /> | Viasat6.hu |
@@ -79,7 +79,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id|
 |:---:|:--------------:|:-----:|:----:|:-----:|
 | 53   | EWTN TV        | [>](https://hls.iptvservice.eu/hls/ewtn-hd.m3u8) | <img height="20" src="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" /> | BonumTV.hu |
-| 54   | Apostol TV     | [>](https://live.apostoltv.hu/live/playlist.m3u8) | <img height="20" src="https://www.apostoltv.hu/images/header-logo.png" /> | ApostolTV.hu |
+| 54   | Apostol TV     | [x](https://live.apostoltv.hu/live/playlist.m3u8) | <img height="20" src="https://www.apostoltv.hu/images/header-logo.png" /> | ApostolTV.hu |
 
 <h2>Music</h2>
 
@@ -108,9 +108,9 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 65   | 16TV           | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> |
 | 66   | CityTV (Belváros Lipótváros) | [>](https://citytv.hu/playlist.m3u8) | <img height="20" src="https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png" /> |
 | 67   | FehérvárTV     | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8) | <img height="20" src="https://www.fehervartv.hu/css/img/icon-1-2.png" /> |
-| 68   | AlföldTV       | [x](https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8) | <img height="20" src="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" /> |
+| 68   | AlföldTV       | [>](https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8) | <img height="20" src="http://www.dealood.com/content/uploads/images/March2019/5c9721a07ea87-images-large.png" /> |
 | 69   | Gyöngyös TV    | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/RHgaPCk.png" /> | GyongyosiTV.hu |
-| 70  | Halom TV       | [>](rtmp://212.92.13.108/live/livestream1) | <img height="20" src="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" /> |
+| 70  | Halom TV       | [>](http://212.92.13.108:8080/live/livestream1.m3u8) | <img height="20" src="https://www.halomtv.hu/sites/all/themes/gfx_zen/logo.png" /> |
 | 71  | Kapos TV       | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8) | <img height="20" src="https://kapos.hu/static/keptar/13/b/9490.jpg" /> | KaposTV.hu |
 | 72  | Kecskemét TV   | [>](http://rtmp1.40e.hu:8000/live/ktv.m3u8) | <img height="20" src="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" /> | KecskemetiTV.hu |
 | 73  | Lóverseny közvetítés | [x](https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8) | <img height="20" src="https://kincsempark.hu/wp-content/uploads/2016/11/fejlec_logo_f-1.png" /> |
@@ -120,7 +120,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 77  | Vásárhelyi Televízió | [>](https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8) | <img height="20" src="https://i.imgur.com/WOEqdmx.png" /> | VasarhelyiTelevizio.hu |
 | 78  | TV Eger        | [>](http://stream.tveger.hu:8010/live.m3u8) | <img height="20" src="https://i.imgur.com/GUVW073.png" /> | TVEger.hu |
 | 79  | Oroszlányi Városi Televízió | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P0fxUH5.png" /> | OroszlanyiVarosiTelevizio.hu |
-| 80  | Berente TV    | [>](https://stream.streaming4u.hu/BerenteTV/index.m3u8) | | |
+| 80  | Berente TV    | [>](https://stream.streaming4u.hu:443/BerenteTV/index.m3u8) | | |
 | 81  | Budapest Európa TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8) | | |
 | 82  | Héviz TV      | [>](https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8) | | |
 | 83  | Jászsági Térségi TV | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8) | | |
