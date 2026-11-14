@@ -48,7 +48,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 30   | Max4.            | [>](http://141.94.193.53:80/MAX4_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/max4.gif" /> | Max4.hu
 | 31   | Nat Geo          | [>](http://141.94.193.53:80/Nat_Geo_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/nghd.gif" /> | NatGeo.hu
 | 32   | SUPER TV2        | [>](http://141.94.193.53/SuperTV2_HD/index.m3u8) | | SuperTV2.hu
-| 33   | Travel           | [>](http://141.94.193.53:80/Travel_Channel_HD/index.m3u8) | | Travel.hu
+| 33   | Travel           | [>](http://193.33.39.108:9018/play/a02a) | | Travel.hu
 | 34   | Disney Channel   | [>](http://193.33.39.108:9019/play/a00n) | | Disney.hu
 | 35   | Nickelodeon      | [>](http://193.33.39.108:9011/play/a017) | | Nickelodeon.hu 
 | 36   | TV2 Comedy       | [>](http://141.94.193.53/TV2_Comedy/index.m3u8) | | TV2Comedy.hu
