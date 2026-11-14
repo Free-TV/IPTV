@@ -48,7 +48,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 30   | Max4.            | [>](http://141.94.193.53:80/MAX4_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/max4.gif" /> | Max4.hu
 | 31   | Nat Geo          | [>](http://141.94.193.53:80/Nat_Geo_HD/index.m3u8) |  <img height="20" src="https://www.tvmustra.hu/logok/csatikon/nghd.gif" /> | NatGeo.hu
 | 32   | SUPER TV2        | [>](http://141.94.193.53/SuperTV2_HD/index.m3u8) | | SuperTV2.hu
-| 33   | Travel           | [>](http://141.94.193.53:80/Travel_Channel/index.m3u8) | | Travel.hu
+| 33   | Travel           | [>](http://141.94.193.53:80/Travel_Channel_HD/index.m3u8) | | Travel.hu
 | 34   | Disney Channel   | [>](http://193.33.39.108:9019/play/a00n) | | Disney.hu
 | 35   | Nickelodeon      | [>](http://193.33.39.108:9011/play/a017) | | Nickelodeon.hu 
 | 36   | TV2 Comedy       | [>](http://141.94.193.53/TV2_Comedy/index.m3u8) | | TV2Comedy.hu
@@ -120,13 +120,13 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 77  | Vásárhelyi Televízió | [>](https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8) | <img height="20" src="https://i.imgur.com/WOEqdmx.png" /> | VasarhelyiTelevizio.hu |
 | 78  | TV Eger        | [>](http://stream.tveger.hu:8010/live.m3u8) | <img height="20" src="https://i.imgur.com/GUVW073.png" /> | TVEger.hu |
 | 79  | Oroszlányi Városi Televízió | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P0fxUH5.png" /> | OroszlanyiVarosiTelevizio.hu |
-| 80  | Berente TV    | [>](https://stream.streaming4u.hu:443/BerenteTV/index.m3u8) | | |
+| 80  | Berente TV    [x](https://stream.streaming4u.hu:443/BerenteTV/index.m3u8) | | |
 | 81  | Budapest Európa TV | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8) | | |
 | 82  | Héviz TV      | [>](https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8) | | |
 | 83  | Jászsági Térségi TV | [>](https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8) | | |
 | 84  | Kanizsa TV    | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8) | | |
 | 85  | Líceum TV     | [>](http://193.225.32.62:8890/live.m3u8) | | |
-| 86  | Pannon RTV    | [>](https://stream2.nmih.hu:4102/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
+| 86  | Pannon RTV    | [x](https://stream2.nmih.hu:4102/live.m3u8) | <img height="20" src="https://i.imgur.com/iD5tCjX.png" /> |
 | 87  | Tisza TV      | [x](https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8) | <img height="20" src="https://www.tiszatv.hu/style/tiszatv_logo.png" /> |
 | 88  | Hegyvidék TV (Buda TV) | [>](http://budatv.streaming.aiproduction.hu/playlist.m3u) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" /> |
 | 89  | ES TV (Esztergom) | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8) | | EsztergomTV.hu |
