@@ -102,7 +102,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 61   | Balaton TV     | [>](https://stream.iptvservice.eu/hls/balatontv.m3u8) | <img height="20" src="https://i.imgur.com/ip8L5Vt.jpg" /> | BalatonTV.hu |
-| 62   | Komlos TV      | [>](https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MDYb5yz.png" /> | KomlosTV.hu |
+| 62   | Komlos TV      | [x](https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8) | <img height="20" src="https://i.imgur.com/MDYb5yz.png" /> | KomlosTV.hu |
 | 63   | Ózdi Városi TV | [>](http://stream.nmih.hu:7980/live.m3u8) | <img height="20" src="https://i.imgur.com/5cOpdRp.jpg" /> | OzdiVarosiTV.hu |
 | 64   | TV7 Békéscsaba | [>](https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8) | <img height="20" src="https://i.imgur.com/G9Ib5K3.png" /> |
 | 65   | 16TV           | [>](https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8) | <img height="20" src="https://i.imgur.com/7ZPYJJ0.jpg" /> |
@@ -131,7 +131,7 @@ https://en.wikipedia.org/wiki/List_of_television_stations_in_Hungary
 | 88  | Hegyvidék TV (Buda TV) | [>](http://budatv.streaming.aiproduction.hu/playlist.m3u) | <img height="20" src="https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png" /> |
 | 89  | ES TV (Esztergom) | [>](https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8) | | EsztergomTV.hu |
 | 90  | Komáromi Televízió | [>](https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8) | | KomaromiTelevizio.hu |
-| 91   | Putnok Városi TV | [>](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
+| 91   | Putnok Városi TV | [x](http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8) | <img height="20" src="https://i.imgur.com/eKXPBFb.png" /> | PVTV.hu |
 
 <h2>Radio</h2>
 
