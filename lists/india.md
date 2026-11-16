@@ -34,11 +34,14 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 25  | News18 Kannada | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/CQUGLoK.png" /> | News18.com |
 | 26  | News18 Telugu Ⓨ | [>](https://www.youtube.com/@News18Telugu/live) | <img height="20" src="https://i.imgur.com/NsieorM.jpeg" /> | News18.com |
 | 27  | News18 Marathi Ⓨ | [>](https://www.youtube.com/@News18Marathi/live) | <img height="20" src="https://i.imgur.com/orxCvCa.png" /> | News18.com |
-| 28  | WION Ⓨ | [>](https://www.youtube.com/@WION/live) | <img height="20" src="https://i.imgur.com/E8MCz6e.png" /> | wionews.com |
-| 29  | Mirror Now Ⓨ | [>](https://www.youtube.com/@mirrornow/live) | <img height="20" src="https://i.imgur.com/R4rxBNu.jpeg" /> | timesnownews.com |
-| 30  | ZEE News Ⓨ | [>](https://www.youtube.com/@ZEENews/live) | <img height="20" src="https://i.imgur.com/lmgtjqw.jpeg" /> | zeenews.india.com |
-| 31  | News24 Ⓨ | [>](https://www.youtube.com/@News24thinkfirst/live) | <img height="20" src="https://i.imgur.com/N5BbEek.jpeg" /> | news24online.com |
-| 32  | Good News Today Ⓨ | [>](https://www.youtube.com/@GoodNewsTodayOfficial/live) | <img height="20" src="https://i.imgur.com/vbSR4cA.png" /> | gnttv.com |
+| 28  | News18 Lokmat | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Lokmat_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/82/News18Lokmatlogos.jpg" /> | News18.com |
+| 29  | ABP Majha | [>](https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/500px-ABP_Majha_logo.svg.png" /> | [ABP Majha](https://marathi.abplive.com) |
+| 30  | ABP Ganga | [>](https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ABP_Ganga_logo.svg/500px-ABP_Ganga_logo.svg.png" /> | [ABP Ganga](https://www.abplive.com/tv/ganga) |
+| 31  | WION Ⓨ | [>](https://www.youtube.com/@WION/live) | <img height="20" src="https://i.imgur.com/E8MCz6e.png" /> | wionews.com |
+| 32  | Mirror Now Ⓨ | [>](https://www.youtube.com/@mirrornow/live) | <img height="20" src="https://i.imgur.com/R4rxBNu.jpeg" /> | timesnownews.com |
+| 33  | ZEE News Ⓨ | [>](https://www.youtube.com/@ZEENews/live) | <img height="20" src="https://i.imgur.com/lmgtjqw.jpeg" /> | zeenews.india.com |
+| 34  | News24 Ⓨ | [>](https://www.youtube.com/@News24thinkfirst/live) | <img height="20" src="https://i.imgur.com/N5BbEek.jpeg" /> | news24online.com |
+| 35  | Good News Today Ⓨ | [>](https://www.youtube.com/@GoodNewsTodayOfficial/live) | <img height="20" src="https://i.imgur.com/vbSR4cA.png" /> | gnttv.com |
 
 <h2>Invalid</h2>
 
