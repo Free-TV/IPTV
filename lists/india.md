@@ -39,6 +39,14 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 30  | ZEE News Ⓨ | [>](https://www.youtube.com/@ZEENews/live) | <img height="20" src="https://i.imgur.com/lmgtjqw.jpeg" /> | zeenews.india.com |
 | 31  | News24 Ⓨ | [>](https://www.youtube.com/@News24thinkfirst/live) | <img height="20" src="https://i.imgur.com/N5BbEek.jpeg" /> | news24online.com |
 | 32  | Good News Today Ⓨ | [>](https://www.youtube.com/@GoodNewsTodayOfficial/live) | <img height="20" src="https://i.imgur.com/vbSR4cA.png" /> | gnttv.com |
+| 33  | Dangal TV | [>](https://live-dangal.akamaized.net/liveabr/playlist.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" /> | DangalTV.in |
+| 34  | Dangal 2 | [>](https://live-dangal2.akamaized.net/liveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BEr1r7L.png" /> | Dangal2.in |
+| 35  | DD Sports | [>](https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8) | <img height="20" src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" /> | DDSports.in |
+| 36  | Aastha | [>](https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png" /> | Aastha.in |
+| 37  | B4U Movies | [>](https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BoJB8P0.png" /> | B4UMovies.in |
+| 38  | B4U Music | [>](https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png" /> | B4UMusic.in |
+| 39  | Goldmines Movies | [>](https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png" /> | GoldminesMovies.in |
+| 40  | BIG TV | [>](https://stream.ottlive.co.in/bigtv/index.m3u8) | <img height="20" src="https://jiotvimages.cdn.jio.com/dare_images/images/Big_TV.png" /> | BIGTV.in |
 
 <h2>Invalid</h2>
 
