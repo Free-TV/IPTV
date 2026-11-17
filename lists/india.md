@@ -30,15 +30,21 @@ https://en.wikipedia.org/wiki/List_of_4K_channels_in_India
 | 21  | Asianet News Telugu Ⓨ | [>](https://www.youtube.com/@AsianetNewsTelugu/live) | <img height="20" src="https://i.imgur.com/9wJvDMn.jpeg" /> | Telugu.AsianetNews.com |
 | 22  | News18 India Ⓨ | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/BR4BUAw.png" /> | News18.com |
 | 23  | CNN-News18 | [>](https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/K3M8MoK.png" /> | News18.com |
-| 24  | News18 UP Uttarakhand Ⓨ | [>](https://www.youtube.com/@News18UPUttarakhand/live) | <img height="20" src="https://i.imgur.com/nKwoe8n.png" /> | News18.com |
+| 24  | News18 UP Uttarakhand | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/nKwoe8n.png" /> | News18.com |
 | 25  | News18 Kannada | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://i.imgur.com/CQUGLoK.png" /> | News18.com |
 | 26  | News18 Telugu Ⓨ | [>](https://www.youtube.com/@News18Telugu/live) | <img height="20" src="https://i.imgur.com/NsieorM.jpeg" /> | News18.com |
 | 27  | News18 Marathi Ⓨ | [>](https://www.youtube.com/@News18Marathi/live) | <img height="20" src="https://i.imgur.com/orxCvCa.png" /> | News18.com |
-| 28  | WION Ⓨ | [>](https://www.youtube.com/@WION/live) | <img height="20" src="https://i.imgur.com/E8MCz6e.png" /> | wionews.com |
-| 29  | Mirror Now Ⓨ | [>](https://www.youtube.com/@mirrornow/live) | <img height="20" src="https://i.imgur.com/R4rxBNu.jpeg" /> | timesnownews.com |
-| 30  | ZEE News Ⓨ | [>](https://www.youtube.com/@ZEENews/live) | <img height="20" src="https://i.imgur.com/lmgtjqw.jpeg" /> | zeenews.india.com |
-| 31  | News24 Ⓨ | [>](https://www.youtube.com/@News24thinkfirst/live) | <img height="20" src="https://i.imgur.com/N5BbEek.jpeg" /> | news24online.com |
-| 32  | Good News Today Ⓨ | [>](https://www.youtube.com/@GoodNewsTodayOfficial/live) | <img height="20" src="https://i.imgur.com/vbSR4cA.png" /> | gnttv.com |
+| 28  | News18 Kerala            | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s143613_ld_h15_aa.png" /> | News18.com |
+| 29  | News18 Bihar Jharkhand   | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s143608_ld_h9_aa.png" /> | News18.com |
+| 30  | News18 Rajasthan         | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s143618_ld_h9_aa.png" /> | News18.com |
+| 31  | News18 Gujarati          | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Gujarati_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s143609_ld_h15_aa.png" /> | News18.com |
+| 32  | News18 Bangla            | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s143607_ld_h15_aa.png" /> | News18.com |
+| 33  | News18 Odia              | [>](https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8) | <img height="20" src="https://dtil.tmsimg.com/assets/s143616_ld_h15_aa.png" /> | News18.com |
+| 34  | WION Ⓨ | [>](https://www.youtube.com/@WION/live) | <img height="20" src="https://i.imgur.com/E8MCz6e.png" /> | wionews.com |
+| 35  | Mirror Now Ⓨ | [>](https://www.youtube.com/@mirrornow/live) | <img height="20" src="https://i.imgur.com/R4rxBNu.jpeg" /> | timesnownews.com |
+| 36  | ZEE News Ⓨ | [>](https://www.youtube.com/@ZEENews/live) | <img height="20" src="https://i.imgur.com/lmgtjqw.jpeg" /> | zeenews.india.com |
+| 37  | News24 Ⓨ | [>](https://www.youtube.com/@News24thinkfirst/live) | <img height="20" src="https://i.imgur.com/N5BbEek.jpeg" /> | news24online.com |
+| 38  | Good News Today Ⓨ | [>](https://www.youtube.com/@GoodNewsTodayOfficial/live) | <img height="20" src="https://i.imgur.com/vbSR4cA.png" /> | gnttv.com |
 
 <h2>Invalid</h2>
 
