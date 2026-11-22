@@ -5,7 +5,5 @@ https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
 https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
 #EXTINF:-1 tvg-name="TVCG 3" tvg-logo="https://i.imgur.com/XC7zVog.png" tvg-id="TVCG3.me" tvg-chno="3" tvg-country="ME" group-title="Montenegro",TVCG 3 Ⓖ
 https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
-##EXTINF:-1 tvg-name="TV Herceg Novi Ⓣ" tvg-logo="https://i.imgur.com/HCk1qzo.png" tvg-id="TVHercegNovi.me" tvg-chno="4" tvg-country="ME" group-title="Montenegro",TV Herceg Novi Ⓣ
-#https://www.twitch.tv/tvhercegnovi
 #EXTINF:-1 tvg-name="TVCG MNE" tvg-logo="https://i.imgur.com/pf8VEwf.png" tvg-id="TVCGMNE.me" tvg-chno="99" tvg-country="ME" group-title="Montenegro",TVCG MNE
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
