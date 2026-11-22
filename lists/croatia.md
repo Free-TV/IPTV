@@ -26,7 +26,7 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 | 31 | OTV | [x]() | <img height="20" src="https://i.imgur.com/67zVdu2.png"/> | OTV.hr |
 | 32 | Mreža TV | [x]() | <img height="20" src="https://i.imgur.com/IdvKUp9.png"/> | MrezaTV.hr |
 | 33 | Z1 | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png"/> | Z1.hr |
-| 36 | Kanal Ri | [x]() | <img height="20" src="https://kanal-ri.hr/wp-content/uploads/2022/09/kanalRi_logo_v1.png"/> | KanalRi.hr |
+| 36 | Kanal Ri | [>](https://live.kanalri-transfer.org/kanalri/main_stream.m3u8) | <img height="20" src="https://i.imgur.com/aSPMh0o.png"/> | KanalRi.hr |
 | 38 | TV Nova | [>](https://stream.agatin.hr:3727/live/tvnovalive.m3u8)   | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png"/> | TVNova.hr |
 | 47 | Diadora | [x]() | <img height="20" src="https://i.imgur.com/qZzsASl.png"/> | DiadoraTV.hr |
 | 51 | TV Jadran | [>](https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8)   | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png"/> | TVJadran.hr |
