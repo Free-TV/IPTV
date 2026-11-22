@@ -35,5 +35,5 @@ https://live.tv-m.net/hls/stream.m3u8
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 tvg-name="RTV ZE Ⓢ" tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-id="RTVZenica.ba" tvg-chno="4" tvg-country="BA" group-title="Bosnia and Herzegovina",RTV ZE Ⓢ
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 tvg-name="TV BPK Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg" tvg-id="RTVBPK.ba" tvg-chno="5" tvg-country="BA" group-title="Bosnia and Herzegovina",TV BPK Ⓢ
-http://94.250.2.6:7374/play/a02u/index.m3u8
+##EXTINF:-1 tvg-name="TV BPK Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg" tvg-id="RTVBPK.ba" tvg-chno="5" tvg-country="BA" group-title="Bosnia and Herzegovina",TV BPK Ⓢ
+#http://94.250.2.6:7374/play/a02u/index.m3u8

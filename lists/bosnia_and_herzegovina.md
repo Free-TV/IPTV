@@ -31,4 +31,4 @@ https://en.wikipedia.org/wiki/Television_in_Bosnia_and_Herzegovina#Public_fundin
 | 2   | RTV TK | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/1/1a/Logo_of_RTV_TK.png"/> | RTVTK.ba |
 | 3   | RTV USK | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.png"/> | RTVUSK.ba |
 | 4   | RTV ZE Ⓢ | [>](https://stream.rtvze.ba/live/123/123.m3u8) | <img height="20" src="https://i.imgur.com/TKUaflB.png"/> | RTVZenica.ba |
-| 5   | TV BPK Ⓢ | [>](http://94.250.2.6:7374/play/a02u/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg" /> | RTVBPK.ba |
+| 5   | TV BPK Ⓢ | [x](http://94.250.2.6:7374/play/a02u/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg" /> | RTVBPK.ba |

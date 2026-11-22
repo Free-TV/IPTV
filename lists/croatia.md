@@ -17,9 +17,9 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 | 11 | Sportska televizija Ⓖ | [>](https://stream.agatin.hr:3087/live/sptvlive.m3u8) | <img height="20" src="https://i.imgur.com/xdxjcVh.png"/> | SportskaTV.hr |
 | 12 | RTL Kockica | [>](https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BiSVmRa.png"/> | RTLKockica.hr |
 | 13 | CMC TV | [>](https://stream.cmctv.hr:49998/cmc/live.m3u8) | <img height="20" src="https://i.imgur.com/Fh2vawT.png"/> | CMCTV.hr |
-| 16 | Plava Vinkovačka | [>](https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8) | <img height="20" src="https://i.imgur.com/WJJNtQ3.jpg"/> | PlavaVinkovacka.hr |
+| 16 | Plava Vinkovačka | [>](https://edge2.livebroadcastsolutions.com/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/WJJNtQ3.jpg"/> | PlavaVinkovacka.hr |
 | 17 | Televizija Slavonije i Baranje (STV) | [>](http://89.201.163.244:8080/hls/hdmi.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG"/> | STV.hr |
-| 18 | Osječka televizija (OSTV) Ⓢ | [>](https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8) | <img height="20" src="https://i.imgur.com/o9JgEyG.png"/> | OSTV.hr |
+| 18 | Osječka televizija (OSTV) Ⓢ | [>](https://live.osjecka.com/live/index.m3u8) | <img height="20" src="https://i.imgur.com/o9JgEyG.png"/> | OSTV.hr |
 | 21 | SBTV | [>](https://live.leveex.hr/hls/live.m3u8) | <img height="20" src="https://i.imgur.com/MIampxZ.png"/> | SBTV.hr |
 | 22 | Plava TV | [x]() | <img height="20" src="https://i.imgur.com/kJjcNlG.jpg"/> | PlavaTV.hr |
 | 27 | VTV Televizija | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/VTV_televizija_Logo.svg/640px-VTV_televizija_Logo.svg.png"/> | VTV.hr |
@@ -32,11 +32,11 @@ List of free-to-air channels can be found from: https://oiv.hr/hr/usluge-i-platf
 | 51 | TV Jadran | [>](https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8)   | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png"/> | TVJadran.hr |
 | 52 | TV Dalmacija | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/b/ba/Televizija_dalmacija_logo.jpg"/> | TVDalmacija.hr |
 | 56 | Dubrovačka televizija (DUTV) | [x]() | <img height="20" src="https://dutv.hr/wp-content/uploads/2017/10/DUTV-logo-plavi-web-veci.png"/> | DUTV.hr |
-| 57 | Libertas TV | [>](https://stream.luci.xyz/hls/LTV.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png"/> | LibertasTV.hr |
+| 57 | Libertas TV | [>](https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8) | <img height="20" src="https://i.imgur.com/4R4fhbd.png"/> | LibertasTV.hr |
 | 61 | Laudato TV | [x]() | <img height="20" src="https://i.imgur.com/661SU4H.png"/> | LaudatoTV.hr |
-| 62 | Trend TV | [>](http://185.62.75.22:1935/trend/myStream/playlist.m3u8)   | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/2/22/TrendTV.jpg"/> | TrendTV.hr |
+| 62 | Trend TV | [x](http://185.62.75.22:1935/trend/myStream/playlist.m3u8)   | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/2/22/TrendTV.jpg"/> | TrendTV.hr |
 | 64 | TV Šibenik | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/8/80/Tv-sibenik-logo.png"/> | TVS.hr |
-| 98 | Televizija Zapad | [>](http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png"/> | TVZapad.hr |
+| 98 | Televizija Zapad | [x](http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png"/> | TVZapad.hr |
 | 0 | Al Jazeera Balkans | [x](https://live-hls-web-ajb.getaj.net/AJB/index.m3u8) | <img height="20" src="https://i.imgur.com/Z1FB6wl.png"/> | AlJazeeraBalkans.ba |
 
 <h2>DVB-S</h2>
