@@ -9,11 +9,11 @@ https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 http://176.61.157.250/NovaTV/index.m3u8
 #EXTINF:-1 tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" tvg-id="HRT3.hr" tvg-chno="5" tvg-country="HR" group-title="Croatia",HRT 3
 https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
-#EXTINF:-1 tvg-name="HRT 4 Ⓨ" tvg-logo="https://i.imgur.com/VcNrY0m.png" tvg-id="HRT4.hr" tvg-chno="6" tvg-country="HR" group-title="Croatia",HRT 4
+#EXTINF:-1 tvg-name="HRT 4" tvg-logo="https://i.imgur.com/VcNrY0m.png" tvg-id="HRT4.hr" tvg-chno="6" tvg-country="HR" group-title="Croatia",HRT 4 Ⓨ
 https://www.youtube.com/@HRT_vijesti/live
 #EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" tvg-id="RTL2Croatia.hr" tvg-chno="7" tvg-country="HR" group-title="Croatia",RTL 2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportska televizija Ⓖ" tvg-logo="https://i.imgur.com/xdxjcVh.png" tvg-id="SportskaTV.hr" tvg-chno="11" tvg-country="HR" group-title="Croatia",Sportska televizija Ⓖ
+#EXTINF:-1 tvg-name="Sportska televizija" tvg-logo="https://i.imgur.com/xdxjcVh.png" tvg-id="SportskaTV.hr" tvg-chno="11" tvg-country="HR" group-title="Croatia",Sportska televizija Ⓖ
 https://stream.agatin.hr:3087/live/sptvlive.m3u8
 #EXTINF:-1 tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" tvg-id="RTLKockica.hr" tvg-chno="12" tvg-country="HR" group-title="Croatia",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
@@ -23,7 +23,7 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8
 #EXTINF:-1 tvg-name="Televizija Slavonije i Baranje (STV)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG" tvg-id="STV.hr" tvg-chno="17" tvg-country="HR" group-title="Croatia",Televizija Slavonije i Baranje (STV)
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-name="Osječka televizija (OSTV) Ⓢ" tvg-logo="https://i.imgur.com/o9JgEyG.png" tvg-id="OSTV.hr" tvg-chno="18" tvg-country="HR" group-title="Croatia",Osječka televizija (OSTV) Ⓢ
+#EXTINF:-1 tvg-name="Osječka televizija (OSTV)" tvg-logo="https://i.imgur.com/o9JgEyG.png" tvg-id="OSTV.hr" tvg-chno="18" tvg-country="HR" group-title="Croatia",Osječka televizija (OSTV) Ⓢ
 https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
 #EXTINF:-1 tvg-name="SBTV" tvg-logo="https://i.imgur.com/MIampxZ.png" tvg-id="SBTV.hr" tvg-chno="21" tvg-country="HR" group-title="Croatia",SBTV
 https://live.leveex.hr/hls/live.m3u8
@@ -37,7 +37,5 @@ https://stream.luci.xyz/hls/LTV.m3u8
 http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" tvg-id="TVZapad.hr" tvg-chno="98" tvg-country="HR" group-title="Croatia",Televizija Zapad
 http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-##EXTINF:-1 tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-id="AlJazeeraBalkans.ba" tvg-chno="99" tvg-country="HR" group-title="Croatia",Al Jazeera Balkans
-#https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-name="N1 Hrvatska" tvg-logo="https://i.imgur.com/qcD1OOZ.png" tvg-id="N1.hr" tvg-chno="4" tvg-country="HR" group-title="Croatia",N1 Hrvatska
+#EXTINF:-1 tvg-name="N1 Hrvatska" tvg-logo="https://i.imgur.com/qcD1OOZ.png" tvg-id="N1.hr" tvg-chno="1" tvg-country="HR" group-title="Croatia",N1 Hrvatska
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
