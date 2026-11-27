@@ -29,6 +29,15 @@ rather than a stray media fragment sitting at a familiar-looking URL - one such
 fragment is what first prompted the --confirm-dead option below. Treat `dead` as
 "nothing here answered like a stream, twice, two different ways" rather than proof.
 
+For HLS, answering the manifest is not taken as `alive` on its own: the first media
+segment the playlist points at is fetched as well, so a master playlist is followed to
+a variant and a variant to the segment behind it. A CDN can serve a valid manifest and
+still refuse every segment - PR #1244 restored three Italian streams that way, which is
+what #1291 was opened about, and it used to read as a recovery. A refused or missing
+segment reports `blocked`/`dead`; a segment that could not be reached at all leaves the
+manifest verdict alone, since one connection is too little to outvote the probes. DASH
+and direct audio/video streams are not followed this way.
+
 With --confirm-dead, every channel that looks `dead` over HTTP gets a second,
 independent opinion from `ffprobe` (part of ffmpeg) before being reported as dead:
 ffprobe actually tries to decode audio/video from the URL, which catches streams a
@@ -64,6 +73,7 @@ Usage:
 """
 
 import argparse
+import gzip
 import http.client
 import json
 import os
@@ -74,7 +84,9 @@ import subprocess
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
+import zlib
 from collections import namedtuple
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
@@ -176,8 +188,43 @@ def classify_response(final_url, content_type, head):
     return OK if looks_like_a_playlist(head) else GONE
 
 
-def probe(url, timeout):
-    """Open `url` once and report what the server did."""
+PLAYLIST_READ_BYTES = 64 * 1024
+STREAM_READ_BYTES = 3000
+
+
+def read_head(response, content_type):
+    """Return the beginning of a response body as text, decompressed if needed.
+
+    urllib does not decode a `Content-Encoding` the server chose to apply on its
+    own, and some CDNs compress every playlist whether or not it was asked for
+    (RTP's does). Without this, a perfectly good playlist reads as binary, and a
+    stream that plays is reported as gone.
+
+    A playlist is read whole, because the entry this script follows is the last
+    one of a media playlist and a truncated body would cut that URL in half. Media
+    itself is only sampled - a hand off a live stream has no end to read to.
+    """
+    is_media = looks_like_a_raw_stream(content_type)
+    body = response.read(STREAM_READ_BYTES if is_media else PLAYLIST_READ_BYTES)
+    encoding = (response.headers.get("Content-Encoding") or "").strip().lower()
+    try:
+        if encoding == "gzip":
+            body = gzip.decompress(body)
+        elif encoding == "deflate":
+            body = zlib.decompress(body)
+    except (OSError, EOFError, zlib.error):
+        # a body that will not decompress is not a playlist we can read; keep the
+        # raw bytes so the caller's own check still decides
+        pass
+    return body.decode("utf-8", "ignore")
+
+
+def fetch(url, timeout):
+    """Open `url` once and return `(outcome, final_url, content_type, head)`.
+
+    `outcome` is OK only when the server answered at all; the other three fields
+    describe that answer and stay empty otherwise.
+    """
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     # a stream whose certificate does not verify is still a working stream
     context = ssl.create_default_context()
@@ -185,21 +232,98 @@ def probe(url, timeout):
     context.verify_mode = ssl.CERT_NONE
     try:
         with urllib.request.urlopen(request, timeout=timeout, context=context) as response:
-            final_url = response.geturl()
             content_type = response.headers.get("Content-Type", "")
-            head = response.read(3000).decode("utf-8", "ignore")
+            return OK, response.geturl(), content_type, read_head(response, content_type)
     except urllib.error.HTTPError as error:
-        if error.code in GONE_CODES:
-            return GONE
         if error.code in REFUSING_CODES:
-            return REFUSED
-        return UNREACHABLE
+            return REFUSED, "", "", ""
+        if error.code in GONE_CODES:
+            return GONE, "", "", ""
+        return UNREACHABLE, "", "", ""
     except (urllib.error.URLError, OSError, ValueError, http.client.HTTPException):
         # http.client.HTTPException covers a server that started a chunked
         # response and then hung up mid-chunk (IncompleteRead) and similar
         # low-level protocol violations - a broken connection, not a bad URL
-        return UNREACHABLE
+        return UNREACHABLE, "", "", ""
+
+
+def outcome_of(response):
+    """Turn a `fetch` result into an outcome: OK, REFUSED, GONE, or UNREACHABLE."""
+    outcome, final_url, content_type, head = response
+    if outcome != OK:
+        return outcome
     return classify_response(final_url, content_type, head)
+
+
+def playlist_entry(head, base_url):
+    """Return the absolute URI of the entry worth following in a playlist body.
+
+    A master playlist points at variant playlists and a media playlist at media
+    segments; both put one bare URI per line, so a single reader covers both. A
+    master playlist has no preference - any variant is the same stream - while a
+    media playlist's newest segment is the last one listed, and is also the one
+    least likely to have just rolled out of the live window.
+    """
+    entries = [
+        urllib.parse.urljoin(base_url, line.strip())
+        for line in head.splitlines()
+        if line.strip() and not line.startswith("#")
+    ]
+    if not entries:
+        return None
+    return entries[0] if "#EXT-X-STREAM-INF" in head else entries[-1]
+
+
+def segment_outcome(response, timeout):
+    """Follow an HLS stream from `response` down to one media segment.
+
+    Returns the outcome of fetching that segment, so a CDN that serves a valid
+    manifest while refusing every segment is visible instead of looking alive.
+    Returns None when there is nothing to follow - no answer, not HLS, not a
+    playlist, or a playlist that lists no entry right now - so the verdict from
+    the manifest probes stands. The response the probes already received is reused
+    as the first manifest, so this costs no request the probes did not make.
+
+    A master playlist lists variants and a media playlist lists segments, so at
+    most two hops are needed; a third would mean the stream points at playlists
+    that point at playlists, which is not something to keep chasing.
+    """
+    outcome, final_url, content_type, head = response
+    if outcome != OK or looks_like_a_raw_stream(content_type):
+        return None
+    for _ in range(2):
+        if not head.lstrip().startswith("#EXTM3U"):
+            return None
+        entry = playlist_entry(head, final_url)
+        if entry is None:
+            return None
+        points_at_variant = "#EXT-X-STREAM-INF" in head
+        outcome, final_url, content_type, head = fetch(entry, timeout)
+        # an entry that was the media itself and answered is the proof wanted here
+        if outcome != OK or not points_at_variant:
+            return outcome
+        if not head.lstrip().startswith("#EXTM3U"):
+            return GONE
+    return None
+
+
+def segment_state(state, response, timeout):
+    """Lower `state` when the media segment behind the manifest does not answer.
+
+    Only a refusal or a missing segment acts here: a segment that could not be
+    reached at all is one connection against the manifest's several, so it is not
+    allowed to overrule them. Everything else leaves `state` untouched.
+
+    Returns `(state, outcome)`; `outcome` is None when nothing was followed.
+    """
+    if state not in (ALIVE, FLAKY) or response is None:
+        return state, None
+    outcome = segment_outcome(response, timeout)
+    if outcome == REFUSED:
+        return BLOCKED, outcome
+    if outcome == GONE:
+        return DEAD, outcome
+    return state, outcome
 
 
 def ffprobe_finds_a_stream(url):
@@ -245,21 +369,27 @@ def classify(outcomes):
 def check(channel, settings):
     """Probe one channel `settings.attempts` times and return its state.
 
-    If the channel looks dead and `settings.confirm_dead` is set, give it one more
-    chance through ffprobe before reporting it as dead - see the module docstring
-    for why this can only pull a verdict out of `dead`, never push one into it.
+    A channel that answered every attempt still has the media segment behind its
+    manifest fetched once, so a manifest served while the segments are refused is
+    not reported as a recovery. If the channel looks dead and `settings.confirm_dead`
+    is set, give it one more chance through ffprobe before reporting it as dead - see
+    the module docstring for why this can only pull a verdict out of `dead`, never
+    push one into it.
     """
     name, url, marker = channel
     outcomes = []
+    response = None
     for attempt in range(settings.attempts):
-        outcomes.append(probe(url, settings.timeout))
+        response = fetch(url, settings.timeout)
+        outcomes.append(outcome_of(response))
         if attempt + 1 < settings.attempts:
             time.sleep(settings.pause)
     state = classify(outcomes)
+    state, segment = segment_state(state, response, settings.timeout)
     if state == DEAD and settings.confirm_dead:
         if ffprobe_finds_a_stream(url):
             state = DISPUTED
-    return name, url, marker, state, outcomes
+    return name, url, marker, state, outcomes, segment
 
 
 def check_all(names, markers, settings):
@@ -301,14 +431,16 @@ def report(name, results, attempts):
     gets printed even though `report` otherwise skips `alive` as uninteresting.
     """
     states = {}
-    for _, _, _, state, _ in results:
+    for _, _, _, state, _, _ in results:
         states[state] = states.get(state, 0) + 1
     summary = ", ".join(f"{states[s]} {s}" for s in sorted(states))
     print(f"{name}: {len(results)} checked, {summary}")
     dead = 0
     recovered = 0
-    for channel, url, marker, state, outcomes in results:
+    for channel, url, marker, state, outcomes, segment in results:
         detail = "/".join(outcomes) if state != FLAKY else f"{outcomes.count(OK)}/{attempts} ok"
+        if segment is not None:
+            detail = f"{detail}, segment {segment}"
         if marker == "x":
             if state in (ALIVE, FLAKY):
                 recovered += 1
@@ -326,7 +458,9 @@ def as_records(list_name, results, checked_at, confirm_dead):
 
     `confirm_dead` is recorded on every row so a later reader can tell a `dead`
     verdict that already survived an ffprobe second opinion from one that has not
-    been asked yet - the two are not the same strength of evidence.
+    been asked yet - the two are not the same strength of evidence. `segment` is the
+    outcome of the media segment that was fetched after the manifest answered, or
+    None when there was nothing to follow.
     """
     return [
         {
@@ -337,9 +471,10 @@ def as_records(list_name, results, checked_at, confirm_dead):
             "marker": marker,
             "state": state,
             "outcomes": outcomes,
+            "segment": segment,
             "confirm_dead": confirm_dead,
         }
-        for channel, url, marker, state, outcomes in results
+        for channel, url, marker, state, outcomes, segment in results
     ]
 
 
